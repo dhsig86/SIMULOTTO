@@ -78,6 +78,16 @@ const feedbackContainer = document.getElementById('feedback-container');
 const feedbackTextEl = document.getElementById('feedback-text');
 const finalScoreEl = document.getElementById('final-score');
 const scoreMessageEl = document.getElementById('score-message');
+const questionCountSelect = document.getElementById('question-count');
+const estimatedTimeEl = document.getElementById('estimated-time');
+
+function updateEstimatedTime() {
+    const count = parseInt(questionCountSelect.value, 10) || 0;
+    estimatedTimeEl.innerText = `${count * 2} minutos`;
+}
+
+questionCountSelect.addEventListener('change', updateEstimatedTime);
+updateEstimatedTime();
 
 let currentQuestions = [];
 let currentQuestionIndex = 0;
