@@ -1,3 +1,4 @@
+
 const questionBank = [
     // OTOLOGIA
     { banca: 'FUNDATEC', question: 'Estão entre as causas de Paralisia Facial Periférica, EXCETO:', options: ['Infecção pelo vírus Herpes Zoster (Síndrome de Ramsay Hunt)', 'Doença de Lyme', 'Schwannoma Vestibular', 'Esclerose Múltipla', 'Otite Média Aguda'], answer: 'Esclerose Múltipla', explanation: 'A Esclerose Múltipla é uma causa clássica de paralisia facial de origem CENTRAL. As outras opções são causas conhecidas de paralisia facial periférica.' },
