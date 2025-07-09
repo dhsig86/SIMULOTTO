@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Quiz Application for GitHub Pages -->
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -90,12 +91,14 @@
     </div>
 
     <script>
+
         let questionBank = [];
 
         async function loadQuestions() {
             const response = await fetch('data/questions.json');
             return response.json();
         }
+
 
         const startScreen = document.getElementById('start-screen');
         const quizScreen = document.getElementById('quiz-screen');
@@ -120,6 +123,7 @@
         let currentQuestionIndex = 0;
         let score = 0;
 
+
         async function startQuiz() {
             if (questionBank.length === 0) {
                 questionBank = await loadQuestions();
@@ -132,6 +136,7 @@
             quizScreen.classList.remove('hidden');
             quizScreen.style.opacity = 1;
             showQuestion();
+
         }
 
         function showQuestion() {
