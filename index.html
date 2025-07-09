@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Quiz Application for GitHub Pages -->
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -8,32 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #f0f4f8;
-        }
-        .quiz-container {
-            transition: opacity 0.5s ease-in-out;
-        }
-        .option-btn {
-            transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
-        }
-        .option-btn:hover:not(:disabled) {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-        }
-        .correct {
-            background-color: #d1fae5 !important;
-            border-color: #10b981 !important;
-            color: #065f46;
-        }
-        .incorrect {
-            background-color: #fee2e2 !important;
-            border-color: #ef4444 !important;
-            color: #991b1b;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body class="text-gray-800 flex items-center justify-center min-h-screen p-4">
 
@@ -42,7 +18,9 @@
         <!-- Start Screen -->
         <div id="start-screen" class="bg-white rounded-xl shadow-lg p-8 md:p-12 text-center">
             <h1 class="text-3xl md:text-4xl font-bold text-[#004AAD] mb-4">Simulado Extensivo de Otorrinolaringologia</h1>
-            <p class="text-lg text-gray-600 mb-2">Prepare-se com <strong id="question-count" class="text-[#0094D1]">49 questões</strong> e <strong class="text-[#0094D1]">5 alternativas</strong> cada.</p>
+
+            <p class="text-lg text-gray-600 mb-2">Prepare-se com <strong class="text-[#0094D1]">49 questões</strong> e <strong class="text-[#0094D1]">5 alternativas</strong> cada.</p>
+
             <p class="text-md text-gray-500 mb-8">Estilo: FUNDATEC, VUNESP e IBFC.</p>
             <button id="start-btn" class="bg-[#004AAD] hover:bg-[#003B8A] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
                 Iniciar Simulado
@@ -89,31 +67,9 @@
 
     </div>
 
-    <script>
-        const questionBank = [
-            // OTOLOGIA
-            { banca: 'FUNDATEC', question: 'Estão entre as causas de Paralisia Facial Periférica, EXCETO:', options: ['Infecção pelo vírus Herpes Zoster (Síndrome de Ramsay Hunt)', 'Doença de Lyme', 'Schwannoma Vestibular', 'Esclerose Múltipla', 'Otite Média Aguda'], answer: 'Esclerose Múltipla', explanation: 'A Esclerose Múltipla é uma causa clássica de paralisia facial de origem CENTRAL. As outras opções são causas conhecidas de paralisia facial periférica.' },
-            { banca: 'VUNESP', question: 'Paciente de 4 anos é trazido à emergência com febre alta, otalgia intensa à direita e abaulamento da membrana timpânica. Qual a conduta mais apropriada?', options: ['Observação e analgesia por 48-72h', 'Amoxicilina em dose alta', 'Miringotomia de urgência', 'Ciprofloxacino otológico', 'Corticoterapia sistêmica'], answer: 'Amoxicilina em dose alta', explanation: 'O quadro é típico de Otite Média Aguda (OMA). Em crianças menores de 2 anos ou com quadro severo (otalgia intensa/febre alta), a antibioticoterapia sistêmica com amoxicilina é a primeira linha.' },
-            { banca: 'IBFC', question: 'Paciente diabético, idoso, apresenta otalgia intensa, otorreia purulenta e paralisia facial. A otoscopia revela tecido de granulação no meato acústico externo. Qual o diagnóstico mais provável?', options: ['Otite Média Crônica Colesteatomatosa', 'Otite Externa Necrotizante', 'Carcinoma de Células Escamosas do CAE', 'Otite Média Aguda com mastoidite', 'Pólipo inflamatório'], answer: 'Otite Externa Necrotizante', explanation: 'A tríade de paciente diabético/imunocomprometido, otalgia severa e granulação no canal auditivo externo é patognomônica da Otite Externa Necrotizante (ou maligna).' },
-            { banca: 'VUNESP', question: 'Qual o tratamento de primeira linha para a Vertigem Posicional Paroxística Benigna (VPPB) do canal semicircular posterior?', options: ['Manobra de Epley', 'Manobra de Semont', 'Medicamentos labirinto-supressores', 'Reabilitação vestibular', 'Manobra de Barbecue'], answer: 'Manobra de Epley', explanation: 'A Manobra de Epley é o tratamento de escolha para a VPPB do canal posterior, que é a forma mais comum, visando o reposicionamento dos otólitos. A manobra de Barbecue é para o canal horizontal.' },
-            { banca: 'VUNESP', question: 'Paciente refere perda auditiva súbita no ouvido direito há 24 horas, acompanhada de zumbido. A audiometria confirma perda neurossensorial de grau severo. Qual a conduta terapêutica inicial padrão?', options: ['Observação e reavaliação em 7 dias', 'Antibioticoterapia de amplo espectro', 'Corticoterapia sistêmica em altas doses', 'Cirurgia exploratória da orelha média', 'Uso de vasodilatadores'], answer: 'Corticoterapia sistêmica em altas doses', explanation: 'A surdez súbita idiopática é uma emergência otorrinolaringológica. O tratamento padrão-ouro é o início imediato de corticoides sistêmicos (ex: prednisona) em altas doses.' },
-            { banca: 'FUNDATEC', question: 'A tríade clássica da Doença de Ménière é composta por:', options: ['Vertigem, perda auditiva flutuante e plenitude aural', 'Vertigem, zumbido e otalgia', 'Perda auditiva, zumbido e otorreia', 'Plenitude aural, cefaleia e vertigem', 'Zumbido pulsátil, vertigem e perda auditiva condutiva'], answer: 'Vertigem, perda auditiva flutuante e plenitude aural', explanation: 'A tríade clássica da Doença de Ménière consiste em episódios de vertigem rotatória, perda auditiva neurossensorial flutuante (geralmente em baixas frequências) e sensação de pressão ou plenitude no ouvido afetado. O zumbido também é comum.' },
-            { banca: 'IBFC', question: 'Sobre a otosclerose, é INCORRETO afirmar:', options: ['É uma osteodistrofia da cápsula ótica.', 'Causa primariamente uma perda auditiva condutiva progressiva.', 'O sinal de Schwartze (mancha avermelhada na otoscopia) é um achado comum.', 'O tratamento pode ser feito com estapedotomia ou uso de aparelhos auditivos.', 'Afeta mais comumente homens na quinta década de vida.'], answer: 'Afeta mais comumente homens na quinta década de vida.', explanation: 'A otosclerose é mais prevalente em mulheres, geralmente se manifestando entre a segunda e a quarta décadas de vida. O sinal de Schwartze, embora patognomônico, é raro.' },
-            { banca: 'FUNDATEC', question: 'Na otite média crônica colesteatomatosa, o principal objetivo do tratamento cirúrgico é:', options: ['Melhorar a audição do paciente.', 'Erradicar a doença e criar uma orelha seca e segura.', 'Fechar a perfuração timpânica.', 'Reduzir o zumbido.', 'Prevenir a extrusão do tubo de ventilação.'], answer: 'Erradicar a doença e criar uma orelha seca e segura.', explanation: 'O objetivo primário da cirurgia para colesteatoma é a remoção completa da doença para prevenir complicações graves (como meningite, abscesso cerebral). A melhora da audição é um objetivo secundário.' },
-            { banca: 'VUNESP', question: 'Qual o agente etiológico mais comum da otite externa difusa aguda ("ouvido de nadador")?', options: ['Staphylococcus aureus', 'Streptococcus pneumoniae', 'Pseudomonas aeruginosa', 'Moraxella catarrhalis', 'Aspergillus niger'], answer: 'Pseudomonas aeruginosa', explanation: 'Pseudomonas aeruginosa é o patógeno mais frequentemente isolado em casos de otite externa difusa, seguido pelo Staphylococcus aureus.' },
-            { banca: 'IBFC', question: 'Um audiograma com gap aéreo-ósseo significativo, especialmente em 2000 Hz (entalhe de Carhart), é sugestivo de qual patologia?', options: ['Surdez súbita', 'Presbiacusia', 'Doença de Ménière', 'Otosclerose', 'Schwannoma vestibular'], answer: 'Otosclerose', explanation: 'O entalhe de Carhart, uma queda na condução óssea em 2000 Hz, é um achado audiométrico clássico associado à fixação da platina do estribo na otosclerose.' },
 
-            // RINOLOGIA
-            { banca: 'FUNDATEC', question: 'Criança de 3 anos apresenta rinorreia unilateral, fétida e purulenta há uma semana, sem outros sintomas. Qual a principal hipótese diagnóstica?', options: ['Rinossinusite bacteriana aguda', 'Corpo estranho nasal', 'Rinite alérgica', 'Adenoidite', 'Pólipo antrocoanal'], answer: 'Corpo estranho nasal', explanation: 'Rinorreia unilateral e fétida em uma criança é considerada corpo estranho nasal até que se prove o contrário. É um quadro clássico e muito cobrado.' },
-            { banca: 'FUNDATEC', question: 'No manejo da epistaxe anterior, qual estrutura anatômica é mais comumente a fonte do sangramento?', options: ['Artéria etmoidal posterior', 'Plexo de Kiesselbach', 'Artéria esfenopalatina', 'Artéria etmoidal anterior', 'Plexo de Woodruff'], answer: 'Plexo de Kiesselbach', explanation: 'O Plexo de Kiesselbach, localizado na porção anteroinferior do septo nasal, é responsável por mais de 90% das epistaxes, especialmente as anteriores.' },
-            { banca: 'VUNESP', question: 'Qual dos seguintes é um critério maior para o diagnóstico de Rinossinusite Bacteriana Aguda em adultos?', options: ['Tosse', 'Cefaleia', 'Halitose', 'Obstrução nasal', 'Otalgia'], answer: 'Obstrução nasal', explanation: 'Os critérios maiores incluem dor/pressão facial, obstrução/congestão nasal, secreção nasal purulenta (anterior/posterior) e hiposmia/anosmia. Cefaleia e tosse são critérios menores.' },
-            { banca: 'IBFC', question: 'A tríade de Samter (ou Doença Respiratória Exacerbada por Aspirina - DREA) é caracterizada por:', options: ['Asma, polipose nasal e intolerância a AINEs', 'Rinite, conjuntivite e asma', 'Sinusite, otite e bronquite', 'Pólipos, anosmia e cefaleia', 'Dermatite, asma e rinite'], answer: 'Asma, polipose nasal e intolerância a AINEs', explanation: 'A tríade de Samter é uma condição clínica específica definida pela presença de asma, polipose nasossinusal e reações de hipersensibilidade a anti-inflamatórios não esteroides (AINEs).' },
-            { banca: 'FUNDATEC', question: 'O tratamento de primeira linha para a rinite alérgica persistente moderada a grave é:', options: ['Anti-histamínico oral de primeira geração', 'Descongestionante tópico', 'Corticosteroide intranasal', 'Antagonista de leucotrienos', 'Cromoglicato de sódio'], answer: 'Corticosteroide intranasal', explanation: 'Os corticosteroides intranasais são os medicamentos mais eficazes para o controle dos sintomas da rinite alérgica moderada a grave, atuando em todos os sintomas (espirros, rinorreia, prurido e congestão).' },
-            { banca: 'VUNESP', question: 'Paciente com rinossinusite fúngica invasiva aguda geralmente apresenta qual condição de base?', options: ['Asma brônquica', 'Hipertensão arterial', 'Diabetes mellitus descompensado ou imunossupressão', 'Desvio de septo', 'Rinite medicamentosa'], answer: 'Diabetes mellitus descompensado ou imunossunpressão', explanation: 'A rinossinusite fúngica invasiva aguda é uma emergência médica que ocorre quase exclusivamente em pacientes imunocomprometidos, como diabéticos em cetoacidose ou pacientes neutropênicos.' },
-            { banca: 'IBFC', question: 'Qual estrutura anatômica é o principal ponto de drenagem dos seios frontal, maxilar e etmoidal anterior?', options: ['Hiato semilunar', 'Recesso esfenoetmoidal', 'Meato nasal inferior', 'Bula etmoidal', 'Agger nasi'], answer: 'Hiato semilunar', explanation: 'O hiato semilunar, localizado no meato médio, é a via de drenagem final para os seios maxilar, frontal e etmoidal anterior, formando o complexo ostiomeatal.' },
-            { banca: 'FUNDATEC', question: 'A cirurgia endoscópica funcional dos seios paranasais (FESS) tem como princípio fundamental:', options: ['A remoção completa de toda a mucosa dos seios paranasais.', 'A criação de grandes aberturas de drenagem artificial.', 'A restauração da ventilação e drenagem fisiológica dos seios.', 'O uso de antibióticos de longa duração no pós-operatório.', 'A correção exclusiva do desvio de septo.'], answer: 'A restauração da ventilação e drenagem fisiológica dos seios.', explanation: 'O conceito da FESS é remover obstruções nos óstios de drenagem naturais dos seios, restaurando a via mucociliar fisiológica, em vez de criar aberturas não anatômicas.' },
-            { banca: 'VUNESP', question: 'O que caracteriza a rinite gustativa?', options: ['Coriza aquosa após ingestão de alimentos, especialmente os picantes.', 'Obstrução nasal ao sentir o cheiro de certos alimentos.', 'Espirros em salvas ao entrar em restaurantes.', 'Prurido nasal causado por alergia alimentar.', 'Rinorreia induzida pelo consumo de álcool.'], answer: 'Coriza aquosa após ingestão de alimentos, especialmente os picantes.', explanation: 'A rinite gustativa é uma rinite não alérgica caracterizada por rinorreia aquosa proeminente desencadeada pela ingestão de alimentos, tipicamente quentes ou condimentados.' },
-            { banca: 'IBFC', question: 'Qual o tratamento para um hematoma septal não tratado?', options: ['Drenagem e tamponamento nasal', 'Antibioticoterapia isolada', 'Observação, pois a resolução é espontânea', 'Uso de vasoconstritores tópicos', 'Cauterização química'], answer: 'Drenagem e tamponamento nasal', explanation: 'Um hematoma septal deve ser drenado com urgência para evitar complicações como abscesso septal e necrose da cartilagem, que pode levar a uma deformidade em sela. A drenagem é seguida de tamponamento para evitar a recorrência.' },
+    <script src="script.js"></script>
+
 
             // LARINGOLOGIA E BUCOFARINGE
             { banca: 'IBFC', question: 'Professora de 35 anos, não fumante, refere rouquidão que piora ao final do dia, sem outros sintomas. A videolaringoscopia revela lesões nodulares, bilaterais e simétricas no terço médio das pregas vocais. Qual a conduta inicial mais adequada?', options: ['Exérese cirúrgica das lesões', 'Repouso vocal absoluto por 30 dias', 'Terapia fonoaudiológica', 'Injeção de toxina botulínica', 'Uso de anti-inflamatórios'], answer: 'Terapia fonoaudiológica', explanation: 'O quadro é típico de nódulos vocais ("calos"), causados por abuso ou mau uso vocal. O tratamento de primeira linha é sempre a fonoterapia para reeducação vocal.' },
@@ -280,5 +236,6 @@
         restartBtn.addEventListener('click', startQuiz);
 
     </script>
+
 </body>
 </html>
