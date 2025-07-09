@@ -19,26 +19,30 @@
         <div id="start-screen" class="bg-white rounded-xl shadow-lg p-8 md:p-12 text-center">
             <h1 class="text-3xl md:text-4xl font-bold text-[#004AAD] mb-4">Simulado Extensivo de Otorrinolaringologia</h1>
 
-            <p class="text-lg text-gray-600 mb-2">Prepare-se com <strong class="text-[#0094D1]">49 questões</strong> e <strong class="text-[#0094D1]">5 alternativas</strong> cada.</p>
+            <p class="text-lg text-gray-600 mb-2">Prepare-se com <strong class="text-[#0094D1]">147 questões</strong> e <strong class="text-[#0094D1]">5 alternativas</strong> cada.</p>
 
 
             <p class="text-md text-gray-500 mb-4">Estilo: FUNDATEC, VUNESP e IBFC.</p>
-            <form id="config-form" class="text-left mb-6">
-                <label class="block mb-2">Quantidade de questões:
-                    <select id="num-questions" class="border rounded p-1 ml-2">
-                        <option value="5">5</option>
+            <form id="config-form" class="text-left mb-6 space-y-4">
+                <label class="flex flex-col sm:flex-row items-center gap-2">
+                    <span>Quantidade de questões:</span>
+                    <select id="num-questions" class="border rounded p-1">
                         <option value="10" selected>10</option>
                         <option value="20">20</option>
-                        <option value="49">49</option>
+                        <option value="30">30</option>
+                        <option value="40">40</option>
+                        <option value="50">50</option>
                     </select>
                 </label>
                 <fieldset class="mb-2">
                     <legend class="font-semibold mb-1">Áreas</legend>
-                    <label class="mr-3"><input type="checkbox" name="areas" value="Otologia" checked class="mr-1">Otologia</label>
-                    <label class="mr-3"><input type="checkbox" name="areas" value="Rinologia" checked class="mr-1">Rinologia</label>
-                    <label class="mr-3"><input type="checkbox" name="areas" value="Laringologia e Bucofaringe" checked class="mr-1">Laringologia e Bucofaringe</label>
-                    <label class="mr-3"><input type="checkbox" name="areas" value="Urgências e Miscelânea" checked class="mr-1">Urgências e Miscelânea</label>
-                    <label class="mr-3"><input type="checkbox" name="areas" value="Legislação do SUS" checked class="mr-1">Legislação do SUS</label>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                        <label class="flex items-center"><input type="checkbox" name="areas" value="Otologia" checked class="mr-1">Otologia</label>
+                        <label class="flex items-center"><input type="checkbox" name="areas" value="Rinologia" checked class="mr-1">Rinologia</label>
+                        <label class="flex items-center"><input type="checkbox" name="areas" value="Laringologia e Bucofaringe" checked class="mr-1">Laringologia e Bucofaringe</label>
+                        <label class="flex items-center"><input type="checkbox" name="areas" value="Urgências e Miscelânea" checked class="mr-1">Urgências e Miscelânea</label>
+                        <label class="flex items-center"><input type="checkbox" name="areas" value="Legislação do SUS" checked class="mr-1">Legislação do SUS</label>
+                    </div>
                 </fieldset>
             </form>
 
@@ -83,6 +87,9 @@
             <p id="score-message" class="text-lg text-gray-600 mb-8"></p>
             <button id="restart-btn" class="bg-[#004AAD] hover:bg-[#003B8A] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
                 Refazer Simulado
+            </button>
+            <button id="print-btn" class="mt-4 bg-[#0094D1] hover:bg-[#007EAF] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
+                Imprimir Resultado
             </button>
         </div>
 

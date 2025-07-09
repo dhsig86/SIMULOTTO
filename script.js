@@ -13,6 +13,7 @@ const resultsScreen = document.getElementById('results-screen');
 const startBtn = document.getElementById('start-btn');
 const nextBtn = document.getElementById('next-btn');
 const restartBtn = document.getElementById('restart-btn');
+const printBtn = document.getElementById('print-btn');
 
 const progressBar = document.getElementById('progress-bar');
 const questionCounterEl = document.getElementById('question-counter');
@@ -169,4 +170,7 @@ nextBtn.addEventListener('click', () => {
     showQuestion();
 });
 restartBtn.addEventListener('click', startQuiz);
+if (printBtn) {
+    printBtn.addEventListener('click', () => window.print());
+}
 
