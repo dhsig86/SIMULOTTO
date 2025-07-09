@@ -1369,5 +1369,691 @@
     ],
     "answer": "Alongamento do processo estiloide ou calcificação do ligamento estilo-hioideo.",
     "explanation": "A Síndrome de Eagle é um conjunto de sintomas (dor cervical, odinofagia, sensação de corpo estranho) causados pela compressão de estruturas neurovasculares por um processo estiloide alongado (> 2.5-3.0 cm) ou pela calcificação do ligamento estilo-hioideo.",
-    "area": "Urgências e Miscelânea"
-  }]
+    "area": "Urgências e Miscelânea"  },
+  {
+    "banca": "VUNESP",
+    "question": "Na tomografia computadorizada de seios paranasais, o achado de uma lesão expansiva com conteúdo homogêneo e hipodenso, que remodela as paredes ósseas adjacentes e apresenta um fino halo de realce periférico ao contraste, é mais característico de:",
+    "options": [
+      "Papiloma invertido",
+      "Carcinoma espinocelular",
+      "Mucocele",
+      "Pólipo antrocoanal",
+      "Displasia fibrosa"
+    ],
+    "answer": "Mucocele",
+    "explanation": "A mucocele é uma lesão expansiva benigna que ocorre pela obstrução do óstio de drenagem de um seio paranasal. Radiologicamente, ela se expande lentamente, remodelando e afinando o osso adjacente, sem destruí-lo agressivamente, e o realce periférico corresponde à mucosa inflamada.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O 'sinal do duplo halo' na tomografia computadorizada de seios paranasais, caracterizado por uma área central de atenuação fúngica cercada por um halo de atenuação de tecidos moles, é sugestivo de:",
+    "options": [
+      "Rinossinusite bacteriana aguda",
+      "Rinossinusite fúngica alérgica",
+      "Bola fúngica (micetoma)",
+      "Rinossinusite fúngica invasiva",
+      "Granulomatose com poliangiite"
+    ],
+    "answer": "Rinossinusite fúngica alérgica",
+    "explanation": "Na rinossinusite fúngica alérgica, a TC tipicamente mostra opacificação dos seios com áreas centrais de hiperatenuação (concreções fúngicas, cálcio, metais pesados), cercadas por uma mucosa hipoatenuante, configurando o 'sinal do duplo halo'.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O sinal de Hitselberger refere-se à hipoestesia ou anestesia de qual área, sendo um indicador precoce de compressão nervosa por um schwannoma vestibular?",
+    "options": [
+      "Parede posterior do meato acústico externo",
+      "Ponta da língua",
+      "Região malar",
+      "Palato mole",
+      "Terço posterior da língua"
+    ],
+    "answer": "Parede posterior do meato acústico externo",
+    "explanation": "O sinal de Hitselberger é a perda de sensibilidade na parede posterosuperior do meato acústico externo, área inervada pelo ramo auricular do nervo facial (nervo de Ramsay-Hunt). Sua compressão por um schwannoma vestibular em crescimento pode ser um sinal precoce.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual o nome do sinal otoscópico caracterizado por uma mancha avermelhada visível através da membrana timpânica, correspondente a um foco vascularizado de otosclerose ativa na promontório coclear?",
+    "options": [
+      "Sinal de Hennebert",
+      "Sinal de Lyre",
+      "Sinal de Battle",
+      "Sinal de Schwartze",
+      "Sinal de Griesinger"
+    ],
+    "answer": "Sinal de Schwartze",
+    "explanation": "O sinal de Schwartze, também conhecido como 'sinal do flamingo rosado', é a visualização de um foco otosclerótico hipervascularizado no promontório. É um sinal de atividade da doença, embora não seja encontrado em todos os pacientes.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Na laringite aguda viral (crupe), a radiografia cervical em incidência anteroposterior pode revelar um estreitamento da traqueia subglótica, conhecido como:",
+    "options": [
+      "Sinal do polegar",
+      "Sinal da torre ou ponta de lápis",
+      "Sinal do crescente aéreo",
+      "Sinal da folha caída",
+      "Sinal do duplo contorno"
+    ],
+    "answer": "Sinal da torre ou ponta de lápis",
+    "explanation": "O edema inflamatório na região subglótica causa um afunilamento simétrico da coluna de ar, que na radiografia AP se assemelha a uma torre de igreja ou à ponta de um lápis. O 'sinal do polegar' é visto na incidência lateral na epiglotite.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Em um paciente com fratura de órbita do tipo 'blow-out', o aprisionamento do músculo reto inferior pode ser evidenciado na tomografia computadorizada pelo:",
+    "options": [
+      "Sinal do halo",
+      "Sinal da gota suspensa ('teardrop sign')",
+      "Sinal do alvo",
+      "Sinal do menisco",
+      "Sinal do duplo contorno"
+    ],
+    "answer": "Sinal da gota suspensa ('teardrop sign')",
+    "explanation": "O 'sinal da gota suspensa' descreve a herniação de gordura orbitária e do músculo reto inferior através da fratura no assoalho da órbita, aparecendo na imagem coronal como uma massa de tecidos moles pendendo para dentro do seio maxilar.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O 'sinal do cone de sorvete' ('ice cream cone sign') na ressonância magnética de ossos temporais é característico de qual lesão?",
+    "options": [
+      "Colesteatoma congênito",
+      "Schwannoma vestibular intracanalicular e com pequena porção no ângulo pontocerebelar",
+      "Meningioma do ângulo pontocerebelar",
+      "Granuloma de colesterol do ápice petroso",
+      "Aneurisma da artéria cerebelar anteroinferior"
+    ],
+    "answer": "Schwannoma vestibular intracanalicular e com pequena porção no ângulo pontocerebelar",
+    "explanation": "Este sinal descreve a aparência de um schwannoma do nervo vestibular que preenche o meato acústico interno (o 'cone') e se projeta para o ângulo pontocerebelar (a 'bola de sorvete'), sendo um achado clássico na RM com contraste.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O sinal de Griesinger, caracterizado por edema e dor sobre a região da mastoide devido à trombose da veia emissária mastoidea, é uma complicação clássica de:",
+    "options": [
+      "Otite externa maligna",
+      "Fratura de osso temporal",
+      "Síndrome de Ramsay Hunt",
+      "Tromboflebite do seio sigmoide",
+      "Petrosite"
+    ],
+    "answer": "Tromboflebite do seio sigmoide",
+    "explanation": "A trombose do seio sigmoide, uma complicação de otites médias e mastoidites, pode obstruir o fluxo da veia emissária mastoidea, causando estase venosa, edema e dor na região retroauricular (sinal de Griesinger).",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A presença de nistagmo que muda de direção com a mudança da posição da cabeça (ex: nistagmo geotrópico que se torna apogeotrópico) durante a avaliação otoneurológica é um forte indicador de:",
+    "options": [
+      "Lesão de tronco cerebral",
+      "Migrânea vestibular",
+      "Conversão de canalitíase para cupulolitíase na VPPB",
+      "Intoxicação por álcool",
+      "Doença de Ménière"
+    ],
+    "answer": "Conversão de canalitíase para cupulolitíase na VPPB",
+    "explanation": "Essa mudança de padrão do nistagmo posicional, especialmente no canal lateral, sugere que os otólitos que estavam livres no canal (canalitíase) se aderiram à cúpula (cupulolitíase) durante as manobras, alterando a dinâmica do estímulo.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Na avaliação da paralisia facial, o fenômeno de Bell (rotação superior do globo ocular ao tentar fechar o olho) indica a integridade de qual nervo e músculo?",
+    "options": [
+      "Nervo Oculomotor (III) e músculo reto superior",
+      "Nervo Troclear (IV) e músculo oblíquo superior",
+      "Nervo Abducente (VI) e músculo reto lateral",
+      "Nervo Facial (VII) e músculo levantador da pálpebra",
+      "Nervo Trigêmeo (V) e músculo masseter"
+    ],
+    "answer": "Nervo Oculomotor (III) e músculo reto superior",
+    "explanation": "O fenômeno de Bell é um reflexo protetor normal. A incapacidade de fechar o olho (paralisia do orbicular, inervado pelo VII nervo) revela o movimento sinérgico de elevação do globo ocular, que é mediado pelo músculo reto superior, inervado pelo III nervo (Oculomotor).",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O sinal de Aquin-Froment, observado na paralisia do nervo laríngeo superior, consiste em:",
+    "options": [
+      "Desvio da úvula para o lado são.",
+      "Incapacidade de projetar a língua.",
+      "Rotação da laringe para o lado paralisado durante a fonação.",
+      "Queda do palato mole do lado afetado.",
+      "Atrofia do músculo esternocleidomastoideo."
+    ],
+    "answer": "Rotação da laringe para o lado paralisado durante a fonação.",
+    "explanation": "A paralisia do nervo laríngeo superior afeta o músculo cricotireóideo, responsável por tensionar a prega vocal. Na fonação, a ação do músculo contralateral não é contrabalanceada, causando uma rotação da laringe (commissura posterior se desvia para o lado paralisado).",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Em um paciente com abscesso periamigdaliano, a voz é frequentemente descrita como abafada, como se o paciente estivesse falando com uma 'batata quente na boca'. Qual o epônimo para este sinal clínico?",
+    "options": [
+      "Voz de Pato Donald",
+      "Voz anserina",
+      "Voz de batata quente ('hot potato voice')",
+      "Voz bitonal",
+      "Voz cochichada"
+    ],
+    "answer": "Voz de batata quente ('hot potato voice')",
+    "explanation": "A 'hot potato voice' é a qualidade de voz ressonante e abafada causada pelo abaulamento do palato mole e pela diminuição do espaço na orofaringe, característico do abscesso periamigdaliano, que impede a articulação normal.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O sinal da 'formiga de açúcar' ('sugar-coated pill') na laringoscopia, caracterizado por secreção espessa e esbranquiçada cobrindo as aritenoides e a região interaritenoidea, é altamente sugestivo de:",
+    "options": [
+      "Laringite viral aguda",
+      "Candidíase laríngea",
+      "Refluxo laringofaríngeo",
+      "Tuberculose laríngea",
+      "Paralisia de prega vocal"
+    ],
+    "answer": "Refluxo laringofaríngeo",
+    "explanation": "A secreção espessa e aderida na região posterior da laringe é um sinal de 'clearing' laríngeo ineficaz e inflamação crônica da mucosa, achados fortemente associados ao refluxo laringofaríngeo.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A aparência de 'vidro fosco' ('ground glass') em uma lesão óssea expansiva dos seios paranasais na tomografia computadorizada é o achado de imagem clássico para:",
+    "options": [
+      "Osteoma",
+      "Displasia fibrosa",
+      "Hemangioma intraósseo",
+      "Metástase óssea",
+      "Cisto ósseo aneurismático"
+    ],
+    "answer": "Displasia fibrosa",
+    "explanation": "A displasia fibrosa é uma condição benigna onde o osso normal é substituído por tecido fibroso imaturo. Na TC, isso se traduz em uma aparência de 'vidro fosco', uma matriz óssea desorganizada e menos densa que o osso cortical normal.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O sinal de Trotter, que consiste em hipoacusia condutiva unilateral, nevralgia do trigêmeo e assimetria do palato mole, compõe a tríade clássica para tumores localizados em qual região?",
+    "options": [
+      "Seio maxilar",
+      "Glândula parótida",
+      "Cavum ou rinofaringe",
+      "Seio piriforme",
+      "Base da língua"
+    ],
+    "answer": "Cavum ou rinofaringe",
+    "explanation": "A tríade de Trotter é causada pela invasão de um tumor na rinofaringe (ex: carcinoma nasofaríngeo) que obstrui a tuba auditiva (causando otite serosa e hipoacusia condutiva), invade o forame oval (afetando o nervo trigêmeo) e infiltra os músculos do palato.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O 'sinal do delta vazio' na angiorressonância ou angiotomografia cerebral, que mostra um defeito de enchimento triangular no seio sagital superior, é diagnóstico de:",
+    "options": [
+      "Malformação arteriovenosa",
+      "Trombose venosa cerebral",
+      "Aneurisma cerebral",
+      "Meningioma parassagital",
+      "Fístula arteriovenosa dural"
+    ],
+    "answer": "Trombose venosa cerebral",
+    "explanation": "Este sinal é um achado clássico de trombose do seio sagital superior. O 'delta' é formado pelo realce do contraste na dura-máter ao redor do seio, enquanto o centro (o trombo) permanece sem enchimento ('vazio').",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O sinal de Vernet, ou síndrome do forame jugular, é caracterizado pela paralisia de quais nervos cranianos?",
+    "options": [
+      "V, VI, VII",
+      "III, IV, VI",
+      "VII, VIII",
+      "IX, X, XI",
+      "X, XI, XII"
+    ],
+    "answer": "IX, X, XI",
+    "explanation": "O forame jugular é a passagem para os nervos Glossofaríngeo (IX), Vago (X) e Acessório (XI). Uma lesão nesta região (ex: tumor glômico, schwannoma) causa a paralisia combinada desses três nervos, resultando na síndrome de Vernet.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A presença de 'blue drum' (tímpano azulado) na otoscopia é mais frequentemente associada a qual condição?",
+    "options": [
+      "Otite média aguda inicial",
+      "Hemotímpano pós-traumático",
+      "Granuloma de colesterol ou otite média secretora crônica",
+      "Glomus timpânico",
+      "Membrana timpânica atrófica"
+    ],
+    "answer": "Granuloma de colesterol ou otite média secretora crônica",
+    "explanation": "O 'tímpano azul' é causado pela presença de líquido seroso ou mucoide espesso e acastanhado na orelha média, que por transparência confere uma coloração azulada à membrana timpânica. É um sinal clássico de otite média secretora de longa data ou granuloma de colesterol.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O sinal de Lyre (ou sinal da lira), visto na arteriografia, é o afastamento da artéria carótida interna e externa e é patognomônico de:",
+    "options": [
+      "Linfonodo metastático cervical",
+      "Cisto branquial",
+      "Schwannoma do vago",
+      "Paraganglioma carotídeo (tumor do corpo carotídeo)",
+      "Aneurisma da artéria carótida"
+    ],
+    "answer": "Paraganglioma carotídeo (tumor do corpo carotídeo)",
+    "explanation": "O paraganglioma carotídeo é um tumor altamente vascularizado que surge na bifurcação da artéria carótida comum. Ao crescer, ele 'abre' e afasta as artérias carótidas interna e externa, criando uma imagem angiográfica que se assemelha a uma lira.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual sinal clínico é caracterizado pela incapacidade de enrugar a testa do lado afetado, sendo um diferenciador chave entre paralisia facial central e periférica?",
+    "options": [
+      "Sinal de Bell",
+      "Sinal de Babinski",
+      "Sinal de Negro",
+      "Sinal da contração frontal",
+      "Sinal de Souques"
+    ],
+    "answer": "Sinal da contração frontal",
+    "explanation": "Na paralisia facial periférica (lesão do nervo facial), todos os músculos da hemiface ipsilateral são afetados, incluindo o frontal (incapacidade de enrugar a testa). Na paralisia central (lesão no cérebro), a inervação da testa é bilateral, então a função do músculo frontal é poupada.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O achado de 'calcificações em pipoca' ('popcorn calcifications') na tomografia de uma lesão em seios paranasais ou cavidade nasal é sugestivo de:",
+    "options": [
+      "Osteoma",
+      "Condrossarcoma",
+      "Hemangioma cavernoso",
+      "Bola fúngica",
+      "Rinólito"
+    ],
+    "answer": "Hemangioma cavernoso",
+    "explanation": "Hemangiomas cavernosos são tumores vasculares que podem conter flebólitos (calcificações dentro de vasos trombosados). Na TC, esses flebólitos podem aparecer como múltiplas calcificações pequenas e arredondadas, com a aparência de 'pipoca'.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O 'sinal do alvo' ('target sign') na ressonância magnética de uma lesão de partes moles no pescoço, com centro hipointenso e periferia hiperintensa em T2, é característico de:",
+    "options": [
+      "Lipoma",
+      "Schwannoma (neurilemoma)",
+      "Hemangioma",
+      "Linfonodo reacional",
+      "Cisto tireoglosso"
+    ],
+    "answer": "Schwannoma (neurilemoma)",
+    "explanation": "O 'sinal do alvo' em tumores de bainha de nervo periférico, como o schwannoma, representa um centro fibroso (hipointenso em T2) e uma periferia mixoide e mais celular (hiperintensa em T2), sendo um forte indicador diagnóstico.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A presença de nistagmo vertical para baixo (downbeat nystagmus) na avaliação otoneurológica é um sinal de alerta para lesão em qual estrutura?",
+    "options": [
+      "Labirinto posterior",
+      "Nervo vestibular",
+      "Junção crânio-cervical ou cerebelo",
+      "Ponte",
+      "Mesencéfalo"
+    ],
+    "answer": "Junção crânio-cervical ou cerebelo",
+    "explanation": "O nistagmo vertical puro (para cima ou para baixo) é quase sempre um sinal de disfunção do sistema nervoso central, não do labirinto. O nistagmo para baixo está classicamente associado a lesões na junção craniocervical (ex: malformação de Chiari) ou no flóculo cerebelar.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O sinal de Collet-Sicard é definido pela paralisia dos quatro últimos nervos cranianos (IX, X, XI, XII). Qual o nome da região anatômica cuja lesão causa esta síndrome?",
+    "options": [
+      "Forame jugular",
+      "Espaço retrofaríngeo",
+      "Ápice petroso",
+      "Espaço parafaríngeo posterior (retroestiloide)",
+      "Seio cavernoso"
+    ],
+    "answer": "Espaço parafaríngeo posterior (retroestiloide)",
+    "explanation": "O espaço retroestiloide contém a artéria carótida interna, a veia jugular interna e os nervos cranianos IX, X, XI e XII. Uma lesão expansiva ou infiltrativa nesta localização (ex: tumor, dissecção) pode comprimir todos esses nervos, causando a síndrome de Collet-Sicard.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O 'entalhe de Carhart' é um achado audiométrico específico da otosclerose, caracterizado por:",
+    "options": [
+      "Uma queda na condução aérea em 4000 Hz.",
+      "Uma melhora paradoxal da condução óssea em 1000 Hz.",
+      "Uma queda na condução óssea, principalmente em 2000 Hz.",
+      "Uma perda auditiva em padrão de 'U' invertido.",
+      "Ausência de reflexo estapediano em todas as frequências."
+    ],
+    "answer": "Uma queda na condução óssea, principalmente em 2000 Hz.",
+    "explanation": "O entalhe de Carhart é uma queda artefatual nos limiares de condução óssea, com pico em 2000 Hz, causada pela fixação da platina do estribo, que altera a ressonância ossicular. É um sinal clássico da otosclerose estapediana.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O sinal de Battle, uma equimose retroauricular sobre a mastoide, é um indicador clínico de qual tipo de lesão?",
+    "options": [
+      "Mastoidite aguda",
+      "Fratura da base do crânio (osso temporal)",
+      "Otite externa maligna",
+      "Dissecção da artéria carótida",
+      "Trombose do seio sigmoide"
+    ],
+    "answer": "Fratura da base do crânio (osso temporal)",
+    "explanation": "O sinal de Battle surge 1 a 2 dias após um traumatismo craniano e indica extravasamento de sangue devido a uma fratura da fossa craniana média, especificamente envolvendo o osso temporal.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual o nome do sinal caracterizado pelo desvio do palato mole e da úvula para o lado CONTRALATERAL à lesão do nervo Vago (X)?",
+    "options": [
+      "Sinal da cortina",
+      "Sinal de Vernet",
+      "Sinal de Babinski",
+      "Sinal de Aquin-Froment",
+      "Sinal de Trotter"
+    ],
+    "answer": "Sinal da cortina",
+    "explanation": "Na paralisia do nervo Vago, o músculo elevador do véu palatino do lado afetado não se contrai. Ao pedir para o paciente dizer 'Ah', a ação do músculo do lado são puxa o palato e a úvula para cima e para o lado não paralisado, como se fosse uma 'cortina' sendo puxada.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Na tomografia computadorizada, a aparência de 'favo de mel' ('honeycombing') em uma lesão óssea da mandíbula ou maxila é sugestiva de:",
+    "options": [
+      "Osteomielite",
+      "Ameloblastoma",
+      "Cisto radicular",
+      "Displasia fibrosa",
+      "Osteossarcoma"
+    ],
+    "answer": "Ameloblastoma",
+    "explanation": "O ameloblastoma é um tumor odontogênico benigno, mas localmente invasivo. A variante multilocular clássica apresenta na TC ou radiografia uma imagem de múltiplas lojas císticas, separadas por septos ósseos, com aparência de 'bolhas de sabão' ou 'favo de mel'.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O sinal de Hennebert (nistagmo ou vertigem induzidos por alteração de pressão no meato acústico externo) pode estar presente em quais das seguintes condições, EXCETO:",
+    "options": [
+      "Sífilis congênita tardia",
+      "Fístula perilinfática",
+      "Doença de Ménière",
+      "Deiscência do canal semicircular superior",
+      "Neurite vestibular"
+    ],
+    "answer": "Neurite vestibular",
+    "explanation": "O sinal de Hennebert implica uma conexão anormal entre a orelha média e a interna. Ocorre na sífilis (fibrose labiríntica), fístulas, Ménière (membrana distendida) e SCDS ('terceira janela'). Na neurite vestibular, a lesão é no nervo, sem alteração anatômica que cause o sinal.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A presença de 'pseudohipoplasia do antro maxilar' na tomografia, onde o seio maxilar parece menor devido ao espessamento e retração de suas paredes, é um sinal característico de:",
+    "options": [
+      "Rinossinusite crônica com atelectasia do seio maxilar (síndrome do seio silente)",
+      "Bola fúngica",
+      "Displasia fibrosa",
+      "Fratura antiga do assoalho da órbita",
+      "Papiloma invertido"
+    ],
+    "answer": "Rinossinusite crônica com atelectasia do seio maxilar (síndrome do seio silente)",
+    "explanation": "Na síndrome do seio silente, a obstrução crônica do óstio maxilar leva à absorção do ar e criação de pressão negativa, que 'puxa' as paredes do seio para dentro, causando retração e enoftalmia, e dando a falsa impressão de um seio hipoplásico.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O 'sinal do crescente aéreo' ('air crescent sign') em uma radiografia ou tomografia de tórax de um paciente neutropênico com sinusite é altamente sugestivo de:",
+    "options": [
+      "Pneumonia bacteriana com abscesso",
+      "Tuberculose pulmonar cavitária",
+      "Aspergilose pulmonar invasiva em fase de recuperação",
+      "Embolia pulmonar",
+      "Metástase pulmonar"
+    ],
+    "answer": "Aspergilose pulmonar invasiva em fase de recuperação",
+    "explanation": "Este sinal representa a recuperação da neutropenia. O tecido pulmonar necrótico (causado pela invasão fúngica) retrai, e o ar preenche o espaço entre o tecido necrótico e o parênquima pulmonar circundante, formando um crescente de ar. É um sinal importante em pacientes onco-hematológicos.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O sinal de Frank, um vinco diagonal no lóbulo da orelha, tem sido associado como um marcador cutâneo para qual condição sistêmica?",
+    "options": [
+      "Doença renal crônica",
+      "Hipotireoidismo",
+      "Doença arterial coronariana",
+      "Diabetes mellitus tipo 1",
+      "Artrite reumatoide"
+    ],
+    "answer": "Doença arterial coronariana",
+    "explanation": "Embora controverso, múltiplos estudos observacionais associaram a presença do sinal de Frank (vinco lobular diagonal) a um risco aumentado de doença arterial coronariana e aterosclerose, sendo considerado um possível marcador cutâneo de risco cardiovascular.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O sinal de Ramsay Hunt refere-se à associação de paralisia facial periférica com:",
+    "options": [
+      "Otite média crônica colesteatomatosa",
+      "Erupção vesicular herpética no pavilhão auricular e meato acústico",
+      "Eritema migratório e artrite",
+      "Tumor de parótida",
+      "Fratura de osso temporal"
+    ],
+    "answer": "Erupção vesicular herpética no pavilhão auricular e meato acústico",
+    "explanation": "A Síndrome de Ramsay Hunt é causada pela reativação do vírus Varicela-Zoster no gânglio geniculado, causando a paralisia facial e as lesões vesiculares dolorosas características na concha auricular e meato (herpes zoster oticus).",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Na avaliação de um tumor de glândula salivar, o sinal clínico de 'paralisia facial' é o indicador mais forte de:",
+    "options": [
+      "Um adenoma pleomórfico de grande volume",
+      "Um cisto linfoepitelial",
+      "Malignidade com invasão perineural",
+      "Uma parotidite aguda supurativa",
+      "Um cálculo no ducto de Stensen"
+    ],
+    "answer": "Malignidade com invasão perineural",
+    "explanation": "Tumores benignos de parótida raramente causam paralisia facial. A presença de paralisia do nervo facial em um paciente com massa parotídea é um sinal clínico altamente sugestivo de um processo maligno (ex: carcinoma adenoide cístico, carcinoma mucoepidermoide) que está infiltrando o nervo.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O 'sinal do halo' na TC de seios paranasais, caracterizado por opacificação em vidro fosco ao redor de um nódulo, é um achado precoce de qual condição em pacientes imunocomprometidos?",
+    "options": [
+      "Bola fúngica",
+      "Rinossinusite bacteriana",
+      "Rinossinusite fúngica angioinvasiva",
+      "Pólipo inflamatório",
+      "Granulomatose com poliangiite"
+    ],
+    "answer": "Rinossinusite fúngica angioinvasiva",
+    "explanation": "Em pacientes imunocomprometidos (ex: neutropênicos), o sinal do halo representa hemorragia ao redor de um foco de infecção fúngica (geralmente Aspergillus) que está invadindo os vasos sanguíneos. É um sinal de alerta precoce para uma doença potencialmente fatal.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O sinal de 'Phelps' na tomografia computadorizada de osso temporal, que é a obliteração do domo do bulbo da jugular, é sugestivo de:",
+    "options": [
+      "Schwannoma vestibular",
+      "Meningioma",
+      "Colesteatoma",
+      "Tumor glômico jugular",
+      "Otosclerose"
+    ],
+    "answer": "Tumor glômico jugular",
+    "explanation": "Tumores glômicos jugulares são paragangliomas que surgem no forame jugular. Ao crescerem, eles tendem a erodir e obliterar a parede óssea que separa o bulbo da jugular da orelha média (o domo jugular), um achado conhecido como sinal de Phelps na TC.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'voz anserina' ou 'voz de ganso', uma qualidade vocal estrangulada e de alta frequência, é classicamente associada a:",
+    "options": [
+      "Paralisia de prega vocal em posição paramediana",
+      "Disfonia espasmódica de adução",
+      "Edema de Reinke",
+      "Sulco vocal profundo",
+      "Laringite por refluxo"
+    ],
+    "answer": "Disfonia espasmódica de adução",
+    "explanation": "Na disfonia espasmódica de adução, ocorrem espasmos involuntários dos músculos adutores da laringe durante a fala, 'estrangulando' a voz e interrompendo o fluxo aéreo, o que resulta em uma qualidade vocal tensa, quebrada e de tom elevado, descrita como anserina.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual o nome do sinal em que o nistagmo provocado pela manobra de Dix-Hallpike reaparece, com direção invertida, quando o paciente retorna à posição sentada?",
+    "options": [
+      "Nistagmo de rebote",
+      "Nistagmo de fadiga",
+      "Nistagmo dissociado",
+      "Nistagmo pendular",
+      "Nistagmo congênito"
+    ],
+    "answer": "Nistagmo de rebote",
+    "explanation": "O nistagmo de rebote é uma característica típica da VPPB. O movimento dos otólitos em uma direção causa o nistagmo primário, e o movimento de volta ao sentar-se causa um nistagmo secundário, mais breve e em direção oposta.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O sinal de 'Dennie-Morgan' (uma prega ou linha extra abaixo da pálpebra inferior) é um estigma clínico frequentemente associado a qual condição?",
+    "options": [
+      "Síndrome de Down",
+      "Hipotireoidismo",
+      "Dermatite atópica e rinite alérgica",
+      "Miastenia gravis",
+      "Síndrome de Horner"
+    ],
+    "answer": "Dermatite atópica e rinite alérgica",
+    "explanation": "As linhas de Dennie-Morgan são dobras cutâneas na pálpebra inferior causadas por edema e espasmo crônico do músculo de Müller devido à inflamação alérgica. É um sinal clássico em pacientes com dermatite atópica e/ou rinite alérgica grave.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'saudação alérgica' ('allergic salute'), um gesto de esfregar o nariz para cima com a palma da mão, pode levar ao desenvolvimento de qual sinal cutâneo permanente?",
+    "options": [
+      "Sinal de Frank",
+      "Linhas de Dennie-Morgan",
+      "Prega nasal transversa",
+      "Sinal de Pastia",
+      "Telangiectasias faciais"
+    ],
+    "answer": "Prega nasal transversa",
+    "explanation": "O hábito crônico de empurrar a ponta do nariz para cima para aliviar o prurido e a congestão da rinite alérgica pode criar um vinco ou prega cutânea permanente na junção do terço inferior com os dois terços superiores do dorso nasal.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Na ressonância magnética, um achado de realce intenso e uniforme do nervo facial em toda a sua extensão, em um paciente com paralisia facial aguda, é mais compatível com:",
+    "options": [
+      "Schwannoma do nervo facial",
+      "Paralisia de Bell",
+      "Hemangioma do gânglio geniculado",
+      "Invasão perineural por carcinoma",
+      "Um achado normal"
+    ],
+    "answer": "Paralisia de Bell",
+    "explanation": "Na Paralisia de Bell, a inflamação idiopática do nervo facial leva à quebra da barreira hemato-neural, resultando em um realce liso e difuso do nervo após a administração de gadolínio. Tumores como o schwannoma causam um realce mais nodular e focal.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A 'tríade de Gradenigo', que inclui otite média, dor retro-orbitária (nevralgia do trigêmeo) e paralisia do nervo abducente (VI), é causada por uma infecção que se estende para qual parte do osso temporal?",
+    "options": [
+      "Ponta da mastoide",
+      "Labirinto ósseo",
+      "Ápice petroso",
+      "Teto do tímpano (Tegmen tympani)",
+      "Canal carotídeo"
+    ],
+    "answer": "Ápice petroso",
+    "explanation": "A síndrome de Gradenigo é o resultado de uma petrosite, uma complicação de otite média em que a infecção se espalha para o ápice petroso. A inflamação nesta área afeta o gânglio de Gasser (V nervo) e o nervo abducente (VI nervo) que passam próximos, no canal de Dorello.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O sinal de 'falsa corda vocal' na laringoscopia, que é a aparência de uma prega vocal contralateral medializada e hipertrofiada, ocorre em qual situação?",
+    "options": [
+      "Laringite por refluxo",
+      "Paralisia de prega vocal unilateral de longa data",
+      "Edema de Reinke bilateral",
+      "Disfonia espasmódica",
+      "Nódulos vocais"
+    ],
+    "answer": "Paralisia de prega vocal unilateral de longa data",
+    "explanation": "Em uma paralisia unilateral, a prega vocal contralateral pode hiperfuncionar na tentativa de compensar o fechamento glótico, tornando-se hipertrófica. Isso pode dar a falsa impressão de que ela é a prega vocal doente ou que há uma lesão de massa.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual o nome da síndrome caracterizada por paralisia combinada do nervo hipoglosso (XII) e do nervo laríngeo recorrente (ramo do X), geralmente por lesão no espaço carotídeo?",
+    "options": [
+      "Síndrome de Vernet",
+      "Síndrome de Collet-Sicard",
+      "Síndrome de Tapia",
+      "Síndrome de Villaret",
+      "Síndrome de Horner"
+    ],
+    "answer": "Síndrome de Tapia",
+    "explanation": "A síndrome de Tapia envolve a paralisia dos nervos X (ramo recorrente) e XII, causando paralisia da hemilaringe e da hemilíngua. Geralmente é causada por trauma ou tumor na região parafaríngea ou durante cirurgias cervicais.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O sinal de 'Holiday' ou 'sinal do septo vazio' na endoscopia nasal após uma cirurgia de etmoidectomia refere-se a:",
+    "options": [
+      "Recidiva de polipose nasal.",
+      "Sinéquia entre o septo e o corneto médio.",
+      "Lateralização do corneto médio, obstruindo o meato médio.",
+      "Perfuração septal iatrogênica.",
+      "Presença de crostas e biofilme."
+    ],
+    "answer": "Lateralização do corneto médio, obstruindo o meato médio.",
+    "explanation": "Após uma etmoidectomia, o corneto médio pode cicatrizar em uma posição lateralizada, fechando o acesso ao complexo ostiomeatal recém-aberto. Endoscopicamente, o meato médio parece 'vazio' porque o corneto está encostado na parede lateral, um sinal de falha cirúrgica.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A presença de 'fácies adenoideana', com boca entreaberta, olheiras, palato ogival e má oclusão dentária, é um sinal clínico clássico de qual condição crônica na infância?",
+    "options": [
+      "Rinite alérgica",
+      "Desvio de septo",
+      "Obstrução nasal crônica por hipertrofia adenoamigdaliana",
+      "Fibrose cística",
+      "Síndrome de Down"
+    ],
+    "answer": "Obstrução nasal crônica por hipertrofia adenoamigdaliana",
+    "explanation": "A obstrução nasal crônica na infância força a respiração oral, o que, ao longo do tempo, leva a um padrão de crescimento craniofacial alterado, resultando no conjunto de características conhecido como 'fácies adenoideana'.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O sinal de 'Lhermitte', uma sensação de choque elétrico que percorre a espinha ao fletir o pescoço, embora não específico, pode ser um sinal de alerta para qual condição com potencial de compressão medular?",
+    "options": [
+      "Hérnia de disco cervical",
+      "Esclerose Múltipla",
+      "Deficiência de Vitamina B12",
+      "Estenose de canal cervical",
+      "Todas as anteriores"
+    ],
+    "answer": "Todas as anteriores",
+    "explanation": "O sinal de Lhermitte indica irritação ou desmielinização dos cordões posteriores da medula espinhal cervical. Pode ser causado por compressão mecânica (hérnia, estenose) ou por doenças desmielinizantes como a Esclerose Múltipla e a degeneração combinada subaguda (def. B12).",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Na avaliação do reflexo vestíbulo-ocular (VOR) com o teste de Halmagyi (Head Impulse Test), um 'catch-up saccade' (sacada corretiva) para o lado em que a cabeça é girada indica:",
+    "options": [
+      "Função vestibular normal",
+      "Lesão vestibular periférica (hipofunção) daquele lado",
+      "Lesão vestibular central",
+      "Presença de VPPB",
+      "Falta de colaboração do paciente"
+    ],
+    "answer": "Lesão vestibular periférica (hipofunção) daquele lado",
+    "explanation": "Em um indivíduo normal, o VOR mantém os olhos fixos no alvo durante o giro rápido da cabeça. Em uma hipofunção vestibular (ex: neurite), o VOR falha, os olhos são 'arrastados' com a cabeça e o cérebro comanda uma sacada rápida de volta ao alvo. Essa sacada corretiva é o sinal patológico.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O sinal de 'Luc', um abaulamento da parede anterior do seio maxilar, é um achado clínico de qual condição?",
+    "options": [
+      "Sinusite maxilar aguda",
+      "Pólipo antrocoanal de grande volume",
+      "Cisto dentígero",
+      "Tumor maligno do seio maxilar",
+      "Displasia fibrosa"
+    ],
+    "answer": "Pólipo antrocoanal de grande volume",
+    "explanation": "O pólipo antrocoanal se origina na parede do seio maxilar, cresce, preenche o seio, passa pelo óstio e se estende para a coana. Quando muito grande, ele pode expandir o óstio e abaular a parede anterior do seio, um achado conhecido como sinal de Luc.",
+    "area": "Sinais Clínicos e Radiológicos"
+  }
+]
