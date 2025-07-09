@@ -22,6 +22,33 @@
             <p class="text-lg text-gray-600 mb-2">Prepare-se com <strong class="text-[#0094D1]">49 questões</strong> e <strong class="text-[#0094D1]">5 alternativas</strong> cada.</p>
 
             <p class="text-md text-gray-500 mb-8">Estilo: FUNDATEC, VUNESP e IBFC.</p>
+
+            <div class="mb-6 text-left">
+                <label for="question-count" class="font-semibold block mb-1">Quantidade de Questões</label>
+                <select id="question-count" class="w-full border rounded-lg p-2">
+                    <option value="20">20</option>
+                    <option value="40">40</option>
+                    <option value="60">60</option>
+                </select>
+            </div>
+
+            <div class="mb-6 text-left">
+                <p class="font-semibold mb-2">Áreas</p>
+                <div class="flex flex-wrap gap-2">
+                    <label class="inline-flex items-center"><input id="area-otologia" type="checkbox" class="mr-1">Otologia</label>
+                    <label class="inline-flex items-center"><input id="area-rinologia" type="checkbox" class="mr-1">Rinologia</label>
+                    <label class="inline-flex items-center"><input id="area-laringologia" type="checkbox" class="mr-1">Laringologia</label>
+                    <label class="inline-flex items-center"><input id="area-otoneurologia" type="checkbox" class="mr-1">Otoneurologia</label>
+                    <label class="inline-flex items-center"><input id="area-pediatria" type="checkbox" class="mr-1">Pediatria</label>
+                    <label class="inline-flex items-center"><input id="area-cabeca-pescoco" type="checkbox" class="mr-1">Cabeça e Pescoço</label>
+                </div>
+            </div>
+
+            <div class="mb-8 text-left">
+                <p class="font-semibold mb-1">Tempo estimado</p>
+                <p id="estimated-time" class="text-gray-700">40 minutos</p>
+            </div>
+
             <button id="start-btn" class="bg-[#004AAD] hover:bg-[#003B8A] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
                 Iniciar Simulado
             </button>
