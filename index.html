@@ -42,7 +42,7 @@
         <!-- Start Screen -->
         <div id="start-screen" class="bg-white rounded-xl shadow-lg p-8 md:p-12 text-center">
             <h1 class="text-3xl md:text-4xl font-bold text-[#004AAD] mb-4">Simulado Extensivo de Otorrinolaringologia</h1>
-            <p class="text-lg text-gray-600 mb-2">Prepare-se com <strong class="text-[#0094D1]">50 questões</strong> e <strong class="text-[#0094D1]">5 alternativas</strong> cada.</p>
+            <p class="text-lg text-gray-600 mb-2">Prepare-se com <strong id="question-count" class="text-[#0094D1]">49 questões</strong> e <strong class="text-[#0094D1]">5 alternativas</strong> cada.</p>
             <p class="text-md text-gray-500 mb-8">Estilo: FUNDATEC, VUNESP e IBFC.</p>
             <button id="start-btn" class="bg-[#004AAD] hover:bg-[#003B8A] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
                 Iniciar Simulado
@@ -161,6 +161,8 @@
 
         const progressBar = document.getElementById('progress-bar');
         const questionCounterEl = document.getElementById('question-counter');
+        const questionCountEl = document.getElementById('question-count');
+        questionCountEl.innerText = `${questionBank.length} questões`;
         const scoreCounterEl = document.getElementById('score-counter');
         const questionTextEl = document.getElementById('question-text');
         const questionBancaEl = document.getElementById('question-banca');
