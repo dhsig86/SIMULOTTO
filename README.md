@@ -1,5 +1,6 @@
 # SIMULOTTO
 
+
 Simulador de questões de otorrinolaringologia para concursos. Basta abrir `index.html` em um navegador para utilizar.
 
 O projeto utiliza [Tailwind CSS](https://tailwindcss.com) via CDN e possui o estilo em `styles.css` e a lógica em `script.js`.
