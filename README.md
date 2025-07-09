@@ -1,20 +1,16 @@
 # SIMULOTTO
-ENT EXERCICSES SIMULATOR
 
-## Adding Questions
 
-All quiz questions are stored in `data/questions.json`. To add new items,
-append objects to the array using the same structure:
+Simulador de questões de otorrinolaringologia para concursos. Basta abrir `index.html` em um navegador para utilizar.
 
-```json
-{
-  "banca": "NOME_DA_BANCA",
-  "question": "Pergunta...",
-  "options": ["A", "B", "C", "D", "E"],
-  "answer": "Alternativa correta",
-  "explanation": "Texto explicativo"
-}
-```
+O projeto utiliza [Tailwind CSS](https://tailwindcss.com) via CDN e possui o estilo em `styles.css` e a lógica em `script.js`.
 
-After saving the file, the application will automatically load the new
-questions the next time it runs.
+As questões estão definidas em `script.js` em um array `questionBank`. Cada entrada possui banca, enunciado, opções de resposta, explicação e uma lista de `tags` usadas para futuras filtragens.
+
+## Como adicionar questões
+
+Edite `script.js` e acrescente novos objetos ao `questionBank` seguindo o mesmo formato dos existentes.
+
+## Licença
+
+Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
