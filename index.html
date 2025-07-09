@@ -21,33 +21,26 @@
 
             <p class="text-lg text-gray-600 mb-2">Prepare-se com <strong class="text-[#0094D1]">49 questões</strong> e <strong class="text-[#0094D1]">5 alternativas</strong> cada.</p>
 
-            <p class="text-md text-gray-500 mb-8">Estilo: FUNDATEC, VUNESP e IBFC.</p>
 
-            <div class="mb-6 text-left">
-                <label for="question-count" class="font-semibold block mb-1">Quantidade de Questões</label>
-                <select id="question-count" class="w-full border rounded-lg p-2">
-                    <option value="20">20</option>
-                    <option value="40">40</option>
-                    <option value="60">60</option>
-                </select>
-            </div>
-
-            <div class="mb-6 text-left">
-                <p class="font-semibold mb-2">Áreas</p>
-                <div class="flex flex-wrap gap-2">
-                    <label class="inline-flex items-center"><input id="area-otologia" type="checkbox" class="mr-1">Otologia</label>
-                    <label class="inline-flex items-center"><input id="area-rinologia" type="checkbox" class="mr-1">Rinologia</label>
-                    <label class="inline-flex items-center"><input id="area-laringologia" type="checkbox" class="mr-1">Laringologia</label>
-                    <label class="inline-flex items-center"><input id="area-otoneurologia" type="checkbox" class="mr-1">Otoneurologia</label>
-                    <label class="inline-flex items-center"><input id="area-pediatria" type="checkbox" class="mr-1">Pediatria</label>
-                    <label class="inline-flex items-center"><input id="area-cabeca-pescoco" type="checkbox" class="mr-1">Cabeça e Pescoço</label>
-                </div>
-            </div>
-
-            <div class="mb-8 text-left">
-                <p class="font-semibold mb-1">Tempo estimado</p>
-                <p id="estimated-time" class="text-gray-700">40 minutos</p>
-            </div>
+            <p class="text-md text-gray-500 mb-4">Estilo: FUNDATEC, VUNESP e IBFC.</p>
+            <form id="config-form" class="text-left mb-6">
+                <label class="block mb-2">Quantidade de questões:
+                    <select id="num-questions" class="border rounded p-1 ml-2">
+                        <option value="5">5</option>
+                        <option value="10" selected>10</option>
+                        <option value="20">20</option>
+                        <option value="49">49</option>
+                    </select>
+                </label>
+                <fieldset class="mb-2">
+                    <legend class="font-semibold mb-1">Áreas</legend>
+                    <label class="mr-3"><input type="checkbox" name="areas" value="Otologia" checked class="mr-1">Otologia</label>
+                    <label class="mr-3"><input type="checkbox" name="areas" value="Rinologia" checked class="mr-1">Rinologia</label>
+                    <label class="mr-3"><input type="checkbox" name="areas" value="Laringologia e Bucofaringe" checked class="mr-1">Laringologia e Bucofaringe</label>
+                    <label class="mr-3"><input type="checkbox" name="areas" value="Urgências e Miscelânea" checked class="mr-1">Urgências e Miscelânea</label>
+                    <label class="mr-3"><input type="checkbox" name="areas" value="Legislação do SUS" checked class="mr-1">Legislação do SUS</label>
+                </fieldset>
+            </form>
 
             <button id="start-btn" class="bg-[#004AAD] hover:bg-[#003B8A] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
                 Iniciar Simulado
@@ -62,6 +55,7 @@
                 </div>
                 <div class="flex justify-between items-center mb-6">
                     <div id="question-counter" class="text-lg font-semibold text-[#004AAD]"></div>
+                    <div id="timer" class="text-lg font-semibold text-gray-600"></div>
                     <div id="score-counter" class="text-lg font-semibold text-gray-600"></div>
                 </div>
                 <div class="mb-6">
