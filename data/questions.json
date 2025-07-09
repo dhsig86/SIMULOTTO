@@ -684,5 +684,690 @@
     "answer": "Uma lista que orienta a oferta, prescrição e dispensação de medicamentos no SUS.",
     "explanation": "A RENAME é o instrumento que norteia a Assistência Farmacêutica no SUS, sendo atualizada periodicamente para definir quais medicamentos devem estar disponíveis no sistema para o tratamento das doenças prevalentes.",
     "area": "Legislação do SUS"
-  }
-]
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual das seguintes síndromes genéticas está associada à perda auditiva neurossensorial, doença renal crônica e herança ligada ao cromossomo X?",
+    "options": [
+      "Síndrome de Pendred",
+      "Síndrome de Usher",
+      "Síndrome de Waardenburg",
+      "Síndrome de Alport",
+      "Síndrome de Treacher Collins"
+    ],
+    "answer": "Síndrome de Alport",
+    "explanation": "A Síndrome de Alport é caracterizada pela tríade de nefrite hereditária, perda auditiva neurossensorial e anormalidades oculares. A forma mais comum tem herança ligada ao X.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Paciente de 4 anos é diagnosticado com apneia obstrutiva do sono (AOS) moderada na polissonografia. Qual faixa do índice de apneia e hipopneia (IAH) por hora corresponde a este diagnóstico na população pediátrica?",
+    "options": [
+      "IAH entre 1 e 5 eventos/hora",
+      "IAH entre 5 e 10 eventos/hora",
+      "IAH entre 10 e 15 eventos/hora",
+      "IAH entre 15 e 30 eventos/hora",
+      "IAH maior que 30 eventos/hora"
+    ],
+    "answer": "IAH entre 5 e 10 eventos/hora",
+    "explanation": "Na população pediátrica, a AOS é classificada como leve (IAH 1-5), moderada (IAH 5-10) e grave (IAH >10). Portanto, um IAH entre 5 e 10 corresponde à AOS moderada.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O papiloma invertido é um tumor nasossinusal benigno, porém localmente agressivo. Qual a sua principal característica em relação à recidiva e malignização?",
+    "options": [
+      "Baixa taxa de recidiva e ausência de malignização.",
+      "Baixa taxa de recidiva e alta taxa de malignização.",
+      "Alta taxa de recidiva e ausência de malignização.",
+      "Alta taxa de recidiva e baixa taxa de malignização.",
+      "Alta taxa de recidiva e alta taxa de malignização."
+    ],
+    "answer": "Alta taxa de recidiva e baixa taxa de malignização.",
+    "explanation": "O papiloma invertido é notório por sua alta tendência a recorrer após a ressecção (10-70%). A transformação maligna para carcinoma de células escamosas ocorre, mas é menos frequente (5-15%).",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Paciente asmático, em uso crônico de corticoide inalatório, desenvolve lesões esbranquiçadas e destacáveis na orofaringe, compatíveis com candidíase. Qual o tratamento de primeira escolha?",
+    "options": [
+      "Amoxicilina com clavulanato",
+      "Nistatina em suspensão oral",
+      "Aciclovir oral",
+      "Penicilina benzatina",
+      "Apenas suspender o corticoide"
+    ],
+    "answer": "Nistatina em suspensão oral",
+    "explanation": "O quadro é de candidíase oral (sapinho), uma complicação comum do uso de corticoides inalatórios. O tratamento de escolha é um antifúngico tópico, como a nistatina.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A presença do fenômeno de Túlio (vertigem induzida por som) e do sinal de Hennebert (vertigem induzida por alteração de pressão no CAE) são sugestivos de qual diagnóstico?",
+    "options": [
+      "Doença de Ménière",
+      "Neurite Vestibular",
+      "Síndrome da Deiscência do Canal Semicircular Superior",
+      "Otosclerose coclear",
+      "VPPB"
+    ],
+    "answer": "Síndrome da Deiscência do Canal Semicircular Superior",
+    "explanation": "A deiscência do canal superior cria uma 'terceira janela' móvel no labirinto, tornando-o sensível a estímulos sonoros e de pressão, o que gera os fenômenos de Túlio e Hennebert.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Segundo os critérios de Paradise, a amigdalectomia por amigdalite de repetição está indicada quando ocorrem:",
+    "options": [
+      "3 episódios em 3 anos consecutivos",
+      "4 episódios em 2 anos consecutivos",
+      "5 episódios em 1 ano",
+      "6 episódios em 2 anos consecutivos",
+      "2 episódios de abscesso periamigdaliano"
+    ],
+    "answer": "5 episódios em 1 ano",
+    "explanation": "Os critérios de Paradise são bem específicos: ≥7 episódios no último ano, OU ≥5 episódios/ano nos últimos 2 anos, OU ≥3 episódios/ano nos últimos 3 anos. A alternativa que se encaixa é 5 episódios em um ano.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual a principal indicação para o uso da audiometria de altas frequências no acompanhamento clínico?",
+    "options": [
+      "Monitoramento da ototoxicidade por quimioterápicos",
+      "Diagnóstico de otite média crônica",
+      "Avaliação da presbiacusia inicial",
+      "Diagnóstico de Doença de Ménière",
+      "Acompanhamento de otosclerose"
+    ],
+    "answer": "Monitoramento da ototoxicidade por quimioterápicos",
+    "explanation": "A ototoxicidade, especialmente por drogas como a cisplatina, afeta inicialmente as células ciliadas da base da cóclea, responsáveis pelas altas frequências. A audiometria de altas frequências é o exame mais sensível para detecção precoce.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A síndrome de Woakes, uma forma grave de polipose nasossinusal, é caracterizada por polipose maciça e:",
+    "options": [
+      "Intolerância a AINEs",
+      "Perda auditiva neurossensorial",
+      "Alargamento da pirâmide nasal com hipertelorismo",
+      "Retinopatia pigmentar",
+      "Alterações tireoidianas"
+    ],
+    "answer": "Alargamento da pirâmide nasal com hipertelorismo",
+    "explanation": "A síndrome de Woakes é uma polipose etmoidal crônica que, por sua agressividade e crescimento, leva à destruição e remodelação óssea, resultando no alargamento da base do nariz e aumento da distância interorbital.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Na avaliação de um paciente com disfonia, a presença de uma lesão esbranquiçada na prega vocal, que não se cora com azul de toluidina, é mais sugestiva de:",
+    "options": [
+      "Leucoplasia",
+      "Eritroplasia",
+      "Papiloma",
+      "Cisto epidermoide",
+      "Nódulo vocal"
+    ],
+    "answer": "Leucoplasia",
+    "explanation": "Leucoplasia é um termo clínico para uma placa branca na mucosa que não pode ser raspada. É uma lesão pré-maligna e a biópsia é mandatória para excluir carcinoma.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual o tratamento de escolha para o granuloma piogênico em septo nasal, especialmente em gestantes?",
+    "options": [
+      "Cauterização química com ácido tricloroacético",
+      "Uso de corticosteroides tópicos",
+      "Observação, pois tende a regredir após o parto",
+      "Exérese cirúrgica da lesão",
+      "Antibioticoterapia sistêmica"
+    ],
+    "answer": "Exérese cirúrgica da lesão",
+    "explanation": "O granuloma piogênico é uma lesão vascular benigna que sangra facilmente. O tratamento definitivo é a remoção cirúrgica, que pode ser feita sob anestesia local.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A classificação de House-Brackmann é utilizada para graduar a função de qual nervo craniano?",
+    "options": [
+      "Nervo Trigêmeo (V)",
+      "Nervo Facial (VII)",
+      "Nervo Vestibulococlear (VIII)",
+      "Nervo Glossofaríngeo (IX)",
+      "Nervo Vago (X)"
+    ],
+    "answer": "Nervo Facial (VII)",
+    "explanation": "A escala de House-Brackmann é o sistema de graduação mais utilizado mundialmente para avaliar a função do nervo facial, variando do Grau I (normal) ao Grau VI (paralisia total).",
+    "area": "Otologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Criança de 8 meses com diagnóstico de laringomalácia tipo 2 (pregas ariepiglóticas encurtadas) apresenta cianose durante a amamentação e falha no ganho de peso. Qual a conduta cirúrgica indicada?",
+    "options": [
+      "Traqueostomia",
+      "Epiglotectomia parcial",
+      "Supraglotoplastia com secção das pregas ariepiglóticas",
+      "Apenas tratamento para refluxo gastroesofágico",
+      "Conduta expectante"
+    ],
+    "answer": "Supraglotoplastia com secção das pregas ariepiglóticas",
+    "explanation": "Em casos de laringomalácia grave, com sintomas como cianose, apneia ou déficit de crescimento, a supraglotoplastia é indicada. A técnica varia com o tipo, e para o tipo 2, a secção das pregas ariepiglóticas é o procedimento chave.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O abscesso de Bezold é uma complicação de uma otite média aguda que se estende para qual estrutura adjacente?",
+    "options": [
+      "Ápice petroso",
+      "Labirinto",
+      "Pescoço, através da ponta da mastoide",
+      "Seio sigmoide",
+      "Articulação temporomandibular"
+    ],
+    "answer": "Pescoço, através da ponta da mastoide",
+    "explanation": "O abscesso de Bezold ocorre quando a infecção de uma mastoidite perfura a cortical medial da ponta da mastoide e se dissemina para o pescoço, por baixo do músculo esternocleidomastoideo.",
+    "area": "Urgências e Miscelânea"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual o achado em ressonância magnética (T2 com difusão) que é altamente sugestivo de recidiva de colesteatoma no pós-operatório?",
+    "options": [
+      "Sinal hipointenso em T1",
+      "Realce periférico com gadolínio",
+      "Sinal hiperintenso (restrição à difusão)",
+      "Sinal hipointenso em T2",
+      "Ausência de realce com contraste"
+    ],
+    "answer": "Sinal hiperintenso (restrição à difusão)",
+    "explanation": "A ressonância magnética com técnica de difusão (DWI) é o padrão-ouro não invasivo para detectar colesteatoma residual ou recidivado. O colesteatoma aparece como uma lesão com acentuada restrição à difusão (brilha na difusão).",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Paciente refere tontura rotatória que dura entre 20 minutos e 12 horas, associada a perda auditiva neurossensorial flutuante confirmada por audiometria e zumbido no ouvido afetado. Este quadro clínico preenche critérios para qual diagnóstico?",
+    "options": [
+      "Doença de Ménière provável",
+      "Doença de Ménière definida",
+      "Neurite vestibular",
+      "Migrânea vestibular",
+      "VPPB"
+    ],
+    "answer": "Doença de Ménière definida",
+    "explanation": "Os critérios diagnósticos para Doença de Ménière definida incluem dois ou mais episódios de vertigem (20 min a 12h), perda auditiva neurossensorial documentada por audiometria em pelo menos uma ocasião, e sintomas aural flutuante (zumbido/plenitude).",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A presença de \"grânulos de enxofre\" em material de biópsia de uma lesão cervical com fístula é patognomônica de qual infecção?",
+    "options": [
+      "Tuberculose (escrofuloderma)",
+      "Paracoccidioidomicose",
+      "Actinomicose",
+      "Nocardiose",
+      "Leishmaniose"
+    ],
+    "answer": "Actinomicose",
+    "explanation": "A actinomicose cervicofacial é uma infecção bacteriana crônica (causada por Actinomyces) que forma abscessos e fístulas. A presença de colônias amareladas, os grânulos de enxofre, no pus ou na biópsia é o achado característico.",
+    "area": "Urgências e Miscelânea"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Na cirurgia para apneia obstrutiva do sono, a cirurgia nasal isolada (septoplastia/turbinectomia) tem qual principal efeito?",
+    "options": [
+      "Cura da apneia na maioria dos casos",
+      "Melhora significativa do índice de apneia e hipopneia (IAH)",
+      "Redução dos roncos e melhora da adaptação ao CPAP",
+      "Aumento da saturação de oxigênio durante o sono",
+      "Normalização da arquitetura do sono"
+    ],
+    "answer": "Redução dos roncos e melhora da adaptação ao CPAP",
+    "explanation": "A cirurgia nasal raramente cura a AOS, pois a obstrução principal é geralmente na orofaringe/hipofaringe. No entanto, ao melhorar a patência nasal, ela pode reduzir os roncos e, crucialmente, facilitar a tolerância e a eficácia do CPAP.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual é o principal fator de mau prognóstico na evolução de uma surdez súbita idiopática?",
+    "options": [
+      "Início do tratamento com corticoide em 24 horas",
+      "Perda auditiva em frequências graves",
+      "Ausência de sintomas vestibulares (vertigem)",
+      "Presença de vertigem intensa associada",
+      "Idade inferior a 40 anos"
+    ],
+    "answer": "Presença de vertigem intensa associada",
+    "explanation": "Fatores de mau prognóstico para recuperação na surdez súbita incluem: perda auditiva profunda, perda em frequências agudas (curva descendente), idade avançada e, principalmente, a presença de sintomas vestibulares (vertigem), que sugere um dano mais extenso ao labirinto.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual a principal característica que diferencia um cisto epidermoide de um granuloma de colesterol em osso temporal na Ressonância Magnética?",
+    "options": [
+      "O cisto epidermoide restringe à difusão, o granuloma não.",
+      "O granuloma de colesterol tem hipersinal em T1, o cisto não.",
+      "O cisto epidermoide realça com gadolínio, o granuloma não.",
+      "O granuloma de colesterol está sempre na orelha média, o cisto no ápice petroso.",
+      "Ambos são indistinguíveis por imagem."
+    ],
+    "answer": "O granuloma de colesterol tem hipersinal em T1, o cisto não.",
+    "explanation": "O granuloma de colesterol contém produtos de degradação sanguínea e cristais de colesterol, o que lhe confere um característico hipersinal (brilha) tanto em T1 quanto em T2. O cisto epidermoide (colesteatoma) é tipicamente hipointenso em T1.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Paciente com angina de Plaut-Vincent apresenta uma úlcera necrótica unilateral em polo superior de amígdala, coberta por pseudomembrana acinzentada. Qual a etiologia desta condição?",
+    "options": [
+      "Infecção viral por Coxsackie",
+      "Infecção fúngica por Candida albicans",
+      "Associação fusoespiralar de Borrelia vincentii e Fusobacterium nucleatum",
+      "Infecção por Streptococcus pyogenes",
+      "Manifestação de sífilis secundária"
+    ],
+    "answer": "Associação fusoespiralar de Borrelia vincentii e Fusobacterium nucleatum",
+    "explanation": "A angina de Plaut-Vincent é uma faringite ulceronecrótica causada por uma infecção sinérgica entre o bacilo fusiforme (Fusobacterium) e a espiroqueta (Borrelia vincentii).",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Em relação à Política Nacional de Atenção Básica (PNAB), a Estratégia Saúde da Família (ESF) é considerada:",
+    "options": [
+      "Um programa temporário para áreas de risco.",
+      "Um modelo substitutivo à atenção básica tradicional.",
+      "Uma estratégia prioritária para expansão e consolidação da Atenção Básica.",
+      "Um serviço de referência para casos complexos.",
+      "Uma política focada apenas na saúde materno-infantil."
+    ],
+    "answer": "Uma estratégia prioritária para expansão e consolidação da Atenção Básica.",
+    "explanation": "A PNAB estabelece a ESF como o modelo prioritário para organizar a Atenção Básica no Brasil, visando a reorientação do modelo assistencial com foco na família e no território.",
+    "area": "Legislação do SUS"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual o objetivo principal do Apoio Matricial no contexto do SUS?",
+    "options": [
+      "Substituir a equipe de referência no atendimento de casos difíceis.",
+      "Criar um sistema de encaminhamento direto para a especialidade.",
+      "Oferecer suporte técnico-pedagógico e assistencial compartilhado às equipes de referência.",
+      "Realizar auditorias periódicas nos serviços de atenção básica.",
+      "Centralizar o atendimento especializado em um único profissional."
+    ],
+    "answer": "Oferecer suporte técnico-pedagógico e assistencial compartilhado às equipes de referência.",
+    "explanation": "O Apoio Matricial (ou matriciamento) visa dar retaguarda especializada (suporte técnico e pedagógico) às equipes da atenção básica, aumentando sua capacidade de resolver problemas e evitando encaminhamentos desnecessários, através de discussões de caso e atendimentos conjuntos.",
+    "area": "Legislação do SUS"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A Relação Nacional de Medicamentos Essenciais (RENAME) é atualizada por qual órgão, com base em evidências de eficácia, segurança e custo-efetividade?",
+    "options": [
+      "Agência Nacional de Vigilância Sanitária (ANVISA)",
+      "Conselho Federal de Medicina (CFM)",
+      "Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC)",
+      "Conselho Nacional de Secretários de Saúde (CONASS)",
+      "Fundação Oswaldo Cruz (Fiocruz)"
+    ],
+    "answer": "Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC)",
+    "explanation": "A CONITEC é o órgão responsável por assessorar o Ministério da Saúde na incorporação, exclusão ou alteração de tecnologias em saúde no SUS, incluindo medicamentos (que compõem a RENAME) e protocolos clínicos.",
+    "area": "Legislação do SUS"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A manobra de Yacovino é utilizada para o tratamento de qual tipo de Vertigem Posicional Paroxística Benigna (VPPB)?",
+    "options": [
+      "Cupulolitíase do canal posterior",
+      "Ductolitíase do canal posterior",
+      "Cupulolitíase do canal anterior",
+      "Ductolitíase do canal lateral (geotrópica)",
+      "Ductolitíase do canal lateral (apogeotrópica)"
+    ],
+    "answer": "Ductolitíase do canal lateral (geotrópica)",
+    "explanation": "A manobra de Yacovino, ou manobra da 'rolagem forçada', é uma técnica eficaz para tratar a VPPB do canal semicircular lateral, variante canalitíase (ductolitíase) com nistagmo geotrópico.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual a principal característica da Síndrome de Pendred?",
+    "options": [
+      "Perda auditiva neurossensorial e bócio eutireoidiano",
+      "Perda auditiva condutiva e alterações renais",
+      "Perda auditiva mista e mecha de cabelos brancos",
+      "Vertigem e alterações cardíacas",
+      "Anosmia e hipogonadismo"
+    ],
+    "answer": "Perda auditiva neurossensorial e bócio eutireoidiano",
+    "explanation": "A Síndrome de Pendred é uma doença genética autossômica recessiva caracterizada pela associação de perda auditiva neurossensorial congênita (frequentemente com aqueduto vestibular alargado) e bócio, que geralmente se desenvolve mais tarde e com função tireoidiana normal.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Criança de 3 anos com febre alta (39°C), dor de garganta e estridor inspiratório. A laringoscopia revela epiglote edemaciada e hiperemiada. Qual o achado radiológico clássico e o principal agente etiológico histórico?",
+    "options": [
+      "Sinal da torre; Vírus Sincicial Respiratório",
+      "Sinal do polegar; Haemophilus influenzae tipo b",
+      "Sinal da folha caída; Streptococcus pneumoniae",
+      "Velamento da hipofaringe; Staphylococcus aureus",
+      "Sinal do duplo contorno; Moraxella catarrhalis"
+    ],
+    "answer": "Sinal do polegar; Haemophilus influenzae tipo b",
+    "explanation": "O quadro é de epiglotite aguda. O 'sinal do polegar' na radiografia lateral do pescoço corresponde à epiglote edemaciada. Historicamente, o Haemophilus influenzae tipo b era o principal agente, hoje menos comum devido à vacinação.",
+    "area": "Urgências e Miscelânea"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual é a definição de um estudo de coorte em epidemiologia?",
+    "options": [
+      "Um estudo que compara um grupo de doentes (casos) com um grupo de não doentes (controles) em relação à exposição passada.",
+      "Um estudo que analisa dados de uma população em um único ponto no tempo para avaliar prevalência.",
+      "Um estudo em que o pesquisador intervém, aplicando um tratamento a um grupo.",
+      "Um estudo que segue um grupo de indivíduos expostos e não expostos ao longo do tempo para comparar a incidência de uma doença.",
+      "Um estudo que utiliza dados agregados de populações para investigar associações."
+    ],
+    "answer": "Um estudo que segue um grupo de indivíduos expostos e não expostos ao longo do tempo para comparar a incidência de uma doença.",
+    "explanation": "A característica definidora de um estudo de coorte é o acompanhamento (follow-up) de grupos (coortes) definidos pela exposição a um fator de risco, para observar o desfecho (incidência da doença) ao longo do tempo.",
+    "area": "Legislação do SUS"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A trombocitopenia gestacional, a causa mais comum de plaquetopenia na gravidez, geralmente se manifesta de que forma?",
+    "options": [
+      "Plaquetopenia severa (< 50.000/mm³) no primeiro trimestre.",
+      "Associada a hemólise e aumento de enzimas hepáticas.",
+      "Plaquetopenia leve a moderada (> 70.000/mm³) no final da gestação, sem outras anormalidades.",
+      "Presença de anticorpos antiplaquetários em altos títulos.",
+      "Sempre requer tratamento com corticoide ou imunoglobulina."
+    ],
+    "answer": "Plaquetopenia leve a moderada (> 70.000/mm³) no final da gestação, sem outras anormalidades.",
+    "explanation": "A trombocitopenia gestacional é um diagnóstico de exclusão, caracterizado por uma contagem de plaquetas geralmente acima de 70.000/mm³, que ocorre no terceiro trimestre e se resolve espontaneamente após o parto, sem risco para a mãe ou feto.",
+    "area": "Medicina Básica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Paciente com transtorno da compulsão alimentar periódica (TCAP) se diferencia de um paciente com bulimia nervosa principalmente pela:",
+    "options": [
+      "Quantidade de comida ingerida durante os episódios.",
+      "Sensação de falta de controle durante a compulsão.",
+      "Frequência dos episódios de compulsão.",
+      "Presença de sofrimento acentuado em relação à compulsão.",
+      "Ausência de comportamentos compensatórios inapropriados recorrentes."
+    ],
+    "answer": "Ausência de comportamentos compensatórios inapropriados recorrentes.",
+    "explanation": "Ambos os transtornos envolvem episódios de compulsão alimentar com perda de controle. A característica distintiva da bulimia nervosa é a presença de comportamentos compensatórios (vômitos, uso de laxantes, exercícios excessivos) para prevenir o ganho de peso, que estão ausentes no TCAP.",
+    "area": "Medicina Básica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual é o instrumento de planejamento do SUS que detalha as metas e ações a serem executadas anualmente para cumprir o Plano de Saúde?",
+    "options": [
+      "Relatório Anual de Gestão (RAG)",
+      "Plano Plurianual (PPA)",
+      "Lei de Diretrizes Orçamentárias (LDO)",
+      "Programação Anual de Saúde (PAS)",
+      "Plano Diretor de Regionalização (PDR)"
+    ],
+    "answer": "Programação Anual de Saúde (PAS)",
+    "explanation": "O Plano de Saúde é válido por 4 anos. A Programação Anual de Saúde (PAS) é o instrumento que operacionaliza as intenções do Plano de Saúde para cada ano, definindo as ações, metas e recursos orçamentários.",
+    "area": "Legislação do SUS"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Em um paciente com disfunção erétil, qual achado é o indicador mais forte de uma causa psicogênica?",
+    "options": [
+      "Início súbito do sintoma.",
+      "Boa resposta a inibidores da fosfodiesterase-5.",
+      "Histórico de ansiedade ou depressão.",
+      "Presença de ereções noturnas ou matinais normais.",
+      "Piora da disfunção em situações de estresse."
+    ],
+    "answer": "Presença de ereções noturnas ou matinais normais.",
+    "explanation": "Se o mecanismo fisiológico da ereção está intacto (demonstrado pela presença de ereções involuntárias durante o sono), a falha durante a atividade sexual aponta fortemente para um componente psicogênico (ansiedade de desempenho, estresse).",
+    "area": "Medicina Básica"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Um resultado de VDRL não reator e FTA-ABS reator em um paciente assintomático e sem histórico de tratamento é mais compatível com qual situação?",
+    "options": [
+      "Sífilis primária inicial (janela imunológica).",
+      "Sífilis secundária.",
+      "Sífilis latente tardia ou sífilis tratada (cicatriz sorológica).",
+      "Reação falso-positiva no FTA-ABS.",
+      "Sífilis congênita."
+    ],
+    "answer": "Sífilis latente tardia ou sífilis tratada (cicatriz sorológica).",
+    "explanation": "O FTA-ABS é um teste treponêmico que geralmente permanece positivo por toda a vida, mesmo após o tratamento. O VDRL é um teste não treponêmico que tende a negativar com o tratamento ou pode ser negativo na sífilis tardia. Essa combinação sugere infecção passada (tratada ou não).",
+    "area": "Medicina Básica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A asma ocupacional, desencadeada pela exposição a alérgenos no ambiente de trabalho, é classificada como qual tipo de hipersensibilidade de Gell e Coombs?",
+    "options": [
+      "Tipo I (imediata, mediada por IgE)",
+      "Tipo II (citotóxica, mediada por anticorpos)",
+      "Tipo III (mediada por imunocomplexos)",
+      "Tipo IV (tardia, mediada por células)",
+      "Não se enquadra na classificação de Gell e Coombs."
+    ],
+    "answer": "Tipo I (imediata, mediada por IgE)",
+    "explanation": "A asma alérgica, incluindo a ocupacional, é uma reação de hipersensibilidade do tipo I clássica, onde a exposição ao alérgeno leva à degranulação de mastócitos sensibilizados por IgE, resultando em broncoespasmo.",
+    "area": "Medicina Básica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual é a principal função da Atenção Primária à Saúde (APS) dentro de uma Rede de Atenção à Saúde (RAS)?",
+    "options": [
+      "Atender exclusivamente casos de baixa complexidade.",
+      "Ser o centro de comunicação e a ordenadora do cuidado na rede.",
+      "Realizar apenas ações de promoção da saúde.",
+      "Funcionar como um filtro para o acesso aos hospitais.",
+      "Gerenciar o orçamento de toda a rede de saúde."
+    ],
+    "answer": "Ser o centro de comunicação e a ordenadora do cuidado na rede.",
+    "explanation": "Na concepção das RAS, a APS (ou Atenção Básica) não é apenas a porta de entrada, mas o centro coordenador do percurso do paciente pela rede, garantindo a longitudinalidade e a continuidade do cuidado em todos os pontos de atenção.",
+    "area": "Legislação do SUS"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Paciente de 42 anos refere dor epigástrica que irradia para o retroesterno, piora ao deitar e está associada a gosto amargo na boca. Qual a conduta inicial mais custo-efetiva e recomendada?",
+    "options": [
+      "Solicitar endoscopia digestiva alta de urgência.",
+      "Solicitar pHmetria esofágica de 24 horas.",
+      "Pesquisar Helicobacter pylori.",
+      "Iniciar um teste terapêutico com inibidor de bomba de prótons.",
+      "Indicar cirurgia antirrefluxo."
+    ],
+    "answer": "Iniciar um teste terapêutico com inibidor de bomba de prótons.",
+    "explanation": "Em um paciente jovem, com sintomas clássicos de Doença do Refluxo Gastroesofágico (DRGE) e sem sinais de alarme, a abordagem inicial mais recomendada é o tratamento empírico com um IBP (ex: omeprazol, pantoprazol) por 4 a 8 semanas.",
+    "area": "Medicina Básica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual o principal achado que diferencia a bulimia nervosa do transtorno de purgação?",
+    "options": [
+      "A presença de comportamentos compensatórios.",
+      "A frequência dos comportamentos de purgação.",
+      "A presença de episódios de compulsão alimentar na bulimia.",
+      "A distorção da imagem corporal.",
+      "O peso corporal do paciente."
+    ],
+    "answer": "A presença de episódios de compulsão alimentar na bulimia.",
+    "explanation": "No transtorno de purgação, o indivíduo utiliza métodos purgativos (vômito, laxantes) para influenciar o peso, mas sem a ocorrência dos episódios de compulsão alimentar (ingestão de grande quantidade de comida com perda de controle) que são mandatórios para o diagnóstico de bulimia nervosa.",
+    "area": "Medicina Básica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Em um paciente com taquicardia ventricular recorrente e fração de ejeção do ventrículo esquerdo de 38%, qual a conduta mais apropriada para prevenção de morte súbita?",
+    "options": [
+      "Iniciar amiodarona em dose de manutenção.",
+      "Iniciar betabloqueador em dose máxima tolerada.",
+      "Realizar estudo eletrofisiológico para ablação do foco arritmogênico.",
+      "Implantar um cardioversor-desfibrilador implantável (CDI).",
+      "Realizar angiografia coronariana para avaliar revascularização."
+    ],
+    "answer": "Implantar um cardioversor-desfibrilador implantável (CDI).",
+    "explanation": "A presença de taquicardia ventricular sustentada em um paciente com disfunção ventricular esquerda significativa (FE < 40%) é uma indicação clássica para o implante de CDI como prevenção secundária de morte súbita cardíaca.",
+    "area": "Medicina Básica"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual o patógeno transmitido por alimentos e água que pode ser eficazmente prevenido por vacinação oral?",
+    "options": [
+      "Salmonella enteritidis",
+      "Escherichia coli enterohemorrágica",
+      "Vibrio cholerae",
+      "Giardia lamblia",
+      "Hepatite A"
+    ],
+    "answer": "Vibrio cholerae",
+    "explanation": "Existem vacinas orais contra a cólera, causada pelo Vibrio cholerae, que são recomendadas pela OMS em áreas de surto e para viajantes. A vacina contra a Hepatite A é injetável.",
+    "area": "Medicina Básica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A alta tolerância aos efeitos do álcool em um indivíduo com consumo crônico, mesmo com níveis séricos elevados, é explicada principalmente por qual mecanismo?",
+    "options": [
+      "Metabolismo acelerado do álcool no fígado.",
+      "Adaptação do sistema nervoso central (tolerância funcional).",
+      "Eliminação mais rápida do álcool pelos rins.",
+      "Neutralização dos efeitos por hormônios de estresse.",
+      "Distribuição do álcool para o tecido adiposo."
+    ],
+    "answer": "Adaptação do sistema nervoso central (tolerância funcional).",
+    "explanation": "A tolerância funcional ou farmacodinâmica ocorre quando o cérebro se adapta à presença constante do álcool, necessitando de doses maiores para produzir os mesmos efeitos. É o principal mecanismo para a tolerância observada em usuários crônicos.",
+    "area": "Medicina Básica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual o teste diagnóstico mais preciso para confirmar asma em um paciente com espirometria basal normal, mas com alta suspeita clínica?",
+    "options": [
+      "Tomografia de tórax de alta resolução.",
+      "Dosagem de IgE sérica total.",
+      "Teste de broncoprovocação com metacolina.",
+      "Medida do pico de fluxo expiratório.",
+      "Ecocardiograma."
+    ],
+    "answer": "Teste de broncoprovocação com metacolina.",
+    "explanation": "Em pacientes sintomáticos com espirometria normal, o teste de broncoprovocação é usado para demonstrar a hiper-responsividade brônquica, uma característica fundamental da asma. Uma queda do VEF1 ≥ 20% após inalação de metacolina confirma o diagnóstico.",
+    "area": "Medicina Básica"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Na paralisia de Bell (paralisia facial idiopática), qual é a complicação ocular mais comum que requer manejo preventivo?",
+    "options": [
+      "Glaucoma agudo",
+      "Uveíte anterior",
+      "Ceratopatia de exposição (úlcera de córnea)",
+      "Catarata",
+      "Neurite óptica"
+    ],
+    "answer": "Ceratopatia de exposição (úlcera de córnea)",
+    "explanation": "A paralisia do músculo orbicular do olho impede o fechamento palpebral completo (lagoftalmo), deixando a córnea exposta e ressecada. Isso pode levar a úlceras e infecções, sendo a complicação mais temida e que exige lubrificação e oclusão ocular.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A presença de timpanograma com curva tipo Ad (alta complacência) é sugestiva de:",
+    "options": [
+      "Otosclerose",
+      "Otite média serosa",
+      "Disjunção da cadeia ossicular",
+      "Perfuração timpânica",
+      "Tímpano normal"
+    ],
+    "answer": "Disjunção da cadeia ossicular",
+    "explanation": "A curva Ad indica um sistema tímpano-ossicular extremamente flácido, com alta admitância. Isso ocorre classicamente na desarticulação da cadeia ossicular ou em membranas timpânicas atróficas e monoméricas.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual das seguintes alterações estruturais mínimas da prega vocal é tipicamente unilateral?",
+    "options": [
+      "Nódulo vocal",
+      "Sulco vocal estria maior",
+      "Edema de Reinke",
+      "Pólipo vocal",
+      "Presbilaringe"
+    ],
+    "answer": "Pólipo vocal",
+    "explanation": "Enquanto os nódulos vocais são classicamente bilaterais e simétricos (resultado de trauma fonatório), os pólipos são geralmente unilaterais e podem ter diversas aparências (pediculado, séssil, angiomatoso).",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A Síndrome PFAPA (Febre Periódica, Estomatite Aftosa, Faringite e Adenite) é tratada na crise aguda com qual medicamento, que geralmente promove uma resposta rápida e dramática?",
+    "options": [
+      "Amoxicilina",
+      "Ibuprofeno",
+      "Colchicina",
+      "Prednisolona",
+      "Aciclovir"
+    ],
+    "answer": "Prednisolona",
+    "explanation": "Uma dose única de corticoide (prednisona ou prednisolona) no início da crise é o tratamento de escolha para a síndrome PFAPA, geralmente resolvendo a febre e os sintomas em poucas horas.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A manobra de Semont é uma alternativa à manobra de Epley para o tratamento da VPPB de qual canal semicircular?",
+    "options": [
+      "Canal lateral (geotrópico)",
+      "Canal lateral (apogeotrópico)",
+      "Canal anterior",
+      "Canal posterior",
+      "Múltiplos canais"
+    ],
+    "answer": "Canal posterior",
+    "explanation": "Tanto a manobra de Epley (reposicionamento) quanto a de Semont (liberatória) são tratamentos de primeira linha e altamente eficazes para a VPPB do canal semicircular posterior.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual o conceito de 'longitudinalidade do cuidado' na Atenção Primária à Saúde?",
+    "options": [
+      "O tempo de duração de uma consulta médica.",
+      "O acompanhamento do paciente pela mesma equipe de saúde ao longo do tempo.",
+      "A distância que o paciente percorre para chegar à unidade de saúde.",
+      "A realização de todos os exames no mesmo dia.",
+      "A articulação entre diferentes níveis de atenção."
+    ],
+    "answer": "O acompanhamento do paciente pela mesma equipe de saúde ao longo do tempo.",
+    "explanation": "A longitudinalidade é um atributo essencial da APS e refere-se ao estabelecimento de um vínculo terapêutico duradouro entre a equipe de saúde e os pacientes/famílias ao longo de suas vidas, o que permite um cuidado mais integral e efetivo.",
+    "area": "Legislação do SUS"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A 'língua careca' ou glossite atrófica, caracterizada pela perda das papilas filiformes, é um sinal clínico clássico de qual condição?",
+    "options": [
+      "Infecção por HPV",
+      "Candidíase oral",
+      "Anemia por deficiência de ferro ou vitamina B12",
+      "Refluxo laringofaríngeo",
+      "Tabagismo crônico"
+    ],
+    "answer": "Anemia por deficiência de ferro ou vitamina B12",
+    "explanation": "A glossite atrófica, que deixa a língua com aspecto liso, brilhante e avermelhado, é uma manifestação clássica de anemias carenciais, como a ferropriva e a megaloblástica (deficiência de B12/folato).",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A presença de uma curva timpanométrica tipo B com volume de orelha média normal (ex: 0.8 ml) é mais sugestiva de:",
+    "options": [
+      "Perfuração timpânica",
+      "Tímpano normal",
+      "Disjunção de cadeia ossicular",
+      "Otite média serosa (secreção na orelha média)",
+      "Otosclerose"
+    ],
+    "answer": "Otite média serosa (secreção na orelha média)",
+    "explanation": "A curva tipo B (plana) indica um sistema tímpano-ossicular rígido, sem mobilidade. Um volume normal exclui perfuração ou tubo de ventilação pérvio, tornando a presença de líquido na orelha média a causa mais provável.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual das seguintes opções é uma característica da Síndrome de Eagle?",
+    "options": [
+      "Alongamento do processo estiloide ou calcificação do ligamento estilo-hioideo.",
+      "Encurtamento do processo estiloide.",
+      "Presença de osteoma no conduto auditivo externo.",
+      "Fusão das vértebras cervicais.",
+      "Paralisia do nervo hipoglosso."
+    ],
+    "answer": "Alongamento do processo estiloide ou calcificação do ligamento estilo-hioideo.",
+    "explanation": "A Síndrome de Eagle é um conjunto de sintomas (dor cervical, odinofagia, sensação de corpo estranho) causados pela compressão de estruturas neurovasculares por um processo estiloide alongado (> 2.5-3.0 cm) ou pela calcificação do ligamento estilo-hioideo.",
+    "area": "Urgências e Miscelânea"
+  }]
