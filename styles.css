@@ -22,3 +22,15 @@ body {
     border-color: #ef4444 !important;
     color: #991b1b;
 }
+
+@media print {
+    #start-screen,
+    #quiz-screen,
+    #restart-btn,
+    #print-btn {
+        display: none !important;
+    }
+    body {
+        background-color: #fff;
+    }
+}
