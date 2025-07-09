@@ -2055,5 +2055,691 @@
     "answer": "Pólipo antrocoanal de grande volume",
     "explanation": "O pólipo antrocoanal se origina na parede do seio maxilar, cresce, preenche o seio, passa pelo óstio e se estende para a coana. Quando muito grande, ele pode expandir o óstio e abaular a parede anterior do seio, um achado conhecido como sinal de Luc.",
     "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Na tomografia computadorizada de osso temporal, a malformação de Mondini é caracterizada por:",
+    "options": [
+      "Agenesia completa do labirinto.",
+      "Uma cóclea com apenas 1,5 giros em vez dos 2,5 giros normais.",
+      "Deiscência do canal semicircular superior.",
+      "Alargamento exclusivo do aqueduto vestibular.",
+      "Fusão dos ossículos da orelha média."
+    ],
+    "answer": "Uma cóclea com apenas 1,5 giros em vez dos 2,5 giros normais.",
+    "explanation": "A anomalia de Mondini é uma displasia coclear clássica onde a cóclea se apresenta hipoplásica, com a espira média e apical fundidas, formando um ápice cístico, resultando em uma aparência de 1,5 giros. Frequentemente está associada a um vestíbulo e canais semicirculares alargados.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O sinal de 'salt and pepper' (sal e pimenta) na ressonância magnética, especialmente em sequências T1 com contraste, é um achado de imagem característico de qual tumor cervical?",
+    "options": [
+      "Schwannoma do vago",
+      "Linfoma",
+      "Carcinoma mucoepidermoide",
+      "Paraganglioma (Glomus)",
+      "Adenoma pleomórfico"
+    ],
+    "answer": "Paraganglioma (Glomus)",
+    "explanation": "Este sinal é patognomônico de paragangliomas. O 'sal' representa focos de hemorragia ou fluxo lento (hiperintensos em T1), e a 'pimenta' representa os múltiplos 'flow voids' (pontos pretos) dos vasos de alto fluxo que nutrem o tumor.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Durante a otoscopia, a visualização de uma massa avermelhada retrotimpânica que empalidece com a aplicação de pressão positiva (pneumotoscopia) é conhecida como:",
+    "options": [
+      "Sinal de Schwartze",
+      "Sinal de Griesinger",
+      "Sinal de Brown",
+      "Sinal de Battle",
+      "Sinal de Phelps"
+    ],
+    "answer": "Sinal de Brown",
+    "explanation": "O sinal de Brown é um sinal clínico clássico de um tumor glômico timpânico. A pressão positiva comprime os vasos sanguíneos do tumor, causando seu empalidecimento temporário.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Na avaliação de um paciente com vertigem, o exame HINTS (Head-Impulse, Nystagmus, Test-of-Skew) é utilizado para diferenciar uma causa central de uma periférica. Um resultado sugestivo de AVC (causa central) seria:",
+    "options": [
+      "Head Impulse positivo, nistagmo horizontal, sem desvio de skew.",
+      "Head Impulse negativo, nistagmo que muda de direção com o olhar, e presença de desvio de skew.",
+      "Head Impulse positivo, nistagmo que não muda de direção, sem desvio de skew.",
+      "Head Impulse negativo, nistagmo rotatório, sem desvio de skew.",
+      "Head Impulse positivo, nistagmo vertical, com desvio de skew."
+    ],
+    "answer": "Head Impulse negativo, nistagmo que muda de direção com o olhar, e presença de desvio de skew.",
+    "explanation": "A presença de QUALQUER um dos seguintes achados no HINTS é altamente sugestiva de causa central: Head Impulse Normal (negativo), Nistagmo com mudança de direção (gaze-evoked) ou Teste de Skew positivo. A tríade 'tranquilizadora' para causa periférica é HI positivo, nistagmo unidirecional e ausência de skew.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O sinal de Holman-Miller, também conhecido como sinal antral, é o abaulamento anterior da parede posterior do seio maxilar visto na TC. Este sinal é um achado clássico de qual tumor?",
+    "options": [
+      "Carcinoma adenoide cístico",
+      "Angiofibroma nasofaríngeo juvenil",
+      "Pólipo antrocoanal",
+      "Esteoneuroblastoma",
+      "Melanoma de mucosa"
+    ],
+    "answer": "Angiofibroma nasofaríngeo juvenil",
+    "explanation": "O angiofibroma é um tumor que se origina próximo ao forame esfenopalatino e se expande. Um de seus vetores de crescimento é para dentro do seio maxilar, empurrando e abaulando sua parede posterior para frente, o que constitui o sinal de Holman-Miller.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Na avaliação audiométrica de um trabalhador exposto a ruído ocupacional, o achado mais característico de uma Perda Auditiva Induzida por Ruído (PAIR) em fase inicial é:",
+    "options": [
+      "Perda auditiva condutiva bilateral.",
+      "Perda neurossensorial com entalhe em 2000 Hz.",
+      "Perda neurossensorial com entalhe em 4000 ou 6000 Hz.",
+      "Perda neurossensorial ascendente, pior em frequências graves.",
+      "Perda auditiva mista com zumbido pulsátil."
+    ],
+    "answer": "Perda neurossensorial com entalhe em 4000 ou 6000 Hz.",
+    "explanation": "A PAIR classicamente se manifesta como uma perda auditiva neurossensorial bilateral e simétrica, com um entalhe (piora da audição) característico na faixa de 3000 a 6000 Hz, mais comumente em 4000 Hz, com recuperação relativa nas frequências mais altas.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A presença de uma imagem hiperdensa, sem realce de contraste, preenchendo completamente um seio paranasal, frequentemente o maxilar, em um paciente imunocompetente, é o achado tomográfico típico de:",
+    "options": [
+      "Mucocele",
+      "Rinossinusite fúngica invasiva",
+      "Bola fúngica (micetoma)",
+      "Papiloma invertido",
+      "Pólipo inflamatório"
+    ],
+    "answer": "Bola fúngica (micetoma)",
+    "explanation": "Uma bola fúngica é uma massa densa de hifas fúngicas em um seio. Na TC, ela aparece como uma massa hiperdensa (devido a íons metálicos e cálcio), que não realça com contraste e não invade as paredes ósseas, diferenciando-se de outras formas de sinusite fúngica.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Na ressonância magnética de um tumor cerebral, o 'sinal da cauda dural' ('dural tail sign'), um realce linear da dura-máter adjacente à lesão, é um forte indicador de:",
+    "options": [
+      "Glioblastoma",
+      "Metástase cerebral",
+      "Linfoma primário do SNC",
+      "Meningioma",
+      "Schwannoma"
+    ],
+    "answer": "Meningioma",
+    "explanation": "O sinal da cauda dural, embora não exclusivo, é altamente característico de meningiomas. Representa um espessamento e realce reacional da dura-máter onde o tumor se implanta.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O achado otoscópico de uma perfuração timpânica localizada na pars flaccida (membrana de Shrapnell) é um sinal de alerta para qual condição?",
+    "options": [
+      "Otite média aguda perfurada",
+      "Otite média crônica simples",
+      "Otite média crônica colesteatomatosa",
+      "Miringite bolhosa",
+      "Trauma barométrico"
+    ],
+    "answer": "Otite média crônica colesteatomatosa",
+    "explanation": "Perfurações na pars tensa são comuns na otite média crônica simples. No entanto, uma perfuração na pars flaccida (marginal ou no ático) é um sinal clássico de um colesteatoma adquirido, que se forma a partir de uma bolsa de retração nesta área.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O fenômeno de Tullio é a ocorrência de vertigem e nistagmo em resposta a qual tipo de estímulo?",
+    "options": [
+      "Pressão no meato acústico externo",
+      "Hiperventilação",
+      "Mudança rápida de posição da cabeça",
+      "Sons de alta intensidade",
+      "Vibração aplicada na mastoide"
+    ],
+    "answer": "Sons de alta intensidade",
+    "explanation": "O fenômeno de Tullio é a vertigem induzida por som. Ocorre em condições onde há uma 'terceira janela' na orelha interna, como na deiscência do canal semicircular superior, permitindo que a energia sonora estimule o sistema vestibular.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Na tomografia de pescoço, a identificação de uma lesão cística localizada na borda anterior do músculo esternocleidomastoideo, ao nível do ângulo da mandíbula, é a apresentação típica de:",
+    "options": [
+      "Cisto do ducto tireoglosso",
+      "Linfonodo necrótico",
+      "Cisto de segunda fenda branquial",
+      "Laringocele externa",
+      "Cisto dermoide"
+    ],
+    "answer": "Cisto de segunda fenda branquial",
+    "explanation": "Os cistos de segunda fenda branquial são as anomalias branquiais mais comuns. Sua localização clássica é lateral no pescoço, anterior ao músculo esternocleidomastoideo e posterior à glândula submandibular.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual o nome do sinal clínico caracterizado por pletora facial, congestão e dispneia quando o paciente eleva ambos os braços acima da cabeça?",
+    "options": [
+      "Sinal de Pemberton",
+      "Sinal de Griesinger",
+      "Sinal de Battle",
+      "Sinal de Frank",
+      "Sinal de Lhermitte"
+    ],
+    "answer": "Sinal de Pemberton",
+    "explanation": "O sinal de Pemberton é positivo quando a elevação dos braços causa compressão da veia jugular e traqueia na abertura torácica superior por uma massa, como um bócio mergulhante ou tumor de mediastino, levando à congestão venosa facial.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A imagem de 'árvore sem folhas' ('leafless tree') na sialografia, que mostra uma ductopenia com sialectasias puntiformes, é um achado característico de qual doença autoimune?",
+    "options": [
+      "Lúpus Eritematoso Sistêmico",
+      "Artrite Reumatoide",
+      "Síndrome de Sjögren",
+      "Esclerodermia",
+      "Sarcoidose"
+    ],
+    "answer": "Síndrome de Sjögren",
+    "explanation": "Na Síndrome de Sjögren, a infiltração linfocitária destrói os ductos salivares menores (ductopenia), enquanto os ductos principais permanecem, e o parênquima apresenta dilatações císticas (sialectasias). Na sialografia, isso cria uma imagem que se assemelha a uma árvore sem seus galhos finos.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Na ressonância magnética, o 'sinal do cérebro invertido' ('inverted convoluted cerebriform pattern') é um padrão de imagem descrito em qual tipo de tumor nasossinusal?",
+    "options": [
+      "Esteoneuroblastoma",
+      "Melanoma de mucosa",
+      "Angiofibroma",
+      "Carcinoma adenoide cístico",
+      "Papiloma invertido"
+    ],
+    "answer": "Papiloma invertido",
+    "explanation": "Este sinal, visto em T2 e T1 com contraste, descreve as dobras de epitélio e estroma do papiloma invertido, que criam uma aparência estriada e giriforme, semelhante aos giros do córtex cerebral. É um achado bastante específico.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A presença de 'olhos de guaxinim' (equimose periorbitária bilateral) após um traumatismo craniano é um sinal clínico sugestivo de fratura de qual região?",
+    "options": [
+      "Mandíbula",
+      "Arco zigomático",
+      "Base do crânio (fossa anterior)",
+      "Maxila (Le Fort I)",
+      "Osso nasal isolado"
+    ],
+    "answer": "Base do crânio (fossa anterior)",
+    "explanation": "A equimose periorbitária bilateral, ou 'olhos de guaxinim', resulta do extravasamento de sangue para os tecidos moles periorbitários devido a uma fratura da base do crânio que envolve a fossa craniana anterior (ex: osso etmoide, frontal).",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O sinal de Holzknecht-Jacobson, que é o desvio da traqueia para o lado paralisado durante a inspiração profunda, é observado em qual condição?",
+    "options": [
+      "Paralisia de prega vocal unilateral",
+      "Estenose subglótica",
+      "Bócio mergulhante",
+      "Corpo estranho em brônquio fonte",
+      "Pneumotórax"
+    ],
+    "answer": "Paralisia de prega vocal unilateral",
+    "explanation": "Em uma paralisia unilateral em posição paramediana, a prega vocal sadia se abduz normalmente na inspiração, enquanto a paralisada permanece fixa. A pressão negativa inspiratória pode 'puxar' a traqueia e a laringe em direção ao lado paralisado, que oferece menos resistência.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Na avaliação da disfagia, o achado de 'impressão cricofaríngea' proeminente na videofluoroscopia ou videoendoscopia da deglutição indica:",
+    "options": [
+      "Um achado normal da idade",
+      "Disfunção do músculo cricofaríngeo (acalasia)",
+      "Presença de um divertículo de Zenker",
+      "Estenose esofágica proximal",
+      "Compressão extrínseca por osteófito cervical"
+    ],
+    "answer": "Disfunção do músculo cricofaríngeo (acalasia)",
+    "explanation": "Uma barra cricofaríngea proeminente representa a falha do músculo cricofaríngeo (esfíncter esofágico superior) em relaxar adequadamente durante a fase faríngea da deglutição, causando uma indentação na parede posterior da hipofaringe.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual o nome da síndrome que envolve a paralisia do nervo laríngeo recorrente e do nervo frênico, geralmente por um tumor no ápice pulmonar?",
+    "options": [
+      "Síndrome de Horner",
+      "Síndrome de Pancoast",
+      "Síndrome de Ortner",
+      "Síndrome de Tapia",
+      "Síndrome de Vernet"
+    ],
+    "answer": "Síndrome de Pancoast",
+    "explanation": "A síndrome de Pancoast é causada por um tumor no sulco pulmonar superior que invade estruturas adjacentes, classicamente causando dor no ombro e braço (plexo braquial), síndrome de Horner (gânglio estrelado) e, frequentemente, rouquidão (nervo laríngeo recorrente) e paralisia diafragmática (nervo frênico).",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O sinal de 'bico' ou 'beaking' na sialografia, mostrando uma estenose abrupta de um ducto salivar, é um achado sugestivo de:",
+    "options": [
+      "Sialolitíase",
+      "Parotidite crônica",
+      "Síndrome de Sjögren",
+      "Infiltração por tumor maligno",
+      "Estenose inflamatória"
+    ],
+    "answer": "Infiltração por tumor maligno",
+    "explanation": "Enquanto estenoses inflamatórias tendem a ser mais lisas e graduais, uma estenose abrupta, irregular e com aparência de 'bico de pássaro' em um ducto salivar é altamente suspeita de infiltração e compressão por um processo neoplásico maligno adjacente.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O 'sinal do esporão de Chassé' é um achado radiológico visto na tomografia de osso temporal que indica erosão de qual estrutura, sendo um sinal precoce de colesteatoma?",
+    "options": [
+      "Parede lateral do ático (escudo timânico)",
+      "Bigorna (ramo longo)",
+      "Cabeça do martelo",
+      "Platina do estribo",
+      "Promontório coclear"
+    ],
+    "answer": "Parede lateral do ático (escudo timânico)",
+    "explanation": "O escudo timânico (scutum) é a fina parede óssea que forma o limite lateral do recesso epitimpânico (ático). A erosão de sua ponta inferior, o 'esporão de Chassé', é um dos primeiros sinais de um colesteatoma se formando a partir de uma bolsa de retração da pars flaccida.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A presença de 'fácies leonina', um espessamento grosseiro da pele da face, é um sinal clínico clássico de qual doença infecciosa com manifestações nasais?",
+    "options": [
+      "Sífilis terciária (goma)",
+      "Hanseníase virchowiana",
+      "Leishmaniose mucocutânea",
+      "Tuberculose (lúpus vulgar)",
+      "Paracoccidioidomicose"
+    ],
+    "answer": "Hanseníase virchowiana",
+    "explanation": "Na hanseníase virchowiana, há uma infiltração difusa da pele por bacilos, levando ao espessamento dos tecidos faciais, perda das sobrancelhas (madarose) e uma aparência que se assemelha à face de um leão.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Na estroboscopia laríngea, a ausência ou redução da 'onda mucosa' sobre uma lesão na prega vocal indica:",
+    "options": [
+      "Uma lesão puramente superficial e funcional.",
+      "Infiltração da camada profunda da lâmina própria (espaço de Reinke) ou do ligamento vocal.",
+      "Paralisia do nervo laríngeo superior.",
+      "Uma lesão benigna com baixo risco de malignidade.",
+      "Edema de Reinke."
+    ],
+    "answer": "Infiltração da camada profunda da lâmina própria (espaço de Reinke) ou do ligamento vocal.",
+    "explanation": "A onda mucosa representa a vibração da camada superficial da lâmina própria sobre o ligamento vocal. Sua ausência ou rigidez sobre uma lesão (ex: cisto, sulco, carcinoma inicial) significa que a lesão está infiltrando ou 'amarrando' as camadas mais profundas, impedindo a vibração normal.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O sinal de 'Tillaux-Phocas', que é a retração do mamilo, é um sinal clássico de câncer de mama, mas em Otorrinolaringologia, um sinal análogo de retração da pele cervical sobre um nódulo é altamente sugestivo de:",
+    "options": [
+      "Cisto branquial infectado",
+      "Linfonodo reacional",
+      "Metástase cervical com invasão e fixação à pele",
+      "Lipoma cervical",
+      "Hemangioma"
+    ],
+    "answer": "Metástase cervical com invasão e fixação à pele",
+    "explanation": "A fixação de um nódulo cervical à pele sobrejacente, causando retração ou umbilicação, é um sinal clínico de mau prognóstico, indicando que a metástase (geralmente de um carcinoma espinocelular) rompeu a cápsula do linfonodo e está infiltrando a derme.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual o nome da síndrome caracterizada por rouquidão devido à paralisia da prega vocal esquerda, causada pela compressão do nervo laríngeo recorrente esquerdo por um átrio esquerdo ou artéria pulmonar dilatados?",
+    "options": [
+      "Síndrome de Tapia",
+      "Síndrome de Ortner (cardiovocal)",
+      "Síndrome de Vernet",
+      "Síndrome de Pancoast",
+      "Síndrome de Horner"
+    ],
+    "answer": "Síndrome de Ortner (cardiovocal)",
+    "explanation": "A síndrome de Ortner descreve a paralisia do nervo laríngeo recorrente esquerdo devido a uma compressão cardiovascular em seu trajeto sob o arco aórtico, mais comumente por dilatação do átrio esquerdo (estenose mitral) ou da artéria pulmonar.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A presença de 'fading' ou fadiga no reflexo estapediano (decay do reflexo) é um sinal de:",
+    "options": [
+      "Disfunção da tuba auditiva",
+      "Lesão da orelha média (otosclerose)",
+      "Lesão coclear (recrutamento)",
+      "Lesão retrococlear (ex: schwannoma do nervo vestibular)",
+      "Hipoacusia condutiva"
+    ],
+    "answer": "Lesão retrococlear (ex: schwannoma do nervo vestibular)",
+    "explanation": "O 'reflex decay' é a incapacidade de sustentar a contração do músculo estapédio a um som contínuo. Uma queda de 50% na amplitude do reflexo em 10 segundos é um sinal clássico de uma lesão no nervo vestibulococlear (VIII), que não consegue manter a transmissão do sinal.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Na tomografia computadorizada de um paciente com mastoidite coalescente, o principal achado que define a condição é:",
+    "options": [
+      "Opacificação total das células da mastoide.",
+      "Nível hidroaéreo dentro da mastoide.",
+      "Espessamento da mucosa da mastoide.",
+      "Erosão e destruição das septações ósseas da mastoide.",
+      "Esclerose e hipopneumatização da mastoide."
+    ],
+    "answer": "Erosão e destruição das septações ósseas da mastoide.",
+    "explanation": "A mastoidite aguda simples envolve inflamação e fluido. A mastoidite coalescente é a progressão para uma osteíte, onde a inflamação causa necrose avascular e erosão das finas trabéculas ósseas, transformando as células mastoides individuais em uma cavidade abscedida única.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O sinal de 'olho de boi' ('bull's eye sign') em uma tomografia ou ressonância de pescoço, mostrando uma lesão com centro necrótico/cístico e realce anelar periférico, é um achado comum em:",
+    "options": [
+      "Linfonodo reacional",
+      "Lipoma",
+      "Metástase de carcinoma espinocelular",
+      "Cisto branquial",
+      "Adenoma pleomórfico"
+    ],
+    "answer": "Metástase de carcinoma espinocelular",
+    "explanation": "A necrose central em um linfonodo cervical é um forte indicador de metástase, especialmente de carcinoma espinocelular. O crescimento rápido do tumor supera seu suprimento sanguíneo, levando à necrose central, enquanto a periferia viável realça com o contraste.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'tríade de Killian', composta por dor, disfagia e regurgitação, é associada ao desenvolvimento de qual condição?",
+    "options": [
+      "Abscesso periamigdaliano",
+      "Câncer de hipofaringe",
+      "Divertículo de Zenker",
+      "Estenose subglótica",
+      "Acalasia cricofaríngea"
+    ],
+    "answer": "Divertículo de Zenker",
+    "explanation": "O divertículo de Zenker é uma herniação da mucosa faríngea através de uma área de fraqueza muscular (triângulo de Killian). A tríade descreve os sintomas clássicos: dor ou desconforto cervical, disfagia por compressão do esôfago e regurgitação de alimentos não digeridos que ficam presos no divertículo.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Na avaliação de um paciente com zumbido pulsátil, a ausculta cervical ou periauricular que revela um sopro sincrônico com o pulso é denominada:",
+    "options": [
+      "Sinal de Hennebert",
+      "Frêmito vocal",
+      "Sinal de Wilde",
+      "Estertor crepitante",
+      "Sinal de Pemberton"
+    ],
+    "answer": "Sinal de Wilde",
+    "explanation": "O sinal de Wilde é a presença de um sopro objetivo (audível pelo examinador) em um paciente com zumbido pulsátil, confirmando a origem vascular do som, como em uma fístula arteriovenosa dural, estenose carotídea ou tumor glômico.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual o nome da síndrome que associa paralisia facial periférica, língua fissurada (língua escrotal) e edema orofacial (queilite granulomatosa)?",
+    "options": [
+      "Síndrome de Ramsay Hunt",
+      "Síndrome de Heerfordt",
+      "Síndrome de Melkersson-Rosenthal",
+      "Síndrome de Sjögren",
+      "Síndrome de Behçet"
+    ],
+    "answer": "Síndrome de Melkersson-Rosenthal",
+    "explanation": "A síndrome de Melkersson-Rosenthal é uma condição neurológica rara definida pela tríade clássica de paralisia facial recorrente, edema facial ou labial persistente e língua fissurada.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O sinal de 'perna de calça' ('pants leg sign') é um achado na dacriocistografia ou TC que indica:",
+    "options": [
+      "Obstrução completa do ducto nasolacrimal.",
+      "Um cálculo (dacriólito) dentro do saco lacrimal.",
+      "Obstrução ao nível da válvula de Hasner.",
+      "Obstrução do canalículo comum antes de sua entrada no saco lacrimal.",
+      "Um tumor do saco lacrimal."
+    ],
+    "answer": "Obstrução do canalículo comum antes de sua entrada no saco lacrimal.",
+    "explanation": "Quando o contraste é injetado e há uma obstrução no canalículo comum, o contraste reflui e preenche os canalículos superior e inferior, criando uma imagem que se assemelha a um par de pernas de calça, sem que o saco lacrimal seja preenchido.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A presença de 'rinofima', um nariz grande, bulboso e avermelhado com espessamento da pele e glândulas sebáceas proeminentes, é a manifestação mais avançada de qual condição dermatológica?",
+    "options": [
+      "Acne vulgar",
+      "Lúpus discoide",
+      "Rosácea",
+      "Sarcoidose",
+      "Hanseníase"
+    ],
+    "answer": "Rosácea",
+    "explanation": "O rinofima é considerado o estágio final (tipo 3) da rosácea, resultante da hipertrofia crônica das glândulas sebáceas e do tecido conjuntivo do nariz. É muito mais comum em homens.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A 'tríade de Currarino', uma rara anomalia congênita, inclui um defeito ósseo sacral, uma massa pré-sacral e qual outra malformação?",
+    "options": [
+      "Malformação cardíaca",
+      "Fenda palatina",
+      "Malformação anorretal",
+      "Atresia de coanas",
+      "Hipoplasia de mandíbula"
+    ],
+    "answer": "Malformação anorretal",
+    "explanation": "A tríade de Currarino é um complexo de malformações caudais que consiste em: 1) agenesia ou hemisacro (defeito sacral em forma de cimitarra - 'scimitar sacrum'), 2) uma massa pré-sacral (geralmente meningocele anterior ou teratoma), e 3) uma malformação anorretal (ex: estenose anal).",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Na avaliação de um paciente com disfonia, o sinal do 'iceberg' refere-se a uma lesão que, na laringoscopia, parece pequena na superfície da prega vocal, mas que na palpação ou cirurgia se revela muito maior e mais profunda. Isso é típico de qual lesão?",
+    "options": [
+      "Nódulo vocal",
+      "Pólipo sésil",
+      "Cisto epidermoide intracordal",
+      "Granuloma de contato",
+      "Papiloma"
+    ],
+    "answer": "Cisto epidermoide intracordal",
+    "explanation": "Um cisto intracordal é uma lesão submucosa. Muitas vezes, apenas uma pequena alteração ou abaulamento é visível na superfície, mas a maior parte da lesão (o 'iceberg') está contida dentro da prega vocal, causando rigidez e disfonia significativa.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'orelha em couve-flor' (otohematoma crônico) é um sinal clínico resultante de:",
+    "options": [
+      "Uma infecção fúngica crônica.",
+      "Uma reação alérgica de contato.",
+      "Trauma repetitivo no pavilhão auricular com formação de hematoma e neocondrogênese.",
+      "Uma malformação congênita.",
+      "Infiltração por hanseníase."
+    ],
+    "answer": "Trauma repetitivo no pavilhão auricular com formação de hematoma e neocondrogênese.",
+    "explanation": "O trauma (comum em lutadores) causa um hematoma entre a cartilagem e o pericôndrio. Se não drenado, o sangue organiza-se, priva a cartilagem de nutrição e estimula a formação de uma nova cartilagem desorganizada e fibrótica, resultando na deformidade clássica.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A síndrome de Horner, caracterizada por ptose, miose e anidrose, é causada pela interrupção da inervação simpática de qual gânglio?",
+    "options": [
+      "Gânglio geniculado",
+      "Gânglio de Gasser",
+      "Gânglio ciliar",
+      "Gânglio estrelado (cervicotorácico)",
+      "Gânglio ótico"
+    ],
+    "answer": "Gânglio estrelado (cervicotorácico)",
+    "explanation": "A via simpática para a cabeça e pescoço ascende na cadeia simpática cervical. Uma lesão em qualquer ponto desta via, desde o hipotálamo até o gânglio estrelado (localizado no ápice do tórax) e ao longo da carótida, pode causar a síndrome de Horner.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O 'sinal do queijo suíço' ('swiss cheese sign') na ultrassonografia de tireoide, mostrando múltiplas pequenas áreas anecoicas, é característico de qual condição?",
+    "options": [
+      "Nódulo folicular",
+      "Carcinoma papilífero",
+      "Tireoidite de Hashimoto",
+      "Bócio multinodular",
+      "Tireoidite de De Quervain"
+    ],
+    "answer": "Tireoidite de Hashimoto",
+    "explanation": "Na tireoidite de Hashimoto, a infiltração linfocitária crônica e a destruição folicular levam a uma ecotextura difusamente hipoecoica e heterogênea, muitas vezes com septos fibrosos e pequenos nódulos regenerativos, que podem dar a aparência de 'queijo suíço'.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O achado de 'dentes flutuantes' ('floating teeth') na radiografia panorâmica, onde os dentes parecem estar suspensos sem suporte ósseo alveolar, é um sinal clássico de:",
+    "options": [
+      "Ameloblastoma",
+      "Doença periodontal grave",
+      "Histiocitose de células de Langerhans",
+      "Displasia fibrosa",
+      "Querubismo"
+    ],
+    "answer": "Histiocitose de células de Langerhans",
+    "explanation": "A Histiocitose de Células de Langerhans é uma doença rara que pode causar lesões osteolíticas agressivas nos ossos maxilares, destruindo o osso alveolar ao redor das raízes dos dentes e criando a imagem radiográfica de 'dentes flutuantes'.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A 'tríade de Beck', composta por hipotensão, abafamento de bulhas e turgência jugular, é um sinal clínico de qual emergência?",
+    "options": [
+      "Embolia pulmonar maciça",
+      "Infarto agudo do miocárdio",
+      "Tamponamento cardíaco",
+      "Pneumotórax hipertensivo",
+      "Dissecção de aorta"
+    ],
+    "answer": "Tamponamento cardíaco",
+    "explanation": "A tríade de Beck descreve os sinais clássicos do tamponamento cardíaco: o acúmulo de líquido no pericárdio comprime o coração, levando ao abafamento das bulhas, diminui o enchimento cardíaco (causando turgência jugular) e o débito cardíaco (causando hipotensão).",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O sinal de 'Goodwin', que é o amolecimento e a crepitação do septo nasal à palpação, é indicativo de:",
+    "options": [
+      "Desvio septal simples",
+      "Perfuração septal",
+      "Hematoma septal",
+      "Abscesso septal",
+      "Rinólito"
+    ],
+    "answer": "Abscesso septal",
+    "explanation": "Um abscesso septal é uma coleção de pus que causa a necrose da cartilagem. A palpação do septo revela uma área flutuante, mole e crepitante devido à destruição cartilaginosa, um sinal de emergência que requer drenagem imediata.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A presença de 'fácies de gárgula', com traços faciais grosseiros, testa proeminente e ponte nasal deprimida, é um sinal fenotípico associado a qual grupo de doenças metabólicas?",
+    "options": [
+      "Glicogenoses",
+      "Mucopolissacaridoses (ex: Síndrome de Hurler)",
+      "Aminoacidopatias (ex: Fenilcetonúria)",
+      "Doenças do ciclo da ureia",
+      "Doenças mitocondriais"
+    ],
+    "answer": "Mucopolissacaridoses (ex: Síndrome de Hurler)",
+    "explanation": "Nas mucopolissacaridoses, o defeito no metabolismo de glicosaminoglicanos leva ao seu acúmulo em vários tecidos, incluindo os ossos e tecidos moles da face, resultando em uma aparência facial grosseira e dismórfica conhecida como 'gargulismo'.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O 'sinal do menisco' na radiografia ou TC de seios paranasais, mostrando um nível hidroaéreo com a concavidade voltada para cima, é um sinal clássico de:",
+    "options": [
+      "Pólipo sinusal",
+      "Mucocele",
+      "Rinossinusite aguda com coleção líquida",
+      "Bola fúngica",
+      "Fratura de seio frontal"
+    ],
+    "answer": "Rinossinusite aguda com coleção líquida",
+    "explanation": "O nível hidroaéreo é a interface entre o ar e o fluido (pus ou secreção) acumulado dentro de um seio paranasal. É um dos sinais radiológicos mais comuns de sinusite aguda.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O sinal de 'Roger', um sopro holossistólico rude em borda esternal esquerda baixa, é o achado auscultatório clássico de qual cardiopatia congênita?",
+    "options": [
+      "Comunicação Interatrial (CIA)",
+      "Comunicação Interventricular (CIV) pequena",
+      "Persistência do Canal Arterial (PCA)",
+      "Coartação da Aorta",
+      "Tetralogia de Fallot"
+    ],
+    "answer": "Comunicação Interventricular (CIV) pequena",
+    "explanation": "Em uma CIV pequena e restritiva, há um grande gradiente de pressão entre os ventrículos esquerdo e direito, gerando um fluxo turbulento de alta velocidade durante toda a sístole, o que produz o sopro alto e holossistólico característico (sopro de Roger).",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O achado de uma 'membrana timpânica polimórfica', com áreas de atrofia, placas de timpanoesclerose e retrações, é um sinal otoscópico de:",
+    "options": [
+      "Otite média aguda recorrente",
+      "Sequela de otite média crônica não supurativa",
+      "Otosclerose em atividade",
+      "Trauma acústico agudo",
+      "Otite externa fúngica"
+    ],
+    "answer": "Sequela de otite média crônica não supurativa",
+    "explanation": "Episódios repetidos de otite média ou disfunção tubária crônica podem levar a alterações estruturais permanentes na membrana timpânica, como áreas de afinamento (atrofia), depósitos de cálcio (timpanoesclerose) e bolsas de retração, criando uma aparência heterogênea ou polimórfica.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A 'tríade de Hutchinson', composta por dentes incisivos entalhados, ceratite intersticial e surdez neurossensorial, é um sinal patognomônico de qual infecção congênita?",
+    "options": [
+      "Toxoplasmose",
+      "Rubéola",
+      "Citomegalovírus",
+      "Sífilis",
+      "Herpes simples"
+    ],
+    "answer": "Sífilis",
+    "explanation": "A tríade de Hutchinson é o conjunto de manifestações tardias mais clássico da sífilis congênita, refletindo o dano causado pelo Treponema pallidum durante o desenvolvimento fetal.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O 'sinal do sanduíche' ('sandwich sign') na tomografia ou ressonância de abdome, onde vasos mesentéricos são envolvidos por uma massa de tecidos moles, é um achado típico de:",
+    "options": [
+      "Adenocarcinoma de pâncreas",
+      "Tumor carcinoide",
+      "Linfoma mesentérico",
+      "Pancreatite crônica",
+      "Doença de Crohn"
+    ],
+    "answer": "Linfoma mesentérico",
+    "explanation": "No linfoma, os linfonodos mesentéricos aumentados tendem a confluir e envolver os vasos mesentéricos sem comprimi-los ou invadi-los, criando a aparência de um 'recheio' de vasos dentro de um 'pão' de massa linfonodal.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Na avaliação da paralisia facial, o 'sinal das lágrimas de crocodilo' (epífora durante a alimentação) é resultado de qual fenômeno?",
+    "options": [
+      "Hiperlacrimação por irritação ocular.",
+      "Reinervação aberrante das fibras parassimpáticas salivares para a glândula lacrimal.",
+      "Fraqueza do músculo orbicular do olho.",
+      "Obstrução do ducto nasolacrimal.",
+      "Sincinesia entre o músculo risório e o levantador da pálpebra."
+    ],
+    "answer": "Reinervação aberrante das fibras parassimpáticas salivares para a glândula lacrimal.",
+    "explanation": "Após uma lesão do nervo facial, as fibras que deveriam reinervar as glândulas salivares (submandibular/sublingual) podem se desviar e crescer em direção à glândula lacrimal. Assim, o estímulo para salivar (comer) acaba ativando a produção de lágrimas.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O sinal de 'Howship-Romberg', dor na face medial da coxa que piora com a extensão do quadril, é causado pela compressão de qual nervo por uma hérnia?",
+    "options": [
+      "Nervo femoral",
+      "Nervo ciático",
+      "Nervo obturador",
+      "Nervo cutâneo lateral da coxa",
+      "Nervo genitofemoral"
+    ],
+    "answer": "Nervo obturador",
+    "explanation": "Este sinal é patognomônico de uma hérnia obturadora, onde o conteúdo herniário comprime o nervo obturador em sua passagem pelo forame obturador, causando dor irradiada para a área de sua inervação sensitiva na coxa.",
+    "area": "Sinais Clínicos e Radiológicos"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O achado de uma 'lesão em casca de cebola' ('onion skin') na radiografia de um osso longo, caracterizado por reação periosteal lamelar, é clássico de qual tumor ósseo?",
+    "options": [
+      "Osteoma osteoide",
+      "Osteossarcoma",
+      "Sarcoma de Ewing",
+      "Condroblastoma",
+      "Encondroma"
+    ],
+    "answer": "Sarcoma de Ewing",
+    "explanation": "A reação periosteal em 'casca de cebola' representa episódios repetidos de um tumor de crescimento rápido (como o Sarcoma de Ewing) levantando o periósteo, que tenta formar novas camadas de osso em resposta, criando uma aparência lamelar.",
+    "area": "Sinais Clínicos e Radiológicos"
   }
 ]
