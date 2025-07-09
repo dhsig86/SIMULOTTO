@@ -24,12 +24,14 @@ const feedbackContainer = document.getElementById('feedback-container');
 const feedbackTextEl = document.getElementById('feedback-text');
 const finalScoreEl = document.getElementById('final-score');
 const scoreMessageEl = document.getElementById('score-message');
+
 const numQuestionsInput = document.getElementById('num-questions');
 const areaCheckboxes = document.querySelectorAll('input[name="areas"]');
 const timerEl = document.getElementById('timer');
 
 let timerInterval;
 let timeLeft = 0;
+
 
 let currentQuestions = [];
 let currentQuestionIndex = 0;
