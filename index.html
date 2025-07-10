@@ -25,16 +25,17 @@
             <p class="text-md text-gray-500 mb-4">Estilo: FUNDATEC, VUNESP e IBFC.</p>
             <form id="config-form" class="text-left mb-6 space-y-4">
                 <label class="flex flex-col sm:flex-row items-center gap-2">
-                    <span>Quantidade de questões:</span>
-                    <select id="num-questions" class="border rounded p-1">
-
-                        <option value="10" selected>10</option>
-                        <option value="20">20</option>
-                        <option value="30">30</option>
-                        <option value="40">40</option>
-                        <option value="50">50</option>
-                    </select>
+                    <span class="whitespace-nowrap">Quantidade de questões:</span>
+                    <input id="num-questions" type="range" min="10" max="50" step="10" value="10" list="question-steps" class="flex-1 accent-[#004AAD]">
+                    <span id="num-questions-value" class="ml-2 font-semibold">10</span>
                 </label>
+                <datalist id="question-steps">
+                    <option value="10"></option>
+                    <option value="20"></option>
+                    <option value="30"></option>
+                    <option value="40"></option>
+                    <option value="50"></option>
+                </datalist>
                 <fieldset class="mb-2">
                     <legend class="font-semibold mb-1">Áreas</legend>
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
