@@ -38,6 +38,14 @@ let currentQuestions = [];
 let currentQuestionIndex = 0;
 let score = 0;
 
+function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
 function startQuiz() {
     const num = parseInt(numQuestionsInput.value, 10) || questionBank.length;
     const selectedAreas = Array.from(areaCheckboxes)
@@ -48,7 +56,8 @@ function startQuiz() {
         ? questionBank.filter(q => selectedAreas.includes(q.area))
         : [...questionBank];
 
-    currentQuestions = bank.sort(() => 0.5 - Math.random()).slice(0, num);
+    shuffle(bank);
+    currentQuestions = bank.slice(0, num);
     currentQuestionIndex = 0;
     score = 0;
 
