@@ -27,8 +27,16 @@ const finalScoreEl = document.getElementById('final-score');
 const scoreMessageEl = document.getElementById('score-message');
 
 const numQuestionsInput = document.getElementById('num-questions');
+const numQuestionsValue = document.getElementById('num-questions-value');
 const areaCheckboxes = document.querySelectorAll('input[name="areas"]');
 const timerEl = document.getElementById('timer');
+
+if (numQuestionsInput && numQuestionsValue) {
+    numQuestionsValue.textContent = numQuestionsInput.value;
+    numQuestionsInput.addEventListener('input', () => {
+        numQuestionsValue.textContent = numQuestionsInput.value;
+    });
+}
 
 let timerInterval;
 let timeLeft = 0;
