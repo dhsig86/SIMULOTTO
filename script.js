@@ -17,6 +17,7 @@ const printBtn = document.getElementById('print-btn');
 const flagBtn = document.getElementById('flag-btn');
 const showFlaggedBtn = document.getElementById('show-flagged-btn');
 const flaggedListEl = document.getElementById('flagged-questions');
+const exportLogBtn = document.getElementById('export-log-btn');
 
 const progressBar = document.getElementById('progress-bar');
 const questionCounterEl = document.getElementById('question-counter');
@@ -226,6 +227,21 @@ function showResults() {
     }
 }
 
+function exportFlagged() {
+    if (flaggedQuestions.length === 0) {
+        alert('Nenhuma questão anulada para exportar.');
+        return;
+    }
+    const dataStr = JSON.stringify(flaggedQuestions, null, 2);
+    const blob = new Blob([dataStr], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'flagged_questions.json';
+    a.click();
+    URL.revokeObjectURL(url);
+}
+
 startBtn.addEventListener('click', startQuiz);
 nextBtn.addEventListener('click', () => {
     currentQuestionIndex++;
@@ -244,5 +260,8 @@ if (showFlaggedBtn) {
             flaggedListEl.classList.toggle('hidden');
         }
     });
+}
+if (exportLogBtn) {
+    exportLogBtn.addEventListener('click', exportFlagged);
 }
 

@@ -7,6 +7,8 @@ O projeto utiliza [Tailwind CSS](https://tailwindcss.com) via CDN e possui o est
 
 As questões estão definidas em `script.js` em um array `questionBank`. Cada entrada possui banca, enunciado, opções de resposta, explicação e uma lista de `tags` usadas para futuras filtragens.
 
+Ao final do simulado é possível exportar um log das questões anuladas clicando em **Exportar Log** na tela de resultados.
+
 ## Como adicionar questões
 
 Edite `script.js` e acrescente novos objetos ao `questionBank` seguindo o mesmo formato dos existentes.
