@@ -14,6 +14,9 @@ const startBtn = document.getElementById('start-btn');
 const nextBtn = document.getElementById('next-btn');
 const restartBtn = document.getElementById('restart-btn');
 const printBtn = document.getElementById('print-btn');
+const flagBtn = document.getElementById('flag-btn');
+const showFlaggedBtn = document.getElementById('show-flagged-btn');
+const flaggedListEl = document.getElementById('flagged-questions');
 
 const progressBar = document.getElementById('progress-bar');
 const questionCounterEl = document.getElementById('question-counter');
@@ -45,6 +48,7 @@ let timeLeft = 0;
 let currentQuestions = [];
 let currentQuestionIndex = 0;
 let score = 0;
+let flaggedQuestions = [];
 
 function shuffle(array) {
     for (let i = array.length - 1; i > 0; i--) {
@@ -73,6 +77,16 @@ function startQuiz() {
     currentQuestions = bank.slice(0, num);
     currentQuestionIndex = 0;
     score = 0;
+    flaggedQuestions = [];
+    if (flaggedListEl) {
+        flaggedListEl.innerHTML = '';
+        flaggedListEl.classList.add('hidden');
+    }
+    if (flagBtn) {
+        flagBtn.disabled = false;
+        flagBtn.innerText = 'Anular Questão';
+        flagBtn.classList.remove('opacity-50', 'cursor-not-allowed');
+    }
 
     timeLeft = currentQuestions.length * 120;
     updateTimer();
@@ -96,6 +110,11 @@ function startQuiz() {
 function showQuestion() {
     resetState();
     updateProgressBar();
+    if (flagBtn) {
+        flagBtn.disabled = false;
+        flagBtn.innerText = 'Anular Questão';
+        flagBtn.classList.remove('opacity-50', 'cursor-not-allowed');
+    }
     const question = currentQuestions[currentQuestionIndex];
     questionCounterEl.innerText = `Questão ${currentQuestionIndex + 1} de ${currentQuestions.length}`;
     scoreCounterEl.innerText = `Pontos: ${score}`;
@@ -164,6 +183,18 @@ function setStatusClass(element, correct) {
     }
 }
 
+function flagCurrentQuestion() {
+    const question = currentQuestions[currentQuestionIndex];
+    if (!flaggedQuestions.includes(question)) {
+        flaggedQuestions.push(question);
+    }
+    if (flagBtn) {
+        flagBtn.disabled = true;
+        flagBtn.innerText = 'Questão Anulada';
+        flagBtn.classList.add('opacity-50', 'cursor-not-allowed');
+    }
+}
+
 function showResults() {
     clearInterval(timerInterval);
     timerEl.innerText = '';
@@ -184,6 +215,15 @@ function showResults() {
         message = 'Não desanime! Cada simulado é um passo no aprendizado. Revise as explicações e tente novamente.';
     }
     scoreMessageEl.innerText = message;
+
+    if (flaggedListEl) {
+        if (flaggedQuestions.length > 0) {
+            const items = flaggedQuestions.map(q => `<li class="mb-2">${q.question}</li>`).join('');
+            flaggedListEl.innerHTML = `<ul class="list-disc pl-6">${items}</ul>`;
+        } else {
+            flaggedListEl.innerHTML = '<p>Nenhuma questão foi anulada.</p>';
+        }
+    }
 }
 
 startBtn.addEventListener('click', startQuiz);
@@ -194,5 +234,15 @@ nextBtn.addEventListener('click', () => {
 restartBtn.addEventListener('click', startQuiz);
 if (printBtn) {
     printBtn.addEventListener('click', () => window.print());
+}
+if (flagBtn) {
+    flagBtn.addEventListener('click', flagCurrentQuestion);
+}
+if (showFlaggedBtn) {
+    showFlaggedBtn.addEventListener('click', () => {
+        if (flaggedListEl) {
+            flaggedListEl.classList.toggle('hidden');
+        }
+    });
 }
 
