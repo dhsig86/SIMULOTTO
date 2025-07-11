@@ -2742,4 +2742,425 @@
     "explanation": "A reação periosteal em 'casca de cebola' representa episódios repetidos de um tumor de crescimento rápido (como o Sarcoma de Ewing) levantando o periósteo, que tenta formar novas camadas de osso em resposta, criando uma aparência lamelar.",
     "area": "Sinais Clínicos e Radiológicos"
   }
+,
+  {
+    "banca": "VUNESP",
+    "question": "Na audiometria tonal, qual padrão é mais classicamente associado à otosclerose em sua fase inicial?",
+    "options": [
+      "Perda neurossensorial em rampa descendente.",
+      "Perda condutiva do tipo ascendente, pior em frequências graves.",
+      "Perda mista com gap aéreo-ósseo maior em frequências agudas.",
+      "Perda neurossensorial em U invertido, com pico em 2000 Hz.",
+      "Perda condutiva plana, com o 'entalhe de Carhart' em 2000 Hz na via óssea."
+    ],
+    "answer": "Perda condutiva plana, com o 'entalhe de Carhart' em 2000 Hz na via óssea.",
+    "explanation": "A otosclerose estapediana causa fixação da platina do estribo, resultando em uma perda auditiva condutiva. O 'entalhe de Carhart' é uma queda artefatual da via óssea em 2000 Hz, um achado audiométrico clássico desta condição.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "De acordo com os critérios do EPOS 2020, o diagnóstico de Rinossinusite Crônica (RSC) em adultos requer a presença de dois ou mais sintomas por mais de 12 semanas, sendo um deles obrigatoriamente:",
+    "options": [
+      "Cefaleia",
+      "Tosse",
+      "Obstrução nasal ou Rinorreia (anterior/posterior)",
+      "Dor/pressão facial",
+      "Febre"
+    ],
+    "answer": "Obstrução nasal ou Rinorreia (anterior/posterior)",
+    "explanation": "Os critérios do EPOS 2020 definem RSC pela presença de inflamação nasal por >12 semanas, com ≥2 sintomas, sendo que um deles deve ser obrigatoriamente obstrução/congestão nasal ou rinorreia. Os outros sintomas são dor/pressão facial e redução/perda do olfato.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Durante a vectoeletronistagmografia (VENG), uma preponderância direcional do nistagmo para a direita na prova calórica indica:",
+    "options": [
+      "Hipofunção do labirinto direito.",
+      "Hipofunção do labirinto esquerdo.",
+      "Uma lesão no sistema nervoso central.",
+      "Uma resposta normal e simétrica.",
+      "Cupulolitíase do canal lateral."
+    ],
+    "answer": "Uma lesão no sistema nervoso central.",
+    "explanation": "A preponderância direcional (PDN) é a assimetria na intensidade do nistagmo para um dos lados, independentemente da orelha estimulada. É um sinal de desequilíbrio dos centros vestibulares no tronco cerebral e, portanto, sugestivo de uma lesão central, e não de uma hipofunção labiríntica periférica (que seria indicada pela preponderância labiríntica).",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual dos seguintes achados na imitanciometria é mais compatível com o diagnóstico de disjunção da cadeia ossicular?",
+    "options": [
+      "Curva timpanométrica tipo A com reflexos estapedianos presentes.",
+      "Curva timpanométrica tipo As (complacência diminuída).",
+      "Curva timpanométrica tipo C (pressão negativa).",
+      "Curva timpanométrica tipo Ad (complacência aumentada) com reflexos ausentes.",
+      "Curva timpanométrica tipo B com volume normal."
+    ],
+    "answer": "Curva timpanométrica tipo Ad (complacência aumentada) com reflexos ausentes.",
+    "explanation": "A disjunção da cadeia ossicular torna o sistema tímpano-ossicular extremamente flácido, resultando em uma curva timpanométrica com pico de admitância muito alto (Tipo Ad). O reflexo estapediano estará ausente porque a contração do músculo não consegue mover a cadeia interrompida.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A Síndrome de Kallmann é caracterizada pela associação de anosmia ou hiposmia com qual outra alteração sistêmica?",
+    "options": [
+      "Surdez neurossensorial",
+      "Hipogonadismo hipogonadotrófico",
+      "Polipose nasossinusal",
+      "Doença renal crônica",
+      "Retinopatia pigmentar"
+    ],
+    "answer": "Hipogonadismo hipogonadotrófico",
+    "explanation": "A Síndrome de Kallmann é uma doença genética que afeta a migração dos neurônios que produzem o GnRH para o hipotálamo e o desenvolvimento dos bulbos olfatórios. O resultado é a combinação de anosmia (falta de olfato) e hipogonadismo (atraso ou ausência de puberdade).",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "No diagnóstico da Doença de Ménière, segundo os critérios da Bárány Society, o que diferencia a doença 'definida' da 'provável'?",
+    "options": [
+      "A duração das crises de vertigem.",
+      "A presença de zumbido.",
+      "A documentação audiométrica de perda auditiva neurossensorial de baixa a média frequência.",
+      "A resposta ao tratamento com diuréticos.",
+      "A presença de sintomas vestibulares associados."
+    ],
+    "answer": "A documentação audiométrica de perda auditiva neurossensorial de baixa a média frequência.",
+    "explanation": "Para o diagnóstico de Doença de Ménière 'definida', é mandatório ter pelo menos uma audiometria documentando uma perda auditiva neurossensorial em baixas/médias frequências no ouvido afetado, associada a pelo menos um dos episódios de vertigem. Na doença 'provável', este critério audiométrico não é obrigatório.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um paciente apresenta nistagmo vertical para cima e torcional durante a manobra de Dix-Hallpike. Este achado é característico de VPPB de qual canal semicircular?",
+    "options": [
+      "Canal posterior do mesmo lado da manobra.",
+      "Canal posterior do lado contralateral.",
+      "Canal anterior do mesmo lado da manobra.",
+      "Canal lateral (variante geotrópica).",
+      "Canal lateral (variante apogeotrópica)."
+    ],
+    "answer": "Canal posterior do mesmo lado da manobra.",
+    "explanation": "O nistagmo clássico da VPPB do canal posterior (a mais comum) é torcional (componente rotatório) e vertical para cima (upbeating). A direção do componente torcional (horário ou anti-horário) depende do lado afetado.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A presença de anticorpos anticitoplasma de neutrófilos com padrão citoplasmático (c-ANCA), direcionados contra a proteinase 3 (PR3), é um marcador sorológico fortemente associado a qual doença rinológica?",
+    "options": [
+      "Rinossinusite fúngica alérgica",
+      "Sarcoidose",
+      "Doença de Behçet",
+      "Granulomatose com Poliangiite (antiga Wegener)",
+      "Policondrite recidivante"
+    ],
+    "answer": "Granulomatose com Poliangiite (antiga Wegener)",
+    "explanation": "O c-ANCA/anti-PR3 é um marcador altamente específico (>95%) para a Granulomatose com Poliangiite, uma vasculite sistêmica que classicamente afeta as vias aéreas superiores (com sinusite crônica, perfuração septal), pulmões e rins.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um resultado de Potencial Evocado Miogênico Vestibular (VEMP) cervical com limiares diminuídos e amplitude aumentada no lado afetado é um achado clássico de qual condição?",
+    "options": [
+      "Neurite vestibular inferior",
+      "Doença de Ménière",
+      "Síndrome da Deiscência do Canal Semicircular Superior (SCDS)",
+      "Otosclerose",
+      "Schwannoma vestibular"
+    ],
+    "answer": "Síndrome da Deiscência do Canal Semicircular Superior (SCDS)",
+    "explanation": "Na SCDS, a 'terceira janela' permite que o estímulo sonoro seja transmitido de forma mais eficiente para o sáculo, resultando em uma resposta do VEMP cervical com limiares mais baixos (mais fácil de evocar) e amplitudes maiores que o normal. É um achado diagnóstico chave.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Na avaliação do reflexo estapediano, o 'reflex decay' (decaimento do reflexo) positivo é definido como uma queda de 50% ou mais na amplitude da contração em 10 segundos. Este achado é sugestivo de lesão em qual local?",
+    "options": [
+      "Orelha média",
+      "Cóclea",
+      "Nervo vestibulococlear (VIII par)",
+      "Tronco cerebral",
+      "Nervo facial (VII par)"
+    ],
+    "answer": "Nervo vestibulococlear (VIII par)",
+    "explanation": "O decaimento do reflexo indica uma 'fadiga' na transmissão do sinal aferente. É um sinal clássico de lesão retrococlear, como um schwannoma vestibular, pois o nervo auditivo danificado não consegue sustentar a sinalização para manter a contração do músculo estapédio.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Segundo os critérios diagnósticos para Migrânea Vestibular da Bárány Society, qual é a duração típica dos episódios de vertigem?",
+    "options": [
+      "Segundos a um minuto",
+      "5 minutos a 72 horas",
+      "Exatamente 15 minutos",
+      "Apenas durante a fase de aura visual",
+      "Mais de 72 horas continuamente"
+    ],
+    "answer": "5 minutos a 72 horas",
+    "explanation": "Para o diagnóstico de migrânea vestibular, os episódios de sintomas vestibulares (vertigem espontânea, posicional, etc.) devem ter uma duração moderada, variando de 5 minutos a 72 horas. Além disso, pelo menos metade dos episódios deve estar associada a características migranosas (cefaleia, fotofobia, etc.).",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'tríade de Samter', ou Doença Respiratória Exacerbada por Aspirina (DREA), é um endótipo específico de Rinossinusite Crônica com Pólipos (RSCcP). É caracterizada por asma, polipose nasossinusal e:",
+    "options": [
+      "Alergia a ácaros",
+      "Intolerância a anti-inflamatórios não esteroides (AINEs)",
+      "Elevação de IgE específica para fungos",
+      "Imunodeficiência primária",
+      "Refluxo laringofaríngeo"
+    ],
+    "answer": "Intolerância a anti-inflamatórios não esteroides (AINEs)",
+    "explanation": "A DREA é definida pela tríade de asma, polipose nasal e reações respiratórias (broncoespasmo, congestão nasal severa) após a ingestão de aspirina ou outros AINEs que inibem a COX-1.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Na eletrococleografia (ECochG), um aumento da relação entre o Potencial de Somação (SP) e o Potencial de Ação (AP), resultando em uma razão SP/AP > 0.4, é um achado sugestivo de:",
+    "options": [
+      "Otosclerose",
+      "Neurite vestibular",
+      "Hidropsia endolinfática (Doença de Ménière)",
+      "Presbiacusia",
+      "Surdez súbita"
+    ],
+    "answer": "Hidropsia endolinfática (Doença de Ménière)",
+    "explanation": "A hidropsia endolinfática (aumento da pressão do líquido na orelha interna) altera a biomecânica da cóclea, aumentando a amplitude do Potencial de Somação (SP) em relação ao Potencial de Ação (AP). Uma razão SP/AP elevada é o achado mais característico da Doença de Ménière na ECochG.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual é a principal indicação clínica para a realização da audiometria de tronco cerebral (BERA/PEATE)?",
+    "options": [
+      "Determinar o tipo de perda auditiva (condutiva ou neurossensorial).",
+      "Avaliar a integridade da via auditiva central e estimar limiares em pacientes não colaborativos.",
+      "Diagnosticar a Doença de Ménière.",
+      "Monitorar a ototoxicidade por medicamentos.",
+      "Diagnosticar a VPPB."
+    ],
+    "answer": "Avaliar a integridade da via auditiva central e estimar limiares em pacientes não colaborativos.",
+    "explanation": "O BERA é um exame objetivo que mede a resposta elétrica do nervo auditivo e do tronco cerebral a um estímulo sonoro. Suas principais indicações são a avaliação de suspeita de lesões retrococleares (ex: tumores) e a audiometria objetiva em bebês e crianças ou adultos que não conseguem responder à audiometria convencional.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A presença de nistagmo posicional puramente horizontal, que bate para o chão (geotrópico) em ambas as posições de decúbito lateral, é a apresentação clássica de VPPB de qual canal?",
+    "options": [
+      "Canal posterior (canalitíase)",
+      "Canal anterior (canalitíase)",
+      "Canal lateral (canalitíase)",
+      "Canal posterior (cupulolitíase)",
+      "Canal lateral (cupulolitíase)"
+    ],
+    "answer": "Canal lateral (canalitíase)",
+    "explanation": "Na VPPB do canal lateral (variante canalitíase geotrópica), os otólitos estão livres no braço não-ampular. Ao deitar de lado, eles se movem em direção à ampola, causando um nistagmo horizontal intenso que bate para o lado de baixo (geotrópico). Isso ocorre para ambos os lados, sendo mais forte no lado afetado.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "No contexto da Rinossinusite Crônica com Pólipos (RSCcP), a presença de eosinofilia tecidual e níveis elevados de IgE total, sem sensibilização a alérgenos específicos, caracteriza qual endótipo da doença?",
+    "options": [
+      "RSC sem pólipos com inflamação tipo Th1.",
+      "RSC com pólipos associada à fibrose cística.",
+      "RSC com pólipos com inflamação tipo Th2, não alérgica.",
+      "Rinossinusite fúngica alérgica.",
+      "Doença Respiratória Exacerbada por Aspirina (DREA)."
+    ],
+    "answer": "RSC com pólipos com inflamação tipo Th2, não alérgica.",
+    "explanation": "A maioria dos casos de RSCcP em ocidentais é impulsionada por uma inflamação do tipo 2, com eosinofilia e IgE alta. Quando não há evidência de uma alergia específica (IgE específica negativa), ela é classificada como não alérgica, diferenciando-se da rinossinusite fúngica alérgica, por exemplo.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Um paciente com perda auditiva neurossensorial unilateral apresenta excelente discriminação vocal (IRF = 100%) e ausência de decaimento do reflexo estapediano. O BERA mostra aumento da latência da onda V. Qual a hipótese mais provável?",
+    "options": [
+      "Lesão coclear (ex: Doença de Ménière).",
+      "Lesão no nervo auditivo (ex: Schwannoma vestibular).",
+      "Lesão no tronco cerebral alto.",
+      "Simulação.",
+      "Hipoacusia condutiva."
+    ],
+    "answer": "Lesão no nervo auditivo (ex: Schwannoma vestibular).",
+    "explanation": "Apesar da boa discriminação (o que pode ser enganoso), a combinação de perda unilateral com um BERA alterado (atraso na condução neural) é o principal sinal de alerta para uma lesão retrococlear. A ausência de decay não exclui a possibilidade, especialmente em tumores pequenos.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A Síndrome do Nariz Vazio ('Empty Nose Syndrome') é uma complicação iatrogênica que pode ocorrer após qual procedimento cirúrgico?",
+    "options": [
+      "Septoplastia simples",
+      "Cirurgia endoscópica funcional dos seios paranasais (FESS) com preservação dos cornetos.",
+      "Turbinectomia radical ou excessivamente agressiva dos cornetos inferiores.",
+      "Rinoplastia estética.",
+      "Drenagem de abscesso septal."
+    ],
+    "answer": "Turbinectomia radical ou excessivamente agressiva dos cornetos inferiores.",
+    "explanation": "A síndrome do nariz vazio é uma condição paradoxal onde o paciente tem uma cavidade nasal anatomicamente pérvia, mas se queixa de obstrução e secura intensas. Acredita-se que a remoção excessiva do tecido dos cornetos (especialmente o inferior) altera o fluxo de ar e remove receptores, impedindo a sensação normal da respiração.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "No teste de impulso cefálico por vídeo (vHIT), um ganho do reflexo vestíbulo-ocular (RVO) abaixo de 0.8 com a presença de sacadas corretivas (covert ou overt) indica:",
+    "options": [
+      "Função normal do canal semicircular testado.",
+      "Hipofunção do canal semicircular testado.",
+      "Uma lesão no sistema nervoso central.",
+      "Recuperação de uma neurite vestibular.",
+      "Artefato de movimento."
+    ],
+    "answer": "Hipofunção do canal semicircular testado.",
+    "explanation": "O vHIT mede diretamente a função de cada canal semicircular. Um ganho baixo significa que o reflexo está deficiente (o olho não acompanha o movimento da cabeça). A sacada corretiva é o movimento que o cérebro comanda para refixar o olhar no alvo, confirmando a hipofunção periférica.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'rinite medicamentosa' é uma condição de congestão nasal de rebote causada pelo uso crônico e abusivo de qual classe de medicamentos?",
+    "options": [
+      "Corticosteroides intranasais",
+      "Anti-histamínicos orais",
+      "Descongestionantes nasais tópicos (vasoconstritores como oximetazolina)",
+      "Solução salina hipertônica",
+      "Antagonistas de leucotrienos"
+    ],
+    "answer": "Descongestionantes nasais tópicos (vasoconstritores como oximetazolina)",
+    "explanation": "O uso de descongestionantes tópicos por mais de 3-5 dias leva a uma taquifilaxia (perda de efeito) e a uma vasodilatação de rebote, onde a congestão nasal retorna pior do que antes, criando um ciclo de dependência do medicamento.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A presença de nistagmo posicional que persiste enquanto a posição é mantida (sem latência ou fatigabilidade) e que muda de direção com o olhar (ex: bate para a direita no olhar à direita e para a esquerda no olhar à esquerda) é um sinal de:",
+    "options": [
+      "VPPB do canal lateral (cupulolitíase).",
+      "Lesão cerebelar ou do tronco cerebral.",
+      "Intoxicação medicamentosa.",
+      "Migrânea vestibular.",
+      "Neurite vestibular em fase aguda."
+    ],
+    "answer": "Lesão cerebelar ou do tronco cerebral.",
+    "explanation": "Nistagmo posicional com características atípicas (sem latência, não fatigável, direção que muda com o olhar) não segue as regras da VPPB e é um forte sinal de alerta ('red flag') para uma disfunção do sistema nervoso central, exigindo investigação por imagem.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual é o critério temporal que diferencia uma Rinossinusite Aguda de uma Crônica, de acordo com as diretrizes do EPOS?",
+    "options": [
+      "4 semanas",
+      "6 semanas",
+      "8 semanas",
+      "10 semanas",
+      "12 semanas"
+    ],
+    "answer": "12 semanas",
+    "explanation": "As diretrizes do EPOS (European Position Paper on Rhinosinusitis and Nasal Polyps) definem a rinossinusite aguda como aquela com duração de até 12 semanas. A persistência dos sintomas por mais de 12 semanas classifica a condição como crônica.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'paracusia de Willis', uma melhora paradoxal da audição em ambientes ruidosos, é um sintoma classicamente descrito em pacientes com qual tipo de perda auditiva?",
+    "options": [
+      "Perda auditiva neurossensorial profunda.",
+      "Perda auditiva condutiva (ex: otosclerose).",
+      "Perda auditiva retrococlear.",
+      "Surdez súbita.",
+      "Presbiacusia."
+    ],
+    "answer": "Perda auditiva condutiva (ex: otosclerose).",
+    "explanation": "Pacientes com perda condutiva ouvem sua própria voz alta (por via óssea) e tendem a falar baixo. Em um ambiente ruidoso, as outras pessoas elevam a voz (efeito Lombard), superando a perda condutiva do paciente, enquanto o ruído de fundo é atenuado pela própria perda, resultando em uma melhora relativa da compreensão da fala.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A presença de um 'pólipo sentinela' na comissura posterior da laringe, próximo a uma úlcera ou granuloma, é um achado frequentemente associado a:",
+    "options": [
+      "Papilomatose laríngea",
+      "Carcinoma de prega vocal",
+      "Refluxo laringofaríngeo severo",
+      "Trauma por intubação",
+      "Laringite por Candida"
+    ],
+    "answer": "Refluxo laringofaríngeo severo",
+    "explanation": "O refluxo crônico pode causar uma paquidermia na região interaritenoidea. Um pólipo ou edema localizado na extremidade posterior de uma prega vocal, apontando para a área de inflamação, atua como um 'sinalizador' ou 'sentinela' do processo inflamatório induzido pelo ácido.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Um paciente com surdez neurossensorial unilateral é submetido ao teste de Weber com um diapasão de 512 Hz. Se a lesão for no nervo auditivo direito, para qual lado o som irá lateralizar?",
+    "options": [
+      "Para o lado direito (doente).",
+      "Para o lado esquerdo (são).",
+      "Será ouvido no centro.",
+      "Não será ouvido.",
+      "O teste de Weber não se aplica a perdas neurossensoriais."
+    ],
+    "answer": "Para o lado esquerdo (são).",
+    "explanation": "No teste de Weber, o som é transmitido por via óssea. Em uma perda neurossensorial, o som é percebido como mais alto na orelha com melhor audição coclear/neural. Portanto, em uma lesão à direita, o som lateraliza para a esquerda.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'tríade de Kartagener', uma variante da Discinesia Ciliar Primária, é composta por sinusite crônica, bronquiectasia e:",
+    "options": [
+      "Situs inversus totalis",
+      "Anosmia",
+      "Fibrose cística",
+      "Asplenia",
+      "Surdez"
+    ],
+    "answer": "Situs inversus totalis",
+    "explanation": "A Discinesia Ciliar Primária é uma doença genética que afeta a motilidade dos cílios. A Síndrome de Kartagener é a sua apresentação mais clássica, onde a disfunção ciliar durante a embriogênese leva à inversão dos órgãos (situs inversus) em cerca de 50% dos casos, associada às manifestações respiratórias crônicas.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Durante a prova calórica da VENG, a ausência de resposta em ambas as orelhas (arreflexia bilateral) é um achado esperado em qual situação clínica?",
+    "options": [
+      "Neurite vestibular unilateral aguda.",
+      "Intoxicação por gentamicina (otoxicidade vestibular).",
+      "Doença de Ménière unilateral.",
+      "VPPB bilateral.",
+      "Migrânea vestibular."
+    ],
+    "answer": "Intoxicação por gentamicina (otoxicidade vestibular).",
+    "explanation": "Aminoglicosídeos como a gentamicina são vestibulotóxicos e podem causar uma destruição bilateral e simétrica das células ciliadas do labirinto, resultando em uma arreflexia ou hiporreflexia bilateral severa na prova calórica. É uma das principais causas de vestibulopatia bilateral.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual critério é essencial para diferenciar a Rinossinusite Fúngica Alérgica (RSFA) de uma Bola Fúngica (micetoma) em um paciente imunocompetente?",
+    "options": [
+      "A presença de opacificação em um único seio na TC.",
+      "A ausência de invasão óssea.",
+      "A presença de mucina alérgica eosinofílica com hifas fúngicas na cirurgia.",
+      "O tipo de fungo isolado na cultura.",
+      "A resposta ao tratamento com antifúngicos sistêmicos."
+    ],
+    "answer": "A presença de mucina alérgica eosinofílica com hifas fúngicas na cirurgia.",
+    "explanation": "O diagnóstico definitivo de RSFA é histopatológico. O achado de uma mucina espessa, esverdeada ou acastanhada, rica em eosinófilos e cristais de Charcot-Leyden, com hifas fúngicas esparsas (sem invasão tecidual), a diferencia da massa densa de hifas da bola fúngica.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Um paciente com perda auditiva súbita é avaliado com audiometria de altas frequências, que se mostra normal. Qual a implicação deste achado?",
+    "options": [
+      "Exclui o diagnóstico de surdez súbita.",
+      "Indica um excelente prognóstico de recuperação.",
+      "Sugere que a lesão poupou a base da cóclea.",
+      "É um achado comum e sem valor prognóstico.",
+      "Indica uma causa retrococlear para a perda."
+    ],
+    "answer": "Sugere que a lesão poupou a base da cóclea.",
+    "explanation": "A base da cóclea é responsável pela audição das altas frequências e é mais vulnerável a insultos isquêmicos e ototóxicos. A preservação das altas frequências em um quadro de surdez súbita (que geralmente afeta médias e graves) pode indicar uma lesão mais apical e, para alguns autores, um prognóstico ligeiramente melhor.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'rinite do idoso' é tipicamente caracterizada por qual sintoma predominante?",
+    "options": [
+      "Espirros em salva e prurido nasal intenso.",
+      "Obstrução nasal severa e hiposmia.",
+      "Rinorreia aquosa profusa, especialmente durante as refeições.",
+      "Epistaxe recorrente.",
+      "Formação de crostas e cacosmia."
+    ],
+    "answer": "Rinorreia aquosa profusa, especialmente durante as refeições.",
+    "explanation": "A rinite do idoso, ou rinite senil, é uma rinite não alérgica caracterizada por uma desregulação parassimpática, que leva a uma rinorreia aquosa abundante ('nariz que pinga'), frequentemente exacerbada por estímulos como a alimentação (rinite gustativa) ou mudanças de temperatura.",
+    "area": "Rinologia"
+  }
 ]
