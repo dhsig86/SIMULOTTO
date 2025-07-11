@@ -75,7 +75,10 @@
                 <div id="feedback-container" class="mt-6 p-4 rounded-lg hidden">
                     <p id="feedback-text" class="font-semibold"></p>
                 </div>
-                <div class="mt-6 text-right">
+                <div class="mt-6 flex justify-between">
+                    <button id="flag-btn" class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                        Anular Questão
+                    </button>
                     <button id="next-btn" class="bg-[#0094D1] hover:bg-[#007EAF] text-white font-bold py-2 px-6 rounded-lg shadow-md transition-opacity hidden">
                         Próxima Questão &rarr;
                     </button>
@@ -95,6 +98,10 @@
             <button id="print-btn" class="mt-4 bg-[#0094D1] hover:bg-[#007EAF] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
                 Imprimir Resultado
             </button>
+            <button id="show-flagged-btn" class="mt-4 bg-yellow-600 hover:bg-yellow-700 text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
+                Ver Questões Anuladas
+            </button>
+            <div id="flagged-questions" class="mt-4 text-left hidden"></div>
         </div>
 
     </div>
