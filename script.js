@@ -64,6 +64,11 @@ function startQuiz() {
         ? questionBank.filter(q => selectedAreas.includes(q.area))
         : [...questionBank];
 
+    if (bank.length === 0) {
+        alert('Nenhuma questão disponível para as áreas selecionadas.');
+        return;
+    }
+
     shuffle(bank);
     currentQuestions = bank.slice(0, num);
     currentQuestionIndex = 0;
