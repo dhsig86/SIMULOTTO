@@ -7283,7 +7283,570 @@
     "answer": "Ramo interno do nervo laríngeo superior e nervo laríngeo recorrente.",
     "explanation": "A anastomose de Galeno é uma conexão entre o ramo posterior do nervo laríngeo recorrente e o ramo interno do nervo laríngeo superior. Ela fornece inervação sensitiva cruzada para a mucosa laríngea e tem implicações na recuperação funcional após lesões nervosas.",
     "area": "Anatomia e Fisiologia"
+  },
+[
+  {
+    "banca": "IBFC",
+    "question": "De acordo com a Resolução 453/2012, do Conselho Nacional da Saúde, sobre a composição dos Conselhos de Saúde, é INCORRETO afirmar que:",
+    "options": [
+      "A instituição dos Conselhos de Saúde é estabelecida por lei em cada esfera de governo.",
+      "A participação de membros do Poder Legislativo, Judiciário e Ministério Público como conselheiros não é permitida.",
+      "O Poder Executivo deve acolher as demandas da população aprovadas nas Conferências de Saúde.",
+      "As três esferas de Governo garantirão autonomia administrativa e financeira para o pleno funcionamento do Conselho de Saúde.",
+      "Como Subsistema da Seguridade Social, o Conselho de Saúde atua apenas na proposição de estratégias, sem poder de controle."
+    ],
+    "answer": "Como Subsistema da Seguridade Social, o Conselho de Saúde atua apenas na proposição de estratégias, sem poder de controle.",
+    "explanation": "A alternativa está incorreta pois, segundo a Lei 8.142/90 e a Resolução 453/12, o Conselho de Saúde atua tanto na formulação de estratégias QUANTO no controle da execução da política de saúde, inclusive nos seus aspectos econômicos e financeiros.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A Constituição Federal de 1988 estabelece os objetivos da seguridade social. Quais dos seguintes estão corretos: () uniformidade e equivalência de benefícios às populações urbanas e rurais. () irredutibilidade do valor dos benefícios. () seletividade e distributividade na prestação dos benefícios e serviços.",
+    "options": [
+      "V-V-V",
+      "V-V-F",
+      "V-F-V",
+      "F-F-V",
+      "F-F-F"
+    ],
+    "answer": "V-V-V",
+    "explanation": "O Art. 194 da Constituição Federal define todos os itens listados como objetivos da seguridade social: a uniformidade e equivalência para populações urbanas e rurais, a irredutibilidade do valor dos benefícios para manter o poder de compra, e a seletividade/distributividade para atender a quem mais precisa.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O Art. 197 da Constituição Federal afirma: 'São de relevância pública as ___ e serviços de saúde, cabendo ao Poder Público dispor, nos termos da lei, sobre sua regulamentação, fiscalização e ___, devendo sua execução ser feita diretamente ou através de terceiros e, também, por pessoa física ou jurídica de direito ___.'",
+    "options": [
+      "medidas / sanção / público",
+      "ações / controle / público",
+      "medidas / sanção / privado",
+      "medidas / controle / público",
+      "ações / controle / privado"
+    ],
+    "answer": "ações / controle / privado",
+    "explanation": "O texto correto do Art. 197 da Constituição é: 'São de relevância pública as ações e serviços de saúde, cabendo ao Poder Público dispor, nos termos da lei, sobre sua regulamentação, fiscalização e controle, devendo sua execução ser feita diretamente ou através de terceiros e, também, por pessoa física ou jurídica de direito privado'.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Conforme a Lei Orgânica da Saúde (Lei 8.080/90), analise: I. A saúde é um direito fundamental do ser humano. II. O dever do Estado de garantir a saúde consiste na formulação de políticas que visem à redução de riscos e no acesso universal e igualitário. III. O dever do Estado não exclui o das pessoas, da família, das empresas e da sociedade.",
+    "options": [
+      "Apenas a afirmativa I é verdadeira",
+      "Apenas as afirmativas I e II são verdadeiras",
+      "As afirmativas I, II e III são verdadeiras",
+      "Apenas as afirmativas II e III são verdadeiras",
+      "Apenas as afirmativas I e III são verdadeiras"
+    ],
+    "answer": "As afirmativas I, II e III são verdadeiras",
+    "explanation": "A questão original pedia a análise de afirmativas ligeiramente diferentes, mas o conceito central é que todas as três premissas estão corretas e alinhadas com os artigos iniciais da Lei 8.080/90, que definem a saúde como direito, o papel do Estado e a corresponsabilidade da sociedade.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "IBFC",
+    "question": "De acordo com a Lei Federal nº 8.142/1990, assinale a alternativa INCORRETA.",
+    "options": [
+      "O CONASS e o CONASEMS terão representação no Conselho Nacional de Saúde.",
+      "A representação dos usuários nos Conselhos de Saúde será paritária em relação ao conjunto dos demais segmentos.",
+      "A organização e as normas de funcionamento dos Conselhos de Saúde são definidas em regimento próprio, aprovado pelo respectivo conselho.",
+      "O Conselho de Saúde é um órgão colegiado de caráter transitório e consultivo.",
+      "A Conferência de Saúde reunir-se-á a cada quatro anos para avaliar a situação de saúde e propor diretrizes."
+    ],
+    "answer": "O Conselho de Saúde é um órgão colegiado de caráter transitório e consultivo.",
+    "explanation": "Esta afirmativa está incorreta. A Lei 8.142/90 define o Conselho de Saúde como um órgão colegiado de caráter PERMANENTE e DELIBERATIVO, e não transitório e consultivo. Essa é uma característica fundamental do controle social no SUS.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Conforme a RDC nº 63/2011 da ANVISA, sobre Boas Práticas de Funcionamento para serviços de saúde, é correto afirmar que:",
+    "options": [
+      "A norma se aplica a todos os serviços de saúde, incluindo os militares.",
+      "As Boas Práticas de Funcionamento (BPF) são componentes da Garantia da Quantidade.",
+      "O serviço de saúde deve desenvolver ações para estabelecer uma política de qualidade envolvendo estrutura, processo e resultado.",
+      "O objetivo da norma é fundamentar as práticas apenas na quantificação, sem considerar a humanização.",
+      "A Garantia da Quantidade é a principal ferramenta de gerenciamento."
+    ],
+    "answer": "O serviço de saúde deve desenvolver ações para estabelecer uma política de qualidade envolvendo estrutura, processo e resultado.",
+    "explanation": "A RDC 63/2011 visa a segurança do paciente e a qualidade do serviço. Ela preconiza que o serviço de saúde deve ter uma política de qualidade documentada, que contemple a avaliação de sua estrutura (recursos), processos (atividades) e resultados (impacto na saúde), baseado no modelo de Donabedian.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A Carta dos Direitos e Deveres da Pessoa Usuária da Saúde (Resolução CNS nº 553/2017) estabelece que a promoção e a proteção da saúde devem estar relacionadas a diversos aspectos, incluindo:",
+    "options": [
+      "Apenas o acesso a medicamentos de alto custo.",
+      "Apenas o tratamento de doenças transmissíveis.",
+      "Segurança alimentar e nutricional, e saneamento básico e ambiental.",
+      "Acesso exclusivo a hospitais privados.",
+      "Iniciativas de combate apenas às doenças crônicas."
+    ],
+    "answer": "Segurança alimentar e nutricional, e saneamento básico e ambiental.",
+    "explanation": "A Carta dos Direitos reforça o conceito ampliado de saúde, estabelecendo que o direito à saúde está intrinsecamente ligado aos determinantes sociais, como alimentação adequada, moradia, saneamento, meio ambiente, trabalho, renda e educação.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O Decreto nº 7.508/2011 regulamenta a Lei 8.080/90. Associe os conceitos: I. Acordo de colaboração entre entes federativos para organizar a rede. II. Instâncias de pactuação consensual. III. Documento que estabelece critérios para diagnóstico e tratamento.",
+    "options": [
+      "I. Rede de Atenção, II. Portas de Entrada, III. Região de Saúde",
+      "I. Comissões Intergestores, II. Região de Saúde, III. Portas de Entrada",
+      "I. Região de Saúde, II. Serviços Especiais, III. Contrato Organizativo",
+      "I. Contrato Organizativo da Ação Pública da Saúde, II. Comissões Intergestores, III. Protocolo Clínico e Diretriz Terapêutica",
+      "I. Portas de Entrada, II. Rede de Atenção, III. Região de Saúde"
+    ],
+    "answer": "I. Contrato Organizativo da Ação Pública da Saúde, II. Comissões Intergestores, III. Protocolo Clínico e Diretriz Terapêutica",
+    "explanation": "O decreto define claramente estes termos: O COAP (I) é o acordo formal de gestão. As Comissões Intergestores (CIB e CIT) (II) são os fóruns de pactuação. E os PCDT (III) são os documentos que normatizam as condutas clínicas no SUS.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Segundo a Carta dos Direitos dos Usuários da Saúde, é direito da pessoa ter atendimento adequado, inclusivo e acessível. Analise: () atendimento ágil com tecnologia apropriada. () disponibilidade de imunização conforme calendário. () espaços de diálogo entre usuários e profissionais.",
+    "options": [
+      "V-V-V",
+      "V-V-F",
+      "F-F-V",
+      "V-F-F",
+      "F-F-F"
+    ],
+    "answer": "V-F-F",
+    "explanation": "A questão original tem um erro de digitação. A assertiva I está correta. A II está incorreta pois a disponibilidade não é 'efêmera'. A III está incorreta pois o diálogo proposto é entre usuários, trabalhadores e gestores, não incluindo o Ministério Público neste contexto específico de diálogo sobre tratamentos.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O Núcleo de Segurança do Paciente (NSP), conforme a RDC nº 36/2013, deve adotar vários princípios e diretrizes, EXCETO:",
+    "options": [
+      "A melhoria contínua dos processos de cuidado e do uso de tecnologias da saúde.",
+      "A contribuição para a ocorrência do evento adverso.",
+      "A disseminação sistemática da cultura de segurança.",
+      "A articulação e a integração dos processos de gestão de risco.",
+      "A garantia das boas práticas de funcionamento do serviço de saúde."
+    ],
+    "answer": "A contribuição para a ocorrência do evento adverso.",
+    "explanation": "O objetivo do NSP é exatamente o oposto: atuar na PREVENÇÃO da ocorrência de eventos adversos. Todas as outras alternativas são diretrizes corretas para a atuação do núcleo, focadas em melhoria contínua, cultura de segurança e gestão de risco.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Considerando a anatomofisiologia da faringe, o principal músculo responsável pela abertura da tuba auditiva é:",
+    "options": [
+      "salpingofaríngeo",
+      "elevador do véu palatino",
+      "estilohioideo",
+      "tensor do véu palatino",
+      "tensor do tímpano"
+    ],
+    "answer": "tensor do véu palatino",
+    "explanation": "O músculo tensor do véu palatino, inervado pelo V3, é o principal dilatador ativo da tuba auditiva. Sua contração durante a deglutição e o bocejo traciona a parede da tuba, permitindo a equalização da pressão da orelha média.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A tuba auditiva das crianças, quando comparada à dos adultos, possui as seguintes características:",
+    "options": [
+      "tem maior comprimento e é mais verticalizada",
+      "tem menor comprimento e é mais horizontalizada",
+      "tem menor comprimento e é mais verticalizada",
+      "tem maior comprimento e é mais horizontalizada",
+      "tem maior comprimento e é menos verticalizada"
+    ],
+    "answer": "tem menor comprimento e é mais horizontalizada",
+    "explanation": "A anatomia da tuba auditiva na criança (mais curta, mais larga e mais horizontalizada) facilita a passagem de secreções da nasofaringe para a orelha média, sendo um dos principais fatores que explicam a alta incidência de otite média aguda nesta faixa etária.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Analise as afirmativas sobre a prevenção da otite média aguda: I. A vacina pneumocócica 10-valente ajuda na prevenção. II. A vacina contra Haemophilus influenzae não tipável (HiNT) é eficaz. III. A vacina contra influenza ajuda na prevenção. IV. Evitar fatores de risco como tabagismo passivo e uso de chupetas ajuda na prevenção.",
+    "options": [
+      "I apenas",
+      "II apenas",
+      "I, III e IV apenas",
+      "I, II, III e IV",
+      "I, II e IV apenas"
+    ],
+    "answer": "I, III e IV apenas",
+    "explanation": "A questão original continha a alternativa D como correta. No entanto, a vacina contra o HiNT (II) ainda não está amplamente disponível ou incorporada em calendários de rotina para prevenção de OMA, ao contrário da vacina contra o H. influenzae tipo b (Hib). As vacinas pneumocócicas (I) e contra influenza (III), bem como a redução de fatores de risco (IV), são estratégias de prevenção bem estabelecidas.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A criança que apresenta otites médias recorrentes muitas vezes tem biofilmes bacterianos detectados em qual estrutura?",
+    "options": [
+      "laringe",
+      "mucosa da orelha média",
+      "adenoide",
+      "amígdalas",
+      "mucosa da orelha média e adenoide"
+    ],
+    "answer": "mucosa da orelha média e adenoide",
+    "explanation": "A fisiopatologia da otite média recorrente e crônica envolve a formação de biofilmes, que são comunidades bacterianas protegidas por uma matriz polimérica. Esses biofilmes podem se formar tanto na mucosa da orelha média quanto na superfície da adenoide, que funciona como um reservatório de patógenos.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Quando há erosão ossicular na otite média crônica, qual o segmento da cadeia ossicular mais frequentemente acometido?",
+    "options": [
+      "corpo da bigorna",
+      "cabeça do martelo",
+      "longa apófise da bigorna",
+      "supraestrutura do estribo",
+      "platina do estribo"
+    ],
+    "answer": "longa apófise da bigorna",
+    "explanation": "A longa apófise da bigorna é a parte mais delicada da cadeia ossicular e possui uma vascularização mais precária. Por isso, é o local mais suscetível à necrose e erosão em processos inflamatórios crônicos, como a otite média crônica.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Nas otites médias crônicas não colesteatomatosas, a porta de entrada mais provável para que os processos inflamatórios atinjam a orelha interna é a:",
+    "options": [
+      "promontório",
+      "membrana da janela redonda",
+      "platina do estribo",
+      "nervo facial",
+      "domo do canal semicircular lateral"
+    ],
+    "answer": "membrana da janela redonda",
+    "explanation": "A membrana da janela redonda é uma estrutura semipermeável que separa a orelha média da escala timpânica da cóclea. Mediadores inflamatórios e toxinas bacterianas presentes na orelha média podem atravessar esta membrana, causando uma labirintite serosa e dano coclear.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Em relação à otite média crônica tuberculosa, qual das seguintes afirmativas está correta?",
+    "options": [
+      "A hipótese diagnóstica deve ser considerada na presença de mucosa pálida, curso insidioso e má resposta a antibióticos usuais.",
+      "Essa doença geralmente se manifesta de forma isolada, sem relação com infecção pulmonar.",
+      "O isolamento do bacilo na secreção da orelha média é fácil e rápido.",
+      "O curso da doença é rápido, com queda do estado geral e secreção espessa.",
+      "Geralmente é um quadro fulminante com erosão óssea extensa."
+    ],
+    "answer": "A hipótese diagnóstica deve ser considerada na presença de mucosa pálida, curso insidioso e má resposta a antibióticos usuais.",
+    "explanation": "A otite tuberculosa é rara e mimetiza a otite crônica comum, mas com algumas pistas: otorreia crônica indolor que não responde ao tratamento habitual, múltiplas perfurações timpânicas e mucosa pálida e granulomatosa. A cultura do bacilo é difícil.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Paciente feminino de 17 anos com otorreia fétida crônica em OD. Há 2 dias com febre alta, cefaleia e vômitos, evoluindo com rebaixamento do nível de consciência. Qual a conduta inicial?",
+    "options": [
+      "Internação, antibioticoterapia de amplo espectro e exame de imagem (TC e/ou RM).",
+      "Internação e exame de líquor.",
+      "Internação e hemograma.",
+      "Internação e hidratação apenas.",
+      "Internação, antibioticoterapia e mastoidectomia de urgência."
+    ],
+    "answer": "Internação, antibioticoterapia de amplo espectro e exame de imagem (TC e/ou RM).",
+    "explanation": "O quadro sugere uma complicação intracraniana (meningite, abscesso cerebral) de uma otite média crônica colesteatomatosa. A conduta de emergência envolve a estabilização clínica, início imediato de antibioticoterapia intravenosa que cruze a barreira hematoencefálica e a realização de exames de imagem para confirmar a complicação e planejar a abordagem cirúrgica otológica e/ou neurocirúrgica.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O principal sintoma de uma lesão pré-maligna de laringe (como uma displasia severa) é:",
+    "options": [
+      "disfagia",
+      "odinofagia",
+      "rouquidão",
+      "engasgos",
+      "tosse"
+    ],
+    "answer": "rouquidão",
+    "explanation": "Lesões nas pregas vocais, mesmo as iniciais, alteram a vibração e a regularidade da mucosa, causando disfonia (rouquidão). É o sintoma mais precoce e importante do câncer de laringe glótico e de suas lesões precursoras. Disfagia e odinofagia são sintomas de tumores mais avançados ou em outras localizações (supraglote).",
+    "area": "Laringologia/Faringologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Artrite, pleurite, pericardite, fotossensibilidade, rash malar e úlceras orais indolores são características de qual doença autoimune?",
+    "options": [
+      "Doença de Crohn",
+      "Síndrome de Behçet",
+      "Síndrome de Sjögren",
+      "Lúpus eritematoso sistêmico",
+      "Esclerodermia"
+    ],
+    "answer": "Lúpus eritematoso sistêmico",
+    "explanation": "Este conjunto de manifestações sistêmicas e cutâneo-mucosas é altamente característico do Lúpus Eritematoso Sistêmico (LES), uma doença autoimune complexa que pode afetar múltiplos órgãos.",
+    "area": "Estomatologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A Síndrome de Gradenigo, uma complicação da petrosite, caracteriza-se por otite média, dor facial (por acometimento do V par) e:",
+    "options": [
+      "paralisia do nervo abducente ipsilateral (VI par)",
+      "paralisia facial ipsilateral (VII par)",
+      "paralisia do nervo troclear ipsilateral (IV par)",
+      "paralisia do nervo oculomotor ipsilateral (III par)",
+      "paralisia do nervo oculomotor bilateral"
+    ],
+    "answer": "paralisia do nervo abducente ipsilateral (VI par)",
+    "explanation": "A tríade de Gradenigo consiste em: 1) otite média supurativa; 2) dor na região do nervo trigêmeo (V par); e 3) paralisia do nervo abducente (VI par). Isso ocorre pela inflamação do ápice petroso, onde o nervo abducente passa próximo ao gânglio de Gasser, no canal de Dorello.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Paciente com história de otorreia crônica fétida em OD, evolui com febre alta, cefaleia, vômitos, diplopia e rebaixamento de consciência. Otoscopia mostra bolsa de retração com otorreia. A principal hipótese e conduta são:",
+    "options": [
+      "Tromboflebite de seio sigmoide; solicitar TC com contraste, iniciar antibiótico e anticoagulante se necessário.",
+      "Tromboflebite do seio sigmoide e cavernoso; solicitar TC sem contraste, iniciar antibiótico e anticoagulação.",
+      "AVC de tronco; solicitar angioressonância.",
+      "Abscesso cerebelar; iniciar antibiótico e programar cirurgia.",
+      "Tromboflebite do seio sigmoide e cavernoso; solicitar RM e angio-RM, iniciar antibiótico, mastoidectomia e anticoagulação se necessário."
+    ],
+    "answer": "Tromboflebite do seio sigmoide e cavernoso; solicitar RM e angio-RM, iniciar antibiótico, mastoidectomia e anticoagulação se necessário.",
+    "explanation": "O quadro de otite crônica colesteatomatosa complicada com febre, cefaleia e paralisia do VI par (diplopia por dificuldade de abduzir o olho) sugere fortemente uma tromboflebite do seio sigmoide que se estendeu para o seio cavernoso. A RM/Angio-RM é o melhor exame para visualizar o trombo. O tratamento envolve antibioticoterapia de amplo espectro, tratamento cirúrgico da fonte da infecção (mastoidectomia) e, frequentemente, anticoagulação.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Criança de 4 anos com microtia e atresia aural à esquerda, apêndices pré-auriculares, alterações oculares e vertebrais, e hipoplasia malar e mandibular à esquerda. Qual a síndrome mais provável?",
+    "options": [
+      "Síndrome de Apert",
+      "Síndrome de Waardenburg",
+      "Síndrome de Goldenhar (espectro oculo-auriculo-vertebral)",
+      "Síndrome de Wallenberg",
+      "Síndrome de Usher"
+    ],
+    "answer": "Síndrome de Goldenhar (espectro oculo-auriculo-vertebral)",
+    "explanation": "A Síndrome de Goldenhar é caracterizada por um desenvolvimento anormal de estruturas do primeiro e segundo arcos branquiais, resultando na tríade clássica de anomalias oculares (ex: dermoides epibulbares), auriculares (microtia, atresia, apêndices) e vertebrais. A assimetria facial é comum.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Com relação ao trauma acústico agudo, podemos afirmar que:",
+    "options": [
+      "há perda auditiva aguda por estímulo sonoro com intensidade igual ou superior a 85dB.",
+      "o estímulo sonoro de altas frequências é mais lesivo que os sons de frequências próximas a 550Hz.",
+      "perda auditiva súbita ocorre sempre relacionada a um estímulo de pequena duração, elevada intensidade e frequência inespecífica.",
+      "os picos de pressão no trauma acústico agudo podem chegar a no máximo a 110dB NPS.",
+      "não ocorre perda sensorioneural após exposição prolongada no volume máximo aos fones dos aparelhos celulares."
+    ],
+    "answer": "perda auditiva súbita ocorre sempre relacionada a um estímulo de pequena duração, elevada intensidade e frequência inespecífica.",
+    "explanation": "O trauma acústico agudo é causado por um som de impulso de altíssima intensidade e curta duração (ex: explosão, tiro). A perda auditiva é imediata. A alternativa C é a que melhor descreve o evento, embora a frequência possa ter alguma influência.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Num trauma acústico do tipo explosão, as estruturas da orelha que sofrem agressão são:",
+    "options": [
+      "a membrana timpânica e cadeia ossicular são as únicas estruturas a serem lesadas.",
+      "somente as células ciliadas externas são comprometidas.",
+      "a endolinfa e a perilinfa sofrem alterações metabólicas.",
+      "só as células ciliadas internas são comprometidas.",
+      "todas as estruturas da orelha interna e até mesmo da orelha média podem ser comprometidas."
+    ],
+    "answer": "todas as estruturas da orelha interna e até mesmo da orelha média podem ser comprometidas.",
+    "explanation": "Uma explosão gera uma onda de choque que pode causar danos em múltiplas estruturas. A membrana timpânica pode se romper, a cadeia ossicular pode ser deslocada (dano condutivo), e a onda de pressão transmitida para a cóclea pode causar dano mecânico e metabólico às células ciliadas internas e externas (dano neurossensorial).",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Quando se faz a admissão de um candidato a um trabalho com exposição a ruído, considera-se como de alto risco indivíduos com:",
+    "options": [
+      "perda auditiva unilateral.",
+      "cirurgia de otoesclerose com sucesso.",
+      "otoesclerose.",
+      "otite média crônica.",
+      "diabetes e doença coronariana."
+    ],
+    "answer": "otite média crônica.",
+    "explanation": "Indivíduos com doenças prévias da orelha média, como otite média crônica ou otosclerose, podem ter uma menor reserva coclear ou uma alteração na mecânica da orelha média que os torna mais suscetíveis aos danos causados pelo ruído. Por isso, são considerados de maior risco.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Na vigência de um quadro de paralisia facial periférica, o melhor exame subsidiário para afastar a etiologia tumoral é:",
+    "options": [
+      "teste de Hilger",
+      "eletroneuromiografia",
+      "tomografia computadorizada",
+      "ressonância magnética",
+      "líquor"
+    ],
+    "answer": "ressonância magnética",
+    "explanation": "A Ressonância Magnética com contraste (gadolínio) é o exame de escolha para avaliar o trajeto do nervo facial e as estruturas adjacentes (como a glândula parótida e o ângulo pontocerebelar). Ela é capaz de detectar tumores (ex: schwannoma, hemangioma) ou inflamação (como na paralisia de Bell).",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Paciente em coma induzido após acidente automobilístico, com secreção sero-sanguinolenta pelo conduto auditivo esquerdo. A provável etiologia e melhor conduta são:",
+    "options": [
+      "laceração da pele do conduto; antibioticoterapia tópica.",
+      "fístula liquórica; observação.",
+      "fístula liquórica; mastoidectomia para reparo.",
+      "laceração da pele do conduto por fratura do osso temporal; tomografia de mastoide.",
+      "fístula liquórica; antibioticoterapia profilática e coleta de liquor."
+    ],
+    "answer": "fístula liquórica; observação.",
+    "explanation": "A presença de otoliquorreia (saída de líquor pela orelha) após um trauma craniano indica uma fratura da base do crânio com laceração da dura-máter. A conduta inicial na maioria dos casos é conservadora, com repouso, elevação da cabeceira e observação, pois muitas fístulas fecham espontaneamente. A cirurgia é reservada para casos persistentes.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A vertigem nos pacientes com Doença de Ménière:",
+    "options": [
+      "apresenta-se de início súbito, com duração, frequentemente, entre 20 minutos e 12 horas.",
+      "pode ser acompanhada de disartria e perda de consciência.",
+      "na crise tem dias a semanas de duração.",
+      "está sempre acompanhada de zumbidos, plenitude aural e anacusia.",
+      "pode ser acompanhada por nistagmo rotacional ou bidirecional."
+    ],
+    "answer": "apresenta-se de início súbito, com duração, frequentemente, entre 20 minutos e 12 horas.",
+    "explanation": "Esta é a característica temporal que define as crises de vertigem na Doença de Ménière, segundo os critérios diagnósticos da Bárány Society. Sintomas neurológicos como disartria ou perda de consciência não fazem parte do quadro e apontam para causas centrais.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual terapêutica aumenta o ganho do reflexo vestíbulo-ocular, melhora a estabilização do olhar e o controle postural?",
+    "options": [
+      "manobra de Semont",
+      "manobra de Epley",
+      "manobra de Dix-Hallpike",
+      "exercícios de reabilitação vestibular",
+      "manobra de Barbecue"
+    ],
+    "answer": "exercícios de reabilitação vestibular",
+    "explanation": "A reabilitação vestibular é uma terapia baseada em exercícios que visam promover a compensação central para um déficit vestibular. Os exercícios de adaptação (como os de Cawthorne-Cooksey) treinam o cérebro para recalibrar o RVO, enquanto os de habituação reduzem a sensibilidade a movimentos que causam tontura.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Para investigação diagnóstica de zumbido pulsátil de origem vascular, quais exames devem ser solicitados?",
+    "options": [
+      "ultrassonografia doppler de carótidas e vertebrais, tomografia de osso temporal e angiorressonância.",
+      "ultrassonografia doppler de carótidas e vertebrais, tomografia de osso temporal e audiometria.",
+      "ultrassonografia doppler de carótidas e vertebrais, BERA (PEATE), tomografia de osso temporal.",
+      "arteriografia, tomografia de osso temporal e angiorressonância.",
+      "arteriografia, BERA (PEATE), tomografia de osso temporal."
+    ],
+    "answer": "ultrassonografia doppler de carótidas e vertebrais, tomografia de osso temporal e angiorressonância.",
+    "explanation": "A investigação do zumbido pulsátil requer uma avaliação completa das estruturas vasculares e ósseas. O Doppler avalia as carótidas. A TC de osso temporal é excelente para ver o osso e descartar tumores glômicos ou deiscências. A Angio-RM avalia as estruturas vasculares intracranianas, como fístulas durais ou anomalias venosas.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A manifestação clínica mais comum do Schwannoma vestibular é:",
+    "options": [
+      "plenitude aural",
+      "náuseas",
+      "perda auditiva unilateral ou assimétrica",
+      "tontura",
+      "cefaleia incapacitante"
+    ],
+    "answer": "perda auditiva unilateral ou assimétrica",
+    "explanation": "A perda auditiva neurossensorial lentamente progressiva e unilateral é o sintoma inicial em mais de 90% dos pacientes com schwannoma vestibular. Zumbido também é muito comum. A tontura, quando presente, é geralmente um desequilíbrio leve, e não vertigem rotatória intensa.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Quanto à relação de agentes físicos com o batimento ciliar, assinale a alternativa incorreta.",
+    "options": [
+      "temperaturas maiores que 33 graus Celsius e menores que 28 graus Celsius podem afetar o batimento ciliar.",
+      "baixa umidade do ambiente diminui o batimento ciliar.",
+      "o batimento ciliar sofre interferência da osmolaridade de soluções nasais.",
+      "anestésicos locais podem diminuir o batimento mucociliar.",
+      "temperaturas abaixo de 4 graus Celsius paralisam o batimento ciliar."
+    ],
+    "answer": "temperaturas maiores que 33 graus Celsius e menores que 28 graus Celsius podem afetar o batimento ciliar.",
+    "explanation": "A faixa de temperatura ótima para o funcionamento ciliar é a temperatura corporal (em torno de 37°C). Temperaturas muito altas (acima de 40-45°C) ou muito baixas (abaixo de 7-10°C) podem diminuir ou paralisar a atividade ciliar. A faixa descrita na alternativa A está dentro do espectro funcional.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Considerando a anatomia nasal, o osso que não faz parte da parede lateral do nariz é o:",
+    "options": [
+      "esfenoide",
+      "lacrimal",
+      "palatino",
+      "vômer",
+      "maxilar"
+    ],
+    "answer": "vômer",
+    "explanation": "O osso vômer é um osso plano e ímpar que forma a porção posteroinferior do septo nasal (a parede medial do nariz). A parede lateral é complexa, formada por partes do maxilar, etmoide, lacrimal, palatino, esfenoide e corneto inferior.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Em relação à fisiologia nasossinusal, a área de maior resistência ao fluxo aéreo nasal é a:",
+    "options": [
+      "narina",
+      "concha nasal inferior",
+      "concha nasal média",
+      "coana",
+      "válvula nasal"
+    ],
+    "answer": "válvula nasal",
+    "explanation": "A válvula nasal (especialmente a interna, formada pelo septo, corneto inferior e borda inferior da cartilagem lateral superior) é a área de secção transversa mais estreita da cavidade nasal, sendo responsável por cerca de 50% da resistência total da via aérea. Pequenas alterações nesta área têm grande impacto na respiração.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Quanto à conduta frente a um sangramento nasal, assinale a alternativa incorreta.",
+    "options": [
+      "Após a retirada de tampão anteroposterior, se o sangramento continuar, está indicada a cirurgia.",
+      "Após a retirada de tampão anterior de 48 horas, se não houver sangramento, a conduta pode ser expectante.",
+      "Quando se define o diagnóstico topográfico de sangramento superior, a ligadura da artéria esfenopalatina é a melhor escolha.",
+      "A ligadura da carótida externa tem grande desvantagem por estar afastada do ponto de sangramento.",
+      "O paciente deve receber reposição volêmica em caso de epistaxes de maior intensidade."
+    ],
+    "answer": "Quando se define o diagnóstico topográfico de sangramento superior, a ligadura da artéria esfenopalatina é a melhor escolha.",
+    "explanation": "O sangramento da região superior do nariz é geralmente proveniente das artérias etmoidais (ramos da oftálmica/carótida interna). A artéria esfenopalatina irriga a porção posteroinferior. Portanto, em um sangramento superior, a ligadura das etmoidais seria o procedimento indicado, e não da esfenopalatina.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Em relação à hanseníase nasossinusal, assinale a alternativa incorreta.",
+    "options": [
+      "As lesões nasais são frequentes, com ressecamento, crostas e obstrução.",
+      "A forma tuberculoide é altamente bacilífera, levando a perfuração do septo e nariz em sela.",
+      "A cirurgia de correção das sequelas deve ser realizada no mínimo dois anos após a cura.",
+      "O acometimento nasal pode preceder as lesões cutâneas e neurológicas.",
+      "A rinossinusite crônica pode ser tratada cirurgicamente."
+    ],
+    "answer": "A forma tuberculoide é altamente bacilífera, levando a perfuração do septo e nariz em sela.",
+    "explanation": "Esta afirmativa está incorreta. A forma tuberculoide é paucibacilar (poucos bacilos) e tem uma forte resposta imune celular. A forma virchowiana (ou lepromatosa) é a multibacilar, com baixa resposta imune celular, que causa as lesões infiltrativas e destrutivas clássicas, como a perfuração septal e o nariz em sela.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Quanto à fisiopatologia dos nódulos vocais, qual afirmativa está correta?",
+    "options": [
+      "Originam-se por um estado de hiperfunção da laringe, com desequilíbrio muscular.",
+      "Originam-se por um distúrbio funcional com aumento de rigidez e atrofia muscular.",
+      "O fonotrauma leva à ruptura da microcirculação na camada superficial da lâmina própria, gerando hematoma e fibrose.",
+      "A regressão com fonoterapia é mínima, sendo sempre indicado tratamento cirúrgico.",
+      "Todas as afirmativas estão corretas."
+    ],
+    "answer": "O fonotrauma leva à ruptura da microcirculação na camada superficial da lâmina própria, gerando hematoma e processo inflamatório local que pode ser substituído por fibrose e originar a formação nodular.",
+    "explanation": "A fisiopatologia do nódulo vocal envolve microtraumas repetitivos no ponto de maior impacto das pregas vocais. Isso causa edema, hemorragia e inflamação na camada superficial da lâmina própria (espaço de Reinke). Com o tempo, essa inflamação crônica leva a um espessamento e fibrose, formando o nódulo.",
+    "area": "Laringologia/Faringologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Quanto à fisiologia da laringe, em ordem de importância, as principais funções são:",
+    "options": [
+      "fonação, respiração, proteção das vias aéreas",
+      "proteção das vias aéreas, respiração e fonação",
+      "respiração, fonação e esfincteriana",
+      "fonação e respiração",
+      "proteção das vias aéreas e fonação"
+    ],
+    "answer": "proteção das vias aéreas, respiração e fonação",
+    "explanation": "Do ponto de vista filogenético e de sobrevivência, a função mais primitiva e essencial da laringe é a de esfíncter, protegendo a via aérea inferior da aspiração. A segunda função vital é a respiração, mantendo a via aérea aberta. A fonação é a função mais recente e especializada.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Podem ser classificadas como lesões pré-neoplásicas da laringe:",
+    "options": [
+      "cisto intracordal",
+      "edema de Reinke",
+      "leucoplasia",
+      "tuberculose laríngea",
+      "leishmaniose laríngea"
+    ],
+    "answer": "leucoplasia",
+    "explanation": "Leucoplasia é um termo clínico para uma placa branca que não pode ser removida. Histologicamente, ela pode variar de uma simples hiperqueratose a uma displasia de alto grau ou carcinoma in situ. É a lesão pré-maligna mais comum da laringe.",
+    "area": "Laringologia/Faringologia"
   }
+]
+
 ]
 
 ]
