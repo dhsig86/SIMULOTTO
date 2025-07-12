@@ -2687,20 +2687,7 @@
     "explanation": "A tríade de Hutchinson é o conjunto de manifestações tardias mais clássico da sífilis congênita, refletindo o dano causado pelo Treponema pallidum durante o desenvolvimento fetal.",
     "area": "Sinais Clínicos e Radiológicos"
   },
-  {
-    "banca": "VUNESP",
-    "question": "O 'sinal do sanduíche' ('sandwich sign') na tomografia ou ressonância de abdome, onde vasos mesentéricos são envolvidos por uma massa de tecidos moles, é um achado típico de:",
-    "options": [
-      "Adenocarcinoma de pâncreas",
-      "Tumor carcinoide",
-      "Linfoma mesentérico",
-      "Pancreatite crônica",
-      "Doença de Crohn"
-    ],
-    "answer": "Linfoma mesentérico",
-    "explanation": "No linfoma, os linfonodos mesentéricos aumentados tendem a confluir e envolver os vasos mesentéricos sem comprimi-los ou invadi-los, criando a aparência de um 'recheio' de vasos dentro de um 'pão' de massa linfonodal.",
-    "area": "Sinais Clínicos e Radiológicos"
-  },
+  
   {
     "banca": "FUNDATEC",
     "question": "Na avaliação da paralisia facial, o 'sinal das lágrimas de crocodilo' (epífora durante a alimentação) é resultado de qual fenômeno?",
@@ -2715,34 +2702,7 @@
     "explanation": "Após uma lesão do nervo facial, as fibras que deveriam reinervar as glândulas salivares (submandibular/sublingual) podem se desviar e crescer em direção à glândula lacrimal. Assim, o estímulo para salivar (comer) acaba ativando a produção de lágrimas.",
     "area": "Sinais Clínicos e Radiológicos"
   },
-  {
-    "banca": "IBFC",
-    "question": "O sinal de 'Howship-Romberg', dor na face medial da coxa que piora com a extensão do quadril, é causado pela compressão de qual nervo por uma hérnia?",
-    "options": [
-      "Nervo femoral",
-      "Nervo ciático",
-      "Nervo obturador",
-      "Nervo cutâneo lateral da coxa",
-      "Nervo genitofemoral"
-    ],
-    "answer": "Nervo obturador",
-    "explanation": "Este sinal é patognomônico de uma hérnia obturadora, onde o conteúdo herniário comprime o nervo obturador em sua passagem pelo forame obturador, causando dor irradiada para a área de sua inervação sensitiva na coxa.",
-    "area": "Sinais Clínicos e Radiológicos"
-  },
-  {
-    "banca": "VUNESP",
-    "question": "O achado de uma 'lesão em casca de cebola' ('onion skin') na radiografia de um osso longo, caracterizado por reação periosteal lamelar, é clássico de qual tumor ósseo?",
-    "options": [
-      "Osteoma osteoide",
-      "Osteossarcoma",
-      "Sarcoma de Ewing",
-      "Condroblastoma",
-      "Encondroma"
-    ],
-    "answer": "Sarcoma de Ewing",
-    "explanation": "A reação periosteal em 'casca de cebola' representa episódios repetidos de um tumor de crescimento rápido (como o Sarcoma de Ewing) levantando o periósteo, que tenta formar novas camadas de osso em resposta, criando uma aparência lamelar.",
-    "area": "Sinais Clínicos e Radiológicos"
-  },
+  
   {
     "banca": "VUNESP",
     "question": "Na audiometria tonal, qual padrão é mais classicamente associado à otosclerose em sua fase inicial?",
