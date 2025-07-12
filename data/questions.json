@@ -3162,5 +3162,425 @@
     "answer": "Rinorreia aquosa profusa, especialmente durante as refeições.",
     "explanation": "A rinite do idoso, ou rinite senil, é uma rinite não alérgica caracterizada por uma desregulação parassimpática, que leva a uma rinorreia aquosa abundante ('nariz que pinga'), frequentemente exacerbada por estímulos como a alimentação (rinite gustativa) ou mudanças de temperatura.",
     "area": "Rinologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual é o único músculo intrínseco da laringe que realiza a abdução das pregas vocais, sendo essencial para a respiração?",
+    "options": [
+      "Músculo cricotireóideo",
+      "Músculo tireoaritenóideo",
+      "Músculo cricoaritenóideo lateral",
+      "Músculo cricoaritenóideo posterior",
+      "Músculo aritenóideo transverso"
+    ],
+    "answer": "Músculo cricoaritenóideo posterior",
+    "explanation": "O músculo cricoaritenóideo posterior é o único abdutor das pregas vocais. Sua paralisia bilateral leva a uma obstrução grave da via aérea, com as pregas vocais fixas em posição paramediana.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O complexo ostiomeatal, uma área funcional chave na fisiologia sinusal, é a via de drenagem comum para quais seios paranasais?",
+    "options": [
+      "Seio esfenoidal e células etmoidais posteriores.",
+      "Seio maxilar, seio frontal e células etmoidais posteriores.",
+      "Seio frontal, seio maxilar e células etmoidais anteriores.",
+      "Seio esfenoidal e seio maxilar.",
+      "Apenas o seio maxilar."
+    ],
+    "answer": "Seio frontal, seio maxilar e células etmoidais anteriores.",
+    "explanation": "O complexo ostiomeatal, localizado no meato médio, é a área crítica para onde drenam os seios frontal (via recesso frontal), maxilar (via óstio maxilar) e as células etmoidais anteriores. Sua obstrução é a principal causa de rinossinusite.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A artéria esfenopalatina, principal responsável pela epistaxe posterior, é o ramo terminal de qual artéria?",
+    "options": [
+      "Artéria carótida interna",
+      "Artéria facial",
+      "Artéria maxilar",
+      "Artéria oftálmica",
+      "Artéria etmoidal anterior"
+    ],
+    "answer": "Artéria maxilar",
+    "explanation": "A artéria maxilar, um dos ramos terminais da artéria carótida externa, emite a artéria esfenopalatina, que entra na cavidade nasal através do forame esfenopalatino para irrigar a maior parte da mucosa nasal, incluindo o plexo de Woodruff.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A teoria mioelástica-aerodinâmica da fonação postula que a vibração das pregas vocais é um ciclo passivo que depende da interação entre a pressão aérea subglótica e:",
+    "options": [
+      "A contração rítmica dos músculos tireoaritenóideos.",
+      "A elasticidade intrínseca das camadas da prega vocal e o efeito Bernoulli.",
+      "O movimento de báscula da cartilagem cricoide.",
+      "A inervação do nervo laríngeo superior.",
+      "O fechamento completo do vestíbulo laríngeo."
+    ],
+    "answer": "A elasticidade intrínseca das camadas da prega vocal e o efeito Bernoulli.",
+    "explanation": "Esta teoria afirma que a fonação não requer contrações musculares para cada ciclo vibratório. A pressão subglótica abre as pregas vocais; a queda de pressão (efeito Bernoulli) e a retração elástica dos tecidos as fecham, reiniciando o ciclo de forma passiva.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O nervo facial (VII par) emerge do crânio através de qual forame?",
+    "options": [
+      "Forame jugular",
+      "Forame oval",
+      "Forame redondo",
+      "Forame estilomastoideo",
+      "Canal carotídeo"
+    ],
+    "answer": "Forame estilomastoideo",
+    "explanation": "Após seu trajeto intratemporal, o nervo facial deixa o osso temporal através do forame estilomastoideo, localizado entre os processos estiloide e mastoide, para então se ramificar e inervar os músculos da mímica facial.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual estrutura anatômica é responsável pela detecção de aceleração linear (gravidade e movimentos para frente/trás)?",
+    "options": [
+      "Canais semicirculares",
+      "Órgão de Corti",
+      "Sáculo e utrículo",
+      "Gânglio de Scarpa",
+      "Ducto endolinfático"
+    ],
+    "answer": "Sáculo e utrículo",
+    "explanation": "O sáculo e o utrículo, conhecidos como órgãos otolíticos, contêm as máculas, que são os sensores de aceleração linear. Os canais semicirculares, por sua vez, detectam a aceleração angular (rotação da cabeça).",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O espaço de Reinke, fundamental para a vibração das pregas vocais, corresponde a qual camada histológica?",
+    "options": [
+      "Epitélio escamoso estratificado",
+      "Camada superficial da lâmina própria",
+      "Ligamento vocal (camadas intermediária e profunda da lâmina própria)",
+      "Músculo vocal (tireoaritenóideo)",
+      "Membrana basal"
+    ],
+    "answer": "Camada superficial da lâmina própria",
+    "explanation": "O espaço de Reinke é um espaço potencial com matriz extracelular gelatinosa, correspondente à camada superficial da lâmina própria. É nesta camada que ocorre a onda mucosa vibratória e onde se desenvolve o Edema de Reinke.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O suprimento sanguíneo da cóclea é fornecido primariamente por qual artéria, um ramo terminal da artéria cerebelar anteroinferior (AICA)?",
+    "options": [
+      "Artéria auditiva interna (labiríntica)",
+      "Artéria estilomastoidea",
+      "Artéria timpânica anterior",
+      "Artéria meníngea média",
+      "Artéria cerebelar posteroinferior (PICA)"
+    ],
+    "answer": "Artéria auditiva interna (labiríntica)",
+    "explanation": "A artéria labiríntica é uma artéria terminal, sem circulação colateral, que entra no meato acústico interno junto com os nervos VII e VIII. Sua oclusão leva a uma perda auditiva e vestibular súbita e profunda.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O anel linfático de Waldeyer, a primeira linha de defesa imunológica do trato aerodigestivo superior, é composto pelas tonsilas palatinas, faríngea (adenoide), tubárias e:",
+    "options": [
+      "Tonsilas linguais",
+      "Linfonodos submandibulares",
+      "Linfonodos retrofaríngeos",
+      "Timo",
+      "Baço"
+    ],
+    "answer": "Tonsilas linguais",
+    "explanation": "O anel de Waldeyer é um conjunto de tecido linfoide que circunda a naso e a orofaringe. É formado pelas tonsilas faríngea (superior), tubárias (lateral), palatinas (lateral) e linguais (inferior).",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual nervo craniano é responsável pela inervação sensitiva geral da cavidade nasal?",
+    "options": [
+      "Nervo Olfatório (I)",
+      "Nervo Óptico (II)",
+      "Nervo Trigêmeo (V), ramos oftálmico (V1) e maxilar (V2)",
+      "Nervo Facial (VII)",
+      "Nervo Glossofaríngeo (IX)"
+    ],
+    "answer": "Nervo Trigêmeo (V), ramos oftálmico (V1) e maxilar (V2)",
+    "explanation": "Enquanto o nervo olfatório (I) é responsável pelo olfato, a sensibilidade geral (tato, dor, temperatura) da mucosa nasal é fornecida pelo nervo trigêmeo: o ramo oftálmico (V1) inerva a porção anterossuperior e o ramo maxilar (V2) inerva a porção posteroinferior.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A função primária do músculo tensor do tímpano, inervado pelo nervo trigêmeo (V3), é:",
+    "options": [
+      "Aumentar a sensibilidade auditiva para sons de baixa intensidade.",
+      "Proteger a orelha interna de sons de alta intensidade, enrijecendo a cadeia ossicular.",
+      "Igualar a pressão da orelha média com a do ambiente.",
+      "Drenar fluido da orelha média.",
+      "Detectar a aceleração linear."
+    ],
+    "answer": "Proteger a orelha interna de sons de alta intensidade, enrijecendo a cadeia ossicular.",
+    "explanation": "O músculo tensor do tímpano, junto com o estapédio, compõe o reflexo acústico. Sua contração puxa o martelo medialmente, tensionando a membrana timpânica e enrijecendo o sistema, o que atenua a transmissão de sons de baixa frequência e alta intensidade, protegendo a cóclea.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O processo unciforme é uma estrutura óssea laminar no meato médio que forma o limite medial de qual importante espaço de drenagem sinusal?",
+    "options": [
+      "Recesso esfenoetmoidal",
+      "Hiato semilunar",
+      "Bula etmoidal",
+      "Agger nasi",
+      "Óstio do seio maxilar"
+    ],
+    "answer": "Hiato semilunar",
+    "explanation": "O hiato semilunar é o espaço em forma de fenda entre o processo unciforme (medialmente) и a bula etmoidal (lateralmente). É através deste hiato que o seio maxilar, o etmoidal anterior e o frontal drenam para o meato médio.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual das seguintes estruturas NÃO passa pelo seio cavernoso?",
+    "options": [
+      "Nervo Oculomotor (III)",
+      "Nervo Troclear (IV)",
+      "Nervo Abducente (VI)",
+      "Artéria carótida interna",
+      "Nervo Facial (VII)"
+    ],
+    "answer": "Nervo Facial (VII)",
+    "explanation": "O seio cavernoso é uma estrutura crítica que contém a artéria carótida interna e os nervos cranianos III, IV, V1 (ramo oftálmico do trigêmeo), V2 (ramo maxilar do trigêmeo) e VI. O nervo facial (VII) não passa por esta estrutura, seguindo seu trajeto pelo osso temporal.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A fisiologia do ciclo nasal descreve a congestão e descongestão alternada e recíproca das cavidades nasais. Este processo é mediado primariamente por qual mecanismo?",
+    "options": [
+      "Contração da musculatura nasal.",
+      "Ação do sistema nervoso autônomo sobre os vasos sanguíneos dos cornetos.",
+      "Alterações na produção de muco.",
+      "Movimento ciliar.",
+      "Variações da pressão atmosférica."
+    ],
+    "answer": "Ação do sistema nervoso autônomo sobre os vasos sanguíneos dos cornetos.",
+    "explanation": "O ciclo nasal é controlado pelo sistema nervoso autônomo. A atividade simpática predomina de um lado, causando vasoconstrição e descongestão, enquanto a parassimpática predomina do outro, causando vasodilatação e congestão. Este padrão se alterna a cada poucas horas.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O nervo laríngeo recorrente esquerdo tem um trajeto mais longo que o direito porque ele contorna qual estrutura anatômica?",
+    "options": [
+      "Artéria subclávia direita",
+      "Tronco braquiocefálico",
+      "Arco aórtico",
+      "Artéria carótida comum esquerda",
+      "Veia cava superior"
+    ],
+    "answer": "Arco aórtico",
+    "explanation": "Ambos os nervos laríngeos recorrentes são ramos do nervo vago. O direito contorna a artéria subclávia direita e ascende. O esquerdo desce mais no tórax para contornar o arco aórtico, posterior ao ligamento arterioso, antes de subir para a laringe, o que o torna mais vulnerável a lesões por processos torácicos.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'área de Little', ou plexo de Kiesselbach, o local mais comum de epistaxe anterior, é formada pela anastomose de ramos de quais artérias, EXCETO:",
+    "options": [
+      "Artéria etmoidal anterior",
+      "Artéria esfenopalatina",
+      "Artéria palatina maior",
+      "Ramo septal da artéria labial superior",
+      "Artéria etmoidal posterior"
+    ],
+    "answer": "Artéria etmoidal posterior",
+    "explanation": "O plexo de Kiesselbach é uma rica rede vascular na porção anteroinferior do septo nasal, formada por ramos da etmoidal anterior (da oftálmica/carótida interna), esfenopalatina, palatina maior e labial superior (todas da carótida externa). A artéria etmoidal posterior irriga a região superior e posterior, não participando significativamente do plexo.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A tonotopia da cóclea refere-se à organização espacial da percepção de frequências sonoras. Onde são processados os sons de alta frequência (agudos)?",
+    "options": [
+      "No ápice da cóclea.",
+      "Na base da cóclea, próximo à janela oval.",
+      "No sáculo.",
+      "No gânglio espiral.",
+      "A distribuição é aleatória."
+    ],
+    "answer": "Na base da cóclea, próximo à janela oval.",
+    "explanation": "A membrana basilar é mais estreita e rígida na base da cóclea, vibrando em resposta a sons de alta frequência. Ela se torna progressivamente mais larga e flexível em direção ao ápice, que responde a sons de baixa frequência (graves).",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual dos seguintes músculos NÃO é inervado pelo nervo hipoglosso (XII par)?",
+    "options": [
+      "Músculo genioglosso",
+      "Músculo hioglosso",
+      "Músculo estiloglosso",
+      "Músculo palatoglosso",
+      "Músculos intrínsecos da língua"
+    ],
+    "answer": "Músculo palatoglosso",
+    "explanation": "O nervo hipoglosso inerva todos os músculos intrínsecos e extrínsecos da língua, com exceção do músculo palatoglosso, que, por sua origem e função no palato mole, é inervado pelo plexo faríngeo (ramos do nervo vago, X par).",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O ducto de Stensen é o ducto excretor de qual glândula salivar?",
+    "options": [
+      "Glândula submandibular",
+      "Glândula sublingual",
+      "Glândula parótida",
+      "Glândulas salivares menores",
+      "Glândula lacrimal"
+    ],
+    "answer": "Glândula parótida",
+    "explanation": "O ducto de Stensen emerge da borda anterior da glândula parótida, cruza o músculo masseter, perfura o músculo bucinador e se abre na mucosa jugal, ao nível do segundo molar superior.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O principal mecanismo fisiológico responsável pela proteção da via aérea inferior durante a deglutição é:",
+    "options": [
+      "A contração do músculo cricofaríngeo.",
+      "A elevação do palato mole.",
+      "A elevação e anteriorização da laringe e o fechamento glótico/supraglótico.",
+      "O peristaltismo faríngeo.",
+      "A apneia reflexa."
+    ],
+    "answer": "A elevação e anteriorização da laringe e o fechamento glótico/supraglótico.",
+    "explanation": "A proteção da via aérea é um evento complexo e multifatorial. O mecanismo mais crucial é o fechamento da laringe em três níveis (pregas vocais, pregas vestibulares e epiglote) e sua elevação sob a base da língua, que desvia o bolo alimentar para os seios piriformes.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A corda do tímpano é um ramo de qual nervo craniano e qual sua principal função?",
+    "options": [
+      "Ramo do V par; sensibilidade da orelha média.",
+      "Ramo do VII par; gustação dos dois terços anteriores da língua e inervação parassimpática.",
+      "Ramo do IX par; sensibilidade do terço posterior da língua.",
+      "Ramo do X par; inervação motora da laringe.",
+      "Ramo do VIII par; equilíbrio."
+    ],
+    "answer": "Ramo do VII par; gustação dos dois terços anteriores da língua e inervação parassimpática.",
+    "explanation": "A corda do tímpano se origina do nervo facial em seu segmento mastoideo, cruza a orelha média e se junta ao nervo lingual (ramo do V3). Ela carrega fibras do paladar dos 2/3 anteriores da língua e fibras parassimpáticas pré-ganglionares para as glândulas submandibular e sublingual.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O gânglio geniculado, localizado na primeira dobra (joelho) do nervo facial dentro do osso temporal, contém os corpos celulares de quais tipos de neurônios?",
+    "options": [
+      "Neurônios motores para os músculos faciais.",
+      "Neurônios parassimpáticos pré-ganglionares.",
+      "Neurônios sensitivos gustatórios e de sensibilidade somática.",
+      "Neurônios auditivos.",
+      "Neurônios vestibulares."
+    ],
+    "answer": "Neurônios sensitivos gustatórios e de sensibilidade somática.",
+    "explanation": "O gânglio geniculado é um gânglio sensitivo, análogo ao gânglio da raiz dorsal da medula espinhal. Ele contém os corpos celulares dos neurônios que carregam a informação do paladar (via corda do tímpano) e a sensibilidade de uma pequena área da orelha (zona de Ramsay Hunt).",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual dos seguintes músculos é o principal responsável pela elevação do palato mole, sendo crucial para o fechamento velofaríngeo?",
+    "options": [
+      "Músculo tensor do véu palatino",
+      "Músculo levantador do véu palatino",
+      "Músculo palatoglosso",
+      "Músculo palatofaríngeo",
+      "Músculo da úvula"
+    ],
+    "answer": "Músculo levantador do véu palatino",
+    "explanation": "O músculo levantador do véu palatino é o principal elevador do palato mole. Sua contração eleva o palato, fechando a comunicação entre a nasofaringe e a orofaringe, o que é essencial para a deglutição e para a produção da maioria dos sons da fala.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A drenagem linfática da ponta da língua e do lábio inferior é primariamente para quais linfonodos?",
+    "options": [
+      "Linfonodos parotídeos",
+      "Linfonodos retrofaríngeos",
+      "Linfonodos submentonianos",
+      "Linfonodos jugulares superiores",
+      "Linfonodos pré-auriculares"
+    ],
+    "answer": "Linfonodos submentonianos",
+    "explanation": "A drenagem linfática da cabeça e pescoço segue um padrão previsível. A ponta da língua, o assoalho da boca anterior e a porção central do lábio inferior drenam primeiramente para os linfonodos do nível I, especificamente os submentonianos.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A fisiologia do reflexo vestíbulo-ocular (RVO) garante a estabilização do olhar durante os movimentos da cabeça. Qual é a via neuronal de três neurônios para o RVO horizontal?",
+    "options": [
+      "Canal semicircular -> Gânglio geniculado -> Córtex visual.",
+      "Canal semicircular -> Núcleos vestibulares -> Núcleos dos nervos oculomotores (III e VI).",
+      "Utrículo -> Núcleos vestibulares -> Cerebelo.",
+      "Canal semicircular -> Tálamo -> Córtex motor.",
+      "Retina -> Nervo óptico -> Núcleos vestibulares."
+    ],
+    "answer": "Canal semicircular -> Núcleos vestibulares -> Núcleos dos nervos oculomotores (III e VI).",
+    "explanation": "O RVO é um reflexo rápido. O primeiro neurônio vai do canal semicircular ao núcleo vestibular. O segundo neurônio cruza e vai do núcleo vestibular aos núcleos dos nervos III (oculomotor) e VI (abducente) contralaterais. O terceiro neurônio vai desses núcleos para os músculos extraoculares, movendo os olhos em direção oposta à da cabeça.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O seio esfenoidal drena para qual região da cavidade nasal?",
+    "options": [
+      "Meato superior",
+      "Meato médio",
+      "Meato inferior",
+      "Recesso esfenoetmoidal",
+      "Bula etmoidal"
+    ],
+    "answer": "Recesso esfenoetmoidal",
+    "explanation": "O seio esfenoidal e as células etmoidais posteriores drenam para a região mais superior e posterior da cavidade nasal, uma área acima do corneto superior conhecida como recesso esfenoetmoidal.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A sensação de paladar do terço posterior da língua e a sensibilidade geral da orofaringe são mediadas por qual nervo craniano?",
+    "options": [
+      "Nervo Trigêmeo (V)",
+      "Nervo Facial (VII)",
+      "Nervo Vestibulococlear (VIII)",
+      "Nervo Glossofaríngeo (IX)",
+      "Nervo Hipoglosso (XII)"
+    ],
+    "answer": "Nervo Glossofaríngeo (IX)",
+    "explanation": "O nervo glossofaríngeo é responsável pela gustação e sensibilidade somática do terço posterior da língua, além de inervar o músculo estilofaríngeo e fornecer fibras parassimpáticas para a glândula parótida.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A teoria da 'dupla via' da fisiologia olfatória postula que os odores podem ser percebidos por duas rotas. Quais são elas?",
+    "options": [
+      "Via nasal e via oral.",
+      "Via ortonasal (inspiração) e via retronasal (da boca para a nasofaringe).",
+      "Via consciente e via subconsciente.",
+      "Via do nervo olfatório e via do nervo trigêmeo.",
+      "Via direta para o córtex e via através do tálamo."
+    ],
+    "answer": "Via ortonasal (inspiração) e via retronasal (da boca para a nasofaringe).",
+    "explanation": "A percepção do cheiro de um alimento (flavor) depende da combinação do gosto com o aroma. O aroma chega ao epitélio olfatório tanto pela via ortonasal (cheirar antes de comer) quanto pela via retronasal, onde as moléculas voláteis sobem da orofaringe para a cavidade nasal durante a mastigação e deglutição.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual estrutura forma a parede medial da orelha média, separando-a da orelha interna?",
+    "options": [
+      "Membrana timpânica",
+      "Parede mastoidea",
+      "Parede tegmental",
+      "Promontório coclear",
+      "Parede jugular"
+    ],
+    "answer": "Promontório coclear",
+    "explanation": "A parede medial ou labiríntica da orelha média é formada pelo giro basal da cóclea, que cria uma proeminência óssea chamada de promontório. Nela também se localizam as janelas oval e redonda.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A inervação motora de todos os músculos da laringe é fornecida pelo nervo laríngeo recorrente, EXCETO para um músculo, que é inervado pelo ramo externo do nervo laríngeo superior. Qual é este músculo?",
+    "options": [
+      "Músculo cricoaritenóideo posterior",
+      "Músculo tireoaritenóideo",
+      "Músculo cricotireóideo",
+      "Músculo vocal",
+      "Músculo aritenóideo oblíquo"
+    ],
+    "answer": "Músculo cricotireóideo",
+    "explanation": "O músculo cricotireóideo é o único músculo intrínseco da laringe inervado pelo nervo laríngeo superior. Sua função é tensionar e alongar as pregas vocais, sendo crucial para a produção de sons agudos. Todos os outros músculos intrínsecos são inervados pelo nervo laríngeo recorrente.",
+    "area": "Anatomia e Fisiologia"
   }
 ]
