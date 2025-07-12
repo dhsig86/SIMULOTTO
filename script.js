@@ -1,9 +1,13 @@
 let questionBank = [];
+const totalQuestionsEl = document.getElementById('total-questions');
 
 fetch('data/questions.json')
   .then(res => res.json())
   .then(data => {
     questionBank = data;
+    if (totalQuestionsEl) {
+      totalQuestionsEl.textContent = questionBank.length;
+    }
   });
 
 const startScreen = document.getElementById('start-screen');
