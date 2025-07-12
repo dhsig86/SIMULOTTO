@@ -9,6 +9,14 @@ As questões estão definidas em `data/questions.json`. Cada entrada possui `ban
 
 Ao final do simulado é possível exportar um log das questões anuladas clicando em **Exportar Log** na tela de resultados.
 
+## Progresso
+
+O aplicativo grava no `localStorage` do navegador as questões já respondidas. Assim, novos simulados sorteiam apenas as que ainda não foram concluídas.
+
+Na tela inicial é possível marcar **Incluir questões já realizadas** para permitir que essas questões apareçam novamente. O botão **Limpar Progresso** remove o registro salvo e reinicia seu histórico.
+
+A mesma tela exibe quantas questões do banco já foram resolvidas, indicando seu avanço em relação ao total disponível.
+
 ## Como adicionar questões
 
 Edite `data/questions.json` e acrescente novas questões seguindo o formato abaixo.
