@@ -1,5 +1,40 @@
 let questionBank = [];
 const totalQuestionsEl = document.getElementById('total-questions');
+const progressInfoEl = document.getElementById('progress-info');
+const includeDoneCheckbox = document.getElementById('include-done');
+const clearProgressBtn = document.getElementById('clear-progress');
+
+function loadProgress() {
+    try {
+        const stored = localStorage.getItem('completedQuestions');
+        return stored ? JSON.parse(stored) : [];
+    } catch (e) {
+        return [];
+    }
+}
+
+function saveProgress(questionText) {
+    if (!questionText) return;
+    if (!completedQuestions.includes(questionText)) {
+        completedQuestions.push(questionText);
+        localStorage.setItem('completedQuestions', JSON.stringify(completedQuestions));
+        updateProgressUI();
+    }
+}
+
+function clearProgress() {
+    localStorage.removeItem('completedQuestions');
+    completedQuestions = [];
+    updateProgressUI();
+}
+
+function updateProgressUI() {
+    if (progressInfoEl && questionBank.length) {
+        progressInfoEl.textContent = `Você já respondeu ${completedQuestions.length} de ${questionBank.length} questões.`;
+    }
+}
+
+let completedQuestions = loadProgress();
 
 fetch('data/questions.json')
   .then(res => res.json())
@@ -8,6 +43,7 @@ fetch('data/questions.json')
     if (totalQuestionsEl) {
       totalQuestionsEl.textContent = questionBank.length;
     }
+    updateProgressUI();
   });
 
 const startScreen = document.getElementById('start-screen');
@@ -76,9 +112,13 @@ function startQuiz() {
         .filter(cb => cb.checked)
         .map(cb => cb.value);
 
-    const bank = selectedAreas.length
+    let bank = selectedAreas.length
         ? questionBank.filter(q => selectedAreas.includes(q.area))
         : [...questionBank];
+
+    if (!(includeDoneCheckbox && includeDoneCheckbox.checked)) {
+        bank = bank.filter(q => !completedQuestions.includes(q.question));
+    }
 
     if (bank.length === 0) {
         alert('Nenhuma questão disponível para as áreas selecionadas.');
@@ -86,7 +126,7 @@ function startQuiz() {
     }
 
     shuffle(bank);
-    currentQuestions = bank.slice(0, num);
+    currentQuestions = bank.slice(0, Math.min(num, bank.length));
     currentQuestionIndex = 0;
     score = 0;
     flaggedQuestions = [];
@@ -182,6 +222,8 @@ function selectAnswer(e) {
             correct: question.answer
         });
     }
+
+    saveProgress(question.question);
 
     // Highlight the selected option based on correctness
     selectedBtn.classList.add(isCorrect ? 'correct' : 'incorrect');
@@ -313,6 +355,9 @@ if (homeBtn) {
     homeBtn.addEventListener('click', () => {
         window.location.href = 'index.html';
     });
+}
+if (clearProgressBtn) {
+    clearProgressBtn.addEventListener('click', clearProgress);
 }
 
 if (helpBtn && helpModal && helpClose) {
