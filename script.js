@@ -247,14 +247,6 @@ function selectAnswer(e) {
     }
 }
 
-function setStatusClass(element, correct) {
-    if (correct) {
-        element.classList.add('correct');
-    } else if (element.classList.contains('option-btn') && element.disabled) {
-         element.classList.add('incorrect');
-    }
-}
-
 function flagCurrentQuestion() {
     const question = currentQuestions[currentQuestionIndex];
     if (!flaggedQuestions.includes(question)) {
