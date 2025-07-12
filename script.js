@@ -25,6 +25,9 @@ const showWrongBtn = document.getElementById('show-wrong-btn');
 const wrongListEl = document.getElementById('wrong-questions');
 const exportLogBtn = document.getElementById('export-log-btn');
 const homeBtn = document.getElementById('home-btn');
+const helpBtn = document.getElementById('help-btn');
+const helpModal = document.getElementById('help-modal');
+const helpClose = document.getElementById('help-close');
 
 const progressBar = document.getElementById('progress-bar');
 const questionCounterEl = document.getElementById('question-counter');
@@ -310,5 +313,10 @@ if (homeBtn) {
     homeBtn.addEventListener('click', () => {
         window.location.href = 'index.html';
     });
+}
+
+if (helpBtn && helpModal && helpClose) {
+    helpBtn.addEventListener('click', () => helpModal.classList.remove('hidden'));
+    helpClose.addEventListener('click', () => helpModal.classList.add('hidden'));
 }
 

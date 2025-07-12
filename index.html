@@ -13,6 +13,8 @@
 </head>
 <body class="text-gray-800 flex items-center justify-center min-h-screen p-4">
 
+    <button id="help-btn" class="fixed top-4 right-4 bg-gray-200 rounded-full p-2 text-lg font-bold">?</button>
+
     <div id="app" class="w-full max-w-4xl mx-auto">
 
         <!-- Start Screen -->
@@ -115,6 +117,14 @@
             <div id="wrong-questions" class="mt-4 text-left hidden"></div>
         </div>
 
+    </div>
+
+    <div id="help-modal" class="hidden fixed inset-0 bg-black/50 flex items-center justify-center">
+      <div class="bg-white p-6 rounded-lg max-w-md">
+        <h2 class="text-xl font-bold mb-2">Como usar o simulador</h2>
+        <p>Escolha a quantidade de questões, marque as áreas desejadas e clique em “Iniciar Simulado”. Responda cada questão tocando ou clicando na alternativa correta. Ao final, consulte sua pontuação e o log de questões anuladas.</p>
+        <button id="help-close" class="mt-4 bg-[#004AAD] text-white px-4 py-2 rounded">Fechar</button>
+      </div>
     </div>
 
 
