@@ -766,7 +766,7 @@
       "2 episódios de abscesso periamigdaliano"
     ],
     "answer": "3 episódios em 3 anos consecutivos",
-    "explanation": "Os critérios de Paradise indicam amigdalectomia quando ocorrem \u22657 epis\u00f3dios em um \u00fanico ano, \u22655 epis\u00f3dios por ano durante dois anos ou \u22653 epis\u00f3dios por ano durante tr\u00eas anos consecutivos. Entre as alternativas, a que atende a esses crit\u00e9rios \u00e9 '3 epis\u00f3dios em 3 anos consecutivos'.",
+    "explanation": "Os critérios de Paradise indicam amigdalectomia quando ocorrem ≥7 episódios em um único ano, ≥5 episódios por ano durante dois anos ou ≥3 episódios por ano durante três anos consecutivos. Entre as alternativas, a que atende a esses critérios é '3 episódios em 3 anos consecutivos'.",
     "area": "Laringologia e Bucofaringe"
   },
   {
@@ -1369,7 +1369,8 @@
     ],
     "answer": "Alongamento do processo estiloide ou calcificação do ligamento estilo-hioideo.",
     "explanation": "A Síndrome de Eagle é um conjunto de sintomas (dor cervical, odinofagia, sensação de corpo estranho) causados pela compressão de estruturas neurovasculares por um processo estiloide alongado (> 2.5-3.0 cm) ou pela calcificação do ligamento estilo-hioideo.",
-    "area": "Urgências e Miscelânea"  },
+    "area": "Urgências e Miscelânea"
+  },
   {
     "banca": "VUNESP",
     "question": "Na tomografia computadorizada de seios paranasais, o achado de uma lesão expansiva com conteúdo homogêneo e hipodenso, que remodela as paredes ósseas adjacentes e apresenta um fino halo de realce periférico ao contraste, é mais característico de:",
@@ -2741,8 +2742,7 @@
     "answer": "Sarcoma de Ewing",
     "explanation": "A reação periosteal em 'casca de cebola' representa episódios repetidos de um tumor de crescimento rápido (como o Sarcoma de Ewing) levantando o periósteo, que tenta formar novas camadas de osso em resposta, criando uma aparência lamelar.",
     "area": "Sinais Clínicos e Radiológicos"
-  }
-,
+  },
   {
     "banca": "VUNESP",
     "question": "Na audiometria tonal, qual padrão é mais classicamente associado à otosclerose em sua fase inicial?",
@@ -3582,5 +3582,523 @@
     "answer": "Músculo cricotireóideo",
     "explanation": "O músculo cricotireóideo é o único músculo intrínseco da laringe inervado pelo nervo laríngeo superior. Sua função é tensionar e alongar as pregas vocais, sendo crucial para a produção de sons agudos. Todos os outros músculos intrínsecos são inervados pelo nervo laríngeo recorrente.",
     "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "De acordo com o disposto na Portaria nº 2.436/2017, a Política Nacional de Atenção Básica considera os termos Atenção Básica (AB) e Atenção Primária à Saúde (APS), nas atuais concepções, como termos _______, de forma a _______ ambas os princípios e as diretrizes definidas neste documento.",
+    "options": [
+      "equivalentes - associar a",
+      "distintos - distinguir de",
+      "discordantes - discernir entre",
+      "contraditórios - distinguir e discernir entre",
+      "incompatíveis - associar e ligar a"
+    ],
+    "answer": "equivalentes - associar a",
+    "explanation": "A PNAB de 2017 estabelece que os termos Atenção Básica e Atenção Primária à Saúde são considerados equivalentes para efeito daquela portaria, visando unificar e fortalecer os seus princípios e diretrizes.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação à Atenção Básica, analise as assertivas: () É o conjunto de ações de saúde individuais, familiares e coletivas. () Ações de saúde que envolvem cuidados paliativos e vigilância em saúde. () As equipes assumem responsabilidade sanitária sobre território definido.",
+    "options": [
+      "F-F-V",
+      "F-V-V",
+      "V-V-V",
+      "V-V-F",
+      "V-F-F"
+    ],
+    "answer": "V-V-V",
+    "explanation": "Todas as assertivas estão corretas e descrevem características fundamentais da Atenção Básica conforme a PNAB: abrange ações individuais e coletivas, inclui cuidados paliativos e vigilância, e opera com base na territorialização e responsabilidade sanitária.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "De acordo com a Portaria nº 2.436/2017, são responsabilidades comuns a todas as esferas de governo, EXCETO:",
+    "options": [
+      "Planejar, apoiar, monitorar e avaliar as ações da Atenção Básica nos territórios.",
+      "Garantir provimento e estratégias de fixação de profissionais de saúde para a Atenção Básica.",
+      "Inserir a Estratégia de Saúde da Família em sua rede de serviços como a estratégia prioritária de organização da Atenção Básica.",
+      "Contribuir com o financiamento tripartite para fortalecimento da Atenção Básica.",
+      "Todas as alternativas listadas são responsabilidades comuns."
+    ],
+    "answer": "Inserir a Estratégia de Saúde da Família em sua rede de serviços como a estratégia prioritária de organização da Atenção Básica.",
+    "explanation": "A questão original pedia a INCORRETA, mas todas as opções listadas (I, II, III e IV na prova) são, de fato, responsabilidades comuns. A alternativa B da prova original (Apenas III) estava incorreta. A inserção da ESF como prioritária é uma responsabilidade compartilhada para a organização da AB.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Considerando o Estatuto da Pessoa Idosa (2003) e suas alterações, assinale a alternativa INCORRETA.",
+    "options": [
+      "É instituído o Estatuto da Pessoa Idosa, destinado a regular os direitos assegurados às pessoas com idade igual ou superior a 60 anos.",
+      "Se a pessoa idosa ou seus familiares não possuírem condições econômicas de prover o seu sustento, impõe-se ao poder público esse provimento, no âmbito da assistência social.",
+      "Incumbe ao poder público fornecer às pessoas idosas, gratuitamente, próteses, órteses e outros recursos relativos ao tratamento, habilitação ou reabilitação.",
+      "Em todo atendimento de saúde, os maiores de 80 (oitenta) anos terão preferência especial sobre as demais pessoas idosas, exceto em caso de emergência.",
+      "É assegurado o direito a acompanhante à pessoa idosa internada ou em observação, devendo o órgão de saúde proporcionar as condições adequadas para sua permanência em tempo integral."
+    ],
+    "answer": "É instituído o Estatuto da Pessoa Idosa, destinado a regular os direitos assegurados às pessoas com idade igual ou superior a 60 anos.",
+    "explanation": "A alternativa A da prova original afirmava que a idade era 65 anos, o que está incorreto. O Estatuto da Pessoa Idosa se aplica a pessoas com idade igual ou superior a 60 anos.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Segundo o Estatuto do Idoso, os casos de suspeita ou confirmação de violência praticados contra pessoas idosas serão obrigatoriamente comunicados a qualquer dos seguintes órgãos, EXCETO:",
+    "options": [
+      "Autoridade policial",
+      "Ministério Público",
+      "Conselho Municipal da Pessoa Idosa",
+      "Conselho Estadual da Pessoa Idosa",
+      "Conselho Interfederativo da Pessoa Idosa"
+    ],
+    "answer": "Conselho Interfederativo da Pessoa Idosa",
+    "explanation": "A lei determina a comunicação à autoridade policial, Ministério Público, e aos Conselhos Municipal, Estadual ou Nacional do Idoso. O 'Conselho Interfederativo' não é uma das instâncias listadas para notificação obrigatória.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre a semiologia dos órgãos da audição e do equilíbrio, assinale a alternativa INCORRETA.",
+    "options": [
+      "A membrana timpânica normal é perlácea, com o triângulo luminoso de Politzer em sua porção anterior.",
+      "O teste de Weber é altamente sensível para perdas auditivas condutivas.",
+      "Nos indivíduos com audição normal, a via aérea é mais sensível que a via óssea, e o teste de Rinne será positivo.",
+      "Na prova de Fukuda, um desvio do corpo maior que 45° é considerado alterado.",
+      "HINTS é a sigla para Head Impulse Test, Nystagmus e Test for Skew deviation."
+    ],
+    "answer": "Nos indivíduos com audição normal, a via aérea é mais sensível que a via óssea, e o teste de Rinne será positivo.",
+    "explanation": "A alternativa C da prova original afirmava que o teste de Rinne seria negativo em indivíduos normais. Isso está incorreto. Em audição normal, a percepção por via aérea é melhor que a óssea, o que define um teste de Rinne POSITIVO.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre a eletrococleografia (ECochG), qual é sua principal indicação clínica e o estímulo mais preconizado em estudos recentes?",
+    "options": [
+      "Diagnóstico de Schwannoma; estímulo tipo clique.",
+      "Diagnóstico de Doença de Ménière; estímulo tipo toneburst.",
+      "Avaliação de neuropatia auditiva; estímulo tipo clique.",
+      "Monitoramento de ototoxicidade; estímulo tipo toneburst.",
+      "Triagem auditiva neonatal; estímulo tipo clique."
+    ],
+    "answer": "Diagnóstico de Doença de Ménière; estímulo tipo toneburst.",
+    "explanation": "A principal indicação da ECochG é a suspeita de hidropsia endolinfática (Doença de Ménière). O estímulo clique é tradicional, mas estudos mostram que o toneburst em frequências específicas (como 500 Hz ou 1000 Hz) aumenta a sensibilidade do exame para detectar a hidropsia.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre os tumores glômicos, assinale a alternativa INCORRETA.",
+    "options": [
+      "O principal diagnóstico diferencial é com a artéria carótida interna ectópica.",
+      "A biópsia pré-operatória é indispensável para um diagnóstico correto.",
+      "São tumores raros com uma incidência estimada de 1:1 milhão de habitantes.",
+      "Zumbido pulsátil e perda auditiva são os sintomas mais precoces.",
+      "O tratamento deve ser individualizado, considerando idade, crescimento e estruturas envolvidas."
+    ],
+    "answer": "A biópsia pré-operatória é indispensável para um diagnóstico correto.",
+    "explanation": "A biópsia de um tumor glômico é contraindicada e perigosa devido à sua altíssima vascularização, podendo causar sangramento incontrolável. O diagnóstico é feito com base nos achados clínicos e de imagem (TC e RM com contraste).",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "São síndromes associadas à atresia de conduto auditivo externo, EXCETO:",
+    "options": [
+      "Microssomia hemifacial",
+      "Síndrome de Treacher-Collins",
+      "Sequência de Pierre-Robin",
+      "Síndrome branquio-oto-renal",
+      "Síndrome de Marfan"
+    ],
+    "answer": "Síndrome de Marfan",
+    "explanation": "A Síndrome de Marfan é uma doença do tecido conjuntivo que afeta principalmente os sistemas esquelético, cardiovascular e ocular. Não está classicamente associada a malformações da orelha externa e média, como a atresia de conduto.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Paciente do sexo feminino, 35 anos, com hipoacusia bilateral progressiva, apresenta à otoscopia uma pequena mancha avermelhada retrotimpânica na região do promontório. Qual o diagnóstico mais provável?",
+    "options": [
+      "Otosclerose",
+      "Presbiacusia",
+      "Colesteatoma",
+      "Labirintite",
+      "Surdez súbita"
+    ],
+    "answer": "Otosclerose",
+    "explanation": "O quadro clínico de hipoacusia progressiva em mulher jovem, associado ao sinal de Schwartze (a mancha avermelhada, que representa um foco otosclerótico ativo e vascularizado), é altamente sugestivo de otosclerose.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação à Perda Auditiva Induzida pelo Ruído (PAIR), é correto afirmar que:",
+    "options": [
+      "O exame audiométrico inicial revela um entalhe em 250 ou 500 Hz.",
+      "A surdez é irreversível e não evolutiva após cessação da exposição ao ruído.",
+      "As emissões otoacústicas não são sensíveis para detecção precoce.",
+      "O ruído é mais nocivo quando sua intensidade é menos elevada.",
+      "Tabagismo não é um fator agravante."
+    ],
+    "answer": "A surdez é irreversível e não evolutiva após cessação da exposição ao ruído.",
+    "explanation": "A PAIR causa uma lesão permanente nas células ciliadas da cóclea, tornando a perda auditiva irreversível. Uma vez que a exposição ao ruído cessa, a perda tende a não progredir mais por essa causa.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre a ototoxicidade, analise as assertivas: I. Pode ocorrer no feto se a substância atravessar a barreira placentária. II. A cocleotoxicidade manifesta-se com hipoacusia, zumbido e plenitude aural. III. As emissões otoacústicas por produto de distorção são um excelente método para monitoração precoce.",
+    "options": [
+      "Apenas I está correta.",
+      "Apenas II está correta.",
+      "Apenas I e III estão corretas.",
+      "Apenas II e III estão corretas.",
+      "I, II e III estão corretas."
+    ],
+    "answer": "I, II e III estão corretas.",
+    "explanation": "Todas as afirmativas estão corretas. A ototoxicidade pode ser congênita, seus sintomas cocleares são hipoacusia/zumbido/plenitude, e as emissões otoacústicas (especialmente o PD) são muito sensíveis para detectar o dano às células ciliadas externas antes mesmo de aparecer na audiometria convencional.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre a otite externa, qual das seguintes afirmações é a mais correta?",
+    "options": [
+      "Preparações com gentamicina são seguras mesmo com perfuração timpânica.",
+      "Antimicrobianos sistêmicos não são indicados em casos com celulite periauricular.",
+      "Fatores de risco para otomicose incluem diabetes, imunossupressão e cirurgia otológica prévia.",
+      "A otalgia é um sintoma raro no estágio inflamatório agudo.",
+      "A otomicose é primariamente causada por bactérias."
+    ],
+    "answer": "Fatores de risco para otomicose incluem diabetes, imunossupressão e cirurgia otológica prévia.",
+    "explanation": "A otomicose (otite externa fúngica) é mais comum em ambientes úmidos e em pacientes com fatores que alteram a flora normal do conduto, como diabetes, uso de antibióticos tópicos e imunossupressão.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Entre os fatores de risco para otite média aguda recorrente, NÃO podemos incluir:",
+    "options": [
+      "Tabagismo passivo.",
+      "Anormalidades craniofaciais.",
+      "Idade maior de 9 anos.",
+      "Predisposição genética.",
+      "Frequentar a creche."
+    ],
+    "answer": "Idade maior de 9 anos.",
+    "explanation": "A incidência de otite média aguda diminui significativamente com a idade, devido à maturação do sistema imunológico e às mudanças anatômicas da tuba auditiva, que se torna mais longa e verticalizada. Portanto, ter mais de 9 anos é um fator de proteção, não de risco.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre a perda auditiva congênita, assinale a alternativa INCORRETA.",
+    "options": [
+      "Citomegalovírus é a causa infecciosa mais comum de surdez congênita.",
+      "Aproximadamente 50% das crianças com rubéola congênita sintomática apresentam perda auditiva.",
+      "A infecção congênita por rubéola geralmente resulta em perda auditiva unilateral leve.",
+      "A maioria das infecções congênitas por CMV é assintomática ao nascimento.",
+      "Não há tratamento específico para a infecção por rubéola congênita."
+    ],
+    "answer": "A infecção congênita por rubéola geralmente resulta em perda auditiva unilateral leve.",
+    "explanation": "A perda auditiva causada pela rubéola congênita é tipicamente neurossensorial, bilateral e de grau severo a profundo, e não unilateral e leve.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A respeito de surdez súbita, qual das seguintes afirmativas é correta?",
+    "options": [
+      "É definida como perda neurossensorial de pelo menos 30 dB em três frequências contíguas, instalada em até 72h.",
+      "A perda auditiva é, na maioria dos casos, bilateral.",
+      "Curvas ascendentes e boa discriminação vocal são sinais de mau prognóstico.",
+      "Acometimento em extremos de idade (crianças e idosos) é um fator de bom prognóstico.",
+      "Zumbido intenso é um fator de bom prognóstico."
+    ],
+    "answer": "É definida como perda neurossensorial de pelo menos 30 dB em três frequências contíguas, instalada em até 72h.",
+    "explanation": "Esta é a definição clássica e mais aceita de surdez súbita. A maioria dos casos é unilateral e os outros fatores listados nas alternativas incorretas são, na verdade, sinais de mau prognóstico.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre as perfurações timpânicas, qual das seguintes afirmações é correta?",
+    "options": [
+      "São classificadas apenas como traumáticas ou infecciosas.",
+      "O tratamento de escolha é sempre a timpanotomia com tubo de ventilação.",
+      "O uso de Aparelhos de Amplificação Sonora Individuais (AASIs) é uma opção para pacientes que não desejam cirurgia.",
+      "A timpanoplastia é contraindicada em perfurações centrais.",
+      "Perfurações marginais têm melhor prognóstico que as centrais."
+    ],
+    "answer": "O uso de Aparelhos de Amplificação Sonora Individuais (AASIs) é uma opção para pacientes que não desejam cirurgia.",
+    "explanation": "Para pacientes com perda auditiva condutiva ou mista devido a uma perfuração timpânica crônica, que não são candidatos ou não desejam o tratamento cirúrgico (timpanoplastia), a reabilitação com AASI é uma alternativa viável para melhorar a audição.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação à presbiacusia, é correto afirmar que:",
+    "options": [
+      "O PEATE apresenta uma diminuição da latência das ondas.",
+      "Decorre do comprometimento combinado das vias auditivas centrais e periféricas.",
+      "A raça negra tem maior probabilidade de presbiacusia que a branca.",
+      "Diabetes e dislipidemia não são fatores de risco.",
+      "A imitanciometria geralmente encontra-se alterada, com curva tipo B."
+    ],
+    "answer": "Decorre do comprometimento combinado das vias auditivas centrais e periféricas.",
+    "explanation": "A presbiacusia é multifatorial. Além da degeneração coclear (periférica), há também um componente de degeneração neural e do sistema nervoso central, o que explica a dificuldade de compreensão da fala (especialmente no ruído) que é desproporcional à perda auditiva tonal.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre o implante coclear, qual das seguintes afirmações está correta?",
+    "options": [
+      "A agenesia de nervo auditivo é uma boa indicação para o implante.",
+      "Pacientes com surdez pós-meningite têm pior prognóstico auditivo que outras causas.",
+      "Paralisia facial e meningite são complicações cirúrgicas possíveis.",
+      "A motivação do paciente não interfere nos resultados.",
+      "É indicado para perdas auditivas condutivas severas."
+    ],
+    "answer": "Paralisia facial e meningite são complicações cirúrgicas possíveis.",
+    "explanation": "A cirurgia do implante coclear, embora segura, possui riscos como qualquer procedimento otológico. A proximidade com o nervo facial o coloca em risco de lesão. A meningite é um risco devido à comunicação criada entre a orelha média e a interna, sendo a vacinação pré-operatória uma medida preventiva importante.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Paciente apresenta aumento de volume doloroso retroauricular e cervical à direita, com torcicolo. TC revela coleção em pescoço e espessamento em ouvido médio e mastoide. Qual a principal hipótese e tratamento?",
+    "options": [
+      "Abscesso de Bezold - Cirurgia e antibioticoterapia.",
+      "Abscesso parafaríngeo - Apenas antibioticoterapia.",
+      "Petrosite - Cirurgia e corticosteroides.",
+      "Meningite - Apenas antibioticoterapia.",
+      "Tromboflebite de seio sigmoide - Uso de anticoagulante."
+    ],
+    "answer": "Abscesso de Bezold - Cirurgia e antibioticoterapia.",
+    "explanation": "O abscesso de Bezold é uma complicação de uma mastoidite coalescente, onde o pus erode a ponta da mastoide e se espalha para o pescoço, sob o músculo esternocleidomastoideo. O tratamento requer drenagem cirúrgica da mastoide e do abscesso cervical, além de antibioticoterapia de amplo espectro.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre o zumbido persistente, assinale a alternativa INCORRETA.",
+    "options": [
+      "O zumbido do tipo objetivo é muito raro e pode ser auscultado pelo examinador.",
+      "Audiometria tonal, vocal e imitanciometria devem ser realizadas em todos os pacientes.",
+      "Exposição a ruído e trauma acústico são as causas mais prevalentes.",
+      "Diuréticos de alça, aminoglicosídeos e AINEs podem causar zumbido.",
+      "Zumbido unilateral não requer investigação complementar."
+    ],
+    "answer": "Zumbido unilateral não requer investigação complementar.",
+    "explanation": "A questão original afirmava que o zumbido subjetivo era raro, o que é o oposto. Corrigindo para uma alternativa incorreta mais clara: Zumbido unilateral é um sinal de alerta ('red flag') e exige investigação com exames de imagem (RM) para descartar lesões retrococleares, como um schwannoma vestibular.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Segundo as diretrizes de Triagem Auditiva Neonatal, qual a conduta para neonatos com indicador de risco para deficiência auditiva?",
+    "options": [
+      "Utiliza-se apenas o exame de Emissões Otoacústicas Evocadas (EOAE).",
+      "A triagem pode ser adiada para após o terceiro mês de vida.",
+      "O reteste deve ser feito apenas na orelha que falhou.",
+      "A triagem deve ser realizada com EOAE e Potencial Evocado Auditivo de Tronco Encefálico automático (PEATE-a).",
+      "A preocupação dos pais não é considerada um indicador de risco."
+    ],
+    "answer": "A triagem deve ser realizada com EOAE e Potencial Evocado Auditivo de Tronco Encefálico automático (PEATE-a).",
+    "explanation": "A questão original afirmava que se usava apenas EOAE, o que está incorreto. As diretrizes recomendam que bebês com indicadores de risco (ex: UTI neonatal, infecções congênitas) sejam triados com dois exames (EOAE e PEATE-a) para aumentar a sensibilidade e detectar neuropatia auditiva, que pode ser perdida pela EOAE isoladamente.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A VPPB do canal semicircular _______ é a mais comum. Para o diagnóstico dos canais verticais, utiliza-se a manobra de _______. Para o diagnóstico dos canais laterais, utiliza-se a manobra de _______.",
+    "options": [
+      "anterior - Dix-Hallpike - Epley",
+      "anterior - Gufoni - Dix-Hallpike",
+      "anterior - Epley - girar de lado (head roll test)",
+      "posterior - Dix-Hallpike - girar de lado (head roll test)",
+      "posterior - girar de lado (head roll test) - Gufoni"
+    ],
+    "answer": "posterior - Dix-Hallpike - girar de lado (head roll test)",
+    "explanation": "A VPPB do canal posterior é a mais frequente (cerca de 90%). A manobra de Dix-Hallpike é o padrão-ouro para o diagnóstico dos canais verticais (anterior e posterior). A manobra de girar de lado (supine roll test ou manobra de Pagnini-McClure) é usada para diagnosticar a VPPB dos canais laterais.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Paciente com crise de vertigem intensa de início súbito, sem sintomas auditivos, com nistagmo espontâneo horizontal que obedece à Lei de Alexander e Head Impulse Test positivo para o lado acometido. Qual o diagnóstico mais provável?",
+    "options": [
+      "AVC cerebelar",
+      "Doença de Ménière",
+      "Deiscência de canal semicircular superior",
+      "Neurite vestibular",
+      "Esclerose múltipla"
+    ],
+    "answer": "Neurite vestibular",
+    "explanation": "Este é o quadro clínico clássico de uma neurite vestibular (inflamação do nervo vestibular). A vertigem é súbita e prolongada, não há sintomas auditivos, e os achados do exame físico (nistagmo periférico e HIT positivo) apontam para uma hipofunção vestibular periférica aguda.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Associe os exames vestibulares (Coluna 1) às suas funções (Coluna 2): 1. vHIT 2. VEMP",
+    "options": [
+      "1-mede RVO, 1-avalia canais, 2-avalia sáculo/utrículo, 2-mede contração muscular",
+      "2-mede RVO, 1-avalia canais, 2-avalia sáculo/utrículo, 1-mede contração muscular",
+      "1-mede RVO, 2-avalia canais, 1-avalia sáculo/utrículo, 2-mede contração muscular",
+      "2-mede RVO, 2-avalia canais, 1-avalia sáculo/utrículo, 1-mede contração muscular",
+      "1-mede RVO, 1-avalia canais, 1-avalia sáculo/utrículo, 2-mede contração muscular"
+    ],
+    "answer": "1-mede RVO, 1-avalia canais, 2-avalia sáculo/utrículo, 2-mede contração muscular",
+    "explanation": "O vHIT (Video Head Impulse Test) mede o Reflexo Vestíbulo-Ocular (RVO) e avalia a função de cada um dos seis canais semicirculares. O VEMP (Potencial Evocado Miogênico Vestibular) avalia a função dos órgãos otolíticos (sáculo e utrículo) ao medir a contração muscular reflexa (no esternocleidomastoideo ou nos músculos extraoculares).",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação ao aqueduto vestibular alargado, assinale a alternativa INCORRETA.",
+    "options": [
+      "Pode estar associado a síndromes como Mondini e Pendred.",
+      "O paciente pode apresentar perda auditiva progressiva, piorando após trauma craniano.",
+      "Aumenta a predisposição a VPPB.",
+      "O diagnóstico por TC é confirmado com diâmetro maior ou igual a 1,5 mm na porção média.",
+      "Os tratamentos cirúrgicos, como shunt ou oclusão do saco endolinfático, são os tratamentos de escolha e com alta eficácia."
+    ],
+    "answer": "Os tratamentos cirúrgicos, como shunt ou oclusão do saco endolinfático, são os tratamentos de escolha e com alta eficácia.",
+    "explanation": "O tratamento cirúrgico para o aqueduto vestibular alargado é controverso e não é considerado o tratamento de primeira linha. Os resultados são variáveis e há riscos significativos, incluindo a perda total da audição. O manejo é geralmente conservador.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Estão entre as causas de Paralisia Facial Periférica, EXCETO:",
+    "options": [
+      "Doença de Lyme",
+      "Ferimento por arma de fogo",
+      "Otite externa necrotizante",
+      "Sarcoidose",
+      "Síndrome de Fournier"
+    ],
+    "answer": "Síndrome de Fournier",
+    "explanation": "A Síndrome de Fournier é uma fasceíte necrosante do períneo e da região genital, uma condição grave, mas que não tem relação com a paralisia do nervo facial. Todas as outras opções são causas conhecidas de paralisia facial periférica.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre a Paralisia de Bell, qual das seguintes afirmações está correta?",
+    "options": [
+      "O diagnóstico é positivo, baseado em achados específicos de imagem.",
+      "A ocorrência em gestantes é menos comum que na população geral.",
+      "Sintomas como hipoacusia ou vertigens são esperados e comuns.",
+      "Paralisia incompleta e idade jovem são fatores de bom prognóstico.",
+      "Ausência de dor retroauricular é um sinal de mau prognóstico."
+    ],
+    "answer": "Paralisia incompleta e idade jovem são fatores de bom prognóstico.",
+    "explanation": "A questão original tinha as alternativas I e II como corretas. A afirmativa I (diagnóstico por exclusão) e II (mais comum em gestantes) estão corretas. Para criar uma nova questão, focamos nos fatores prognósticos: paralisia incompleta (Grau II-IV de HB) e idade mais jovem são consistentemente associados a uma melhor chance de recuperação completa.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual o tipo histológico mais comum de neoplasia maligna primária do osso temporal?",
+    "options": [
+      "Carcinoma Espinocelular",
+      "Adenocarcinoma",
+      "Sarcoma",
+      "Melanoma",
+      "Carcinoma adenoide cístico"
+    ],
+    "answer": "Carcinoma Espinocelular",
+    "explanation": "O Carcinoma Espinocelular (CEC) é o tipo histológico mais comum de câncer que se origina no conduto auditivo externo e na orelha média, respondendo pela grande maioria dos tumores malignos primários desta região.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual dos seguintes pacientes com Otite Média Aguda (OMA) seria o melhor candidato para uma conduta de observação inicial (watchful waiting) por 48-72h sem antibióticos?",
+    "options": [
+      "Paciente de 5 meses com OMA unilateral sem febre.",
+      "Paciente de 1 ano com OMA e otorreia.",
+      "Paciente de 2 anos com OMA bilateral e febre de 39,5°C.",
+      "Paciente de 3 anos com OMA unilateral e sintomas leves.",
+      "Paciente de 18 meses com episódio de OMA há 20 dias."
+    ],
+    "answer": "Paciente de 3 anos com OMA unilateral e sintomas leves.",
+    "explanation": "A conduta de observação é recomendada para crianças maiores de 2 anos com OMA unilateral e quadro clínico leve (otalgia leve, febre < 39°C). Crianças menores de 6 meses, quadros graves, otorreia ou comorbidades devem receber tratamento imediato.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre o Schwannoma do VIII nervo, assinale a alternativa INCORRETA.",
+    "options": [
+      "É um tumor benigno que se origina mais frequentemente da divisão vestibular superior do nervo.",
+      "A radioterapia é uma opção de tratamento para pacientes idosos ou sem condições cirúrgicas.",
+      "Pode estar associado à neurofibromatose tipo 2, especialmente se bilateral.",
+      "A audiometria classicamente mostra perda neurossensorial unilateral.",
+      "O diagnóstico por RM mostra uma lesão com pouco realce ao contraste em T1, em formato de caracol."
+    ],
+    "answer": "O diagnóstico por RM mostra uma lesão com pouco realce ao contraste em T1, em formato de caracol.",
+    "explanation": "Esta descrição está incorreta. Schwannomas vestibulares são tumores que apresentam realce intenso e relativamente homogêneo com gadolínio em T1. A descrição de 'pouco realce' e 'formato de caracol' não é típica desta lesão.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Paciente com otorreia fétida crônica e acúmulo de material esbranquiçado no ático. Qual a conduta mais adequada?",
+    "options": [
+      "Tratamento com gotas otológicas de ciprofloxacino e corticoide.",
+      "Orientar medidas de higiene e evitar entrada de água.",
+      "Solicitar audiometria e TC de ossos temporais para planejamento cirúrgico.",
+      "Coletar cultura da secreção para guiar antibioticoterapia.",
+      "Internação para cirurgia de urgência."
+    ],
+    "answer": "Solicitar audiometria e TC de ossos temporais para planejamento cirúrgico.",
+    "explanation": "O quadro clínico é altamente sugestivo de otite média crônica colesteatomatosa. A conduta adequada envolve a avaliação da audição (audiometria) e da extensão da doença e possíveis erosões ósseas (TC) para planejar o tratamento cirúrgico, que é o tratamento definitivo.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre a otite média com efusão, assinale a alternativa correta.",
+    "options": [
+      "O aleitamento materno é um fator de proteção.",
+      "O diagnóstico padrão-ouro é a TC de mastoides.",
+      "A visualização de nível hidroaéreo é um sinal de gravidade.",
+      "A timpanometria apresenta uma curva tipo A.",
+      "O tratamento inicial é sempre com antibioticoterapia."
+    ],
+    "answer": "O aleitamento materno é um fator de proteção.",
+    "explanation": "O aleitamento materno oferece proteção imunológica (IgA) e o ato de sucção promove a função da tuba auditiva. É um fator de proteção bem estabelecido contra otite média aguda e com efusão.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre a otite externa necrotizante, qual das seguintes afirmações está correta?",
+    "options": [
+      "Ocorre principalmente em crianças saudáveis.",
+      "O quadro clínico característico é prurido intenso sem dor.",
+      "A biópsia do tecido de granulação no conduto é importante para descartar carcinoma.",
+      "A TC de osso temporal é o exame de imagem mais importante para avaliar a evolução.",
+      "O tratamento é feito apenas com gotas otológicas."
+    ],
+    "answer": "A biópsia do tecido de granulação no conduto é importante para descartar carcinoma.",
+    "explanation": "A questão original tinha I e III como corretas. A afirmativa III é crucial: o tecido de granulação no conduto auditivo de um paciente idoso pode mimetizar um carcinoma espinocelular. Portanto, a biópsia é fundamental para o diagnóstico diferencial.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Associe as características (Coluna 2) com os tumores ósseos do canal auditivo externo (Coluna 1): 1. Osteoma 2. Exostose.",
+    "options": [
+      "1-Unilateral, 2-Banhos frios, 1-Lateral, 2-Múltiplas, 1-Recidiva rara",
+      "1-Unilateral, 2-Banhos frios, 2-Lateral, 1-Múltiplas, 2-Recidiva rara",
+      "2-Unilateral, 1-Banhos frios, 1-Lateral, 2-Múltiplas, 1-Recidiva rara",
+      "1-Unilateral, 2-Banhos frios, 1-Lateral, 2-Múltiplas, 2-Recidiva rara",
+      "2-Unilateral, 1-Banhos frios, 2-Lateral, 1-Múltiplas, 1-Recidiva rara"
+    ],
+    "answer": "1-Unilateral, 2-Banhos frios, 1-Lateral, 2-Múltiplas, 1-Recidiva rara",
+    "explanation": "Osteoma: tumor ósseo verdadeiro, geralmente unilateral, pediculado, na porção lateral (cartilaginosa) do canal, com recidiva rara. Exostose: crescimento ósseo reacional, associado a estímulo frio (água), geralmente bilateral, múltiplo, com base larga, na porção medial (óssea) do canal.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação às fraturas de osso temporal, assinale a alternativa INCORRETA.",
+    "options": [
+      "Fraturas longitudinais são as mais comuns em traumas fechados.",
+      "Hipoacusia ocorre em praticamente todos os casos.",
+      "Acidentes automobilísticos correspondem à principal causa.",
+      "Paralisia facial completa de início imediato indica secção nervosa e pior prognóstico.",
+      "O tratamento de vertigens agudas é realizado com sedativos labirínticos e esteroides."
+    ],
+    "answer": "Paralisia facial completa de início imediato indica secção nervosa e pior prognóstico.",
+    "explanation": "A questão original pedia a incorreta e a alternativa D estava mal formulada. Uma versão correta seria: Paralisia facial de início tardio tem melhor prognóstico que a de início imediato. A paralisia imediata sugere trauma direto ou secção do nervo, enquanto a tardia sugere edema e compressão, com maior chance de recuperação.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre a Deiscência do Canal Semicircular Superior (SCDS), qual é o achado audiométrico típico?",
+    "options": [
+      "Perda neurossensorial profunda.",
+      "Perda auditiva condutiva, principalmente em baixas frequências, com reflexos estapedianos presentes.",
+      "Perda auditiva mista com ausência de reflexos.",
+      "Audiometria completamente normal.",
+      "Perda neurossensorial em frequências agudas."
+    ],
+    "answer": "Perda auditiva condutiva, principalmente em baixas frequências, com reflexos estapedianos presentes.",
+    "explanation": "A SCDS cria uma 'terceira janela' que melhora a audição por via óssea e dissipa a energia sonora da via aérea, criando um falso gap aéreo-ósseo (perda condutiva). A presença de reflexos estapedianos normais, que estariam ausentes em uma perda condutiva ossicular, é a chave para o diagnóstico diferencial.",
+    "area": "Otoneurologia"
   }
 ]
