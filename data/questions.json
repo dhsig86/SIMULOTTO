@@ -5895,7 +5895,724 @@
     "answer": "5 a 10 eventos por hora.",
     "explanation": "Os critérios pediátricos para SAOS são diferentes dos de adultos. Um IAH entre 1 e 5 é considerado leve. Um IAH entre 5 e 10 é classificado como moderado, e um IAH acima de 10 é considerado grave.",
     "area": "Laringologia/Faringologia"
+  },
+[
+  {
+    "banca": "VUNESP",
+    "question": "A Taxa de Mortalidade Infantil é um dos indicadores mais sensíveis das condições de vida e saúde de uma população. Como ela é calculada?",
+    "options": [
+      "Número de óbitos em menores de 5 anos / População total x 1.000",
+      "Número de óbitos em menores de 1 ano / Número de nascidos vivos no mesmo período x 1.000",
+      "Número de óbitos no período neonatal / Número de nascidos vivos no mesmo período x 1.000",
+      "Número total de óbitos / População total x 100.000",
+      "Número de óbitos em menores de 1 ano / População de menores de 1 ano x 1.000"
+    ],
+    "answer": "Número de óbitos em menores de 1 ano / Número de nascidos vivos no mesmo período x 1.000",
+    "explanation": "A Taxa de Mortalidade Infantil (TMI) representa o risco de um nascido vivo morrer antes de completar um ano de vida. O denominador correto é o número de nascidos vivos, pois representa a população sob risco. É expressa por mil nascidos vivos.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em uma cidade com 100.000 habitantes, foram diagnosticados 500 novos casos de diabetes tipo 2 durante o ano de 2023. No início do ano, já existiam 4.500 pessoas com a doença. Qual é a taxa de incidência de diabetes nesta cidade em 2023?",
+    "options": [
+      "5% ao ano.",
+      "0,5% ao ano.",
+      "500 casos por 100.000 habitantes/ano.",
+      "5.000 casos por 100.000 habitantes.",
+      "4,5% ao ano."
+    ],
+    "answer": "500 casos por 100.000 habitantes/ano.",
+    "explanation": "A incidência mede a frequência de casos novos. O cálculo é (Número de casos novos / População em risco) x Fator. Neste caso, (500 / 100.000) x 100.000 = 500 casos por 100.000 habitantes/ano. Também poderia ser expresso como 0,5%.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual a principal diferença entre prevalência e incidência?",
+    "options": [
+      "Prevalência mede casos novos e incidência mede casos existentes.",
+      "Incidência mede o risco de adoecer, enquanto prevalência mede a carga da doença na população.",
+      "Prevalência é uma taxa e incidência é um número absoluto.",
+      "Incidência é usada para doenças crônicas e prevalência para doenças agudas.",
+      "Não há diferença significativa, são termos intercambiáveis."
+    ],
+    "answer": "Incidência mede o risco de adoecer, enquanto prevalência mede a carga da doença na população.",
+    "explanation": "A incidência representa os casos novos, sendo uma medida de risco ou velocidade de ocorrência da doença. A prevalência é uma 'fotografia' que inclui todos os casos (novos e antigos) em um ponto no tempo, refletindo o quão comum a doença é na população.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Um novo teste diagnóstico para uma doença tem sensibilidade de 90% e especificidade de 80%. O que significa uma sensibilidade de 90%?",
+    "options": [
+      "O teste identifica corretamente 90% dos indivíduos saudáveis.",
+      "O teste identifica corretamente 90% dos indivíduos doentes.",
+      "90% dos resultados positivos do teste estão corretos.",
+      "O teste tem 10% de chance de dar um resultado falso-negativo.",
+      "O teste identifica corretamente 80% dos indivíduos doentes."
+    ],
+    "answer": "O teste identifica corretamente 90% dos indivíduos doentes.",
+    "explanation": "Sensibilidade é a capacidade de um teste identificar corretamente os indivíduos que têm a doença (verdadeiros positivos). Uma sensibilidade de 90% significa que, de 100 pessoas doentes, o teste será positivo em 90 delas. A taxa de falso-negativos é (1 - sensibilidade), ou seja, 10%.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'taxa de letalidade' de uma doença é calculada pela seguinte fórmula:",
+    "options": [
+      "(Número de óbitos pela doença / População total) x 100.000",
+      "(Número de casos da doença / População total) x 1.000",
+      "(Número de óbitos pela doença / Número de casos da doença) x 100",
+      "(Número de casos novos / População em risco) x 1.000",
+      "(Número de óbitos totais / Número de casos da doença) x 100"
+    ],
+    "answer": "(Número de óbitos pela doença / Número de casos da doença) x 100",
+    "explanation": "A letalidade é uma medida da gravidade ou virulência de uma doença. Ela representa a proporção de indivíduos com a doença que vêm a óbito por causa dela, sendo geralmente expressa em porcentagem.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O 'Coeficiente de Mortalidade Materna' é um indicador da qualidade da assistência obstétrica. Ele expressa o número de óbitos maternos por:",
+    "options": [
+      "1.000 nascidos vivos.",
+      "100.000 nascidos vivos.",
+      "1.000 mulheres em idade fértil.",
+      "100.000 mulheres.",
+      "1.000 partos."
+    ],
+    "answer": "100.000 nascidos vivos.",
+    "explanation": "A Razão de Mortalidade Materna (termo mais correto) mede o risco de uma mulher morrer por causas relacionadas à gravidez, parto ou puerpério. É calculada como (Nº de óbitos maternos / Nº de nascidos vivos) x 100.000.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual tipo de estudo epidemiológico é mais adequado para investigar a associação entre uma exposição rara e uma doença comum?",
+    "options": [
+      "Estudo transversal",
+      "Estudo de caso-controle",
+      "Ensaio clínico randomizado",
+      "Estudo de coorte",
+      "Estudo ecológico"
+    ],
+    "answer": "Estudo de coorte",
+    "explanation": "Em um estudo de coorte, o pesquisador seleciona os participantes com base na exposição (rara) e os segue para observar o desenvolvimento da doença (comum). Tentar fazer um caso-controle para uma exposição rara seria ineficiente, pois seria necessário recrutar um número muito grande de casos e controles para encontrar poucos expostos.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O 'Valor Preditivo Positivo' (VPP) de um teste diagnóstico é a probabilidade de um indivíduo com resultado positivo realmente ter a doença. O VPP é altamente influenciado por qual característica da população?",
+    "options": [
+      "A incidência da doença.",
+      "A letalidade da doença.",
+      "A prevalência da doença.",
+      "A idade média da população.",
+      "O acesso a serviços de saúde."
+    ],
+    "answer": "A prevalência da doença.",
+    "explanation": "O VPP aumenta com o aumento da prevalência. Em uma população onde a doença é muito comum (alta prevalência), um resultado positivo tem uma chance muito maior de ser um verdadeiro positivo. Em uma população de baixa prevalência, a maioria dos resultados positivos pode ser de falsos positivos.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um estudo comparou a incidência de câncer de laringe em um grupo de tabagistas e em um grupo de não tabagistas, acompanhando-os por 20 anos. Que tipo de estudo é este?",
+    "options": [
+      "Estudo transversal",
+      "Estudo de caso-controle",
+      "Estudo de coorte prospectivo",
+      "Ensaio clínico",
+      "Relato de caso"
+    ],
+    "answer": "Estudo de coorte prospectivo",
+    "explanation": "Este é o desenho clássico de um estudo de coorte prospectivo. Os grupos (coortes) são definidos pela exposição (tabagismo) e seguidos ao longo do tempo (prospectivamente) para observar a ocorrência do desfecho (câncer de laringe).",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual dos seguintes é um exemplo de indicador de 'processo' na avaliação de um serviço de saúde, segundo o modelo de Donabedian?",
+    "options": [
+      "Número de médicos por 1.000 habitantes.",
+      "Taxa de mortalidade hospitalar.",
+      "Percentual de gestantes com 6 ou mais consultas de pré-natal.",
+      "Grau de satisfação do usuário.",
+      "Disponibilidade de tomógrafo no hospital."
+    ],
+    "answer": "Percentual de gestantes com 6 ou mais consultas de pré-natal.",
+    "explanation": "O modelo de Donabedian avalia a qualidade em Estrutura, Processo e Resultado. Estrutura refere-se aos recursos (médicos, equipamentos). Resultado refere-se ao efeito na saúde (mortalidade, satisfação). Processo refere-se às atividades realizadas, como o número de consultas, a adesão a protocolos, etc.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'curva de sobrevida' é um método gráfico utilizado para representar:",
+    "options": [
+      "A incidência de uma doença ao longo do tempo.",
+      "A proporção de uma população que sobrevive a uma doença ou permanece livre de um evento ao longo do tempo.",
+      "A prevalência de fatores de risco.",
+      "A distribuição etária de uma população.",
+      "A eficácia de uma vacina."
+    ],
+    "answer": "A proporção de uma população que sobrevive a uma doença ou permanece livre de um evento ao longo do tempo.",
+    "explanation": "A análise de sobrevida (frequentemente visualizada pela curva de Kaplan-Meier) é uma ferramenta estatística crucial em estudos de prognóstico, especialmente em oncologia. Ela plota a probabilidade de sobrevivência de um grupo de pacientes em função do tempo.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O que é 'risco relativo' (RR)?",
+    "options": [
+      "A probabilidade de um indivíduo desenvolver uma doença.",
+      "A diferença na incidência entre expostos e não expostos.",
+      "A razão entre a incidência nos expostos e a incidência nos não expostos.",
+      "A razão de chances de exposição entre casos e controles.",
+      "A proporção de casos atribuíveis à exposição."
+    ],
+    "answer": "A razão entre a incidência nos expostos e a incidência nos não expostos.",
+    "explanation": "O Risco Relativo é a principal medida de associação em estudos de coorte. Um RR de 2,0 significa que o grupo exposto tem o dobro do risco de desenvolver a doença em comparação com o grupo não exposto.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual tipo de estudo epidemiológico é mais suscetível à 'falácia ecológica'?",
+    "options": [
+      "Estudo de coorte",
+      "Estudo de caso-controle",
+      "Ensaio clínico randomizado",
+      "Estudo ecológico",
+      "Estudo transversal"
+    ],
+    "answer": "Estudo ecológico",
+    "explanation": "A falácia ecológica ocorre quando se infere que as associações observadas em nível de grupo (populacional) são válidas em nível individual. Estudos ecológicos, que usam dados agregados (ex: consumo médio de álcool de um país vs. taxa de cirrose do país), são particularmente propensos a este tipo de erro de inferência.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'esperança de vida ao nascer' é um indicador que reflete:",
+    "options": [
+      "A idade máxima que uma pessoa pode viver.",
+      "O número médio de anos que se espera que um recém-nascido viva, se mantidas as taxas de mortalidade do período.",
+      "A qualidade dos serviços de saúde para idosos.",
+      "A taxa de natalidade de uma região.",
+      "A prevalência de doenças crônicas."
+    ],
+    "answer": "O número médio de anos que se espera que um recém-nascido viva, se mantidas as taxas de mortalidade do período.",
+    "explanation": "A esperança de vida ao nascer é um indicador sintético poderoso do nível de desenvolvimento social e de saúde de uma população. Ela é calculada com base nas taxas de mortalidade por faixa etária em um determinado ano.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um teste diagnóstico com alta especificidade é mais útil para:",
+    "options": [
+      "Rastreamento (screening) de doenças em uma população geral.",
+      "Confirmar um diagnóstico quando o resultado é positivo.",
+      "Excluir um diagnóstico quando o resultado é negativo.",
+      "Diagnosticar doenças muito prevalentes.",
+      "Monitorar a resposta ao tratamento."
+    ],
+    "answer": "Confirmar um diagnóstico quando o resultado é positivo.",
+    "explanation": "Especificidade é a capacidade de um teste identificar corretamente os indivíduos saudáveis (poucos falsos positivos). Um teste muito específico, quando positivo, dá grande confiança de que o paciente realmente tem a doença. A mnemônica é 'SPIN' (SPecific test, Positive, rules IN).",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O 'Índice de Swaroop-Uemura' é um indicador de saúde que mede:",
+    "options": [
+      "A mortalidade infantil.",
+      "A mortalidade materna.",
+      "A proporção de óbitos em pessoas com 50 anos ou mais em relação ao total de óbitos.",
+      "A prevalência de desnutrição.",
+      "A cobertura da atenção primária."
+    ],
+    "answer": "A proporção de óbitos em pessoas com 50 anos ou mais em relação ao total de óbitos.",
+    "explanation": "Este índice é um indicador do nível de saúde de uma população. Em populações com boas condições de vida e saúde, a maioria dos óbitos ocorre em idades mais avançadas. Um índice alto (próximo de 100%) sugere um bom nível de saúde.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é 'viés de memória' em um estudo de caso-controle?",
+    "options": [
+      "A tendência dos pesquisadores de lembrarem melhor dos resultados positivos.",
+      "A perda de registros médicos antigos.",
+      "A tendência de os casos (doentes) se lembrarem de exposições passadas de forma diferente dos controles (sadios).",
+      "A dificuldade de os idosos se lembrarem de eventos passados.",
+      "Um erro na análise estatística dos dados."
+    ],
+    "answer": "A tendência de os casos (doentes) se lembrarem de exposições passadas de forma diferente dos controles (sadios).",
+    "explanation": "O viés de memória (recall bias) é uma limitação importante dos estudos de caso-controle. Indivíduos que desenvolveram uma doença (casos) tendem a refletir mais sobre as possíveis causas e podem relatar exposições de forma mais completa (ou exagerada) do que os controles saudáveis, distorcendo a associação.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O 'Odds Ratio' (OR) ou Razão de Chances é a principal medida de associação calculada em qual tipo de estudo?",
+    "options": [
+      "Ensaio clínico randomizado",
+      "Estudo de coorte",
+      "Estudo transversal",
+      "Estudo de caso-controle",
+      "Relato de caso"
+    ],
+    "answer": "Estudo de caso-controle",
+    "explanation": "Como os estudos de caso-controle não seguem uma população para medir a incidência, não é possível calcular o risco relativo diretamente. Em vez disso, calcula-se o Odds Ratio, que é a razão entre a chance de exposição nos casos e a chance de exposição nos controles. Para doenças raras, o OR é uma boa estimativa do RR.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'taxa de ataque' é uma medida de incidência usada especificamente em qual situação?",
+    "options": [
+      "Para medir a incidência de doenças crônicas ao longo de um ano.",
+      "Em investigações de surtos ou epidemias, para medir a proporção de pessoas que adoecem entre os expostos a uma fonte comum.",
+      "Para medir a prevalência de uma condição em um único dia.",
+      "Para calcular a letalidade de uma doença.",
+      "Para avaliar a eficácia de um programa de prevenção."
+    ],
+    "answer": "Em investigações de surtos ou epidemias, para medir a proporção de pessoas que adoecem entre os expostos a uma fonte comum.",
+    "explanation": "A taxa de ataque é uma proporção de incidência (e não uma taxa propriamente dita) usada em surtos de curta duração (ex: intoxicação alimentar). É calculada como (Nº de casos novos / Nº de pessoas expostas no surto) x 100.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O que é um 'evento adverso' em segurança do paciente?",
+    "options": [
+      "Qualquer sintoma que o paciente apresente durante a internação.",
+      "Um dano ou lesão não intencional que resulta do cuidado à saúde, e não da doença de base do paciente.",
+      "Um erro médico que não causou dano ao paciente.",
+      "A progressão natural de uma doença.",
+      "A recusa do paciente em seguir o tratamento."
+    ],
+    "answer": "Um dano ou lesão não intencional que resulta do cuidado à saúde, e não da doença de base do paciente.",
+    "explanation": "Um evento adverso é um incidente que resulta em dano ao paciente. Ele pode ser evitável (quando decorre de um erro) ou não evitável (quando é uma complicação inerente a um procedimento realizado corretamente). O foco da segurança do paciente é prevenir os eventos adversos evitáveis.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'taxa de ocupação hospitalar' é um indicador de gestão que mede:",
+    "options": [
+      "O número de pacientes que recebem alta por dia.",
+      "A porcentagem de leitos disponíveis que estão ocupados em um determinado período.",
+      "O tempo médio que um paciente permanece internado.",
+      "A taxa de infecção hospitalar.",
+      "O número de cirurgias realizadas por mês."
+    ],
+    "answer": "A porcentagem de leitos disponíveis que estão ocupados em um determinado período.",
+    "explanation": "A taxa de ocupação é um indicador chave da eficiência e da capacidade de um hospital. É calculada como (Número de pacientes-dia / Número de leitos-dia disponíveis) x 100. Taxas muito altas podem indicar superlotação, enquanto taxas muito baixas podem indicar ociosidade.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual dos seguintes é um indicador de 'resultado' na avaliação da qualidade em saúde?",
+    "options": [
+      "Número de enfermeiros por leito.",
+      "Taxa de adesão à higiene das mãos.",
+      "Taxa de mortalidade por infarto agudo do miocárdio dentro do hospital.",
+      "Tempo médio de espera no pronto-socorro.",
+      "Disponibilidade de um protocolo para sepse."
+    ],
+    "answer": "Taxa de mortalidade por infarto agudo do miocárdio dentro do hospital.",
+    "explanation": "Indicadores de resultado medem o efeito final do cuidado na saúde do paciente. A taxa de mortalidade, a taxa de sobrevida, a taxa de complicações e o grau de satisfação do paciente são exemplos de indicadores de resultado.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um teste diagnóstico com alto 'Valor Preditivo Negativo' (VPN) é mais útil para:",
+    "options": [
+      "Confirmar um diagnóstico quando o resultado é positivo.",
+      "Rastreamento de doenças raras.",
+      "Excluir com segurança um diagnóstico quando o resultado é negativo.",
+      "Diagnosticar doenças muito prevalentes.",
+      "Avaliar a gravidade de uma doença."
+    ],
+    "answer": "Excluir com segurança um diagnóstico quando o resultado é negativo.",
+    "explanation": "O VPN é a probabilidade de um indivíduo com resultado negativo realmente não ter a doença. Um teste com alto VPN é muito confiável para 'descartar' uma hipótese diagnóstica. A mnemônica é 'SNOUT' (SeNsitive test, Negative, rules OUT). Testes sensíveis tendem a ter alto VPN.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O 'Índice de Envelhecimento' de uma população é calculado pela razão entre:",
+    "options": [
+      "O número de idosos (60 anos ou mais) e o número de jovens (menores de 15 anos).",
+      "A população total e o número de idosos.",
+      "O número de nascimentos e o número de óbitos.",
+      "A esperança de vida e a taxa de natalidade.",
+      "O número de aposentados e o número de trabalhadores ativos."
+    ],
+    "answer": "O número de idosos (60 anos ou mais) e o número de jovens (menores de 15 anos).",
+    "explanation": "O índice de envelhecimento é um indicador demográfico que mostra a estrutura etária de uma população. Um índice crescente indica uma transição demográfica, com a base da pirâmide etária se estreitando e o topo se alargando.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual a principal limitação de um estudo transversal?",
+    "options": [
+      "É muito caro e demorado.",
+      "É inadequado para medir prevalência.",
+      "Não permite estabelecer uma relação temporal clara entre a exposição e o desfecho (causalidade reversa).",
+      "É suscetível a viés de perda de seguimento.",
+      "Não é útil para gerar hipóteses."
+    ],
+    "answer": "Não permite estabelecer uma relação temporal clara entre a exposição e o desfecho (causalidade reversa).",
+    "explanation": "Como a exposição e a doença são medidas ao mesmo tempo, é impossível saber o que veio primeiro. Por exemplo, se um estudo transversal encontra uma associação entre obesidade e artrose, não se pode concluir se a obesidade causou a artrose ou se a artrose (com dor e imobilidade) levou à obesidade. Isso é conhecido como causalidade reversa.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'curva ROC' (Receiver Operating Characteristic) é um gráfico utilizado para:",
+    "options": [
+      "Mostrar a distribuição de uma doença ao longo do tempo.",
+      "Avaliar o desempenho global de um teste diagnóstico com resultado contínuo, plotando a sensibilidade versus (1 - especificidade) para diferentes pontos de corte.",
+      "Comparar a sobrevida de dois grupos de tratamento.",
+      "Analisar a correlação entre duas variáveis contínuas.",
+      "Exibir a pirâmide etária de uma população."
+    ],
+    "answer": "Avaliar o desempenho global de um teste diagnóstico com resultado contínuo, plotando a sensibilidade versus (1 - especificidade) para diferentes pontos de corte.",
+    "explanation": "A curva ROC ajuda a determinar o melhor ponto de corte para um teste diagnóstico e a comparar o desempenho de diferentes testes. A área sob a curva (AUC) é uma medida da acurácia global do teste: quanto mais próxima de 1, melhor o teste.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual dos seguintes é um indicador de 'estrutura' na avaliação da qualidade em saúde?",
+    "options": [
+      "Taxa de infecção de sítio cirúrgico.",
+      "Adesão ao protocolo de cirurgia segura.",
+      "Satisfação do paciente com a internação.",
+      "Relação enfermeiro/leito em uma UTI.",
+      "Tempo médio de permanência hospitalar."
+    ],
+    "answer": "Relação enfermeiro/leito em uma UTI.",
+    "explanation": "Indicadores de estrutura medem os recursos disponíveis para o cuidado, sejam eles humanos (número e qualificação de profissionais), físicos (instalações, equipamentos) ou organizacionais (existência de protocolos, fontes de financiamento).",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O que é 'transição epidemiológica'?",
+    "options": [
+      "A mudança de um paciente da atenção primária para a secundária.",
+      "O período de incubação de uma doença infecciosa.",
+      "A mudança no perfil de morbimortalidade de uma população, com a diminuição das doenças infecciosas e o aumento das doenças crônico-degenerativas.",
+      "A descoberta de um novo tratamento para uma doença.",
+      "A variação sazonal na incidência de doenças respiratórias."
+    ],
+    "answer": "A mudança no perfil de morbimortalidade de uma população, com a diminuição das doenças infecciosas e o aumento das doenças crônico-degenerativas.",
+    "explanation": "A transição epidemiológica é um processo que acompanha o desenvolvimento socioeconômico. As melhorias em saneamento, nutrição e saúde pública reduzem a mortalidade por doenças infecciosas, enquanto o envelhecimento da população e as mudanças no estilo de vida aumentam a carga de doenças crônicas como diabetes, hipertensão e câncer.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um ensaio clínico que compara um novo medicamento com um tratamento já estabelecido e eficaz é chamado de:",
+    "options": [
+      "Estudo de superioridade.",
+      "Estudo de não inferioridade.",
+      "Estudo de equivalência.",
+      "Qualquer uma das opções, dependendo do objetivo do estudo.",
+      "Estudo de fase I."
+    ],
+    "answer": "Qualquer uma das opções, dependendo do objetivo do estudo.",
+    "explanation": "Depende da hipótese. Se o objetivo é provar que o novo tratamento é melhor, é um estudo de superioridade. Se o objetivo é provar que ele não é pior (mas talvez seja mais seguro, mais barato ou mais conveniente), é um estudo de não inferioridade. Se o objetivo é provar que os efeitos são semelhantes, é um estudo de equivalência.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O 'Coeficiente de Natalidade' é calculado como:",
+    "options": [
+      "Número de nascidos vivos / População feminina em idade fértil x 1.000",
+      "Número de nascidos vivos / População total x 1.000",
+      "Número de nascimentos totais / Número de óbitos x 100",
+      "Número de mulheres grávidas / População total x 1.000",
+      "Número de nascidos vivos / Número de mulheres x 1.000"
+    ],
+    "answer": "Número de nascidos vivos / População total x 1.000",
+    "explanation": "A Taxa (ou Coeficiente) Geral de Natalidade mede a frequência de nascimentos em uma população. É uma medida bruta, pois não considera a estrutura etária e de sexo da população, ao contrário da Taxa de Fecundidade Geral, que usa a população de mulheres em idade fértil no denominador.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é o 'efeito Hawthorne' em um estudo de pesquisa?",
+    "options": [
+      "A tendência dos participantes de um estudo de modificar seu comportamento por se saberem observados.",
+      "A melhora de um sintoma devido à crença do paciente no tratamento (efeito placebo).",
+      "Um erro sistemático na seleção dos participantes.",
+      "A perda de participantes durante o acompanhamento.",
+      "A influência do pesquisador na interpretação dos resultados."
+    ],
+    "answer": "A tendência dos participantes de um estudo de modificar seu comportamento por se saberem observados.",
+    "explanation": "O efeito Hawthorne descreve como a simples participação em um estudo e a atenção recebida podem levar a mudanças no comportamento ou nos desfechos, independentemente da intervenção que está sendo testada. É uma fonte de viés que precisa ser controlada, por exemplo, com o uso de um grupo controle.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'mediana' é uma medida de tendência central que representa:",
+    "options": [
+      "O valor que ocorre com mais frequência em um conjunto de dados.",
+      "A média aritmética de todos os valores.",
+      "O valor que divide um conjunto de dados ordenado exatamente ao meio.",
+      "A diferença entre o maior e o menor valor.",
+      "O desvio padrão dos dados."
+    ],
+    "answer": "O valor que divide um conjunto de dados ordenado exatamente ao meio.",
+    "explanation": "A mediana é o valor central em uma distribuição. 50% dos dados estão abaixo dela e 50% estão acima. É uma medida mais robusta que a média para distribuições assimétricas, pois não é influenciada por valores extremos (outliers).",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual a principal característica de um 'ensaio clínico de fase III'?",
+    "options": [
+      "É o primeiro estudo em seres humanos, para avaliar a segurança de uma nova droga.",
+      "É um estudo em pequena escala para determinar a dose ideal e avaliar a eficácia preliminar.",
+      "É um estudo de larga escala, randomizado e controlado, para confirmar a eficácia e segurança de uma intervenção em comparação com o tratamento padrão.",
+      "É um estudo de vigilância pós-comercialização para detectar efeitos adversos raros.",
+      "É um estudo realizado apenas em animais de laboratório."
+    ],
+    "answer": "É um estudo de larga escala, randomizado e controlado, para confirmar a eficácia e segurança de uma intervenção em comparação com o tratamento padrão.",
+    "explanation": "A fase III é a etapa final antes da submissão de uma nova droga para aprovação regulatória. Envolve um grande número de pacientes e é desenhada para fornecer a evidência definitiva sobre a eficácia e o perfil de segurança da intervenção, sendo geralmente um ensaio clínico randomizado.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O 'Índice de Gini' é uma medida utilizada para avaliar:",
+    "options": [
+      "A qualidade do ar em uma cidade.",
+      "O nível de desenvolvimento humano (IDH).",
+      "O grau de desigualdade na distribuição de renda em uma população.",
+      "A taxa de desemprego.",
+      "A prevalência de obesidade."
+    ],
+    "answer": "O grau de desigualdade na distribuição de renda em uma população.",
+    "explanation": "O Índice de Gini varia de 0 (perfeita igualdade, todos têm a mesma renda) a 1 (perfeita desigualdade, uma pessoa tem toda a renda). É um indicador social importante, pois a desigualdade de renda está fortemente associada a piores indicadores de saúde.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é 'randomização' em um ensaio clínico?",
+    "options": [
+      "A seleção de pacientes de forma aleatória na população geral.",
+      "A alocação dos participantes para os grupos de tratamento ou controle de forma aleatória, por sorteio.",
+      "A análise dos dados de forma aleatória.",
+      "A escolha do tratamento a ser testado de forma aleatória.",
+      "O mascaramento dos participantes e pesquisadores."
+    ],
+    "answer": "A alocação dos participantes para os grupos de tratamento ou controle de forma aleatória, por sorteio.",
+    "explanation": "A randomização é a pedra angular dos ensaios clínicos. Seu objetivo é criar grupos de comparação que sejam semelhantes em todas as características (conhecidas e desconhecidas), exceto pela intervenção que está sendo estudada. Isso minimiza o viés de seleção e de confusão.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'taxa de fecundidade geral' é um indicador demográfico mais refinado que a taxa de natalidade porque:",
+    "options": [
+      "Usa a população total no denominador.",
+      "Usa a população de mulheres em idade fértil (15 a 49 anos) no denominador.",
+      "Mede apenas os nascimentos de gêmeos.",
+      "Inclui os natimortos no cálculo.",
+      "É calculada a cada 10 anos."
+    ],
+    "answer": "Usa a população de mulheres em idade fértil (15 a 49 anos) no denominador.",
+    "explanation": "Ao restringir o denominador à população que está efetivamente sob o risco de engravidar, a taxa de fecundidade geral fornece uma medida mais precisa do comportamento reprodutivo de uma população, não sendo influenciada pela proporção de homens, crianças ou idosos.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é uma 'metanálise'?",
+    "options": [
+      "A análise detalhada de um único estudo.",
+      "Uma revisão narrativa da literatura sobre um tema.",
+      "Um método estatístico que combina os resultados de múltiplos estudos independentes sobre a mesma questão, para obter uma estimativa mais precisa do efeito.",
+      "Um tipo de estudo de caso-controle.",
+      "A fase inicial de um ensaio clínico."
+    ],
+    "answer": "Um método estatístico que combina os resultados de múltiplos estudos independentes sobre a mesma questão, para obter uma estimativa mais precisa do efeito.",
+    "explanation": "A metanálise é o componente quantitativo de uma revisão sistemática. Ao agregar os dados de vários estudos, ela aumenta o poder estatístico, permite a análise de subgrupos e fornece uma estimativa combinada do efeito de uma intervenção, sendo considerada o mais alto nível de evidência científica.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Um 'ponto final' (endpoint) em um ensaio clínico é:",
+    "options": [
+      "O final do período de acompanhamento do estudo.",
+      "A conclusão do relatório de pesquisa.",
+      "A variável ou evento que é medido para avaliar o efeito da intervenção.",
+      "A suspensão do estudo por motivos éticos.",
+      "O último paciente a ser incluído no estudo."
+    ],
+    "answer": "A variável ou evento que é medido para avaliar o efeito da intervenção.",
+    "explanation": "O ponto final (ou desfecho) é o resultado que o estudo se propõe a medir. Pode ser um desfecho clínico 'duro' (morte, infarto), um desfecho substituto (redução do colesterol) ou um desfecho relacionado à qualidade de vida. A escolha do ponto final é crucial para a relevância clínica do estudo.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O 'Número Necessário para Tratar' (NNT) é um indicador da eficácia de uma intervenção. Um NNT de 5 significa que:",
+    "options": [
+      "O tratamento tem 5% de eficácia.",
+      "Apenas 1 em cada 5 pacientes responde ao tratamento.",
+      "É preciso tratar 5 pacientes com a intervenção para se obter 1 benefício adicional em comparação com o controle.",
+      "O tratamento causa efeitos adversos em 5% dos pacientes.",
+      "O tratamento custa 5 vezes mais que o placebo."
+    ],
+    "answer": "É preciso tratar 5 pacientes com a intervenção para se obter 1 benefício adicional em comparação com o controle.",
+    "explanation": "O NNT é uma medida de impacto clínico muito intuitiva. É calculado como o inverso da Redução Absoluta do Risco (RAR). Quanto menor o NNT, mais eficaz é o tratamento. Um NNT de 1 significaria que todos os pacientes se beneficiam.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual dos seguintes é considerado um indicador de acesso aos serviços de saúde?",
+    "options": [
+      "Taxa de mortalidade por câncer.",
+      "Esperança de vida ao nascer.",
+      "Proporção de partos realizados em hospitais.",
+      "Prevalência de hipertensão arterial.",
+      "Taxa de letalidade por COVID-19."
+    ],
+    "answer": "Proporção de partos realizados em hospitais.",
+    "explanation": "Indicadores de acesso medem a capacidade da população de utilizar os serviços de saúde quando necessário. A proporção de partos institucionais, a cobertura de pré-natal, a cobertura vacinal e a proporção de pessoas que consultaram um médico no último ano são exemplos de indicadores de acesso.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual a principal função de um 'Comitê de Ética em Pesquisa' (CEP)?",
+    "options": [
+      "Avaliar o mérito científico e a metodologia dos projetos de pesquisa.",
+      "Garantir o financiamento para a realização das pesquisas.",
+      "Proteger os direitos, a segurança e o bem-estar dos participantes de pesquisas, analisando os aspectos éticos dos projetos.",
+      "Publicar os resultados das pesquisas em revistas científicas.",
+      "Fiscalizar a conduta dos pesquisadores após a aprovação do projeto."
+    ],
+    "answer": "Proteger os direitos, a segurança e o bem-estar dos participantes de pesquisas, analisando os aspectos éticos dos projetos.",
+    "explanation": "O sistema CEP/CONEP no Brasil é responsável por garantir que toda pesquisa envolvendo seres humanos siga os princípios éticos estabelecidos em resoluções como a CNS 466/12. A aprovação do CEP é obrigatória antes do início de qualquer pesquisa com participantes humanos.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O 'Índice de Desenvolvimento Humano' (IDH) é um indicador composto que combina três dimensões do desenvolvimento humano. Quais são elas?",
+    "options": [
+      "Renda, saneamento e segurança.",
+      "Saúde, educação e renda.",
+      "Educação, emprego e moradia.",
+      "Saúde, liberdade política e meio ambiente.",
+      "Renda, expectativa de vida e taxa de natalidade."
+    ],
+    "answer": "Saúde, educação e renda.",
+    "explanation": "O IDH, calculado pelo PNUD/ONU, é uma medida sintética que avalia o progresso de um país em três dimensões básicas: uma vida longa e saudável (medida pela esperança de vida ao nascer), o acesso ao conhecimento (medido pelos anos de escolaridade) e um padrão de vida digno (medido pela Renda Nacional Bruta per capita).",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é 'farmacovigilância'?",
+    "options": [
+      "O controle de preços de medicamentos.",
+      "A fiscalização da propaganda de medicamentos.",
+      "A ciência e as atividades relativas à detecção, avaliação, compreensão e prevenção de efeitos adversos ou quaisquer outros problemas relacionados a medicamentos.",
+      "O processo de desenvolvimento de novos fármacos.",
+      "A prescrição racional de medicamentos."
+    ],
+    "answer": "A ciência e as atividades relativas à detecção, avaliação, compreensão e prevenção de efeitos adversos ou quaisquer outros problemas relacionados a medicamentos.",
+    "explanation": "A farmacovigilância é a vigilância pós-comercialização de um medicamento. Seu objetivo é monitorar a segurança dos medicamentos na população geral, identificar reações adversas raras ou de longo prazo que não foram detectadas nos ensaios clínicos e gerar informações para o uso seguro dos produtos.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'transição demográfica' é um processo caracterizado por:",
+    "options": [
+      "Aumento das taxas de natalidade e mortalidade.",
+      "Diminuição das taxas de natalidade e mortalidade, resultando em envelhecimento populacional.",
+      "Migração em massa da zona rural para a urbana.",
+      "Aumento da população jovem.",
+      "Estabilização da população em um patamar baixo."
+    ],
+    "answer": "Diminuição das taxas de natalidade e mortalidade, resultando em envelhecimento populacional.",
+    "explanation": "A transição demográfica descreve a passagem de um regime de altas taxas de mortalidade e natalidade para um de baixas taxas. Inicialmente, a mortalidade cai (devido a melhorias sanitárias), levando a um crescimento populacional. Depois, a natalidade também cai, resultando em um crescimento mais lento e no envelhecimento da população.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual o objetivo da 'estratificação' na análise de um estudo epidemiológico?",
+    "options": [
+      "Aumentar o tamanho da amostra.",
+      "Controlar o efeito de fatores de confusão, analisando a associação de interesse dentro de subgrupos (estratos) da variável de confusão.",
+      "Garantir o cegamento do estudo.",
+      "Calcular a prevalência da doença.",
+      "Selecionar os participantes do estudo de forma aleatória."
+    ],
+    "answer": "Controlar o efeito de fatores de confusão, analisando a associação de interesse dentro de subgrupos (estratos) da variável de confusão.",
+    "explanation": "A estratificação é uma técnica para lidar com variáveis de confusão. Por exemplo, para analisar a associação entre álcool e câncer de boca, pode-se estratificar a análise por status de tabagismo (um estrato de fumantes e um de não fumantes) para ver se a associação persiste em ambos os grupos, controlando o efeito do fumo.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O 'Sistema de Informação sobre Mortalidade' (SIM) e o 'Sistema de Informações sobre Nascidos Vivos' (SINASC) são alimentados, respectivamente, por quais documentos?",
+    "options": [
+      "Prontuário do paciente e Cartão da Gestante.",
+      "Declaração de Óbito (DO) e Declaração de Nascido Vivo (DNV).",
+      "Laudo de necropsia e ultrassonografia obstétrica.",
+      "Certidão de Óbito e Certidão de Nascimento.",
+      "Boletim de ocorrência e relatório de alta hospitalar."
+    ],
+    "answer": "Declaração de Óbito (DO) e Declaração de Nascido Vivo (DNV).",
+    "explanation": "Estes são dois dos principais sistemas de informação em saúde do Brasil. O SIM é alimentado pela Declaração de Óbito, preenchida pelo médico. O SINASC é alimentado pela Declaração de Nascido Vivo, preenchida pelo profissional que assistiu ao parto. Ambos são essenciais para o cálculo de indicadores vitais.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é 'qualidade de vida relacionada à saúde' (QVRS)?",
+    "options": [
+      "A ausência de doença.",
+      "A percepção do indivíduo sobre sua posição na vida, no contexto da cultura e sistema de valores em que vive, e em relação aos seus objetivos, expectativas e padrões.",
+      "A capacidade de realizar atividades de vida diária sem ajuda.",
+      "A quantidade de anos de vida ajustados por incapacidade.",
+      "A satisfação com o serviço de saúde recebido."
+    ],
+    "answer": "A percepção do indivíduo sobre sua posição na vida, no contexto da cultura e sistema de valores em que vive, e em relação aos seus objetivos, expectativas e padrões.",
+    "explanation": "Esta é a definição de qualidade de vida da OMS. A QVRS é uma subcategoria que foca nos aspectos da qualidade de vida que são diretamente afetados pela saúde e pelo tratamento. É um desfecho cada vez mais valorizado em estudos clínicos, medido por questionários específicos.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O 'Índice de Glicemia de Jejum' é um indicador utilizado para o rastreamento de qual condição crônica?",
+    "options": [
+      "Hipertensão Arterial Sistêmica",
+      "Dislipidemia",
+      "Doença Renal Crônica",
+      "Diabetes Mellitus",
+      "Hipotireoidismo"
+    ],
+    "answer": "Diabetes Mellitus",
+    "explanation": "A glicemia de jejum é um dos principais exames para o rastreamento e diagnóstico de pré-diabetes e diabetes mellitus. Valores de jejum entre 100 e 125 mg/dL sugerem pré-diabetes, e valores ≥ 126 mg/dL em duas ocasiões confirmam o diagnóstico de diabetes.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'razão de sexos' ao nascer é um indicador demográfico que geralmente apresenta um valor em torno de:",
+    "options": [
+      "100 homens para cada 100 mulheres.",
+      "105 homens para cada 100 mulheres.",
+      "95 homens para cada 100 mulheres.",
+      "120 homens para cada 100 mulheres.",
+      "O valor é muito variável entre as populações."
+    ],
+    "answer": "105 homens para cada 100 mulheres.",
+    "explanation": "Na maioria das populações humanas, nascem ligeiramente mais meninos do que meninas. A razão de sexos ao nascer é consistentemente em torno de 105 meninos para cada 100 meninas. Desvios significativos deste padrão podem indicar problemas de sub-registro ou seleção de sexo.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é o 'viés do trabalhador sadio' (healthy worker effect)?",
+    "options": [
+      "A tendência de trabalhadores se alimentarem melhor que a população geral.",
+      "Um viés que ocorre em estudos ocupacionais, onde a população trabalhadora tende a ser mais saudável que a população geral, pois os doentes são menos capazes de trabalhar.",
+      "A tendência de os trabalhadores não procurarem serviços de saúde.",
+      "Um erro na medição da exposição a riscos no ambiente de trabalho.",
+      "A proteção legal que os trabalhadores têm contra demissão por doença."
+    ],
+    "answer": "Um viés que ocorre em estudos ocupacionais, onde a população trabalhadora tende a ser mais saudável que a população geral, pois os doentes são menos capazes de trabalhar.",
+    "explanation": "Este é um tipo de viés de seleção. Ao comparar a mortalidade de um grupo de trabalhadores com a da população geral, pode-se encontrar uma taxa de mortalidade falsamente menor nos trabalhadores, não porque o trabalho é protetor, mas porque a população geral inclui pessoas muito doentes para estarem empregadas.",
+    "area": "Indicadores de Saúde/Epidemiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'curva de Lorenz' é uma representação gráfica utilizada para visualizar:",
+    "options": [
+      "A distribuição de casos de uma epidemia.",
+      "A sobrevida de pacientes com câncer.",
+      "A desigualdade na distribuição de uma variável, como a renda.",
+      "A relação dose-resposta de um fármaco.",
+      "O desempenho de um teste diagnóstico."
+    ],
+    "answer": "A desigualdade na distribuição de uma variável, como a renda.",
+    "explanation": "A curva de Lorenz plota a porcentagem acumulada da população contra a porcentagem acumulada da renda (ou outra variável). Uma linha de 45 graus representa a igualdade perfeita. Quanto mais a curva de Lorenz se afasta desta linha, maior é a desigualdade na distribuição. O Índice de Gini é derivado da área entre a linha de igualdade e a curva de Lorenz.",
+    "area": "Indicadores de Saúde/Epidemiologia"
   }
+]
+
 ]
 
 ]
