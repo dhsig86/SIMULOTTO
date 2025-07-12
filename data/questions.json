@@ -4101,4 +4101,341 @@
     "explanation": "A SCDS cria uma 'terceira janela' que melhora a audição por via óssea e dissipa a energia sonora da via aérea, criando um falso gap aéreo-ósseo (perda condutiva). A presença de reflexos estapedianos normais, que estariam ausentes em uma perda condutiva ossicular, é a chave para o diagnóstico diferencial.",
     "area": "Otoneurologia"
   }
+,
+{
+    "banca": "FUNDATEC",
+    "question": "Em relação à otosclerose, é correto afirmar que:",
+    "options": [
+      "É uma doença genética autossômica recessiva.",
+      "Sua prevalência é maior nas duas primeiras décadas de vida.",
+      "A janela redonda também é acometida em cerca de 50% dos casos.",
+      "A área de predileção para o envolvimento ósseo é a fissula ante fenestram.",
+      "Há uma prevalência maior em caucasianos do gênero masculino."
+    ],
+    "answer": "A área de predileção para o envolvimento ósseo é a fissula ante fenestram.",
+    "explanation": "A otosclerose inicia-se geralmente na fissula ante fenestram, região anterior à janela oval. Tem herança autossômica dominante, acomete mais mulheres caucasianas na 3ª-4ª décadas e pode envolver a janela redonda em metade dos casos.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Analise as assertivas sobre as vertigens: () Na Doença de Ménière, ocorrem crises recorrentes com plenitude auricular, hipoacusia e zumbido com duração de horas. () Na VPPB, ocorrem crises recorrentes com duração de segundos, sem sintomas auditivos, relacionadas à posição da cabeça. () Na neuronite vestibular, ocorre crise intensa de vertigem com duração de dias, sem sintomas auditivos. () Na labirintite, ocorre crise intensa de vertigem com hipoacusia.",
+    "options": [
+      "V-V-V-V",
+      "V-F-V-F",
+      "V-V-F-F",
+      "F-V-F-V",
+      "F-F-F-F"
+    ],
+    "answer": "V-V-V-V",
+    "explanation": "As assertivas descrevem corretamente as principais características de Ménière, VPPB, neuronite vestibular e labirintite, respectivamente.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Os tempos corretos para o fechamento do lábio, do palato e dos enxertos alveolares no tratamento da fenda palatina são, respectivamente:",
+    "options": [
+      "3 meses - 12 meses - a partir dos 8 anos",
+      "3 meses - 20 meses - a partir dos 12 anos",
+      "6 meses - 18 meses - a partir dos 9 anos",
+      "6 meses - 12 meses - a partir da puberdade",
+      "6 meses - 12 meses - a partir dos 6 anos"
+    ],
+    "answer": "3 meses - 12 meses - a partir dos 8 anos",
+    "explanation": "Nos protocolos atuais a queiloplastia é realizada por volta dos 3 meses de vida, a palatoplastia entre 12 e 18 meses e o enxerto alveolar entre 8 e 12 anos, antes da erupção do canino permanente.",
+    "area": "Laringologia/Faringologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A anormalidade mais comum do ápice petroso é:",
+    "options": [
+      "Colesteatoma",
+      "Mucocele",
+      "Encefalocele",
+      "Granuloma de colesterol",
+      "Cisto liquórico"
+    ],
+    "answer": "Granuloma de colesterol",
+    "explanation": "O granuloma de colesterol é a lesão expansiva mais frequente do ápice petroso, resultante de obstrução da aeração local e acúmulo de cristais de colesterol.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Uma lesão com erosão de bordos lisos, densidade de partes moles na TC e hipossinal em T1 e hipersinal em T2 na RNM é sugestiva de qual patologia?",
+    "options": [
+      "Granuloma de colesterol",
+      "Schwannoma",
+      "Mucocele",
+      "Colesteatoma",
+      "Meningioma"
+    ],
+    "answer": "Colesteatoma",
+    "explanation": "Colesteatomas apresentam erosão óssea de bordos lisos na TC e sinal hipointenso em T1 e hiperintenso em T2 na RM convencional, além de restrição à difusão.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual é a medicação mais eficaz para o tratamento da obstrução nasal na rinite alérgica?",
+    "options": [
+      "Anti-histamínico via oral",
+      "Cromoglicato dissódico",
+      "Anti-histamínico intranasal",
+      "Antileucotrienos",
+      "Corticosteroide tópico intranasal"
+    ],
+    "answer": "Corticosteroide tópico intranasal",
+    "explanation": "Os corticosteroides intranasais controlam de forma mais efetiva a congestão nasal da rinite alérgica do que os anti-histamínicos ou outras medicações.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação às rinossinusites, assinale a alternativa INCORRETA.",
+    "options": [
+      "A principal causa de rinossinusite aguda são as infecções virais.",
+      "A radiografia simples dos seios é de utilidade limitada para o diagnóstico.",
+      "A rinossinusite aguda pós-viral é definida com a persistência dos sintomas após 10 dias.",
+      "Atualmente tem-se observado um exagero na prescrição de antibióticos para rinossinusite aguda.",
+      "A amoxicilina com clavulanato é a melhor opção na suspeita de infecção por pneumococo resistente à penicilina."
+    ],
+    "answer": "A rinossinusite aguda pós-viral é definida com a persistência dos sintomas após 10 dias.",
+    "explanation": "Na rinossinusite pós-viral há piora após 5 dias de um quadro inicial ou manutenção dos sintomas por mais de 10 dias sem melhora.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação à otalgia, assinale a alternativa INCORRETA.",
+    "options": [
+      "Menos de 10% dos casos de otalgia se devem a dor referida ou otalgia secundária.",
+      "A etiologia mais comum de dor secundária são as alterações da articulação temporomandibular.",
+      "Cerca de 56% dos pacientes com carcinoma de nasofaringe e 26% de hipofaringe apresentam otalgia.",
+      "Portadores de fatores de risco para neoplasias devem ser muito investigados.",
+      "A endoscopia nasal flexível deve ser feita de rotina em pacientes com otalgia secundária."
+    ],
+    "answer": "Menos de 10% dos casos de otalgia se devem a dor referida ou otalgia secundária.",
+    "explanation": "A otalgia referida pode representar até metade dos casos. Alterações temporomandibulares são a principal causa de dor secundária, e pacientes com fatores de risco devem ser cuidadosamente avaliados, inclusive com endoscopia nasal.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação aos tumores das glândulas salivares, assinale a alternativa correta.",
+    "options": [
+      "A maioria dos tumores se localizam na glândula submandibular e 70% deles são malignos.",
+      "Tumores nas glândulas parótidas são geralmente malignos e, nas sublinguais, geralmente benignos.",
+      "O estudo histológico transoperatório tem pouca utilidade no tratamento dos tumores de glândulas salivares.",
+      "Na suspeita de malignidade, a biópsia de tumores de glândulas salivares não deve ser realizada.",
+      "O adenoma pleomórfico é o subtipo histológico mais comum na parótida."
+    ],
+    "answer": "O adenoma pleomórfico é o subtipo histológico mais comum na parótida.",
+    "explanation": "O adenoma pleomórfico é o tumor mais prevalente da parótida. Quanto menor a glândula salivar, maior a probabilidade de malignidade, sendo a parótida a localização com maior proporção de tumores benignos.",
+    "area": "Estomatologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre a Perda Auditiva Induzida por Ruído (PAIR), analise as assertivas: I. Quanto maior a intensidade do ruído, menor o tempo para desenvolver PAIR. II. O primeiro sinal é a 'gota acústica' em 3.000, 4.000 ou 6.000 Hz. III. A velocidade da perda é maior nos primeiros 10 a 15 anos de exposição.",
+    "options": [
+      "Apenas I.",
+      "Apenas I e II.",
+      "Apenas I e III.",
+      "Apenas II e III.",
+      "I, II e III."
+    ],
+    "answer": "I, II e III.",
+    "explanation": "A PAIR tem relação direta com a dose de ruído, manifesta-se inicialmente por um entalhe audiométrico em 3-6 kHz (\"gota acústica\") e evolui mais rapidamente nos primeiros anos de exposição.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre a Síndrome da Apneia-Hipopneia Obstrutiva do Sono (SAOS), quais assertivas estão corretas? I. Pacientes com SAOS são mais propensos a problemas sistêmicos. II. A polissonografia tem pouca utilidade clínica. III. Sonolência diurna é uma característica.",
+    "options": [
+      "Apenas I.",
+      "Apenas I e II.",
+      "Apenas I e III.",
+      "Apenas II e III.",
+      "I, II e III."
+    ],
+    "answer": "Apenas I e III.",
+    "explanation": "A SAOS está associada a diversas comorbidades cardiovasculares e metabólicas e cursa com sonolência diurna. A polissonografia é exame fundamental para o diagnóstico, contrariando a assertiva II.",
+    "area": "Laringologia/Faringologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre a etiologia da surdez infantil, assinale a alternativa correta.",
+    "options": [
+      "A causa mais comum de surdez na infância é a otite média com efusão.",
+      "As causas infecciosas são as mais prevalentes na surdez congênita.",
+      "Na maioria das crianças com surdez genética, identifica-se outros casos na família.",
+      "A rubéola congênita é a etiologia infecciosa mais importante de surdez congênita.",
+      "A infecção congênita por citomegalovírus pode ser prevenida através do acompanhamento pré-natal."
+    ],
+    "answer": "A causa mais comum de surdez na infância é a otite média com efusão.",
+    "explanation": "A otite média com efusão é a principal causa de perda auditiva condutiva na infância. As causas genéticas são responsáveis pela maioria das perdas neurossensoriais congênitas e o citomegalovírus é a infecção congênita mais frequente.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "São causas de estridor em crianças, EXCETO:",
+    "options": [
+      "Laringomalacia",
+      "Estenose subglótica",
+      "Paralisia de pregas vocais",
+      "Hemangioma de laringe",
+      "Nódulos de pregas vocais"
+    ],
+    "answer": "Nódulos de pregas vocais",
+    "explanation": "Nódulos vocais geram disfonia, mas não costumam causar obstrução laríngea ou estridor, ao contrário das demais opções listadas.",
+    "area": "Laringologia/Faringologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Lesão na mucosa jugal em forma de rede de linhas brancas entrelaçadas de modo simétrico e bilateral é sugestiva de:",
+    "options": [
+      "Líquen plano em placa",
+      "Líquen plano reticular",
+      "Leucoplasia",
+      "Displasia",
+      "Eritroplasia"
+    ],
+    "answer": "Líquen plano reticular",
+    "explanation": "As estrias de Wickham formando padrão reticular bilateral são típicas do líquen plano oral na forma reticular.",
+    "area": "Estomatologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação ao tratamento da SAOS, assinale a alternativa correta.",
+    "options": [
+      "Uso de aparelhos intraorais apresenta bons resultados em SAOS leve e moderada.",
+      "O uso de CPAP está indicado somente após falha na tentativa de melhora através de cirurgia.",
+      "A cirurgia nasal melhora o sono, a qualidade de vida, o ronco e o Índice de Apneia-Hipoapneia (IAH).",
+      "A traqueostomia é uma opção para os casos graves com falha em todos os outros tipos de tratamento.",
+      "O avanço maxilomandibular só deve ser considerado em pacientes com alteração do esqueleto craniofacial."
+    ],
+    "answer": "A traqueostomia é uma opção para os casos graves com falha em todos os outros tipos de tratamento.",
+    "explanation": "A traqueostomia é considerada terapia de resgate para SAOS grave refratária às demais modalidades, sendo efetiva por desviar completamente a via aérea superior.",
+    "area": "Laringologia/Faringologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual é o mecanismo de amplificação do som na orelha média?",
+    "options": [
+      "Equilíbrio da pressão pela tuba auditiva.",
+      "Diferença de área entre a membrana timpânica e a janela oval e o efeito de alavanca dos ossículos.",
+      "Mudança de meio de aéreo para ósseo.",
+      "Formato do pavilhão auricular.",
+      "O som não é amplificado na orelha média."
+    ],
+    "answer": "Diferença de área entre a membrana timpânica e a janela oval e o efeito de alavanca dos ossículos.",
+    "explanation": "A orelha média age como transformador de impedância, concentrando a energia sonora captada pela membrana timpânica na pequena área da janela oval e aproveitando o efeito de alavanca da cadeia ossicular.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Úlceras aftoides dolorosas, recorrentes, em grande quantidade e comprometendo o palato mole e a orofaringe são manifestações de qual doença?",
+    "options": [
+      "Líquen plano",
+      "Lúpus eritematoso sistêmico",
+      "Penfigoide",
+      "Pênfigo vulgar",
+      "Síndrome de Behçet"
+    ],
+    "answer": "Síndrome de Behçet",
+    "explanation": "A doença de Behçet cursa com estomatite aftosa recorrente, frequentemente com grandes úlceras dolorosas que podem acometer palato e orofaringe.",
+    "area": "Estomatologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre a atresia congênita de coanas, assinale a alternativa correta.",
+    "options": [
+      "Está associada a outras malformações congênitas em 41% a 72% dos casos.",
+      "Mesmo quando unilateral, apresenta sintomas respiratórios intensos.",
+      "O recém-nascido apresenta cianose que não melhora com o choro.",
+      "A ressonância magnética é o procedimento de escolha para avaliação.",
+      "O exame com nasofibroscópio flexível não auxilia no diagnóstico."
+    ],
+    "answer": "Está associada a outras malformações congênitas em 41% a 72% dos casos.",
+    "explanation": "A atresia de coanas frequentemente faz parte de síndromes como CHARGE, ocorrendo em associação a outras malformações em até 70% dos casos.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação às faringotonsilites bacterianas, assinale a alternativa INCORRETA.",
+    "options": [
+      "O emprego correto de antibióticos até 9 dias após o início do quadro é capaz de impedir a febre reumática.",
+      "O tratamento antibiótico está indicado para as causadas pelo estreptococo beta-hemolítico do grupo A.",
+      "O diagnóstico de infecção bacteriana deve ser realizado por cultura ou teste rápido.",
+      "O tratamento visa encurtar a fase aguda e reduzir o risco de sequelas.",
+      "A presença de exsudato em amígdalas e linfonodomegalias tem alta sensibilidade e especificidade."
+    ],
+    "answer": "A presença de exsudato em amígdalas e linfonodomegalias tem alta sensibilidade e especificidade.",
+    "explanation": "Os achados clínicos como exsudato e linfonodos têm baixa especificidade, sendo necessários testes confirmatórios para diagnosticar a faringotonsilite estreptocócica.",
+    "area": "Laringologia/Faringologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Homem de 50 anos com obstrução nasal unilateral, cefaleia, anosmia e deformidade facial. Endoscopia nasal mostra massa polipoide irregular, rosa clara, firme. A hipótese mais provável é:",
+    "options": [
+      "Pólipo antrocoanal",
+      "Nasoangiofibroma juvenil",
+      "Papiloma invertido",
+      "Polipose nasossinusal",
+      "Carcinoma epidermoide"
+    ],
+    "answer": "Papiloma invertido",
+    "explanation": "Massa nasal unilateral em adulto, firmemente aderida e causando deformidade, é típica de papiloma invertido, tumor benigno de comportamento localmente agressivo.",
+    "area": "Rinologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Paciente com perda auditiva neurossensorial progressiva moderada em agudos em OE com baixa discriminação e zumbido. Qual doença afastar e qual o melhor exame?",
+    "options": [
+      "Schwannoma vestibular - Ressonância Nuclear Magnética.",
+      "Schwannoma vestibular - Potencial Evocado Auditivo de Tronco Cerebral.",
+      "Glômus timpânico - Ressonância Nuclear Magnética.",
+      "Otite externa maligna - Tomografia Computadorizada.",
+      "Glômus timpânico - Tomografia Computadorizada."
+    ],
+    "answer": "Schwannoma vestibular - Ressonância Nuclear Magnética.",
+    "explanation": "Perda auditiva neurossensorial unilateral com discriminação ruim sugere lesão retrococlear. A RM com gadolínio é o exame padrão para diagnóstico de schwannoma vestibular.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "São indicações relativas para adenotonsilectomia, EXCETO:",
+    "options": [
+      "Tonsilites de repetição.",
+      "Síndrome da apneia obstrutiva do sono.",
+      "Abscesso peritonsilar.",
+      "Tonsilite crônica caseosa.",
+      "Doenças imunomediadas pelo Streptococcus pyogenes."
+    ],
+    "answer": "Síndrome da apneia obstrutiva do sono.",
+    "explanation": "Adenotonsilectomia por SAOS é indicação absoluta. As demais condições são indicações relativas dependentes de gravidade e recorrência.",
+    "area": "Laringologia/Faringologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Sobre o nervo facial, analise as assertivas: I. Emite três ramos intratemporais: petroso superficial maior, nervo do estapédio e corda do tímpano. II. A paralisia de Bell é a causa mais comum de paralisia facial periférica. III. Paralisia isolada do terço inferior da face sugere acometimento central.",
+    "options": [
+      "Apenas III.",
+      "Apenas I e II.",
+      "Apenas I e III.",
+      "Apenas II e III.",
+      "I, II e III."
+    ],
+    "answer": "I, II e III.",
+    "explanation": "O nervo facial emite esses três ramos intratemporais, a paralisia de Bell é a etiologia mais frequente de paralisia periférica e uma paralisia que poupa a musculatura frontal indica lesão central.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação à Otite Média Aguda (OMA), assinale a alternativa correta.",
+    "options": [
+      "Deve-se tratar com antibiótico a otite não grave em crianças maiores de 2 anos.",
+      "Não se deve tratar com antibiótico crianças menores de 12 meses em caso de incerteza diagnóstica.",
+      "A retração moderada da membrana timpânica com secreção é critério diagnóstico de OMA.",
+      "Em crianças com conjuntivite purulenta concomitante, o Haemophilus influenzae não tipável é o patógeno mais comum.",
+      "A vacina antipneumocócica não impactou a prevalência dos patógenos da OMA."
+    ],
+    "answer": "Em crianças com conjuntivite purulenta concomitante, o Haemophilus influenzae não tipável é o patógeno mais comum.",
+    "explanation": "Na síndrome otite-conjuntivite o patógeno predominante é o Haemophilus influenzae não tipável. Outras assertivas estão incorretas segundo diretrizes atuais.",
+    "area": "Otologia"
+  }
 ]
