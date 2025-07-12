@@ -4437,5 +4437,638 @@
     "answer": "Em crianças com conjuntivite purulenta concomitante, o Haemophilus influenzae não tipável é o patógeno mais comum.",
     "explanation": "Na síndrome otite-conjuntivite o patógeno predominante é o Haemophilus influenzae não tipável. Outras assertivas estão incorretas segundo diretrizes atuais.",
     "area": "Otologia"
+  },
+  [
+  {
+    "banca": "FUNDATEC",
+    "question": "De acordo com a Lei nº 8.080/90, a articulação das políticas e programas, a cargo das comissões intersetoriais, abrangerá em especial quais áreas?",
+    "options": [
+      "Saúde do Trabalhador e Saúde do Idoso.",
+      "Alimentação e nutrição, saneamento e meio ambiente, e saúde do trabalhador.",
+      "Vigilância sanitária, vigilância epidemiológica e saúde do trabalhador.",
+      "Ciência e tecnologia, alimentação e nutrição, e saúde do idoso.",
+      "Saneamento e meio ambiente, educação em saúde e saúde indígena."
+    ],
+    "answer": "Alimentação e nutrição, saneamento e meio ambiente, e saúde do trabalhador.",
+    "explanation": "O Art. 12 da Lei 8.080/90 especifica que as comissões intersetoriais terão a finalidade de articular políticas e programas de interesse para a saúde, cuja execução envolva áreas não compreendidas no âmbito do SUS, citando nominalmente alimentação e nutrição, saneamento e meio ambiente, vigilância sanitária e farmacoepidemiologia, recursos humanos, ciência e tecnologia, e saúde do trabalhador.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O princípio da 'Integralidade' da assistência, um dos pilares doutrinários do SUS, pode ser compreendido como:",
+    "options": [
+      "O acesso universal e irrestrito a todos os serviços de saúde para todos os cidadãos.",
+      "A garantia de que cada pessoa será tratada de forma igual, recebendo os mesmos recursos.",
+      "Um conjunto articulado de ações de promoção, prevenção, tratamento e reabilitação, vendo o indivíduo como um todo.",
+      "A responsabilidade exclusiva do município pela atenção básica.",
+      "O financiamento tripartite obrigatório para todas as ações de saúde."
+    ],
+    "answer": "Um conjunto articulado de ações de promoção, prevenção, tratamento e reabilitação, vendo o indivíduo como um todo.",
+    "explanation": "A integralidade pressupõe a consideração do ser humano em sua totalidade, atendendo a todas as suas necessidades. Isso se traduz na integração de ações preventivas e curativas, individuais e coletivas, e na articulação dos diferentes níveis de atenção à saúde.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Segundo o Código de Ética Médica, é vedado ao médico:",
+    "options": [
+      "Recusar-se a realizar atos médicos que, embora permitidos por lei, sejam contrários aos ditames de sua consciência.",
+      "Internar paciente em instituição inadequada às suas necessidades, mesmo que seja a única disponível na região.",
+      "Deixar de obter consentimento do paciente ou de seu representante legal após esclarecê-lo sobre o procedimento a ser realizado, salvo em caso de risco iminente de morte.",
+      "Delegar a outros profissionais atos ou atribuições exclusivos da profissão médica.",
+      "Estabelecer a prioridade do atendimento em serviços de urgência e emergência, com base na avaliação da gravidade do caso."
+    ],
+    "answer": "Delegar a outros profissionais atos ou atribuições exclusivos da profissão médica.",
+    "explanation": "O Art. 3º do Capítulo II (Direitos dos Médicos) permite a recusa por motivo de consciência. O Art. 22 do Capítulo IV (Direitos Humanos) veda deixar de obter consentimento. O Art. 34 do Capítulo V (Relação com Pacientes e Familiares) veda delegar atos exclusivos. A alternativa incorreta na prova original seria uma variação desta, mas a delegação de atos privativos é uma vedação clara.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A Lei nº 8.142/91, que dispõe sobre o controle social no SUS, estabelece duas instâncias colegiadas de participação da comunidade. Quais são elas?",
+    "options": [
+      "Os Conselhos de Saúde e as Conferências de Saúde.",
+      "As Comissões Intergestores Bipartite e Tripartite.",
+      "As Ouvidorias do SUS e os Conselhos de Secretários de Saúde (CONASS e CONASEMS).",
+      "Os Conselhos de Saúde e as Comissões de Ética Médica.",
+      "As Conferências de Saúde e os Conselhos de Especialidades Médicas."
+    ],
+    "answer": "Os Conselhos de Saúde e as Conferências de Saúde.",
+    "explanation": "A Lei 8.142/91 é o marco do controle social no SUS. Ela institui as Conferências de Saúde, que se reúnem a cada quatro anos para avaliar a situação de saúde e propor diretrizes, e os Conselhos de Saúde, que são órgãos permanentes e deliberativos, com composição paritária.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um médico, ao atender um paciente vítima de um acidente de trânsito, percebe que ele é o autor de um crime amplamente divulgado na mídia. O médico se recusa a prestar o atendimento necessário, alegando objeção de consciência. A conduta do médico está:",
+    "options": [
+      "Correta, pois o médico tem o direito de recusar atendimento por objeção de consciência.",
+      "Incorreta, pois em situações de urgência e emergência, ou que impliquem em dano ao paciente, o atendimento não pode ser recusado.",
+      "Correta, desde que ele encaminhe o paciente para outro colega imediatamente.",
+      "Incorreta, pois a objeção de consciência não se aplica a casos criminais.",
+      "Correta, pois o sigilo médico o impede de atender alguém cujo crime ele conheça."
+    ],
+    "answer": "Incorreta, pois em situações de urgência e emergência, ou que impliquem em dano ao paciente, o atendimento não pode ser recusado.",
+    "explanation": "O Código de Ética Médica (Capítulo II, Art. 7º) veda ao médico 'deixar de atender em setores de urgência e emergência, quando for de sua obrigação fazê-lo, expondo a risco a vida de pacientes, mesmo respaldado por decisão majoritária da categoria'. A objeção de consciência não se sobrepõe ao dever de socorro.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A Política Nacional de Atenção Básica (PNAB), conforme a Portaria nº 2.436/2017, estabelece a Estratégia Saúde da Família (ESF) como modelo prioritário. Qual é a composição mínima de uma equipe de Saúde da Família (eSF)?",
+    "options": [
+      "Médico, enfermeiro, técnico de enfermagem e agente comunitário de saúde.",
+      "Médico, enfermeiro, dentista e agente comunitário de saúde.",
+      "Médico, enfermeiro, assistente social e psicólogo.",
+      "Apenas médico e enfermeiro.",
+      "Médico da família, enfermeiro de família e dois agentes comunitários de saúde."
+    ],
+    "answer": "Médico, enfermeiro, técnico de enfermagem e agente comunitário de saúde.",
+    "explanation": "A composição mínima para uma eSF é: médico (preferencialmente especialista em Medicina de Família e Comunidade), enfermeiro (preferencialmente especialista em Saúde da Família), auxiliar e/ou técnico de enfermagem e agentes comunitários de saúde (ACS).",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "De acordo com o Código de Ética Médica, em relação ao sigilo profissional, é vedado ao médico:",
+    "options": [
+      "Revelar fato de que tenha conhecimento em virtude do exercício de sua profissão, salvo por motivo justo, dever legal ou consentimento por escrito do paciente.",
+      "Revelar o sigilo profissional em seu depoimento como testemunha, mesmo que o paciente o autorize.",
+      "Manter o sigilo profissional na investigação de suspeita de crime, mesmo que a comunicação do fato seja compulsória.",
+      "Compartilhar informações do prontuário com a equipe multiprofissional que assiste o paciente, quando pertinente.",
+      "Revelar informações confidenciais obtidas no exame médico de trabalhadores, mesmo que o silêncio coloque em risco a saúde dos empregados ou da comunidade."
+    ],
+    "answer": "Revelar o sigilo profissional em seu depoimento como testemunha, mesmo que o paciente o autorize.",
+    "explanation": "O Art. 76 do CEM afirma que o médico deve comparecer como testemunha, mas está vedado a revelar segredo profissional. Ele deve declarar seu impedimento. As outras opções apresentam as exceções corretas à regra do sigilo (motivo justo, dever legal, consentimento, risco a terceiros).",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "As Redes de Atenção à Saúde (RAS) são arranjos organizativos de ações e serviços de saúde. Qual é considerada a principal porta de entrada e o centro de comunicação da RAS?",
+    "options": [
+      "A Atenção Hospitalar.",
+      "A Atenção Especializada Ambulatorial.",
+      "Os Serviços de Urgência e Emergência.",
+      "A Atenção Primária à Saúde (Atenção Básica).",
+      "Os Sistemas de Apoio Diagnóstico e Terapêutico."
+    ],
+    "answer": "A Atenção Primária à Saúde (Atenção Básica).",
+    "explanation": "Dentro do modelo de RAS, a Atenção Primária à Saúde (APS) tem o papel fundamental de ser a coordenadora do cuidado e a ordenadora da rede. Ela não é apenas a porta de entrada, mas a responsável por organizar o fluxo do paciente pelos diferentes pontos de atenção, garantindo a integralidade e a longitudinalidade do cuidado.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O Estatuto da Pessoa Idosa (Lei nº 10.741/2003) assegura atenção integral à saúde da pessoa idosa. Em relação ao atendimento, qual é a prioridade estabelecida pela lei?",
+    "options": [
+      "A pessoa idosa tem prioridade sobre todos os demais, sem exceção.",
+      "A prioridade da pessoa idosa só se aplica em serviços privados.",
+      "Os maiores de 80 anos têm preferência especial sobre as demais pessoas idosas, exceto em emergências.",
+      "A prioridade é garantida apenas para idosos com comorbidades graves.",
+      "O direito a acompanhante é restrito ao horário de visitas."
+    ],
+    "answer": "Os maiores de 80 anos têm preferência especial sobre as demais pessoas idosas, exceto em emergências.",
+    "explanation": "A Lei nº 13.466/2017 alterou o Estatuto do Idoso para criar uma 'prioridade dentro da prioridade', garantindo que os maiores de 80 anos tenham preferência sobre os demais idosos, ressalvados os casos de emergência médica.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um médico decide publicar em sua rede social uma foto 'antes e depois' de um paciente submetido a uma rinoplastia, com autorização do mesmo. De acordo com o Manual de Publicidade Médica do CFM, esta prática é:",
+    "options": [
+      "Permitida, desde que haja consentimento por escrito do paciente.",
+      "Permitida, se o rosto do paciente for parcialmente ocultado.",
+      "Vedada, pois caracteriza sensacionalismo e concorrência desleal.",
+      "Permitida, apenas se for em um perfil profissional fechado para outros médicos.",
+      "Vedada, pois a exposição da figura do paciente é proibida, mesmo com sua autorização."
+    ],
+    "answer": "Vedada, pois a exposição da figura do paciente é proibida, mesmo com sua autorização.",
+    "explanation": "A Resolução CFM nº 1.974/2011 (Manual de Publicidade Médica) proíbe expressamente o uso de imagens de pacientes para divulgar técnicas, métodos ou resultados, mesmo que o paciente autorize. A exposição da figura do paciente é considerada uma violação ética.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual dos seguintes princípios do SUS se refere a tratar desigualmente os desiguais, investindo mais onde a carência é maior, a fim de diminuir as desigualdades?",
+    "options": [
+      "Universalidade",
+      "Integralidade",
+      "Equidade",
+      "Descentralização",
+      "Participação Social"
+    ],
+    "answer": "Equidade",
+    "explanation": "Equidade é o princípio de justiça social do SUS. Ele reconhece que as necessidades de saúde não são iguais para todos e que, para alcançar a igualdade de resultados, é preciso oferecer mais a quem mais precisa, corrigindo as desigualdades.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A notificação compulsória de doenças, agravos e eventos de saúde pública é um dever de todo médico. A lista de doenças de notificação compulsória é definida por qual órgão?",
+    "options": [
+      "Conselho Federal de Medicina (CFM)",
+      "Agência Nacional de Vigilância Sanitária (ANVISA)",
+      "Ministério da Saúde",
+      "Organização Mundial da Saúde (OMS)",
+      "Secretarias Estaduais de Saúde, de forma autônoma."
+    ],
+    "answer": "Ministério da Saúde",
+    "explanation": "O Ministério da Saúde, através de portarias específicas, define a Lista Nacional de Notificação Compulsória de doenças, agravos e eventos de saúde pública, que deve ser seguida em todo o território nacional pelos profissionais e serviços de saúde.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "No que diz respeito à terminalidade da vida, o Código de Ética Médica permite ao médico:",
+    "options": [
+      "Abreviar a vida do paciente a pedido da família, em casos de doença incurável.",
+      "Realizar a eutanásia, desde que com consentimento do paciente.",
+      "Limitar ou suspender procedimentos e tratamentos que prolonguem a vida do doente em fase terminal, respeitada a vontade da pessoa ou de seu representante.",
+      "Desligar os aparelhos de suporte vital sem consultar a família ou o paciente.",
+      "Utilizar de todos os meios, mesmo que extraordinários, para prolongar a vida, caracterizando distanásia."
+    ],
+    "answer": "Limitar ou suspender procedimentos e tratamentos que prolonguem a vida do doente em fase terminal, respeitada a vontade da pessoa ou de seu representante.",
+    "explanation": "O Art. 41, parágrafo único, do CEM permite a ortotanásia. Nos casos de doença incurável e terminal, é permitido ao médico limitar ou suspender procedimentos que prolonguem o sofrimento, garantindo os cuidados paliativos necessários para o conforto do paciente.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A Comissão Intergestores Tripartite (CIT) é uma instância de pactuação do SUS que reúne representantes de quais esferas de governo?",
+    "options": [
+      "Apenas dos Municípios e dos Estados.",
+      "Apenas da União e dos Estados.",
+      "Da União, dos Estados e dos Municípios.",
+      "Apenas dos Municípios de uma mesma região de saúde.",
+      "Dos Estados de uma mesma macrorregião."
+    ],
+    "answer": "Da União, dos Estados e dos Municípios.",
+    "explanation": "A CIT é o fórum de negociação e pactuação no âmbito nacional, composta por representantes do Ministério da Saúde (União), do Conselho Nacional de Secretários de Saúde - CONASS (Estados) e do Conselho Nacional de Secretarias Municipais de Saúde - CONASEMS (Municípios).",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A Relação Nacional de Medicamentos Essenciais (RENAME) é o instrumento que norteia a oferta de medicamentos no SUS. Quem é o órgão responsável por sua atualização?",
+    "options": [
+      "ANVISA",
+      "CONITEC (Comissão Nacional de Incorporação de Tecnologias no SUS)",
+      "Conselho Federal de Farmácia",
+      "Indústria farmacêutica",
+      "Secretarias Estaduais de Saúde"
+    ],
+    "answer": "CONITEC (Comissão Nacional de Incorporação de Tecnologias no SUS)",
+    "explanation": "A CONITEC é responsável por assessorar o Ministério da Saúde na incorporação, exclusão ou alteração de tecnologias em saúde, incluindo medicamentos. Suas recomendações, baseadas em evidências de eficácia, segurança e custo-efetividade, orientam a composição da RENAME.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "De acordo com o Código de Ética Médica, é direito do médico:",
+    "options": [
+      "Exagerar em diagnóstico ou prognóstico para assustar o paciente.",
+      "Receber remuneração pela elaboração de laudos periciais quando nomeado pela autoridade competente.",
+      "Afastar-se de suas atividades profissionais, mesmo quando não houver outro médico para substituí-lo.",
+      "Indicar o procedimento adequado ao paciente, observando a prática cientificamente reconhecida e respeitando a autonomia do paciente.",
+      "Cobrar honorários de paciente assistido em instituição que se destina à prestação de serviços públicos."
+    ],
+    "answer": "Indicar o procedimento adequado ao paciente, observando a prática cientificamente reconhecida e respeitando a autonomia do paciente.",
+    "explanation": "O Capítulo II (Direitos dos Médicos) e o Capítulo V (Relação com Pacientes) estabelecem o direito e o dever do médico de indicar o tratamento adequado, baseado em evidências, mas sempre com o respeito à decisão autônoma do paciente, após o devido esclarecimento.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O financiamento do Sistema Único de Saúde (SUS) é de responsabilidade:",
+    "options": [
+      "Exclusivamente da União, através de impostos federais.",
+      "Exclusivamente dos Estados e Municípios.",
+      "Das três esferas de governo: União, Estados e Municípios.",
+      "Principalmente de contribuições sociais sobre a folha de pagamento.",
+      "De doações e do setor privado."
+    ],
+    "answer": "Das três esferas de governo: União, Estados e Municípios.",
+    "explanation": "O financiamento do SUS é tripartite e solidário. A Constituição Federal e leis complementares estabelecem percentuais mínimos da receita que cada esfera de governo (União, Estados e Municípios) deve obrigatoriamente aplicar em ações e serviços públicos de saúde.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Um médico atende um adolescente de 15 anos desacompanhado, que solicita um procedimento contraceptivo. Segundo o Estatuto da Criança e do Adolescente e o Código de Ética Médica, qual a conduta mais adequada?",
+    "options": [
+      "Recusar o atendimento por ser menor de idade e desacompanhado.",
+      "Exigir a presença dos pais ou responsáveis para qualquer orientação.",
+      "Atender, orientar e realizar o procedimento, garantindo o sigilo, pois o adolescente tem direito à confidencialidade em questões de saúde sexual.",
+      "Realizar o procedimento, mas comunicar obrigatoriamente os pais.",
+      "Encaminhar o caso ao Conselho Tutelar antes de qualquer conduta."
+    ],
+    "answer": "Atender, orientar e realizar o procedimento, garantindo o sigilo, pois o adolescente tem direito à confidencialidade em questões de saúde sexual.",
+    "explanation": "A legislação e a ética médica asseguram ao adolescente (considerado com capacidade de discernimento) o direito à privacidade e confidencialidade em questões de saúde, especialmente saúde sexual e reprodutiva. O sigilo só pode ser quebrado em situações de risco iminente à vida do adolescente ou de terceiros.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A participação da iniciativa privada no SUS é permitida pela legislação. De que forma ela deve ocorrer?",
+    "options": [
+      "De forma livre, competindo com os serviços públicos.",
+      "De forma prioritária, sendo a primeira opção de contratação.",
+      "Apenas em caráter de exclusividade, sem a presença de serviços públicos.",
+      "Em caráter complementar, quando os recursos públicos forem insuficientes para garantir a cobertura assistencial.",
+      "A participação privada no SUS é vedada pela Constituição."
+    ],
+    "answer": "Em caráter complementar, quando os recursos públicos forem insuficientes para garantir a cobertura assistencial.",
+    "explanation": "O Art. 199 da Constituição Federal estabelece que a assistência à saúde é livre à iniciativa privada, mas sua participação no SUS se dará de forma complementar, mediante contrato de direito público ou convênio, tendo preferência as entidades filantrópicas e as sem fins lucrativos.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Em relação à documentação médica, qual das seguintes afirmações sobre o prontuário do paciente está CORRETA segundo o Código de Ética Médica?",
+    "options": [
+      "O prontuário pertence ao médico e à instituição onde foi elaborado.",
+      "O médico pode se recusar a fornecer uma cópia do prontuário ao paciente, se julgar que a informação pode prejudicá-lo.",
+      "O prontuário deve ser elaborado para cada paciente, mas seu preenchimento é opcional.",
+      "É vedado ao médico negar ao paciente o acesso a seu prontuário, bem como deixar de lhe fornecer cópia quando solicitada.",
+      "Após a alta, o prontuário pode ser descartado após 5 anos."
+    ],
+    "answer": "É vedado ao médico negar ao paciente o acesso a seu prontuário, bem como deixar de lhe fornecer cópia quando solicitada.",
+    "explanation": "O prontuário é um documento do paciente. O Art. 88 do CEM veda negar o acesso ou a cópia do prontuário ao paciente. A guarda do prontuário é de responsabilidade do médico e da instituição, mas a propriedade das informações é do paciente.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O que são as Comissões Intergestores Bipartite (CIB)?",
+    "options": [
+      "Fóruns de negociação entre o Ministério da Saúde e os Estados.",
+      "Fóruns de negociação no âmbito estadual, compostos por representantes da Secretaria Estadual de Saúde e das Secretarias Municipais de Saúde.",
+      "Comissões de ética formadas por médicos e enfermeiros.",
+      "Grupos de trabalho para a elaboração de protocolos clínicos.",
+      "Instâncias de controle social com participação de usuários e trabalhadores."
+    ],
+    "answer": "Fóruns de negociação no âmbito estadual, compostos por representantes da Secretaria Estadual de Saúde e das Secretarias Municipais de Saúde.",
+    "explanation": "A CIB é a instância de pactuação e articulação no âmbito de cada estado. Nela, os gestores estaduais e municipais (representados pelo COSEMS) negociam e definem aspectos da operacionalização do SUS em nível regional e estadual.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um médico, ao constatar que um colega de trabalho está exercendo a medicina sob efeito de substância psicoativa que compromete sua capacidade profissional, tem qual dever ético?",
+    "options": [
+      "Ignorar o fato para não prejudicar o colega.",
+      "Comunicar imediatamente o fato ao Conselho Regional de Medicina.",
+      "Confrontar o colega publicamente na frente da equipe.",
+      "Apenas aconselhar o colega a procurar tratamento.",
+      "Assumir os pacientes do colega sem nenhuma outra providência."
+    ],
+    "answer": "Comunicar imediatamente o fato ao Conselho Regional de Medicina.",
+    "explanation": "O Art. 17 do CEM estabelece que é dever do médico, ao ter conhecimento do fato, comunicar o CRM com discrição e fundamento, sobre médico que esteja exercendo a profissão com sua capacidade comprometida por doença ou vício. Trata-se de uma medida de proteção à sociedade e ao próprio colega.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A organização do SUS em níveis de complexidade crescente, garantindo o acesso desde a atenção básica até os procedimentos de alta complexidade, refere-se a qual princípio organizativo?",
+    "options": [
+      "Regionalização",
+      "Hierarquização",
+      "Descentralização",
+      "Universalidade",
+      "Equidade"
+    ],
+    "answer": "Hierarquização",
+    "explanation": "A hierarquização organiza os serviços em níveis de complexidade (primário, secundário, terciário). A atenção básica (primária) deve ser a porta de entrada e ordenar o fluxo para os outros níveis, de acordo com a necessidade do usuário, dentro de uma rede regionalizada.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'segunda opinião médica' é um direito do paciente. Qual a conduta ética do primeiro médico ao saber que o paciente procurou outro profissional?",
+    "options": [
+      "Recusar-se a continuar o tratamento do paciente.",
+      "Criticar a opinião do segundo médico se for divergente da sua.",
+      "Disponibilizar o prontuário e todas as informações necessárias ao segundo médico, se autorizado pelo paciente.",
+      "Ignorar a segunda opinião e manter sua conduta original sem discussão.",
+      "Exigir que o paciente escolha apenas um dos médicos para continuar o tratamento."
+    ],
+    "answer": "Disponibilizar o prontuário e todas as informações necessárias ao segundo médico, se autorizado pelo paciente.",
+    "explanation": "A ética médica preza pela boa relação entre colegas e pelo bem do paciente. É vedado ao médico (Art. 53) desrespeitar a prescrição ou o tratamento de outro médico, salvo em situação de risco iminente. A colaboração, mediante consentimento do paciente, é a conduta esperada.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual dos seguintes NÃO é um objetivo do Sistema Único de Saúde (SUS), conforme estabelecido na Lei 8.080/90?",
+    "options": [
+      "A identificação e divulgação dos fatores condicionantes e determinantes da saúde.",
+      "A assistência às pessoas por intermédio de ações de promoção, proteção e recuperação da saúde.",
+      "A formulação de política de saúde destinada a promover a redução de riscos de doenças.",
+      "A garantia do financiamento exclusivo pela União para os procedimentos de alta complexidade.",
+      "A execução de ações de vigilância sanitária e epidemiológica."
+    ],
+    "answer": "A garantia do financiamento exclusivo pela União para os procedimentos de alta complexidade.",
+    "explanation": "O financiamento do SUS é tripartite e não há uma regra de exclusividade da União para a alta complexidade. Embora a União tenha um papel importante no financiamento da alta complexidade, Estados e Municípios também participam e têm responsabilidades.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um médico é chamado a depor como testemunha em um processo judicial envolvendo um paciente seu. O que o Código de Ética Médica orienta sobre o sigilo profissional nesta situação?",
+    "options": [
+      "O médico deve revelar tudo o que sabe, pois está sob juramento.",
+      "O médico deve comparecer, mas declarar seu impedimento de revelar o segredo profissional.",
+      "O médico pode faltar ao depoimento para proteger o sigilo.",
+      "O médico só pode revelar informações se o juiz ordenar, independentemente do consentimento do paciente.",
+      "O médico deve pedir autorização ao CRM para poder depor."
+    ],
+    "answer": "O médico deve comparecer, mas declarar seu impedimento de revelar o segredo profissional.",
+    "explanation": "O Art. 76 do CEM é claro: 'Revelar informações confidenciais obtidas quando do exame médico de trabalhadores, inclusive por exigência dos dirigentes de empresas ou de instituições, salvo se o silêncio puser em risco a saúde dos empregados ou da comunidade.' A orientação geral é comparecer e invocar o sigilo.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A Política Nacional de Humanização (PNH) ou HumanizaSUS propõe uma série de dispositivos para qualificar a atenção. Qual dos seguintes é um dispositivo da PNH?",
+    "options": [
+      "Programa de Agentes Comunitários de Saúde (PACS).",
+      "Serviço de Atendimento Móvel de Urgência (SAMU).",
+      "Acolhimento com Classificação de Risco.",
+      "Programa Farmácia Popular.",
+      "Protocolos Clínicos e Diretrizes Terapêuticas (PCDT)."
+    ],
+    "answer": "Acolhimento com Classificação de Risco.",
+    "explanation": "O Acolhimento com Classificação de Risco é uma diretriz e um dispositivo central da PNH. Ele reorganiza o processo de trabalho dos serviços de saúde para garantir o acesso universal, ouvindo a queixa do paciente e classificando a necessidade de atendimento por grau de risco, e não por ordem de chegada.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A Resolução CFM nº 2.217/2018 (Código de Ética Médica) estabelece que é vedado ao médico 'deixar de elaborar prontuário legível para cada paciente'. A guarda do prontuário em papel é de responsabilidade do médico ou da instituição por quanto tempo?",
+    "options": [
+      "5 anos após o último registro.",
+      "10 anos após o último registro.",
+      "20 anos após o último registro.",
+      "Indefinidamente.",
+      "Até o paciente completar 100 anos."
+    ],
+    "answer": "20 anos após o último registro.",
+    "explanation": "A Lei nº 13.787/2018, que dispõe sobre a digitalização e a utilização de sistemas informatizados para a guarda, o armazenamento e o manuseio de prontuário de paciente, estabelece o prazo mínimo de 20 (vinte) anos, a partir do último registro, para a preservação dos prontuários em papel.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O que caracteriza o 'ato médico' segundo a Lei nº 12.842/2013 (Lei do Ato Médico)?",
+    "options": [
+      "Qualquer procedimento realizado em um ambiente de saúde.",
+      "Atividades de diagnóstico nosológico e indicação terapêutica que são privativas do médico.",
+      "A prescrição de medicamentos, que pode ser feita por outros profissionais.",
+      "Apenas procedimentos cirúrgicos invasivos.",
+      "A realização de exames de imagem e laboratoriais."
+    ],
+    "answer": "Atividades de diagnóstico nosológico e indicação terapêutica que são privativas do médico.",
+    "explanation": "A Lei do Ato Médico define um conjunto de atividades que são privativas dos médicos. Entre as mais importantes estão a formulação do diagnóstico de doenças (diagnóstico nosológico) e a respectiva prescrição terapêutica.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um paciente em fase terminal de uma doença neurológica degenerativa, plenamente capaz, deixa uma diretiva antecipada de vontade (testamento vital) registrada em prontuário, recusando medidas de suporte artificial de vida. Quando ele perde a capacidade de se comunicar, a família exige que 'tudo seja feito'. Qual a conduta ética do médico?",
+    "options": [
+      "Atender ao pedido da família, que é a responsável legal.",
+      "Ignorar a diretiva do paciente, pois a vida deve ser mantida a todo custo.",
+      "Respeitar a diretiva antecipada de vontade do paciente, prevalecendo sobre o desejo da família.",
+      "Solicitar uma autorização judicial para decidir o que fazer.",
+      "Convocar o comitê de bioética do hospital para tomar a decisão."
+    ],
+    "answer": "Respeitar a diretiva antecipada de vontade do paciente, prevalecendo sobre o desejo da família.",
+    "explanation": "A Resolução CFM nº 1.995/2012 e o próprio Código de Ética Médica (Art. 41) estabelecem que o médico levará em consideração as diretivas antecipadas de vontade do paciente. Se o paciente registrou sua vontade de forma livre e esclarecida enquanto era capaz, essa vontade deve prevalecer sobre a da família.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A qual esfera de governo compete, prioritariamente, a execução das ações de vigilância sanitária de portos, aeroportos e fronteiras?",
+    "options": [
+      "Esfera Municipal",
+      "Esfera Estadual",
+      "Esfera Federal",
+      "A responsabilidade é compartilhada igualmente entre as três esferas.",
+      "Organizações não governamentais."
+    ],
+    "answer": "Esfera Federal",
+    "explanation": "A Lei 8.080/90, em seu Art. 16, atribui à direção nacional do SUS a competência de definir e coordenar os sistemas de vigilância epidemiológica e sanitária, incluindo o controle de portos, aeroportos e fronteiras, função exercida pela ANVISA.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'epidemiologia descritiva' tem como principal objetivo:",
+    "options": [
+      "Testar hipóteses sobre as causas das doenças.",
+      "Avaliar a eficácia de uma intervenção ou tratamento.",
+      "Descrever a distribuição de uma doença ou agravo em uma população, em termos de pessoa, lugar e tempo.",
+      "Estabelecer uma relação de causa e efeito entre uma exposição e um desfecho.",
+      "Calcular o risco relativo e o odds ratio."
+    ],
+    "answer": "Descrever a distribuição de uma doença ou agravo em uma população, em termos de pessoa, lugar e tempo.",
+    "explanation": "A epidemiologia descritiva é o primeiro passo da investigação epidemiológica. Ela responde às perguntas 'Quem?', 'Onde?' e 'Quando?', caracterizando a ocorrência de um evento de saúde e gerando hipóteses que poderão ser testadas pela epidemiologia analítica.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação à publicidade médica, é vedado ao médico:",
+    "options": [
+      "Informar em seu cartão de visitas o seu número de inscrição no CRM.",
+      "Divulgar em seu site os equipamentos que sua clínica possui.",
+      "Anunciar que possui títulos de especialista que não pode comprovar e que não estão registrados no CRM.",
+      "Participar de entrevistas em programas de TV para esclarecer a população sobre temas médicos.",
+      "Publicar artigos científicos em revistas especializadas."
+    ],
+    "answer": "Anunciar que possui títulos de especialista que não pode comprovar e que não estão registrados no CRM.",
+    "explanation": "O Art. 115 do CEM veda ao médico 'Anunciar títulos científicos que não possa comprovar e especialidade ou área de atuação para a qual não esteja qualificado e registrado no Conselho Regional de Medicina'. É uma das infrações éticas mais comuns relacionadas à publicidade.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é 'incidência' em epidemiologia?",
+    "options": [
+      "O número total de casos de uma doença existentes em uma população em um determinado momento.",
+      "O número de casos novos de uma doença que ocorrem em uma população em um determinado período de tempo.",
+      "A proporção de pessoas doentes que morrem por uma doença.",
+      "A velocidade com que uma doença se espalha na comunidade.",
+      "O número de pessoas que foram expostas a um fator de risco."
+    ],
+    "answer": "O número de casos novos de uma doença que ocorrem em uma população em um determinado período de tempo.",
+    "explanation": "A incidência mede a frequência de casos novos, representando o risco de adoecer em uma população. É diferente da prevalência, que mede o número total de casos (novos e antigos) existentes em um ponto no tempo, representando a carga da doença.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Um médico plantonista recebe um paciente grave e precisa transferi-lo para uma UTI em outro hospital. Qual é a sua responsabilidade ética no processo de transferência?",
+    "options": [
+      "Apenas colocar o paciente na ambulância, pois a responsabilidade passa a ser da equipe de transporte.",
+      "Garantir a transferência em uma ambulância com os recursos necessários e entrar em contato com o médico que receberá o paciente, passando o caso.",
+      "Apenas preencher um formulário de referência e contra-referência.",
+      "A responsabilidade termina assim que a vaga na UTI é confirmada por telefone.",
+      "Transferir o paciente apenas com a equipe de enfermagem, sem necessidade de contato médico a médico."
+    ],
+    "answer": "Garantir a transferência em uma ambulância com os recursos necessários e entrar em contato com o médico que receberá o paciente, passando o caso.",
+    "explanation": "O Art. 8º do Capítulo III (Responsabilidade Profissional) do CEM veda 'Afastar-se de suas atividades profissionais, mesmo que temporariamente, sem deixar outro médico encarregado do atendimento de seus pacientes internados ou em estado grave'. A transferência segura e a comunicação entre as equipes são parte integral do ato médico.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A notificação compulsória de violência contra a mulher, atendida em serviços de saúde públicos e privados, é determinada por qual legislação?",
+    "options": [
+      "Apenas pelo Código de Ética Médica.",
+      "Pela Lei Maria da Penha (Lei nº 11.340/2006).",
+      "Pela Lei nº 10.778/2003, alterada pela Lei nº 13.931/2019.",
+      "Pelo Estatuto da Criança e do Adolescente.",
+      "Não é uma notificação obrigatória."
+    ],
+    "answer": "Pela Lei nº 10.778/2003, alterada pela Lei nº 13.931/2019.",
+    "explanation": "A Lei nº 10.778/2003 estabeleceu a notificação compulsória dos casos de violência contra a mulher. A Lei nº 13.931/2019 tornou essa notificação obrigatória para todos os profissionais de saúde, com comunicação à autoridade policial em 24 horas.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual dos seguintes NÃO é um princípio bioético clássico proposto por Beauchamp e Childress?",
+    "options": [
+      "Beneficência",
+      "Não maleficência",
+      "Autonomia",
+      "Justiça",
+      "Universalidade"
+    ],
+    "answer": "Universalidade",
+    "explanation": "A bioética principialista se baseia em quatro princípios fundamentais: Autonomia (respeito à decisão do paciente), Beneficência (agir para o bem do paciente), Não maleficência (não causar dano - 'primum non nocere') e Justiça (distribuição equitativa de recursos). Universalidade é um princípio do SUS, não da bioética principialista.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é um 'estudo de caso-controle' em epidemiologia?",
+    "options": [
+      "Um estudo que segue um grupo de indivíduos ao longo do tempo para observar desfechos.",
+      "Um estudo que compara um grupo de indivíduos com a doença (casos) com um grupo sem a doença (controles), avaliando a exposição a fatores de risco no passado.",
+      "Um estudo que descreve as características de uma série de pacientes com a mesma doença.",
+      "Um ensaio clínico onde um grupo recebe uma intervenção e outro recebe um placebo.",
+      "Um estudo que analisa dados agregados de populações."
+    ],
+    "answer": "Um estudo que compara um grupo de indivíduos com a doença (casos) com um grupo sem a doença (controles), avaliando a exposição a fatores de risco no passado.",
+    "explanation": "O estudo de caso-controle é um estudo observacional e retrospectivo. Ele parte do desfecho (doença) e investiga o passado para identificar fatores de exposição que possam estar associados à doença. É útil para estudar doenças raras.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A Resolução CFM nº 2.227/2018, que trata da Telemedicina, permite a realização de teleconsulta. Qual é a definição de teleconsulta segundo esta resolução?",
+    "options": [
+      "Qualquer troca de informações médicas por aplicativos de mensagem.",
+      "A consulta médica realizada à distância, em tempo real, entre médico e paciente.",
+      "A discussão de um caso clínico entre dois ou mais médicos à distância.",
+      "O monitoramento de parâmetros de saúde de um paciente à distância.",
+      "A emissão de laudos de exames à distância."
+    ],
+    "answer": "A consulta médica realizada à distância, em tempo real, entre médico e paciente.",
+    "explanation": "A resolução define teleconsulta como a consulta médica remota, mediada por tecnologias, com médico e paciente localizados em diferentes espaços geográficos. Ela deve ocorrer em tempo real (síncrona) e seguir todos os preceitos éticos de uma consulta presencial.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é a 'razão de verossimilhança' (likelihood ratio) de um teste diagnóstico?",
+    "options": [
+      "A probabilidade de o teste ser positivo em um doente.",
+      "A probabilidade de o teste ser negativo em um não doente.",
+      "Uma medida que combina sensibilidade e especificidade para quantificar o quanto um resultado de teste muda a probabilidade da doença.",
+      "O valor preditivo positivo do teste.",
+      "A acurácia geral do teste."
+    ],
+    "answer": "Uma medida que combina sensibilidade e especificidade para quantificar o quanto um resultado de teste muda a probabilidade da doença.",
+    "explanation": "A razão de verossimilhança (positiva ou negativa) indica o quão mais provável é um resultado de teste em pessoas com a doença do que em pessoas sem a doença. É uma ferramenta poderosa para calcular a probabilidade pós-teste a partir da probabilidade pré-teste.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Segundo a Lei nº 9.656/98, que regula os planos de saúde, qual o prazo máximo de carência para procedimentos de alta complexidade?",
+    "options": [
+      "24 horas para urgência e emergência.",
+      "300 dias para partos a termo.",
+      "180 dias para os demais casos.",
+      "90 dias para consultas e exames simples.",
+      "Não há prazo de carência para alta complexidade."
+    ],
+    "answer": "180 dias para os demais casos.",
+    "explanation": "A lei estabelece os prazos máximos de carência: 24 horas para urgência/emergência; 300 dias para parto a termo; e 180 dias para todos os outros procedimentos, o que inclui internações e procedimentos de alta complexidade (PAC).",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'iatrogenia' em medicina refere-se a:",
+    "options": [
+      "Um erro médico intencional.",
+      "Um resultado adverso ou dano ao paciente que resulta de uma intervenção médica, mesmo que realizada corretamente.",
+      "A simulação de uma doença pelo paciente.",
+      "A recusa de um tratamento pelo paciente.",
+      "Uma doença de causa desconhecida."
+    ],
+    "answer": "Um resultado adverso ou dano ao paciente que resulta de uma intervenção médica, mesmo que realizada corretamente.",
+    "explanation": "Iatrogenia é qualquer alteração patológica provocada no paciente pela prática médica, seja por um erro (iatrogenia culposa) ou como um efeito colateral inevitável de um tratamento necessário e bem indicado. Nem toda iatrogenia constitui erro médico.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A Portaria de Consolidação nº 5/2017 do Ministério da Saúde trata da Rede de Atenção Psicossocial (RAPS). Qual é o principal dispositivo de atenção desta rede?",
+    "options": [
+      "Hospitais Psiquiátricos",
+      "Unidades Básicas de Saúde",
+      "Centros de Atenção Psicossocial (CAPS)",
+      "Comunidades Terapêuticas",
+      "Ambulatórios de Psiquiatria"
+    ],
+    "answer": "Centros de Atenção Psicossocial (CAPS)",
+    "explanation": "Os CAPS são os serviços centrais e ordenadores da RAPS. São serviços de saúde de caráter aberto e comunitário, que oferecem cuidado multiprofissional e visam a reinserção social de pessoas com transtornos mentais graves e persistentes, substituindo o modelo hospitalocêntrico.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Em um ensaio clínico randomizado, o 'mascaramento' ou 'cegamento' tem como principal objetivo:",
+    "options": [
+      "Garantir que os grupos de tratamento e controle sejam semelhantes no início do estudo.",
+      "Aumentar o poder estatístico do estudo.",
+      "Reduzir os vieses de aferição e de avaliação dos desfechos.",
+      "Facilitar o recrutamento de pacientes.",
+      "Garantir que todos os pacientes recebam algum tipo de tratamento."
+    ],
+    "answer": "Reduzir os vieses de aferição e de avaliação dos desfechos.",
+    "explanation": "O cegamento (onde o paciente, o médico e/ou o avaliador não sabem qual tratamento está sendo administrado) evita que o conhecimento da intervenção influencie o relato de sintomas, a administração de co-intervenções ou a avaliação dos resultados, garantindo uma comparação mais justa entre os grupos.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O que é o 'erro tipo II' ou erro beta em um estudo estatístico?",
+    "options": [
+      "Rejeitar a hipótese nula quando ela é verdadeira (falso-positivo).",
+      "Não rejeitar a hipótese nula quando ela é falsa (falso-negativo).",
+      "Um erro de cálculo na análise dos dados.",
+      "Um viés de seleção na amostragem.",
+      "A utilização de um teste estatístico inadequado."
+    ],
+    "answer": "Não rejeitar a hipótese nula quando ela é falsa (falso-negativo).",
+    "explanation": "O erro tipo II ocorre quando um estudo falha em detectar uma diferença ou efeito que realmente existe. O poder de um estudo (1 - beta) é a sua capacidade de evitar este tipo de erro. O erro tipo I (alfa) é encontrar uma diferença que não existe.",
+    "area": "Legislação do SUS/Ética Médica"
   }
+]
+
 ]
