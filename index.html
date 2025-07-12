@@ -20,7 +20,7 @@
             <h1 class="text-3xl md:text-4xl font-bold text-[#004AAD] mb-4">Simulado Intensivo de Otorrinolaringologia</h1>
 
             <p class="text-lg text-gray-600 mb-2">Prepare-se com <strong class="text-[#0094D1]"><span id="total-questions">0</span> questões</strong> e <strong class="text-[#0094D1]">5 alternativas</strong> cada.</p>
-
+            <p id="progress-info" class="text-md text-gray-600 mb-2"></p>
 
             <p class="text-md text-gray-500 mb-4">Estilo: FUNDATEC, VUNESP e IBFC.</p>
             <form id="config-form" class="text-left mb-6 space-y-4">
@@ -48,10 +48,14 @@
                         <label class="flex items-center"><input type="checkbox" name="areas" value="Anatomia e Fisiologia" checked class="mr-1">Anatomia e Fisiologia</label>
                     </div>
                 </fieldset>
+                <label class="flex items-center"><input type="checkbox" id="include-completed" class="mr-1">Incluir questões já realizadas</label>
             </form>
 
             <button id="start-btn" class="bg-[#004AAD] hover:bg-[#003B8A] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
                 Iniciar Simulado
+            </button>
+            <button id="clear-progress-btn" class="ml-4 bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-2 px-4 rounded-lg text-sm shadow-md">
+                Limpar Progresso
             </button>
         </div>
 
