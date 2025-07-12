@@ -157,19 +157,25 @@ function resetState() {
 
 function selectAnswer(e) {
     const selectedBtn = e.target;
-    const correct = selectedBtn.innerText === currentQuestions[currentQuestionIndex].answer;
+    const correctAnswer = currentQuestions[currentQuestionIndex].answer;
+    const isCorrect = selectedBtn.innerText === correctAnswer;
 
-    if (correct) {
+    if (isCorrect) {
         score++;
         scoreCounterEl.innerText = `Pontos: ${score}`;
     }
 
-    setStatusClass(selectedBtn, correct);
+    // Highlight the selected option based on correctness
+    selectedBtn.classList.add(isCorrect ? 'correct' : 'incorrect');
+
+    // Disable all options and mark the correct one
     Array.from(optionsContainer.children).forEach(button => {
-        setStatusClass(button, button.innerText === currentQuestions[currentQuestionIndex].answer);
+        if (button.innerText === correctAnswer) {
+            button.classList.add('correct');
+        }
         button.disabled = true;
     });
-    
+
     feedbackTextEl.innerText = currentQuestions[currentQuestionIndex].explanation;
     feedbackContainer.classList.remove('hidden');
 
