@@ -5068,7 +5068,836 @@
     "answer": "Não rejeitar a hipótese nula quando ela é falsa (falso-negativo).",
     "explanation": "O erro tipo II ocorre quando um estudo falha em detectar uma diferença ou efeito que realmente existe. O poder de um estudo (1 - beta) é a sua capacidade de evitar este tipo de erro. O erro tipo I (alfa) é encontrar uma diferença que não existe.",
     "area": "Legislação do SUS/Ética Médica"
+  },
+[
+  {
+    "banca": "FUNDATEC",
+    "question": "De acordo com a Lei nº 8.080/90, a saúde é um direito fundamental do ser humano, devendo o Estado prover as condições indispensáveis ao seu pleno exercício. Qual das seguintes ações NÃO se inclui no campo de atuação do Sistema Único de Saúde (SUS)?",
+    "options": [
+      "A execução de ações de vigilância sanitária e epidemiológica.",
+      "A fiscalização e a inspeção de alimentos, compreendido o controle de seu teor nutricional.",
+      "A formulação da política de preços para medicamentos e insumos estratégicos.",
+      "A participação no controle e fiscalização da produção, transporte, guarda e utilização de substâncias e produtos psicoativos, tóxicos e radioativos.",
+      "A colaboração na proteção do meio ambiente, nele compreendido o do trabalho."
+    ],
+    "answer": "A formulação da política de preços para medicamentos e insumos estratégicos.",
+    "explanation": "A regulação econômica e a definição de preços de medicamentos são atribuições de outros órgãos, como a Câmara de Regulação do Mercado de Medicamentos (CMED). O SUS participa da formulação da política de medicamentos, mas não da política de preços.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O princípio da Descentralização no SUS é caracterizado pela:",
+    "options": [
+      "Criação de uma direção única em nível federal, que comanda todas as ações.",
+      "Ênfase na participação da comunidade na gestão dos serviços.",
+      "Redistribuição de poder e responsabilidades entre as três esferas de governo, com ênfase na municipalização.",
+      "Organização dos serviços em níveis de complexidade crescente.",
+      "Garantia de acesso igualitário a todos os cidadãos."
+    ],
+    "answer": "Redistribuição de poder e responsabilidades entre as três esferas de governo, com ênfase na municipalização.",
+    "explanation": "A descentralização é um princípio organizativo do SUS que visa transferir poder de decisão, responsabilidades e recursos da esfera federal para as estaduais e, principalmente, para as municipais, fortalecendo a gestão local e aproximando as decisões das necessidades da população.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Segundo o Código de Ética Médica, é vedado ao médico 'receitar, atestar ou emitir laudos de forma secreta ou ilegível'. Qual o objetivo principal desta vedação?",
+    "options": [
+      "Evitar a automedicação por parte do paciente.",
+      "Garantir o direito do paciente à informação e facilitar a continuidade do cuidado por outros profissionais.",
+      "Proteger o médico de processos judiciais.",
+      "Impedir que o farmacêutico questione a prescrição.",
+      "Padronizar a caligrafia dos profissionais de saúde."
+    ],
+    "answer": "Garantir o direito do paciente à informação e facilitar a continuidade do cuidado por outros profissionais.",
+    "explanation": "A legibilidade da prescrição e dos documentos médicos é um pilar da segurança do paciente. Ela garante que o paciente e outros profissionais (farmacêuticos, enfermeiros, outros médicos) compreendam claramente as indicações, evitando erros e permitindo a continuidade segura do tratamento.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A composição dos Conselhos de Saúde, instância máxima de deliberação do SUS em cada esfera de governo, é paritária. O que isso significa?",
+    "options": [
+      "Metade dos conselheiros são médicos e a outra metade de outras profissões.",
+      "O número de conselheiros é igual ao número de habitantes da cidade.",
+      "50% dos membros são representantes dos usuários; 25% dos trabalhadores da saúde; e 25% dos representantes do governo e prestadores de serviços.",
+      "A presidência do conselho é sempre de um representante do governo.",
+      "As decisões são tomadas por unanimidade."
+    ],
+    "answer": "50% dos membros são representantes dos usuários; 25% dos trabalhadores da saúde; e 25% dos representantes do governo e prestadores de serviços.",
+    "explanation": "A paridade na composição dos Conselhos de Saúde, determinada pela Lei 8.142/91, garante que os usuários tenham uma representação igual à soma dos outros segmentos (trabalhadores, gestores e prestadores), assegurando o protagonismo do controle social popular.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um médico, durante uma consulta, discorda tecnicamente da conduta de um colega que atendeu o paciente anteriormente. Qual a atitude ética a ser tomada?",
+    "options": [
+      "Criticar abertamente o colega na frente do paciente para alertá-lo.",
+      "Alterar a prescrição sem comunicar o paciente sobre a mudança ou seus motivos.",
+      "Ligar para o colega para difamá-lo.",
+      "Assumir a responsabilidade pela nova conduta, explicá-la ao paciente e, se pertinente e necessário, comunicar-se com o colega de forma respeitosa.",
+      "Recusar-se a atender o paciente para não se envolver."
+    ],
+    "answer": "Assumir a responsabilidade pela nova conduta, explicá-la ao paciente e, se pertinente e necessário, comunicar-se com o colega de forma respeitosa.",
+    "explanation": "O Código de Ética veda desrespeitar, criticar ou se referir de forma depreciativa a outro profissional. Em caso de divergência, o médico deve assumir sua conduta, justificá-la tecnicamente ao paciente e, se julgar conveniente, discutir o caso com o colega, sempre visando o melhor para o paciente e mantendo o respeito mútuo.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A Política Nacional de Atenção Básica (PNAB) define a população adscrita para uma equipe de Saúde da Família. Qual é o número recomendado de pessoas por equipe?",
+    "options": [
+      "Exatamente 1.000 pessoas.",
+      "De 500 a 1.500 pessoas.",
+      "De 2.000 a 3.500 pessoas.",
+      "De 4.000 a 6.000 pessoas.",
+      "O número é ilimitado, dependendo da capacidade da UBS."
+    ],
+    "answer": "De 2.000 a 3.500 pessoas.",
+    "explanation": "A PNAB de 2017 recomenda que cada equipe de Saúde da Família seja responsável por uma população adscrita de 2.000 a 3.500 pessoas, podendo haver variações para mais ou para menos de acordo com o grau de vulnerabilidade e as características do território.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A notificação compulsória de um caso de violência contra pessoa idosa deve ser comunicada pelos serviços de saúde a quais órgãos?",
+    "options": [
+      "Apenas à autoridade policial.",
+      "Apenas ao Ministério Público.",
+      "Apenas ao Conselho Municipal da Pessoa Idosa.",
+      "À autoridade policial, ao Ministério Público ou aos Conselhos da Pessoa Idosa (Municipal, Estadual ou Nacional).",
+      "Apenas à família do idoso."
+    ],
+    "answer": "À autoridade policial, ao Ministério Público ou aos Conselhos da Pessoa Idosa (Municipal, Estadual ou Nacional).",
+    "explanation": "O Estatuto do Idoso (Lei 10.741/03) determina que os casos de suspeita ou confirmação de violência sejam obrigatoriamente comunicados pelos serviços de saúde a um dos seguintes órgãos: autoridade policial, Ministério Público, Conselho Municipal, Estadual ou Nacional do Idoso.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é um estudo de coorte em epidemiologia?",
+    "options": [
+      "Um estudo que descreve uma série de casos com a mesma doença.",
+      "Um estudo que compara um grupo de doentes com um grupo de não doentes em relação a exposições passadas.",
+      "Um estudo que segue um grupo de indivíduos (expostos e não expostos a um fator) ao longo do tempo para medir a incidência de uma doença.",
+      "Um estudo que analisa dados de uma população em um único momento no tempo.",
+      "Um ensaio clínico randomizado."
+    ],
+    "answer": "Um estudo que segue um grupo de indivíduos (expostos e não expostos a um fator) ao longo do tempo para medir a incidência de uma doença.",
+    "explanation": "A característica fundamental de um estudo de coorte é o seu caráter prospectivo (ou retrospectivo histórico), onde se parte da exposição a um fator de risco e se acompanha os grupos para observar o surgimento do desfecho (doença). É o melhor desenho observacional para determinar incidência e risco relativo.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "No campo da bioética, o princípio da 'Não Maleficência' é mais bem resumido pela máxima latina:",
+    "options": [
+      "Salus populi suprema lex esto (A saúde do povo é a lei suprema).",
+      "Primum non nocere (Primeiro, não causar dano).",
+      "Volenti non fit injuria (A quem consente, não se faz injúria).",
+      "Mens sana in corpore sano (Mente sã em corpo são).",
+      "Carpe diem (Aproveite o dia)."
+    ],
+    "answer": "Primum non nocere (Primeiro, não causar dano).",
+    "explanation": "O princípio da não maleficência, um dos pilares da ética médica desde Hipócrates, impõe ao profissional a obrigação de, antes de tudo, não causar dano ou agravo à saúde do paciente. Qualquer intervenção deve ter seus riscos cuidadosamente ponderados contra os potenciais benefícios.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um médico atende um paciente que lhe oferece um presente caro (um relógio de luxo) em agradecimento pelo sucesso de um tratamento. De acordo com o Código de Ética Médica, o médico deve:",
+    "options": [
+      "Aceitar o presente, pois é um reconhecimento pelo seu bom trabalho.",
+      "Recusar o presente, pois é vedado ao médico explorar a relação com o paciente para obter vantagens.",
+      "Aceitar o presente, mas doá-lo para uma instituição de caridade.",
+      "Aceitar o presente, desde que o paciente assine um termo de doação espontânea.",
+      "Sugerir que o paciente faça uma doação ao hospital em vez de lhe dar o presente."
+    ],
+    "answer": "Recusar o presente, pois é vedado ao médico explorar a relação com o paciente para obter vantagens.",
+    "explanation": "O Art. 59 do CEM veda 'Oferecer ou aceitar remuneração ou vantagens por paciente encaminhado ou recebido, bem como por serviços não prestados'. Embora um presente possa não ser remuneração direta, presentes de alto valor podem ser interpretados como uma forma de vantagem indevida, que pode comprometer a isenção da relação médico-paciente.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A Lei nº 9.656/98, que dispõe sobre os planos de saúde, define um plano-referência de assistência à saúde com cobertura mínima obrigatória. Esta cobertura inclui, EXCETO:",
+    "options": [
+      "Atendimento de urgência e emergência.",
+      "Consultas médicas, em número ilimitado.",
+      "Internações hospitalares, sem limite de prazo.",
+      "Tratamento clínico ou cirúrgico experimental.",
+      "Exames complementares indispensáveis ao diagnóstico e tratamento."
+    ],
+    "answer": "Tratamento clínico ou cirúrgico experimental.",
+    "explanation": "O Art. 10 da Lei 9.656/98 lista as exclusões de cobertura do plano-referência. Tratamentos experimentais, que não possuem eficácia e segurança comprovadas, estão explicitamente excluídos da cobertura obrigatória.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é o 'consentimento informado' no contexto da prática médica?",
+    "options": [
+      "Um formulário padrão que o paciente assina antes de qualquer procedimento.",
+      "A autorização verbal do paciente para o tratamento.",
+      "Um processo de decisão compartilhada onde o médico informa os riscos, benefícios e alternativas de um tratamento, e o paciente, de forma autônoma, consente ou recusa.",
+      "A permissão dada pela família para tratar um paciente inconsciente.",
+      "A concordância do médico em realizar o procedimento solicitado pelo paciente."
+    ],
+    "answer": "Um processo de decisão compartilhada onde o médico informa os riscos, benefícios e alternativas de um tratamento, e o paciente, de forma autônoma, consente ou recusa.",
+    "explanation": "O consentimento informado não é apenas a assinatura de um papel, mas um processo contínuo de comunicação. Ele materializa o princípio da autonomia, garantindo que a decisão do paciente seja livre, esclarecida e baseada na compreensão completa das informações relevantes fornecidas pelo médico.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'ortotanásia' é uma prática:",
+    "options": [
+      "Vedada pelo Código de Ética Médica, pois consiste em abreviar a vida.",
+      "Permitida pelo Código de Ética Médica, e consiste em não utilizar meios extraordinários para manter a vida de um paciente em fase terminal.",
+      "Considerada suicídio assistido.",
+      "Permitida apenas com autorização judicial.",
+      "O mesmo que eutanásia."
+    ],
+    "answer": "Permitida pelo Código de Ética Médica, e consiste em não utilizar meios extraordinários para manter a vida de um paciente em fase terminal.",
+    "explanation": "A ortotanásia (morte no tempo certo) é a prática de permitir a evolução natural da doença em pacientes terminais, evitando a distanásia (prolongamento artificial e fútil da vida). É uma conduta eticamente aceita e amparada pelo CEM (Art. 41), focando nos cuidados paliativos e no conforto do paciente.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Em um estudo clínico, o 'viés de seleção' ocorre quando:",
+    "options": [
+      "Os resultados são medidos de forma diferente entre os grupos de estudo.",
+      "Os pacientes não aderem ao tratamento proposto.",
+      "A forma como os participantes são selecionados para o estudo cria grupos que não são comparáveis.",
+      "Os pesquisadores perdem o contato com muitos participantes durante o acompanhamento.",
+      "O tamanho da amostra é muito pequeno para detectar uma diferença."
+    ],
+    "answer": "A forma como os participantes são selecionados para o estudo cria grupos que não são comparáveis.",
+    "explanation": "O viés de seleção é um erro sistemático que ocorre quando a amostra do estudo não é representativa da população-alvo ou quando os grupos de comparação (ex: caso e controle, exposto e não exposto) diferem em outras características além da exposição ou do desfecho de interesse, distorcendo a associação encontrada.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A Notificação de Intermediação Preliminar (NIP) é um instrumento utilizado pela Agência Nacional de Saúde Suplementar (ANS) com qual objetivo?",
+    "options": [
+      "Aplicar multas diretamente às operadoras de planos de saúde.",
+      "Realizar auditorias fiscais nas operadoras.",
+      "Mediar conflitos entre beneficiários e operadoras, buscando uma solução rápida antes da abertura de um processo administrativo.",
+      "Cadastrar novos planos de saúde no mercado.",
+      "Avaliar a qualidade da rede credenciada das operadoras."
+    ],
+    "answer": "Mediar conflitos entre beneficiários e operadoras, buscando uma solução rápida antes da abertura de um processo administrativo.",
+    "explanation": "A NIP é um fluxo de mediação de conflitos. Quando um beneficiário registra uma reclamação na ANS (ex: negativa de cobertura), a agência notifica a operadora para que ela resolva a demanda diretamente com o consumidor em um prazo curto. A resolução evita a abertura de um processo sancionador.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "De acordo com a Lei nº 9.656/98, um ex-empregado demitido sem justa causa tem o direito de manter o plano de saúde empresarial, desde que:",
+    "options": [
+      "A empresa continue pagando integralmente o plano.",
+      "Ele assuma o pagamento integral da mensalidade (sua parte mais a parte que era paga pelo empregador).",
+      "Ele tenha contribuído para o plano por mais de 10 anos.",
+      "A demissão tenha sido por justa causa.",
+      "O plano seja exclusivamente odontológico."
+    ],
+    "answer": "Ele assuma o pagamento integral da mensalidade (sua parte mais a parte que era paga pelo empregador).",
+    "explanation": "A lei garante ao demitido sem justa causa o direito de permanecer no plano de saúde, com as mesmas condições de cobertura, pelo período de 1/3 do tempo de contribuição (mínimo de 6 meses e máximo de 24 meses), desde que ele passe a arcar com o custo integral do benefício.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que são os Protocolos Clínicos e Diretrizes Terapêuticas (PCDT) no âmbito do SUS?",
+    "options": [
+      "Manuais de conduta interna de cada hospital.",
+      "Documentos que estabelecem critérios para o diagnóstico e tratamento de doenças, com o objetivo de garantir o melhor cuidado à saúde.",
+      "Listas de medicamentos que podem ser prescritos no SUS.",
+      "Regras para a publicidade de serviços médicos.",
+      "Diretrizes para a formação de profissionais de saúde."
+    ],
+    "answer": "Documentos que estabelecem critérios para o diagnóstico e tratamento de doenças, com o objetivo de garantir o melhor cuidado à saúde.",
+    "explanation": "Os PCDT são documentos baseados em evidências científicas, elaborados pelo Ministério da Saúde com a assessoria da CONITEC. Eles padronizam as condutas, estabelecem os critérios de diagnóstico, os esquemas terapêuticos e os mecanismos de monitoramento para doenças específicas, orientando a prática clínica no SUS.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Um médico decide não informar a um paciente o diagnóstico de uma doença terminal para 'poupá-lo' do sofrimento. Esta atitude fere qual princípio bioético fundamental?",
+    "options": [
+      "Beneficência",
+      "Não maleficência",
+      "Justiça",
+      "Autonomia",
+      "Equidade"
+    ],
+    "answer": "Autonomia",
+    "explanation": "O princípio da autonomia garante ao paciente o direito de saber sobre sua condição e de tomar decisões sobre seu próprio corpo e tratamento. Reter a informação, mesmo com a intenção de fazer o bem (paternalismo), impede que o paciente exerça sua autonomia, tome providências pessoais e participe das decisões sobre seus cuidados de fim de vida.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual é a principal função da Agência Nacional de Vigilância Sanitária (ANVISA)?",
+    "options": [
+      "Gerenciar os hospitais federais.",
+      "Regular os preços dos planos de saúde.",
+      "Promover o controle sanitário da produção e consumo de produtos e serviços submetidos à vigilância sanitária.",
+      "Financiar a pesquisa científica em saúde.",
+      "Coordenar a Política Nacional de Atenção Básica."
+    ],
+    "answer": "Promover o controle sanitário da produção e consumo de produtos e serviços submetidos à vigilância sanitária.",
+    "explanation": "A ANVISA é a agência reguladora vinculada ao Ministério da Saúde responsável por proteger a saúde da população. Suas atribuições incluem o registro e a fiscalização de medicamentos, alimentos, cosméticos, saneantes, produtos para a saúde, além do controle de portos, aeroportos e fronteiras.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é 'prevalência' em epidemiologia?",
+    "options": [
+      "O número de casos novos de uma doença em um período.",
+      "O risco de um indivíduo desenvolver uma doença.",
+      "O número total de casos (novos e antigos) de uma doença em uma população em um ponto específico no tempo.",
+      "A letalidade de uma doença.",
+      "A taxa de mortalidade por uma doença."
+    ],
+    "answer": "O número total de casos (novos e antigos) de uma doença em uma população em um ponto específico no tempo.",
+    "explanation": "A prevalência é uma 'fotografia' da carga de uma doença na população em um determinado momento. É calculada como (Número total de casos / População total). É influenciada tanto pela incidência (casos novos) quanto pela duração da doença.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O que é o 'erro tipo I' ou erro alfa em um estudo estatístico?",
+    "options": [
+      "Rejeitar a hipótese nula quando ela é verdadeira (falso-positivo).",
+      "Não rejeitar a hipótese nula quando ela é falsa (falso-negativo).",
+      "Um erro na coleta de dados.",
+      "Um viés de publicação.",
+      "A utilização de uma amostra não representativa."
+    ],
+    "answer": "Rejeitar a hipótese nula quando ela é verdadeira (falso-positivo).",
+    "explanation": "O erro tipo I (alfa) ocorre quando o estudo conclui que existe uma diferença ou um efeito entre os grupos, quando na verdade essa diferença não existe e o resultado se deve ao acaso. O nível de significância (p-valor < 0,05) é o limiar que se estabelece para a probabilidade de cometer este erro.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'junta médica' ou 'odontológica', no âmbito dos planos de saúde, é um mecanismo para:",
+    "options": [
+      "Punir o médico assistente por uma indicação inadequada.",
+      "Dirimir divergência técnico-assistencial entre o profissional solicitante e a operadora.",
+      "Avaliar a qualidade geral do atendimento prestado pela rede credenciada.",
+      "Autorizar procedimentos de alta complexidade de forma rotineira.",
+      "Definir os preços dos procedimentos a serem pagos pela operadora."
+    ],
+    "answer": "Dirimir divergência técnico-assistencial entre o profissional solicitante e a operadora.",
+    "explanation": "Quando a operadora de saúde nega uma solicitação de procedimento por discordância técnica (e não por falta de cobertura contratual), pode ser instaurada uma junta médica. Ela é composta pelo médico assistente, um médico da operadora e um terceiro, desempatador, para decidir a questão com base em critérios técnicos.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual o principal objetivo da Política Nacional de Práticas Integrativas e Complementares (PNPIC) no SUS?",
+    "options": [
+      "Substituir os tratamentos da medicina convencional.",
+      "Oferecer tratamentos de baixo custo para a população.",
+      "Incorporar e regulamentar práticas como acupuntura, homeopatia e fitoterapia como opções terapêuticas no cuidado à saúde.",
+      "Limitar o uso de medicamentos alopáticos.",
+      "Promover apenas o bem-estar espiritual dos pacientes."
+    ],
+    "answer": "Incorporar e regulamentar práticas como acupuntura, homeopatia e fitoterapia como opções terapêuticas no cuidado à saúde.",
+    "explanation": "A PNPIC visa atender à necessidade de um cuidado integral, considerando o ser humano em todas as suas dimensões. Ela busca incorporar ao SUS, de forma segura e com base em evidências, práticas que complementam o modelo biomédico tradicional, ampliando as opções de cuidado.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação à doação e transplante de órgãos, o modelo adotado no Brasil é o de:",
+    "options": [
+      "Consentimento presumido, onde todos são doadores a menos que se manifestem contra.",
+      "Consentimento informado, onde a doação só ocorre com autorização expressa da família.",
+      "Doação obrigatória em casos de morte encefálica.",
+      "Venda de órgãos, regulamentada pelo Ministério da Saúde.",
+      "Consentimento do próprio indivíduo, registrado em documento."
+    ],
+    "answer": "Consentimento informado, onde a doação só ocorre com autorização expressa da família.",
+    "explanation": "No Brasil, vigora o sistema de doação consentida ou autorizada. Após o diagnóstico de morte encefálica, a decisão final sobre a doação de órgãos e tecidos cabe à família do paciente. Por isso, a comunicação da vontade de ser doador aos familiares é fundamental.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que são 'indicadores de saúde'?",
+    "options": [
+      "O número de hospitais e leitos disponíveis em uma região.",
+      "As metas estabelecidas no Plano Municipal de Saúde.",
+      "Medidas-síntese que contêm informação relevante sobre determinados atributos e dimensões do estado de saúde e do desempenho do sistema de saúde.",
+      "As leis e portarias que regulamentam o SUS.",
+      "O orçamento destinado à saúde a cada ano."
+    ],
+    "answer": "Medidas-síntese que contêm informação relevante sobre determinados atributos e dimensões do estado de saúde e do desempenho do sistema de saúde.",
+    "explanation": "Indicadores são ferramentas essenciais para o planejamento e a avaliação em saúde. Eles traduzem dados brutos em informações úteis, como a taxa de mortalidade infantil, a esperança de vida ao nascer ou a cobertura vacinal, permitindo monitorar a situação de saúde e o impacto das políticas públicas.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A Rede Cegonha é uma estratégia do SUS que visa assegurar às mulheres e crianças:",
+    "options": [
+      "Apenas o acesso a métodos contraceptivos.",
+      "O direito ao planejamento reprodutivo, atenção humanizada à gravidez, parto e puerpério, e o direito ao nascimento seguro e crescimento saudável.",
+      "Apenas a realização do parto em hospitais de alta complexidade.",
+      "A vacinação completa até os 5 anos de idade.",
+      "A matrícula garantida em creches públicas."
+    ],
+    "answer": "O direito ao planejamento reprodutivo, atenção humanizada à gravidez, parto e puerpério, e o direito ao nascimento seguro e crescimento saudável.",
+    "explanation": "A Rede Cegonha é uma rede de cuidados que busca estruturar e organizar a atenção à saúde materno-infantil em todas as suas fases, desde o planejamento familiar, passando pelo pré-natal, parto e puerpério, até o acompanhamento do desenvolvimento da criança nos primeiros dois anos de vida.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual a principal diferença entre um estudo transversal e um estudo de coorte?",
+    "options": [
+      "O estudo transversal é sempre retrospectivo, e o de coorte, prospectivo.",
+      "O estudo transversal mede prevalência em um ponto no tempo, enquanto o de coorte mede incidência ao longo do tempo.",
+      "O estudo de coorte é mais barato e rápido que o transversal.",
+      "Apenas o estudo de coorte pode estabelecer causalidade.",
+      "O estudo transversal não utiliza grupo controle."
+    ],
+    "answer": "O estudo transversal mede prevalência em um ponto no tempo, enquanto o de coorte mede incidência ao longo do tempo.",
+    "explanation": "Um estudo transversal é uma 'fotografia' da população, medindo a exposição e o desfecho ao mesmo tempo, sendo útil para calcular a prevalência. Um estudo de coorte é um 'filme', seguindo os indivíduos para ver quem desenvolve a doença, permitindo calcular a incidência e o risco.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O que é a 'referência e contrarreferência' no sistema de saúde?",
+    "options": [
+      "O ato de encaminhar um paciente para um especialista e depois dispensá-lo.",
+      "Um sistema de comunicação que garante o encaminhamento do paciente para um serviço de maior complexidade (referência) e seu retorno com as devidas informações para o serviço de origem (contrarreferência).",
+      "A troca de plantão entre as equipes médicas.",
+      "O agendamento de consultas e exames pela central de regulação.",
+      "A segunda opinião médica solicitada pelo paciente."
+    ],
+    "answer": "Um sistema de comunicação que garante o encaminhamento do paciente para um serviço de maior complexidade (referência) e seu retorno com as devidas informações para o serviço de origem (contrarreferência).",
+    "explanation": "O sistema de referência e contrarreferência é um mecanismo essencial para a integralidade do cuidado em uma rede hierarquizada. Ele assegura que o paciente transite entre os diferentes níveis de atenção e que a informação sobre seu caso flua junto com ele, garantindo a continuidade do tratamento.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Segundo o Código de Ética Médica, a relação do médico com as empresas e a indústria farmacêutica deve ser pautada pela:",
+    "options": [
+      "Indicação prioritária dos produtos da empresa que oferece mais vantagens.",
+      "Aceitação de presentes e patrocínios sem restrições.",
+      "Independência profissional e científica, evitando qualquer forma de promoção ou comercialização de produtos.",
+      "Participação em estudos clínicos patrocinados, mesmo que sem relevância científica.",
+      "Prescrição exclusiva de medicamentos de marca."
+    ],
+    "answer": "Independência profissional e científica, evitando qualquer forma de promoção ou comercialização de produtos.",
+    "explanation": "O CEM veda expressamente ao médico ter qualquer tipo de vínculo ou dependência com a indústria que possa comprometer sua autonomia e isenção na prescrição. A escolha terapêutica deve se basear unicamente no melhor interesse do paciente e na evidência científica, e não em vantagens comerciais.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'epidemia' se diferencia da 'endemia' porque:",
+    "options": [
+      "A epidemia afeta apenas uma pequena localidade, enquanto a endemia é global.",
+      "A epidemia representa um número de casos de uma doença que excede o esperado para aquela região e período, enquanto a endemia é a ocorrência habitual da doença.",
+      "A endemia é sempre causada por vírus, e a epidemia por bactérias.",
+      "A epidemia tem baixa letalidade, e a endemia, alta letalidade.",
+      "A endemia não requer medidas de controle, ao contrário da epidemia."
+    ],
+    "answer": "A epidemia representa um número de casos de uma doença que excede o esperado para aquela região e período, enquanto a endemia é a ocorrência habitual da doença.",
+    "explanation": "Endemia refere-se à presença constante de uma doença ou agente infeccioso em uma área geográfica. Epidemia (ou surto) é a ocorrência de casos em número claramente superior ao esperado. Uma pandemia é uma epidemia que se espalha por vários países ou continentes.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual o principal objetivo do 'Apoio Matricial' ou 'Matriciamento' na Atenção Básica?",
+    "options": [
+      "Transferir a responsabilidade dos casos complexos para a equipe especializada.",
+      "Criar um ambulatório de especialidades dentro da Unidade Básica de Saúde.",
+      "Oferecer suporte técnico-pedagógico e assistencial para a equipe de referência, aumentando sua capacidade de resolução de problemas.",
+      "Realizar a triagem de todos os pacientes que chegam à UBS.",
+      "Substituir a necessidade de encaminhamento para especialistas."
+    ],
+    "answer": "Oferecer suporte técnico-pedagógico e assistencial para a equipe de referência, aumentando sua capacidade de resolução de problemas.",
+    "explanation": "O matriciamento é uma metodologia de trabalho que busca integrar a atenção básica e a especializada. A equipe de apoio (especialistas) não assume o caso, mas discute com a equipe de referência (Saúde da Família), realiza atendimentos conjuntos e oferece educação permanente, qualificando o cuidado na própria UBS.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O que é 'Valor Preditivo Positivo' de um teste diagnóstico?",
+    "options": [
+      "A probabilidade de um indivíduo doente ter um resultado positivo.",
+      "A probabilidade de um indivíduo saudável ter um resultado negativo.",
+      "A probabilidade de um indivíduo com um resultado positivo realmente ter a doença.",
+      "A probabilidade de um indivíduo com um resultado negativo realmente não ter a doença.",
+      "A capacidade do teste de acertar o diagnóstico, seja ele positivo ou negativo."
+    ],
+    "answer": "A probabilidade de um indivíduo com um resultado positivo realmente ter a doença.",
+    "explanation": "O Valor Preditivo Positivo (VPP) responde à pergunta clínica: 'Se o teste do meu paciente deu positivo, qual a chance de ele realmente estar doente?'. O VPP é altamente influenciado pela prevalência da doença na população testada.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A Rede de Atenção às Urgências (RUE) é composta por vários componentes. Qual dos seguintes NÃO é um componente da RUE?",
+    "options": [
+      "Promoção, Prevenção e Vigilância à Saúde.",
+      "Atenção Básica em Saúde.",
+      "Serviço de Atendimento Móvel de Urgência (SAMU 192).",
+      "Unidade de Pronto Atendimento (UPA 24h).",
+      "Centros de Atenção Psicossocial (CAPS)."
+    ],
+    "answer": "Centros de Atenção Psicossocial (CAPS).",
+    "explanation": "Os CAPS são os componentes centrais da Rede de Atenção Psicossocial (RAPS). Embora atendam crises, sua função principal é o cuidado contínuo em saúde mental. A RUE é composta pela Promoção/Prevenção, Atenção Básica, SAMU, Salas de Estabilização, UPA, e Atenção Hospitalar.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Um médico atende um paciente que sofreu um acidente de trabalho. Além de prestar o atendimento, qual é a obrigação do médico em relação ao sistema de informação?",
+    "options": [
+      "Comunicar o fato apenas à empresa empregadora.",
+      "Preencher a Comunicação de Acidente de Trabalho (CAT).",
+      "Não tem nenhuma obrigação, a responsabilidade é da empresa.",
+      "Comunicar o caso ao sindicato da categoria do trabalhador.",
+      "Enviar um relatório detalhado ao Ministério do Trabalho."
+    ],
+    "answer": "Preencher a Comunicação de Acidente de Trabalho (CAT).",
+    "explanation": "O médico que presta o primeiro atendimento a um acidentado do trabalho tem a obrigação legal de preencher a CAT, independentemente da empresa já o ter feito. A emissão da CAT pelo médico garante os direitos previdenciários do trabalhador e alimenta os sistemas de vigilância em saúde do trabalhador.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O que é um 'ensaio clínico randomizado e controlado'?",
+    "options": [
+      "Um estudo que observa uma população sem intervir.",
+      "Um estudo experimental onde os participantes são alocados aleatoriamente para receber uma intervenção ou um controle (placebo ou tratamento padrão).",
+      "A descrição detalhada de um único caso clínico.",
+      "Uma revisão de vários estudos já publicados sobre um tema.",
+      "Um estudo que compara um grupo de doentes com um grupo de sadios."
+    ],
+    "answer": "Um estudo experimental onde os participantes são alocados aleatoriamente para receber uma intervenção ou um controle (placebo ou tratamento padrão).",
+    "explanation": "Este é o desenho de estudo considerado o padrão-ouro para testar a eficácia de uma intervenção. A randomização garante que os grupos sejam comparáveis no início, e o controle permite isolar o efeito da intervenção, minimizando vieses.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'Declaração de Óbito' é um documento médico com finalidades legais e epidemiológicas. Quem é o profissional responsável por seu preenchimento em caso de morte natural com assistência médica?",
+    "options": [
+      "Qualquer médico do hospital.",
+      "O médico do Serviço de Verificação de Óbito (SVO).",
+      "O médico legista do Instituto Médico Legal (IML).",
+      "O médico que vinha prestando assistência ao paciente.",
+      "Um oficial de cartório."
+    ],
+    "answer": "O médico que vinha prestando assistência ao paciente.",
+    "explanation": "Em caso de morte por causa natural, com assistência médica prestada, a responsabilidade pelo preenchimento da Declaração de Óbito é do médico que acompanhava o paciente. O SVO atua em mortes naturais sem assistência, e o IML em mortes por causas externas (violentas).",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'portabilidade de carências' em planos de saúde é o direito que o beneficiário tem de:",
+    "options": [
+      "Trocar de plano de saúde sem cumprir novos períodos de carência ou cobertura parcial temporária.",
+      "Cancelar o plano de saúde a qualquer momento sem multa.",
+      "Receber o reembolso de despesas médicas realizadas fora da rede credenciada.",
+      "Incluir novos dependentes no plano sem carência.",
+      "Ter atendimento de urgência em qualquer hospital do país, mesmo fora da área de cobertura do plano."
+    ],
+    "answer": "Trocar de plano de saúde sem cumprir novos períodos de carência ou cobertura parcial temporária.",
+    "explanation": "A portabilidade, regulamentada pela ANS, permite que o beneficiário de um plano de saúde mude para outro plano (da mesma operadora ou de uma diferente), aproveitando os períodos de carência já cumpridos no plano de origem, desde que atenda a certos requisitos (como tempo de permanência e compatibilidade de planos).",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é 'risco relativo' (RR) em um estudo epidemiológico?",
+    "options": [
+      "A probabilidade de um indivíduo ter a doença.",
+      "A razão entre a incidência da doença nos expostos e a incidência nos não expostos.",
+      "A razão de chances de exposição entre casos e controles.",
+      "A proporção de casos que pode ser atribuída a uma determinada exposição.",
+      "A diferença absoluta na incidência entre expostos e não expostos."
+    ],
+    "answer": "A razão entre a incidência da doença nos expostos e a incidência nos não expostos.",
+    "explanation": "O Risco Relativo é a principal medida de associação em estudos de coorte. Ele quantifica quantas vezes o risco de adoecer é maior no grupo exposto a um fator de risco em comparação com o grupo não exposto. Um RR > 1 indica que a exposição é um fator de risco.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O que é a 'judicialização da saúde'?",
+    "options": [
+      "A obrigatoriedade de todos os médicos terem um advogado.",
+      "O fenômeno crescente de busca do Poder Judiciário para garantir o acesso a tratamentos, medicamentos ou procedimentos não fornecidos pelo sistema de saúde.",
+      "A criação de leis específicas para cada doença.",
+      "A atuação de juízes como gestores de hospitais.",
+      "A criminalização do erro médico."
+    ],
+    "answer": "O fenômeno crescente de busca do Poder Judiciário para garantir o acesso a tratamentos, medicamentos ou procedimentos não fornecidos pelo sistema de saúde.",
+    "explanation": "A judicialização da saúde ocorre quando os cidadãos recorrem à Justiça para efetivar seu direito à saúde, garantido pela Constituição, buscando obter do Estado ou dos planos de saúde tratamentos que foram negados administrativamente. É um tema complexo com implicações sanitárias, éticas e orçamentárias.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'Declaração de Helsinque' é um documento fundamental na história da ética em pesquisa. Qual é o seu principal foco?",
+    "options": [
+      "Regulamentar a publicidade médica.",
+      "Estabelecer os direitos dos pacientes no atendimento médico.",
+      "Definir os princípios éticos para a pesquisa médica envolvendo seres humanos.",
+      "Criar o Sistema Único de Saúde.",
+      "Regulamentar o uso de animais em experimentos."
+    ],
+    "answer": "Definir os princípios éticos para a pesquisa médica envolvendo seres humanos.",
+    "explanation": "Proposta pela Associação Médica Mundial, a Declaração de Helsinque é o documento de referência internacional para a ética em pesquisa com seres humanos. Ela estabelece que o bem-estar do participante da pesquisa deve sempre prevalecer sobre os interesses da ciência e da sociedade e enfatiza a necessidade do consentimento informado.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é 'viés de aferição' em um estudo?",
+    "options": [
+      "Um erro na seleção dos participantes do estudo.",
+      "A perda de participantes durante o acompanhamento do estudo.",
+      "Um erro sistemático na forma como a exposição ou o desfecho são medidos, que ocorre de forma diferente entre os grupos de comparação.",
+      "A tendência de publicar apenas resultados positivos.",
+      "A influência do financiador nos resultados do estudo."
+    ],
+    "answer": "Um erro sistemático na forma como a exposição ou o desfecho são medidos, que ocorre de forma diferente entre os grupos de comparação.",
+    "explanation": "O viés de aferição (ou de informação) ocorre quando a medição da variável de interesse é imprecisa ou sistematicamente diferente entre os grupos. Por exemplo, se um pesquisador, sabendo qual paciente recebeu o novo tratamento, avalia seu desfecho de forma mais otimista. O cegamento é a principal estratégia para evitar este viés.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A responsabilidade civil do médico por erro profissional, em regra, é do tipo:",
+    "options": [
+      "Objetiva, onde basta a prova do dano para haver o dever de indenizar.",
+      "Subjetiva, exigindo a comprovação de culpa (imprudência, negligência ou imperícia).",
+      "Solidária com o hospital, em todos os casos.",
+      "Inexistente, pois o médico tem imunidade profissional.",
+      "Contratual, baseada apenas no que foi acordado com o paciente."
+    ],
+    "answer": "Subjetiva, exigindo a comprovação de culpa (imprudência, negligência ou imperícia).",
+    "explanation": "A responsabilidade civil do profissional liberal, incluindo o médico, é apurada mediante a verificação de culpa, conforme o Código de Defesa do Consumidor e o Código Civil. Para que haja o dever de indenizar, é preciso provar o dano, a conduta culposa do médico (ato ilícito) e o nexo de causalidade entre eles.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é a 'taxa de letalidade' de uma doença?",
+    "options": [
+      "A proporção de pessoas em uma população que morrem por qualquer causa em um período.",
+      "O número de casos novos da doença.",
+      "A proporção de pessoas com uma doença específica que morrem em decorrência dela.",
+      "O risco de adquirir a doença.",
+      "O número total de mortes em uma população."
+    ],
+    "answer": "A proporção de pessoas com uma doença específica que morrem em decorrência dela.",
+    "explanation": "A letalidade é uma medida da gravidade de uma doença. É calculada como (Número de óbitos por uma doença / Número total de casos da mesma doença) x 100. Ela indica a probabilidade de morrer uma vez que se tenha a doença.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'atenção domiciliar' no SUS, organizada pelo programa Melhor em Casa, é indicada para:",
+    "options": [
+      "Todos os pacientes idosos, independentemente de sua condição de saúde.",
+      "Pacientes que necessitam de cuidados que poderiam ser realizados no hospital, mas que apresentam estabilidade clínica para serem atendidos em casa.",
+      "Apenas para pacientes em cuidados paliativos terminais.",
+      "Pacientes que não têm família para cuidar deles.",
+      "Substituir completamente a necessidade de internação hospitalar."
+    ],
+    "answer": "Pacientes que necessitam de cuidados que poderiam ser realizados no hospital, mas que apresentam estabilidade clínica para serem atendidos em casa.",
+    "explanation": "A atenção domiciliar é uma modalidade de cuidado que busca desospitalizar o paciente, oferecendo em seu domicílio um conjunto de ações de saúde (tratamento, reabilitação, paliação) com uma equipe multiprofissional. É indicada para pacientes que demandam um cuidado mais complexo que o da atenção básica, mas que não necessitam da estrutura hospitalar.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O que é o 'erro de medicação'?",
+    "options": [
+      "Qualquer reação adversa a um medicamento.",
+      "Um evento evitável que pode levar ao uso inadequado de um medicamento ou causar dano a um paciente, enquanto a medicação está sob o controle de profissionais de saúde, paciente ou consumidor.",
+      "A prescrição de um medicamento off-label.",
+      "A falha do paciente em aderir ao tratamento prescrito.",
+      "A substituição de um medicamento de marca por um genérico na farmácia."
+    ],
+    "answer": "Um evento evitável que pode levar ao uso inadequado de um medicamento ou causar dano a um paciente, enquanto a medicação está sob o controle de profissionais de saúde, paciente ou consumidor.",
+    "explanation": "Esta é a definição do National Coordinating Council for Medication Error Reporting and Prevention (NCC MERP). O erro de medicação é uma falha no processo (prescrição, dispensação, administração) que pode ou não resultar em dano, mas que é sempre evitável e deve ser alvo de estratégias de prevenção.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'Saúde do Trabalhador' é um campo de atuação do SUS. Qual o principal objetivo da Rede Nacional de Atenção Integral à Saúde do Trabalhador (RENAST)?",
+    "options": [
+      "Apenas realizar perícias para o INSS.",
+      "Fiscalizar as condições de trabalho nas empresas.",
+      "Integrar a atenção à saúde do trabalhador na rede de serviços do SUS, com ações de vigilância, prevenção e assistência.",
+      "Oferecer planos de saúde para os trabalhadores.",
+      "Tratar exclusivamente os acidentes de trabalho."
+    ],
+    "answer": "Integrar a atenção à saúde do trabalhador na rede de serviços do SUS, com ações de vigilância, prevenção e assistência.",
+    "explanation": "A RENAST, articulada através dos Centros de Referência em Saúde do Trabalhador (CEREST), visa consolidar as ações de saúde do trabalhador no SUS, superando a lógica de focar apenas no acidente de trabalho e incorporando a vigilância dos ambientes e processos de trabalho, a prevenção de doenças ocupacionais e a assistência integral aos trabalhadores.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação à prescrição de medicamentos, o que significa o termo 'off-label'?",
+    "options": [
+      "A prescrição de um medicamento genérico.",
+      "A prescrição de um medicamento que ainda não tem registro na ANVISA.",
+      "A prescrição de um medicamento para uma indicação, dose ou via de administração que não está aprovada em sua bula.",
+      "A prescrição de um medicamento manipulado.",
+      "A prescrição de um medicamento de uso controlado."
+    ],
+    "answer": "A prescrição de um medicamento para uma indicação, dose ou via de administração que não está aprovada em sua bula.",
+    "explanation": "O uso 'off-label' é uma prática comum, especialmente em áreas com poucas opções terapêuticas aprovadas (como pediatria ou doenças raras). Embora não seja ilegal, exige do médico uma responsabilidade ética e científica maior, devendo ser baseada em evidências sólidas e com o consentimento do paciente.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O que é 'letalidade' e como ela se diferencia de 'mortalidade'?",
+    "options": [
+      "São termos sinônimos.",
+      "Letalidade é o risco de morrer na população geral, e mortalidade é o risco de morrer entre os doentes.",
+      "Letalidade mede a gravidade de uma doença (proporção de doentes que morrem), enquanto mortalidade mede o risco de morrer em uma população (número de óbitos / população total).",
+      "Letalidade se aplica a doenças infecciosas, e mortalidade a doenças crônicas.",
+      "Mortalidade é um indicador absoluto, e letalidade é uma taxa."
+    ],
+    "answer": "Letalidade mede a gravidade de uma doença (proporção de doentes que morrem), enquanto mortalidade mede o risco de morrer em uma população (número de óbitos / população total).",
+    "explanation": "A taxa de letalidade (Nº de óbitos por uma doença / Nº de casos da doença) é um indicador da virulência ou gravidade de uma patologia. A taxa de mortalidade (Nº de óbitos por uma doença / População total) mede o impacto da doença na população como um todo.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual a principal diferença entre um 'erro médico' e um 'resultado adverso'?",
+    "options": [
+      "Não há diferença, são termos equivalentes.",
+      "Erro médico sempre causa dano, resultado adverso não.",
+      "Um resultado adverso pode ocorrer mesmo com a prática médica correta (ex: efeito colateral), enquanto o erro médico envolve uma conduta inadequada (negligência, imprudência ou imperícia).",
+      "Resultado adverso é sempre evitável, erro médico não.",
+      "Erro médico é uma infração ética, e resultado adverso é uma infração legal."
+    ],
+    "answer": "Um resultado adverso pode ocorrer mesmo com a prática médica correta (ex: efeito colateral), enquanto o erro médico envolve uma conduta inadequada (negligência, imprudência ou imperícia).",
+    "explanation": "Um resultado adverso (ou evento adverso) é um dano decorrente do cuidado à saúde, e não da doença de base. Ele pode ser resultado de um erro (evento adverso evitável) ou ser uma complicação não evitável de uma intervenção bem indicada e executada. Portanto, nem todo resultado adverso é um erro médico.",
+    "area": "Legislação do SUS/Ética Médica"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Paciente de 4 anos, sexo masculino, tem crises recorrentes de febre, aftas, faringite e linfonodomegalia cervical, com duração de 5 dias. Teve 3 episódios por ano nos últimos 2 anos. O diagnóstico mais provável e o tratamento de escolha para a crise são:",
+    "options": [
+      "Amigdalite de repetição por estreptococo e amigdalectomia.",
+      "Síndrome PFAPA e prednisolona.",
+      "Herpangina e aciclovir.",
+      "Doença de Behçet e colchicina.",
+      "Mononucleose recorrente e repouso."
+    ],
+    "answer": "Síndrome PFAPA e prednisolona.",
+    "explanation": "O quadro clínico com febre periódica, estomatite aftosa, faringite e adenite cervical é a descrição clássica da Síndrome PFAPA. O tratamento da crise aguda com uma dose de corticoide (prednisona/prednisolona) geralmente leva à resolução rápida dos sintomas.",
+    "area": "Laringologia/Faringologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Paciente foi submetido à estapedotomia à direita há 1 ano, com resolução da hipoacusia. Refere retorno da hipoacusia à direita, há 1 semana, após queda da própria altura. Otoscopia normal. A principal hipótese diagnóstica e o timpanograma correspondente são:",
+    "options": [
+      "Progressão da otosclerose e curva Ar.",
+      "Hemotímpano e curva B.",
+      "Deslocamento da prótese e curva Ad.",
+      "Fístula perilinfática e curva C.",
+      "Labirintite e curva A."
+    ],
+    "answer": "Deslocamento da prótese e curva Ad.",
+    "explanation": "O trauma pode causar o deslocamento da prótese do estribo, criando uma disjunção da cadeia ossicular. Isso resulta em uma perda auditiva condutiva e em um sistema tímpano-ossicular extremamente complacente, que se manifesta na timpanometria como uma curva tipo Ad (pico de admitância muito alto).",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A manobra de Semont e a manobra de Yacovino são indicadas para o tratamento da VPPB de quais canais semicirculares, respectivamente?",
+    "options": [
+      "Posterior e lateral.",
+      "Posterior e anterior.",
+      "Lateral e anterior.",
+      "Lateral e posterior.",
+      "Anterior e posterior."
+    ],
+    "answer": "Posterior e lateral.",
+    "explanation": "A manobra de Semont (liberatória) é uma alternativa à manobra de Epley para o tratamento da VPPB do canal posterior. A manobra de Yacovino (rolagem forçada) é uma das técnicas utilizadas para tratar a VPPB do canal lateral, variante geotrópica.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual a alteração sistêmica associada à perda auditiva neurossensorial na síndrome de Pendred?",
+    "options": [
+      "Amaurose (Retinopatia pigmentar).",
+      "Miocardiopatia.",
+      "Insuficiência renal crônica.",
+      "Úvula bífida.",
+      "Bócio eutireoidiano."
+    ],
+    "answer": "Bócio eutireoidiano.",
+    "explanation": "A Síndrome de Pendred é uma doença autossômica recessiva caracterizada pela associação de surdez neurossensorial congênita (frequentemente com aqueduto vestibular alargado) e um defeito na organificação do iodo, que leva ao desenvolvimento de bócio, geralmente na adolescência.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Durante a realização de timpanometria, um paciente com tonturas recorrentes refere vertigem. Este achado é conhecido como sinal de Hennebert e é sugestivo de qual hipótese diagnóstica?",
+    "options": [
+      "Neurite vestibular.",
+      "Síndrome da terceira janela (ex: Fístula perilinfática ou Deiscência de Canal Superior).",
+      "Labirintite infecciosa.",
+      "Doença de Ménière em fase inicial.",
+      "VPPB."
+    ],
+    "answer": "Síndrome da terceira janela (ex: Fístula perilinfática ou Deiscência de Canal Superior).",
+    "explanation": "O sinal de Hennebert (vertigem induzida por pressão) indica uma conexão patológica entre a orelha média e a interna. A alteração de pressão no conduto durante a timpanometria estimula o labirinto, causando vertigem. É um sinal clássico de fístula perilinfática ou deiscência do canal semicircular superior.",
+    "area": "Otoneurologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual a principal indicação da ressonância magnética com difusão (DWI) de ossos temporais?",
+    "options": [
+      "Diagnóstico de surdez súbita.",
+      "Avaliação da extensão da paralisia de Bell.",
+      "Acompanhamento de doença imunomediada da orelha interna.",
+      "Diagnóstico e acompanhamento de recidiva de colesteatoma.",
+      "Avaliação de deiscências ósseas em canais semicirculares."
+    ],
+    "answer": "Diagnóstico e acompanhamento de recidiva de colesteatoma.",
+    "explanation": "A DWI é o método de imagem de escolha para detectar colesteatoma. A matriz de queratina do colesteatoma restringe a difusão das moléculas de água, aparecendo com um hipersinal característico (brilha na difusão), o que o diferencia de tecido inflamatório ou cicatricial no pós-operatório.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Paciente de 43 anos, morador de rua, relata nódulo cervical direito há 3 meses, com fistulização e secreção purulenta contendo 'grânulos de enxofre'. Qual o antibiótico de escolha para o tratamento prolongado desta doença?",
+    "options": [
+      "Azitromicina.",
+      "Amoxicilina com clavulanato.",
+      "Penicilina G ou Amoxicilina em altas doses.",
+      "Ciprofloxacina.",
+      "Clindamicina."
+    ],
+    "answer": "Penicilina G ou Amoxicilina em altas doses.",
+    "explanation": "O quadro é clássico de actinomicose cervicofacial. O tratamento requer antibioticoterapia prolongada (meses) para penetrar nas lesões fibróticas e nos abscessos. A Penicilina em altas doses é o tratamento de escolha, com a Amoxicilina sendo uma excelente alternativa oral.",
+    "area": "Laringologia/Faringologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Quais são as características da síndrome de Alport?",
+    "options": [
+      "Hipertireoidismo, necrose da retina e herança autossômica recessiva.",
+      "Perda auditiva neurossensorial, doença renal crônica e herança ligada ao cromossomo X.",
+      "Fechamento precoce das epífises, fissura palatina e herança autossômica dominante.",
+      "Aqueduto vestibular alargado, perda auditiva neurossensorial e bócio.",
+      "Micrognatia, coloboma auris e perda auditiva mista."
+    ],
+    "answer": "Perda auditiva neurossensorial, doença renal crônica e herança ligada ao cromossomo X.",
+    "explanation": "A Síndrome de Alport é uma doença genética do colágeno tipo IV, caracterizada pela tríade de nefrite progressiva (hematúria, proteinúria, insuficiência renal), perda auditiva neurossensorial bilateral para altas frequências e anormalidades oculares (lenticone anterior). A forma mais comum é ligada ao cromossomo X.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Quais são os fatores de mau prognóstico na evolução da surdez súbita?",
+    "options": [
+      "Perda auditiva em frequências graves e pacientes jovens.",
+      "Perda auditiva em frequências agudas (curva descendente) e presença de sintomas vestibulares.",
+      "Limiares audiométricos melhores que 30 dB e ausência de zumbido.",
+      "Detecção da onda V no PEATE e ausência de doenças cardiovasculares.",
+      "Discriminação vocal normal e ausência de vertigem."
+    ],
+    "answer": "Perda auditiva em frequências agudas (curva descendente) e presença de sintomas vestibulares.",
+    "explanation": "Fatores associados a um pior prognóstico de recuperação na surdez súbita incluem: perda auditiva severa a profunda, curva audiométrica descendente, idade avançada, e, especialmente, a presença de vertigem, que sugere um dano mais extenso ao labirinto.",
+    "area": "Otologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Criança de 4 anos é diagnosticada com apneia obstrutiva moderada na polissonografia. Qual o índice de apneia e hipopneia (IAH) correspondente na população pediátrica?",
+    "options": [
+      "1 a 5 eventos por hora.",
+      "5 a 10 eventos por hora.",
+      "10 a 15 eventos por hora.",
+      "15 a 30 eventos por hora.",
+      "Maior que 30 eventos por hora."
+    ],
+    "answer": "5 a 10 eventos por hora.",
+    "explanation": "Os critérios pediátricos para SAOS são diferentes dos de adultos. Um IAH entre 1 e 5 é considerado leve. Um IAH entre 5 e 10 é classificado como moderado, e um IAH acima de 10 é considerado grave.",
+    "area": "Laringologia/Faringologia"
   }
+]
+
 ]
 
 ]
