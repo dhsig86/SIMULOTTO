@@ -18,6 +18,7 @@ const flagBtn = document.getElementById('flag-btn');
 const showFlaggedBtn = document.getElementById('show-flagged-btn');
 const flaggedListEl = document.getElementById('flagged-questions');
 const exportLogBtn = document.getElementById('export-log-btn');
+const homeBtn = document.getElementById('home-btn');
 
 const progressBar = document.getElementById('progress-bar');
 const questionCounterEl = document.getElementById('question-counter');
@@ -263,5 +264,10 @@ if (showFlaggedBtn) {
 }
 if (exportLogBtn) {
     exportLogBtn.addEventListener('click', exportFlagged);
+}
+if (homeBtn) {
+    homeBtn.addEventListener('click', () => {
+        window.location.href = 'index.html';
+    });
 }
 
