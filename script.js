@@ -21,6 +21,8 @@ const printBtn = document.getElementById('print-btn');
 const flagBtn = document.getElementById('flag-btn');
 const showFlaggedBtn = document.getElementById('show-flagged-btn');
 const flaggedListEl = document.getElementById('flagged-questions');
+const showWrongBtn = document.getElementById('show-wrong-btn');
+const wrongListEl = document.getElementById('wrong-questions');
 const exportLogBtn = document.getElementById('export-log-btn');
 const homeBtn = document.getElementById('home-btn');
 
@@ -55,6 +57,7 @@ let currentQuestions = [];
 let currentQuestionIndex = 0;
 let score = 0;
 let flaggedQuestions = [];
+let wrongQuestions = [];
 
 function shuffle(array) {
     for (let i = array.length - 1; i > 0; i--) {
@@ -84,9 +87,14 @@ function startQuiz() {
     currentQuestionIndex = 0;
     score = 0;
     flaggedQuestions = [];
+    wrongQuestions = [];
     if (flaggedListEl) {
         flaggedListEl.innerHTML = '';
         flaggedListEl.classList.add('hidden');
+    }
+    if (wrongListEl) {
+        wrongListEl.innerHTML = '';
+        wrongListEl.classList.add('hidden');
     }
     if (flagBtn) {
         flagBtn.disabled = false;
@@ -160,7 +168,17 @@ function selectAnswer(e) {
     const correctAnswer = currentQuestions[currentQuestionIndex].answer;
     const isCorrect = selectedBtn.innerText === correctAnswer;
 
-    if (isCorrect) {
+
+    if (!correct) {
+        wrongQuestions.push({
+            question: currentQuestions[currentQuestionIndex].question,
+            chosen: selectedBtn.innerText,
+            correct: currentQuestions[currentQuestionIndex].answer
+        });
+    }
+
+    if (correct) {
+
         score++;
         scoreCounterEl.innerText = `Pontos: ${score}`;
     }
@@ -236,6 +254,15 @@ function showResults() {
             flaggedListEl.innerHTML = '<p>Nenhuma questão foi anulada.</p>';
         }
     }
+
+    if (wrongListEl) {
+        if (wrongQuestions.length > 0) {
+            const items = wrongQuestions.map(w => `<li class="mb-2"><strong>${w.question}</strong><br>Sua resposta: ${w.chosen}<br>Correta: ${w.correct}</li>`).join('');
+            wrongListEl.innerHTML = `<ul class="list-disc pl-6">${items}</ul>`;
+        } else {
+            wrongListEl.innerHTML = '<p>Todas as questões foram respondidas corretamente.</p>';
+        }
+    }
 }
 
 function exportFlagged() {
@@ -269,6 +296,13 @@ if (showFlaggedBtn) {
     showFlaggedBtn.addEventListener('click', () => {
         if (flaggedListEl) {
             flaggedListEl.classList.toggle('hidden');
+        }
+    });
+}
+if (showWrongBtn) {
+    showWrongBtn.addEventListener('click', () => {
+        if (wrongListEl) {
+            wrongListEl.classList.toggle('hidden');
         }
     });
 }
