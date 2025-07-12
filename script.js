@@ -1,13 +1,15 @@
 let questionBank = [];
 const totalQuestionsEl = document.getElementById('total-questions');
+const progressInfoEl = document.getElementById('progress-info');
 
 fetch('data/questions.json')
   .then(res => res.json())
   .then(data => {
-    questionBank = data;
+    questionBank = data.map((q, idx) => ({ id: idx, ...q }));
     if (totalQuestionsEl) {
       totalQuestionsEl.textContent = questionBank.length;
     }
+    updateProgressInfo();
   });
 
 const startScreen = document.getElementById('start-screen');
@@ -38,6 +40,8 @@ const scoreMessageEl = document.getElementById('score-message');
 const numQuestionsInput = document.getElementById('num-questions');
 const numQuestionsValue = document.getElementById('num-questions-value');
 const areaCheckboxes = document.querySelectorAll('input[name="areas"]');
+const includeCompletedEl = document.getElementById('include-completed');
+const clearProgressBtn = document.getElementById('clear-progress-btn');
 const timerEl = document.getElementById('timer');
 
 if (numQuestionsInput && numQuestionsValue) {
@@ -49,6 +53,8 @@ if (numQuestionsInput && numQuestionsValue) {
 
 let timerInterval;
 let timeLeft = 0;
+
+let completedQuestions = JSON.parse(localStorage.getItem('completedQuestions') || '{}');
 
 
 let currentQuestions = [];
@@ -70,9 +76,19 @@ function startQuiz() {
         .filter(cb => cb.checked)
         .map(cb => cb.value);
 
-    const bank = selectedAreas.length
+    const now = Date.now();
+    const bankAll = selectedAreas.length
         ? questionBank.filter(q => selectedAreas.includes(q.area))
         : [...questionBank];
+
+    let bank = bankAll;
+    if (!includeCompletedEl.checked) {
+        const limit = 2 * 24 * 60 * 60 * 1000; // two days
+        bank = bankAll.filter(q => {
+            const ts = completedQuestions[q.id];
+            return !(ts && (now - ts < limit));
+        });
+    }
 
     if (bank.length === 0) {
         alert('Nenhuma questão disponível para as áreas selecionadas.');
@@ -126,8 +142,8 @@ function showQuestion() {
     scoreCounterEl.innerText = `Pontos: ${score}`;
     questionTextEl.innerText = question.question;
     questionBancaEl.innerText = `Banca: ${question.banca}`;
-
-    question.options.forEach(option => {
+    const opts = shuffle([...question.options]);
+    opts.forEach(option => {
         const button = document.createElement('button');
         button.innerText = option;
         button.classList.add('option-btn', 'w-full', 'text-left', 'p-4', 'border-2', 'rounded-lg', 'bg-gray-50', 'hover:bg-gray-100', 'border-gray-200');
@@ -147,6 +163,12 @@ function updateTimer() {
     timerEl.innerText = `${minutes}:${seconds.toString().padStart(2, '0')}`;
 }
 
+function updateProgressInfo() {
+    if (!progressInfoEl) return;
+    const count = Object.keys(completedQuestions).length;
+    progressInfoEl.innerText = `Você já treinou ${count} de ${questionBank.length} questões.`;
+}
+
 function resetState() {
     nextBtn.classList.add('hidden');
     feedbackContainer.classList.add('hidden');
@@ -157,11 +179,15 @@ function resetState() {
 
 function selectAnswer(e) {
     const selectedBtn = e.target;
-    const correct = selectedBtn.innerText === currentQuestions[currentQuestionIndex].answer;
+    const question = currentQuestions[currentQuestionIndex];
+    const correct = selectedBtn.innerText === question.answer;
 
     if (correct) {
         score++;
         scoreCounterEl.innerText = `Pontos: ${score}`;
+        completedQuestions[question.id] = Date.now();
+        localStorage.setItem('completedQuestions', JSON.stringify(completedQuestions));
+        updateProgressInfo();
     }
 
     setStatusClass(selectedBtn, correct);
@@ -247,6 +273,12 @@ function exportFlagged() {
     URL.revokeObjectURL(url);
 }
 
+function clearProgress() {
+    completedQuestions = {};
+    localStorage.removeItem('completedQuestions');
+    updateProgressInfo();
+}
+
 startBtn.addEventListener('click', startQuiz);
 nextBtn.addEventListener('click', () => {
     currentQuestionIndex++;
@@ -273,5 +305,8 @@ if (homeBtn) {
     homeBtn.addEventListener('click', () => {
         window.location.href = 'index.html';
     });
+}
+if (clearProgressBtn) {
+    clearProgressBtn.addEventListener('click', clearProgress);
 }
 
