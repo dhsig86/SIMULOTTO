@@ -165,22 +165,19 @@ function resetState() {
 
 function selectAnswer(e) {
     const selectedBtn = e.target;
-    const correctAnswer = currentQuestions[currentQuestionIndex].answer;
+    const question = currentQuestions[currentQuestionIndex];
+    const correctAnswer = question.answer;
     const isCorrect = selectedBtn.innerText === correctAnswer;
 
-
-    if (!correct) {
-        wrongQuestions.push({
-            question: currentQuestions[currentQuestionIndex].question,
-            chosen: selectedBtn.innerText,
-            correct: currentQuestions[currentQuestionIndex].answer
-        });
-    }
-
-    if (correct) {
-
+    if (isCorrect) {
         score++;
         scoreCounterEl.innerText = `Pontos: ${score}`;
+    } else {
+        wrongQuestions.push({
+            question: question.question,
+            chosen: selectedBtn.innerText,
+            correct: question.answer
+        });
     }
 
     // Highlight the selected option based on correctness
