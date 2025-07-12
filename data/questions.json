@@ -6610,7 +6610,682 @@
     "answer": "A desigualdade na distribuição de uma variável, como a renda.",
     "explanation": "A curva de Lorenz plota a porcentagem acumulada da população contra a porcentagem acumulada da renda (ou outra variável). Uma linha de 45 graus representa a igualdade perfeita. Quanto mais a curva de Lorenz se afasta desta linha, maior é a desigualdade na distribuição. O Índice de Gini é derivado da área entre a linha de igualdade e a curva de Lorenz.",
     "area": "Indicadores de Saúde/Epidemiologia"
+  },
+[
+  {
+    "banca": "VUNESP",
+    "question": "O primeiro arco faríngeo (ou branquial), também conhecido como arco mandibular, é responsável por originar quais das seguintes estruturas?",
+    "options": [
+      "Músculo estapédio, estribo e nervo facial.",
+      "Cartilagem cricoide, músculos intrínsecos da laringe e nervo vago.",
+      "Músculos da mastigação, mandíbula, maxila, martelo e bigorna.",
+      "Músculo estilofaríngeo, osso hioide (corno maior) e nervo glossofaríngeo.",
+      "Cartilagem tireoide e músculos da faringe."
+    ],
+    "answer": "Músculos da mastigação, mandíbula, maxila, martelo e bigorna.",
+    "explanation": "O primeiro arco faríngeo dá origem a estruturas associadas à mandíbula. Sua cartilagem (de Meckel) forma o martelo e a bigorna, e seus componentes mesenquimais formam os músculos da mastigação (masseter, temporal, pterigoides), inervados pelo nervo trigêmeo (V par).",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A tonsila palatina (amígdala) desenvolve-se a partir da proliferação do tecido linfoide em qual estrutura embrionária?",
+    "options": [
+      "Primeira bolsa faríngea.",
+      "Segunda bolsa faríngea.",
+      "Terceira bolsa faríngea.",
+      "Primeira fenda faríngea.",
+      "Quarta bolsa faríngea."
+    ],
+    "answer": "Segunda bolsa faríngea.",
+    "explanation": "Enquanto o revestimento da primeira bolsa faríngea forma o recesso tubotimpânico, o da segunda bolsa forma o seio tonsilar, onde o mesênquima adjacente se diferencia para formar a tonsila palatina.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A falha na fusão dos processos nasais mediais com os processos maxilares durante o desenvolvimento facial resulta em qual tipo de fenda?",
+    "options": [
+      "Fenda palatina isolada.",
+      "Fenda labial unilateral ou bilateral.",
+      "Fenda facial oblíqua.",
+      "Fenda mediana do lábio inferior.",
+      "Macroestomia."
+    ],
+    "answer": "Fenda labial unilateral ou bilateral.",
+    "explanation": "O lábio superior é formado pela fusão dos dois processos nasais mediais (que formam o filtro) com os dois processos maxilares (que formam as partes laterais). A falha nesta fusão é a causa da fenda labial.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O nervo facial (VII par) é o nervo de qual arco faríngeo?",
+    "options": [
+      "Primeiro arco.",
+      "Segundo arco (hioideo).",
+      "Terceiro arco.",
+      "Quarto arco.",
+      "Sexto arco."
+    ],
+    "answer": "Segundo arco (hioideo).",
+    "explanation": "Cada arco faríngeo tem seu próprio nervo craniano associado. O nervo facial (VII) inerva todas as estruturas derivadas do segundo arco, que incluem os músculos da expressão facial, o músculo estapédio, o estribo e o corno menor do osso hioide.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A orelha externa, incluindo o pavilhão auricular e o meato acústico externo, tem sua origem a partir de qual(is) estrutura(s) embrionária(s)?",
+    "options": [
+      "Apenas do primeiro arco faríngeo.",
+      "Apenas da primeira bolsa faríngea.",
+      "Da fusão de seis montículos auriculares derivados do primeiro e segundo arcos faríngeos.",
+      "Apenas do segundo arco faríngeo.",
+      "Do ectoderma que recobre a terceira fenda faríngea."
+    ],
+    "answer": "Da fusão de seis montículos auriculares derivados do primeiro e segundo arcos faríngeos.",
+    "explanation": "O pavilhão auricular se forma a partir da fusão de seis pequenas proliferações mesenquimais (montículos auriculares ou de His) localizadas ao redor da primeira fenda faríngea. Três montículos vêm do primeiro arco e três do segundo arco.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A atresia de coanas, uma obstrução congênita da passagem nasal posterior, resulta da falha na perfuração de qual estrutura durante o desenvolvimento?",
+    "options": [
+      "Membrana bucofaríngea.",
+      "Placódio nasal.",
+      "Membrana nasobucal (oronasal).",
+      "Processo palatino lateral.",
+      "Saco lacrimal."
+    ],
+    "answer": "Membrana nasobucal (oronasal).",
+    "explanation": "Durante o desenvolvimento, as cavidades nasais primitivas são separadas da cavidade oral pela membrana oronasal. A persistência ou falha na ruptura completa desta membrana leva à atresia ou estenose de coanas.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O osso estribo, o ossículo mais medial da orelha média, tem sua origem embrionária a partir de qual arco faríngeo?",
+    "options": [
+      "Primeiro arco.",
+      "Segundo arco.",
+      "Terceiro arco.",
+      "Quarto arco.",
+      "Origem mista do primeiro e segundo arcos."
+    ],
+    "answer": "Segundo arco.",
+    "explanation": "Enquanto o martelo e a bigorna derivam da cartilagem do primeiro arco (cartilagem de Meckel), o estribo (exceto sua base, que tem origem mais complexa) deriva da cartilagem do segundo arco (cartilagem de Reichert).",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Um cisto ou fístula branquial que se apresenta lateralmente no pescoço, anterior ao músculo esternocleidomastoideo, é mais comumente um resquício de qual estrutura embrionária?",
+    "options": [
+      "Primeira fenda e bolsa faríngeas.",
+      "Persistência do seio cervical (segunda, terceira e quarta fendas).",
+      "Ducto tireoglosso.",
+      "Quarta bolsa faríngea isoladamente.",
+      "Primeiro arco faríngeo."
+    ],
+    "answer": "Persistência do seio cervical (segunda, terceira e quarta fendas).",
+    "explanation": "Durante o desenvolvimento, o segundo arco cresce sobre o terceiro e o quarto, formando uma cavidade temporária chamada seio cervical, que normalmente se oblitera. A falha nesta obliteração é a causa mais comum de cistos e fístulas branquiais laterais no pescoço.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A glândula tireoide se desenvolve a partir de uma invaginação endodérmica em qual região da língua primitiva?",
+    "options": [
+      "Sulco terminal.",
+      "Forame cego.",
+      "Papilas circunvaladas.",
+      "Tubérculo impar.",
+      "Eminência hipobranquial."
+    ],
+    "answer": "Forame cego.",
+    "explanation": "A tireoide se origina como um divertículo no assoalho da faringe primitiva, em um ponto que no adulto corresponde ao forame cego, localizado no ápice do 'V' lingual. Ela então migra inferiormente pelo pescoço através do ducto tireoglosso até sua posição final.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A orelha interna (labirinto membranoso) tem sua origem a partir do espessamento de qual folheto germinativo?",
+    "options": [
+      "Mesoderma paraxial.",
+      "Endoderma da primeira bolsa faríngea.",
+      "Ectoderma de superfície (placódio ótico).",
+      "Células da crista neural.",
+      "Notocorda."
+    ],
+    "answer": "Ectoderma de superfície (placódio ótico).",
+    "explanation": "A orelha interna se desenvolve a partir do placódio ótico, um espessamento do ectoderma de superfície ao lado do rombencéfalo. Este placódio se invagina para formar a fosseta ótica e depois se fecha para formar a vesícula ótica, que dará origem a todas as estruturas do labirinto membranoso.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A falha completa na fusão dos processos palatinos laterais entre si e com o septo nasal resulta em:",
+    "options": [
+      "Fenda labial mediana.",
+      "Fenda submucosa.",
+      "Fenda palatina completa.",
+      "Úvula bífida.",
+      "Fenda do palato primário."
+    ],
+    "answer": "Fenda palatina completa.",
+    "explanation": "O palato secundário (palato duro e mole) é formado pela fusão dos processos palatinos laterais. A falha total nesse processo resulta em uma fenda que se estende por todo o comprimento do palato duro e mole, comunicando as cavidades oral e nasal.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O nervo laríngeo superior e o nervo laríngeo recorrente são ramos do nervo vago (X par) e inervam os músculos derivados de quais arcos faríngeos?",
+    "options": [
+      "Primeiro e segundo arcos.",
+      "Segundo e terceiro arcos.",
+      "Terceiro e quarto arcos.",
+      "Quarto e sexto arcos.",
+      "Apenas do sexto arco."
+    ],
+    "answer": "Quarto e sexto arcos.",
+    "explanation": "As cartilagens e músculos da laringe derivam do quarto e sexto arcos faríngeos. O nervo laríngeo superior é o nervo do quarto arco, e o nervo laríngeo recorrente é o nervo do sexto arco.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A Síndrome de Treacher Collins (disostose mandibulofacial) é caracterizada por hipoplasia malar e mandibular, fendas palpebrais antimongoloides e malformações da orelha. Estas alterações resultam de um defeito no desenvolvimento de qual arco faríngeo?",
+    "options": [
+      "Primeiro arco.",
+      "Segundo arco.",
+      "Terceiro arco.",
+      "Quarto arco.",
+      "Sexto arco."
+    ],
+    "answer": "Primeiro arco.",
+    "explanation": "A Síndrome de Treacher Collins é causada por uma falha na migração das células da crista neural para o primeiro arco faríngeo, levando ao desenvolvimento anormal de todas as suas estruturas derivadas, como a maxila, a mandíbula e os ossículos martelo e bigorna.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O timo e as glândulas paratireoides inferiores têm sua origem embrionária a partir de qual bolsa faríngea?",
+    "options": [
+      "Primeira bolsa faríngea.",
+      "Segunda bolsa faríngea.",
+      "Terceira bolsa faríngea.",
+      "Quarta bolsa faríngea.",
+      "Quinta bolsa faríngea (corpo ultimobranquial)."
+    ],
+    "answer": "Terceira bolsa faríngea.",
+    "explanation": "A terceira bolsa faríngea se diferencia em duas porções: uma porção dorsal, que forma a glândula paratireoide inferior, e uma porção ventral, que forma o timo. Durante a migração, o timo 'puxa' a paratireoide inferior para uma posição abaixo da paratireoide superior (que se origina da quarta bolsa).",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A anquiloglossia, ou 'língua presa', é uma anomalia congênita causada por:",
+    "options": [
+      "Macroglossia.",
+      "Fusão incompleta dos arcos linguais.",
+      "Um frênulo lingual anormalmente curto e espesso.",
+      "Agenesia do músculo genioglosso.",
+      "Presença de um cisto do ducto tireoglosso."
+    ],
+    "answer": "Um frênulo lingual anormalmente curto e espesso.",
+    "explanation": "A anquiloglossia ocorre quando o frênulo lingual, a membrana que conecta a parte inferior da língua ao assoalho da boca, é muito curto, restringindo os movimentos da língua, o que pode afetar a amamentação e, mais tarde, a fala.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A Síndrome de DiGeorge é caracterizada por aplasia ou hipoplasia do timo e das paratireoides, defeitos cardíacos e fácies anormal. Esta síndrome resulta de uma falha no desenvolvimento de quais estruturas embrionárias?",
+    "options": [
+      "Primeira e segunda bolsas faríngeas.",
+      "Apenas do primeiro arco faríngeo.",
+      "Terceira e quarta bolsas faríngeas.",
+      "Processos nasais mediais.",
+      "Células da crista neural que migram para o mesoderma."
+    ],
+    "answer": "Terceira e quarta bolsas faríngeas.",
+    "explanation": "A Síndrome de DiGeorge é causada por uma microdeleção no cromossomo 22q11.2, que afeta o desenvolvimento da terceira e quarta bolsas faríngeas. Isso leva à ausência ou subdesenvolvimento de seus derivados: o timo (causando imunodeficiência) e as paratireoides (causando hipocalcemia).",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual estrutura embrionária dá origem ao palato primário (a porção anterior do palato duro que contém os quatro dentes incisivos)?",
+    "options": [
+      "Processos palatinos laterais.",
+      "Septo nasal.",
+      "Processo frontonasal.",
+      "Segmento intermaxilar (formado pela fusão dos processos nasais mediais).",
+      "Processos mandibulares."
+    ],
+    "answer": "Segmento intermaxilar (formado pela fusão dos processos nasais mediais).",
+    "explanation": "O palato é formado em duas partes. O palato primário, uma pequena porção triangular anterior, origina-se do segmento intermaxilar. O palato secundário, que constitui a maior parte do palato duro e todo o palato mole, forma-se a partir da fusão dos processos palatinos laterais.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A persistência de um seio pré-auricular, uma pequena fosseta ou fístula localizada anteriormente ao ramo ascendente da hélice, é resultado de:",
+    "options": [
+      "Uma fístula branquial do primeiro arco.",
+      "Um resquício do ducto tireoglosso.",
+      "Uma fusão incompleta dos montículos auriculares.",
+      "Um cisto dermoide.",
+      "Uma malformação da primeira bolsa faríngea."
+    ],
+    "answer": "Uma fusão incompleta dos montículos auriculares.",
+    "explanation": "O seio ou fosseta pré-auricular é uma anomalia congênita comum que resulta de uma falha na fusão completa dos seis montículos auriculares (de His) que dão origem ao pavilhão da orelha.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A cartilagem de Reichert é a cartilagem de qual arco faríngeo?",
+    "options": [
+      "Primeiro arco.",
+      "Segundo arco.",
+      "Terceiro arco.",
+      "Quarto arco.",
+      "Sexto arco."
+    ],
+    "answer": "Segundo arco.",
+    "explanation": "Cada arco tem sua própria cartilagem. A do primeiro arco é a de Meckel (forma o martelo e a bigorna). A do segundo arco é a de Reichert, que dá origem ao estribo, ao processo estiloide do osso temporal, ao ligamento estilo-hioideo e ao corno menor do osso hioide.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A agenesia ou hipoplasia da mandíbula, uma característica central de várias síndromes craniofaciais, representa um defeito no desenvolvimento de estruturas derivadas de qual arco?",
+    "options": [
+      "Primeiro arco faríngeo.",
+      "Segundo arco faríngeo.",
+      "Terceiro arco faríngeo.",
+      "Quarto e sexto arcos faríngeos.",
+      "Não é derivado dos arcos faríngeos."
+    ],
+    "answer": "Primeiro arco faríngeo.",
+    "explanation": "A mandíbula se desenvolve por ossificação intramembranosa no mesênquima do primeiro arco faríngeo, lateralmente à cartilagem de Meckel (que serve como um molde temporário). Portanto, defeitos no primeiro arco levam a malformações mandibulares.",
+    "area": "Embriologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A artéria carótida interna e a artéria carótida comum são derivadas de qual arco aórtico embrionário?",
+    "options": [
+      "Primeiro arco aórtico.",
+      "Segundo arco aórtico.",
+      "Terceiro arco aórtico.",
+      "Quarto arco aórtico.",
+      "Sexto arco aórtico."
+    ],
+    "answer": "Terceiro arco aórtico.",
+    "explanation": "Durante o desenvolvimento, os arcos aórticos (vasos que conectam a aorta ventral e dorsal) sofrem uma remodelação complexa. O terceiro arco aórtico persiste para formar a artéria carótida comum e a porção proximal da artéria carótida interna.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O seio piriforme é um recesso na hipofaringe localizado lateralmente à laringe. Qual sua importância funcional durante a deglutição?",
+    "options": [
+      "É o principal local de ressonância da voz.",
+      "Serve como um canal lateral para a passagem do bolo alimentar, desviando-o da adito da laringe.",
+      "É onde o reflexo da tosse é desencadeado.",
+      "Produz muco para lubrificar a faringe.",
+      "Não possui função na deglutição."
+    ],
+    "answer": "Serve como um canal lateral para a passagem do bolo alimentar, desviando-o da adito da laringe.",
+    "explanation": "Durante a fase faríngea da deglutição, o bolo alimentar é dividido pela epiglote e direcionado para os seios piriformes, que funcionam como 'calhas' laterais, guiando o alimento em direção ao esôfago e ajudando a proteger a via aérea.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual dos seguintes ossículos da orelha média se articula diretamente com a janela oval?",
+    "options": [
+      "Martelo",
+      "Bigorna",
+      "Estribo",
+      "Lenticular",
+      "Nenhum, a articulação é com a membrana timpânica."
+    ],
+    "answer": "Estribo",
+    "explanation": "A cadeia ossicular transmite a vibração da membrana timpânica para a orelha interna. O martelo está ligado à membrana timpânica, articula-se com a bigorna, que por sua vez se articula com o estribo. A platina (base) do estribo se encaixa na janela oval, transmitindo a vibração para a perilinfa.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A sensação de dor na parede posterior do conduto auditivo externo e na concha auricular é mediada principalmente por ramos de qual nervo craniano?",
+    "options": [
+      "Nervo Trigêmeo (V)",
+      "Nervo Facial (VII) - Ramo auricular",
+      "Nervo Glossofaríngeo (IX) - Ramo de Jacobson",
+      "Nervo Vago (X) - Ramo de Arnold",
+      "Nervo Hipoglosso (XII)"
+    ],
+    "answer": "Nervo Vago (X) - Ramo de Arnold",
+    "explanation": "A inervação sensitiva do conduto é complexa. O ramo auricular do vago (nervo de Arnold) é responsável pela sensibilidade da concha e da parede posterior do conduto. A estimulação desta área pode desencadear um reflexo de tosse (reflexo de Arnold).",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O mecanismo de 'clearance' mucociliar é a principal forma de defesa da mucosa respiratória. Qual a direção do batimento ciliar na cavidade nasal?",
+    "options": [
+      "Em direção à narina (anteriormente).",
+      "Em direção à nasofaringe (posteriormente).",
+      "Em direção ao assoalho da cavidade nasal.",
+      "Em direção ao teto da cavidade nasal.",
+      "A direção é aleatória."
+    ],
+    "answer": "Em direção à nasofaringe (posteriormente).",
+    "explanation": "Os cílios da mucosa nasal batem de forma coordenada para transportar o tapete de muco (com as partículas aprisionadas) em direção à nasofaringe, onde ele pode ser deglutido ou expectorado. Nos seios, o batimento é em direção aos seus respectivos óstios de drenagem.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual dos seguintes músculos NÃO faz parte do grupo de constritores da faringe?",
+    "options": [
+      "Músculo constritor superior da faringe",
+      "Músculo constritor médio da faringe",
+      "Músculo constritor inferior da faringe",
+      "Músculo estilofaríngeo",
+      "Todos os listados são constritores."
+    ],
+    "answer": "Músculo estilofaríngeo",
+    "explanation": "A musculatura da faringe é composta pelos três constritores (superior, médio e inferior), que estreitam a faringe, e por três músculos longitudinais (estilofaríngeo, salpingofaríngeo e palatofaríngeo), que elevam a faringe e a laringe durante a deglutição.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A artéria etmoidal anterior, um importante vaso na vascularização nasal e local de epistaxe, é um ramo de qual artéria?",
+    "options": [
+      "Artéria maxilar",
+      "Artéria facial",
+      "Artéria carótida externa",
+      "Artéria oftálmica",
+      "Artéria esfenopalatina"
+    ],
+    "answer": "Artéria oftálmica",
+    "explanation": "A artéria oftálmica é um ramo da artéria carótida interna. Ela emite as artérias etmoidais anterior e posterior, que saem da órbita para irrigar o teto e a porção superior da cavidade nasal e do septo. A etmoidal anterior é um componente chave do plexo de Kiesselbach.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A função da tuba auditiva é ventilar a orelha média, protegê-la e realizar a drenagem de secreções. Qual músculo é o principal responsável por sua abertura ativa?",
+    "options": [
+      "Músculo levantador do véu palatino",
+      "Músculo tensor do véu palatino",
+      "Músculo palatoglosso",
+      "Músculo salpingofaríngeo",
+      "Músculo da úvula"
+    ],
+    "answer": "Músculo tensor do véu palatino",
+    "explanation": "Embora o levantador do véu palatino contribua, o músculo tensor do véu palatino é considerado o principal dilatador ativo da tuba auditiva. Sua contração durante a deglutição e o bocejo traciona a parede da tuba, permitindo a equalização da pressão.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O nervo de Jacobson, um ramo do nervo glossofaríngeo (IX), é responsável pela inervação sensitiva de qual região?",
+    "options": [
+      "Dois terços anteriores da língua.",
+      "Mucosa da orelha média.",
+      "Dura-máter da fossa posterior.",
+      "Pele do meato acústico externo.",
+      "Seio carotídeo."
+    ],
+    "answer": "Mucosa da orelha média.",
+    "explanation": "O nervo timpânico ou de Jacobson é um ramo do IX par que entra na orelha média e forma o plexo timpânico sobre o promontório, fornecendo a inervação sensitiva para a mucosa da caixa timpânica, da mastoide e da tuba auditiva.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Qual o nome da cartilagem laríngea em formato de anel de sinete que forma a única estrutura circunferencial completa da via aérea superior?",
+    "options": [
+      "Cartilagem tireoide",
+      "Cartilagem cricoide",
+      "Epiglote",
+      "Cartilagem aritenoide",
+      "Cartilagem corniculada"
+    ],
+    "answer": "Cartilagem cricoide",
+    "explanation": "A cartilagem cricoide é a fundação do esqueleto laríngeo. Ela é a única cartilagem que forma um anel completo, sendo mais estreita anteriormente (o arco) e mais larga e alta posteriormente (a lâmina). Sua integridade é fundamental para a estabilidade da via aérea.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O espaço parafaríngeo é uma área anatômica complexa do pescoço. Qual estrutura o divide em compartimentos pré-estiloide e retro-estiloide?",
+    "options": [
+      "Músculo digástrico",
+      "Fáscia bucofaríngea",
+      "Músculo pterigoide medial",
+      "Diafragma estíleo (músculos estilofaríngeo, estiloglosso e estilo-hioideo).",
+      "Glândula parótida"
+    ],
+    "answer": "Diafragma estíleo (músculos estilofaríngeo, estiloglosso e estilo-hioideo).",
+    "explanation": "O processo estiloide e os três músculos que dele se originam (o 'buquê de Riolan') formam uma cortina fascial que divide o espaço parafaríngeo. O compartimento retro-estiloide contém as estruturas nobres: a artéria carótida interna, a veia jugular interna e os quatro últimos nervos cranianos.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A 'via final comum' para a maioria das células etmoidais (anteriores e médias) e para os seios frontal e maxilar é o:",
+    "options": [
+      "Meato superior",
+      "Meato médio",
+      "Meato inferior",
+      "Recesso esfenoetmoidal",
+      "Infundíbulo etmoidal"
+    ],
+    "answer": "Meato médio",
+    "explanation": "O meato médio é a área de drenagem mais importante e complexa da cavidade nasal. Ele recebe a drenagem de todos os seios paranasais, exceto do seio esfenoidal e das células etmoidais posteriores, que drenam para o recesso esfenoetmoidal e meato superior, respectivamente.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A fisiologia do equilíbrio depende da integração de informações de três sistemas sensoriais. Quais são eles?",
+    "options": [
+      "Sistema vestibular, sistema auditivo e sistema olfatório.",
+      "Sistema vestibular, sistema visual e sistema proprioceptivo.",
+      "Sistema visual, sistema tátil e sistema gustativo.",
+      "Sistema proprioceptivo, sistema auditivo e sistema visual.",
+      "Sistema vestibular, sistema de pressão e sistema térmico."
+    ],
+    "answer": "Sistema vestibular, sistema visual e sistema proprioceptivo.",
+    "explanation": "A manutenção do equilíbrio e da orientação espacial é um processo complexo que depende da integração, no sistema nervoso central, de informações provenientes do labirinto (movimento da cabeça), da visão (orientação no ambiente) e da propriocepção (informações dos músculos e articulações sobre a posição do corpo).",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual dos seguintes ossículos NÃO faz parte da cadeia ossicular da orelha média?",
+    "options": [
+      "Martelo",
+      "Bigorna",
+      "Estribo",
+      "Lenticular",
+      "Todos os listados fazem parte."
+    ],
+    "answer": "Todos os listados fazem parte.",
+    "explanation": "Embora classicamente se fale em três ossículos, o processo lenticular é a ponta do ramo longo da bigorna que se articula com a cabeça do estribo. Em muitas descrições anatômicas e cirúrgicas, ele é considerado uma parte distinta e crucial da articulação incudoestapediana.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O nervo lingual, que fornece sensibilidade geral aos dois terços anteriores da língua, é um ramo de qual nervo craniano?",
+    "options": [
+      "Nervo Facial (VII)",
+      "Nervo Glossofaríngeo (IX)",
+      "Nervo Vago (X)",
+      "Nervo Hipoglosso (XII)",
+      "Nervo Trigêmeo (V3 - ramo mandibular)"
+    ],
+    "answer": "Nervo Trigêmeo (V3 - ramo mandibular)",
+    "explanation": "A inervação da língua é complexa. A sensibilidade geral (tato, dor, temperatura) dos 2/3 anteriores é feita pelo nervo lingual, um ramo do V3. A gustação desta mesma área é feita pela corda do tímpano (ramo do VII) que 'pega carona' com o nervo lingual. O terço posterior é inervado pelo IX par.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O 'cone de luz' ou triângulo luminoso de Politzer é um reflexo de luz visto na otoscopia. Em qual quadrante da membrana timpânica ele está localizado normalmente?",
+    "options": [
+      "Quadrante póstero-superior",
+      "Quadrante póstero-inferior",
+      "Quadrante ântero-superior",
+      "Quadrante ântero-inferior",
+      "No centro, sobre o umbigo."
+    ],
+    "answer": "Quadrante ântero-inferior",
+    "explanation": "O cone de luz é um artefato óptico criado pela reflexão da luz do otoscópio na superfície côncava e angulada da membrana timpânica. Sua posição normal é no quadrante ântero-inferior. A alteração ou ausência do cone de luz pode indicar patologias da orelha média, como retração ou presença de líquido.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual é a principal função do músculo estapédio?",
+    "options": [
+      "Abrir a tuba auditiva.",
+      "Tensionar a membrana timpânica.",
+      "Atenuar a transmissão de sons de alta intensidade, estabilizando o estribo.",
+      "Melhorar a audição para sons de baixa intensidade.",
+      "Drenar a endolinfa."
+    ],
+    "answer": "Atenuar a transmissão de sons de alta intensidade, estabilizando o estribo.",
+    "explanation": "O músculo estapédio, inervado pelo nervo facial, contrai-se reflexamente em resposta a sons altos. Sua contração puxa o estribo, enrijecendo a cadeia ossicular e diminuindo a amplitude da vibração que chega à orelha interna, protegendo-a de danos acústicos.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "A 'lâmina crivosa' (ou placa cribriforme) é uma parte de qual osso do crânio e qual sua principal função?",
+    "options": [
+      "Osso frontal; formar o teto da órbita.",
+      "Osso esfenoide; abrigar a glândula hipófise.",
+      "Osso etmoide; permitir a passagem dos filamentos do nervo olfatório.",
+      "Osso temporal; abrigar as estruturas da orelha interna.",
+      "Osso palatino; formar o palato duro."
+    ],
+    "answer": "Osso etmoide; permitir a passagem dos filamentos do nervo olfatório.",
+    "explanation": "A lâmina crivosa do osso etmoide forma o teto da cavidade nasal e o assoalho da fossa craniana anterior. Ela é perfurada por múltiplos pequenos forames que permitem que os axônios das células receptoras olfatórias passem da mucosa nasal para o bulbo olfatório.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A fisiologia da audição envolve a conversão de energia mecânica em energia elétrica. Onde ocorre essa transdução?",
+    "options": [
+      "Na membrana timpânica.",
+      "Na cadeia ossicular.",
+      "No órgão de Corti, através das células ciliadas.",
+      "No nervo vestibular.",
+      "No córtex auditivo."
+    ],
+    "answer": "No órgão de Corti, através das células ciliadas.",
+    "explanation": "A vibração da membrana basilar causa a deflexão dos estereocílios das células ciliadas (principalmente as internas) contra a membrana tectória. Esse movimento mecânico abre canais iônicos, despolariza a célula e libera neurotransmissores, convertendo o sinal mecânico em um sinal elétrico que é transmitido pelo nervo auditivo.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "O ducto de Wharton é o ducto excretor de qual glândula salivar?",
+    "options": [
+      "Glândula parótida.",
+      "Glândula submandibular.",
+      "Glândula sublingual.",
+      "Glândulas labiais.",
+      "Glândula lacrimal."
+    ],
+    "answer": "Glândula submandibular.",
+    "explanation": "O ducto submandibular, ou ducto de Wharton, tem um trajeto longo e ascendente, emergindo no assoalho da boca em cada lado do frênulo lingual. É o local mais comum de formação de cálculos salivares (sialolitíase).",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual cartilagem laríngea tem o formato de uma folha e sua principal função é proteger a via aérea durante a deglutição?",
+    "options": [
+      "Cartilagem tireoide",
+      "Cartilagem cricoide",
+      "Epiglote",
+      "Cartilagem aritenoide",
+      "Cartilagem cuneiforme"
+    ],
+    "answer": "Epiglote",
+    "explanation": "A epiglote é uma cartilagem elástica em forma de folha que se localiza na entrada da laringe. Durante a deglutição, a elevação da laringe faz com que a epiglote se dobre para trás e para baixo, cobrindo o ádito da laringe e ajudando a desviar o alimento para o esôfago.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O 'recesso facial' é um espaço anatômico crucial na cirurgia otológica, pois permite o acesso à orelha média a partir da mastoide. Quais são seus limites?",
+    "options": [
+      "Medial: nervo facial; Lateral: corda do tímpano; Superior: fossa da bigorna.",
+      "Anterior: parede posterior do conduto; Posterior: seio sigmoide; Superior: dura-máter.",
+      "Medial: promontório; Lateral: membrana timpânica; Superior: ático.",
+      "Anterior: nervo facial; Posterior: corda do tímpano; Inferior: músculo digástrico.",
+      "Superior: tegmen; Inferior: bulbo da jugular; Medial: labirinto."
+    ],
+    "answer": "Medial: nervo facial; Lateral: corda do tímpano; Superior: fossa da bigorna.",
+    "explanation": "O recesso facial é um triângulo anatômico na parede posterior da orelha média. A cirurgia através deste espaço (timpanotomia posterior) permite visualizar a cadeia ossicular e a janela redonda, sendo uma via de acesso fundamental para o implante coclear.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A 'teoria do portão' da dor, de Melzack e Wall, pode ser aplicada à fisiologia do zumbido. Ela postula que:",
+    "options": [
+      "O zumbido é sempre gerado por uma lesão na cóclea.",
+      "O zumbido é um som fantasma gerado exclusivamente no córtex auditivo.",
+      "A percepção do zumbido pode ser modulada (inibida ou aumentada) por outros estímulos sensoriais e por centros cerebrais superiores.",
+      "O zumbido é causado pela contração anormal dos músculos da orelha média.",
+      "Todo zumbido é um sinal de um tumor no nervo auditivo."
+    ],
+    "answer": "A percepção do zumbido pode ser modulada (inibida ou aumentada) por outros estímulos sensoriais e por centros cerebrais superiores.",
+    "explanation": "Aplicada ao zumbido, a teoria do portão sugere que, embora o sinal inicial possa vir da orelha, sua chegada e percepção no cérebro podem ser moduladas por 'portões' neurais. Fatores como atenção, estresse e outras entradas sensoriais podem 'abrir' ou 'fechar' esses portões, explicando por que a percepção do zumbido é tão variável e influenciada pelo estado emocional.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual dos seguintes seios paranasais é o último a se desenvolver e completar sua pneumatização, geralmente na adolescência tardia?",
+    "options": [
+      "Seio maxilar",
+      "Células etmoidais",
+      "Seio esfenoidal",
+      "Seio frontal",
+      "Todos se desenvolvem ao mesmo tempo."
+    ],
+    "answer": "Seio frontal",
+    "explanation": "Os seios maxilares e etmoidais estão presentes (embora pequenos) ao nascimento. O seio esfenoidal começa a se pneumatizar por volta dos 2 anos. O seio frontal é o último a se desenvolver, surgindo a partir de uma célula etmoidal anterior por volta dos 5-6 anos e só atinge seu tamanho adulto no final da adolescência.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "O 'reflexo de mergulho' é uma resposta fisiológica potente em mamíferos que otimiza a conservação de oxigênio durante a apneia e imersão em água fria. A tríade de respostas inclui apneia, vasoconstrição periférica e:",
+    "options": [
+      "Taquicardia",
+      "Bradicardia",
+      "Hipertensão",
+      "Broncodilatação",
+      "Aumento da temperatura corporal."
+    ],
+    "answer": "Bradicardia",
+    "explanation": "O reflexo de mergulho é uma resposta autonômica complexa. A imersão da face em água fria desencadeia uma forte resposta vagal, causando uma bradicardia profunda. Isso, junto com a vasoconstrição periférica, desvia o sangue oxigenado para o cérebro e o coração, prolongando o tempo de submersão.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual é a principal função da membrana tectória no órgão de Corti?",
+    "options": [
+      "Produzir endolinfa.",
+      "Fornecer nutrientes para as células ciliadas.",
+      "Servir como uma massa gelatinosa contra a qual os estereocílios das células ciliadas externas são cisalhados.",
+      "Transmitir o sinal elétrico para o nervo auditivo.",
+      "Proteger o órgão de Corti de sons muito intensos."
+    ],
+    "answer": "Servir como uma massa gelatinosa contra a qual os estereocílios das células ciliadas externas são cisalhados.",
+    "explanation": "A membrana tectória está posicionada sobre as células ciliadas. A vibração da membrana basilar cria um movimento de cisalhamento entre a membrana tectória e a lâmina reticular, o que causa a deflexão dos estereocílios. Este é o evento mecânico chave que inicia a transdução auditiva.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "IBFC",
+    "question": "O triângulo de Killian é uma área de fraqueza na parede posterior da hipofaringe, entre as fibras do músculo cricofaríngeo e tireofaríngeo. É o local de origem de qual patologia?",
+    "options": [
+      "Abscesso retrofaríngeo",
+      "Divertículo de Zenker",
+      "Carcinoma de seio piriforme",
+      "Estenose esofágica",
+      "Membrana laríngea"
+    ],
+    "answer": "Divertículo de Zenker",
+    "explanation": "O divertículo de Zenker é um pseudodivertículo (herniação apenas da mucosa e submucosa) que ocorre através desta área de menor resistência muscular na parede posterior da faringe, geralmente associado a uma disfunção do músculo cricofaríngeo.",
+    "area": "Anatomia e Fisiologia"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A 'anastomose de Galeno' é uma comunicação nervosa importante na laringe, formada pela junção de ramos de quais dois nervos?",
+    "options": [
+      "Nervo laríngeo superior e nervo glossofaríngeo.",
+      "Ramo interno do nervo laríngeo superior e nervo laríngeo recorrente.",
+      "Nervo laríngeo recorrente e nervo hipoglosso.",
+      "Nervo facial e nervo vago.",
+      "Ramo externo e interno do nervo laríngeo superior."
+    ],
+    "answer": "Ramo interno do nervo laríngeo superior e nervo laríngeo recorrente.",
+    "explanation": "A anastomose de Galeno é uma conexão entre o ramo posterior do nervo laríngeo recorrente e o ramo interno do nervo laríngeo superior. Ela fornece inervação sensitiva cruzada para a mucosa laríngea e tem implicações na recuperação funcional após lesões nervosas.",
+    "area": "Anatomia e Fisiologia"
   }
+]
+
 ]
 
 ]
