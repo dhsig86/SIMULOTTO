@@ -37,6 +37,16 @@ Edite `data/questions.json` e acrescente novas questões seguindo o formato abai
   "area": "Otologia"
 }
 ```
+## Validating the question database
+
+Execute o script abaixo para verificar se `data/questions.json` está bem formatado:
+
+```bash
+python3 tools/validate_json.py
+```
+
+Recomenda-se rodá-lo antes de submeter novas questões ao repositório.
+
 ## Licença
 
 Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
