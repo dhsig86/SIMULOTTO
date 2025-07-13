@@ -501,7 +501,7 @@
     ],
     "answer": "Princípio do SUS",
     "explanation": "A Universalidade, a Integralidade e a Equidade são os princípios doutrinários (ou éticos) fundamentais do Sistema Único de Saúde (SUS), garantindo que a saúde é um direito de todos.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "IBFC",
@@ -515,7 +515,7 @@
     ],
     "answer": "Conselhos de Saúde e Conferências de Saúde",
     "explanation": "A Lei 8.142/91 estabelece as Conferências de Saúde (que se reúnem a cada 4 anos para avaliar e propor diretrizes) e os Conselhos de Saúde (instâncias permanentes e deliberativas) como os principais canais de controle social.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "VUNESP",
@@ -529,7 +529,7 @@
     ],
     "answer": "Ministério da Saúde",
     "explanation": "A lei estabelece que a direção é única, sendo exercida no âmbito da União pelo Ministério da Saúde, nos Estados pelo Secretário Estadual de Saúde e nos Municípios pelo Secretário Municipal de Saúde.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "FUNDATEC",
@@ -543,7 +543,7 @@
     ],
     "answer": "O acesso gratuito e irrestrito a qualquer medicamento solicitado pelo usuário.",
     "explanation": "A integralidade não significa acesso irrestrito a tudo, mas sim o acesso ao que é necessário, de forma articulada e contínua. A dispensação de medicamentos segue as listas do RENAME e os protocolos clínicos do SUS.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "IBFC",
@@ -557,7 +557,7 @@
     ],
     "answer": "A garantia de participação do setor privado na elaboração de políticas públicas de saúde.",
     "explanation": "A participação do setor privado é complementar. A formulação de políticas é uma atribuição do Estado, com participação da sociedade através do controle social, e não uma garantia de participação do setor privado na sua elaboração.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "VUNESP",
@@ -571,7 +571,7 @@
     ],
     "answer": "O Acolhimento com Classificação de Risco.",
     "explanation": "O Acolhimento com Classificação de Risco é uma diretriz e um dispositivo da PNH que visa reorganizar o processo de trabalho para garantir o atendimento a todos, priorizando os casos mais graves, com base em critérios clínicos.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "FUNDATEC",
@@ -585,7 +585,7 @@
     ],
     "answer": "Municipal",
     "explanation": "A descentralização do SUS, com \"municipalização\" das ações, atribui ao município a principal responsabilidade pela gestão e execução dos serviços de atenção primária, a porta de entrada do sistema.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "IBFC",
@@ -599,7 +599,7 @@
     ],
     "answer": "Prioridades sanitárias para o país, com metas a serem alcançadas.",
     "explanation": "O Pacto pela Vida estabelecia um conjunto de prioridades (ex: saúde do idoso, controle do câncer, redução da mortalidade infantil) e metas para melhorar a situação de saúde da população brasileira.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "VUNESP",
@@ -613,7 +613,7 @@
     ],
     "answer": "Financiamento exclusivo pela esfera federal.",
     "explanation": "O financiamento do SUS é tripartite, ou seja, de responsabilidade da União, dos Estados e dos Municípios, e não exclusivo da esfera federal. A universalidade não está listada como diretriz na CF/88, mas como princípio.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "FUNDATEC",
@@ -627,7 +627,7 @@
     ],
     "answer": "O aprofundamento da municipalização da gestão da saúde.",
     "explanation": "A NOB 96 foi fundamental para operacionalizar a descentralização, criando diferentes níveis de habilitação para os municípios (gestão incipiente, parcial e plena) e transferindo a eles responsabilidades e recursos.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "IBFC",
@@ -641,7 +641,7 @@
     ],
     "answer": "Instâncias de pactuação e negociação entre os gestores do SUS.",
     "explanation": "A CIB (Bipartite) é um espaço de negociação no âmbito estadual, entre o estado e os municípios. A CIT (Tripartite) é o espaço nacional, entre o Ministério da Saúde, os estados (CONASS) e os municípios (CONASEMS).",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "VUNESP",
@@ -655,7 +655,7 @@
     ],
     "answer": "A principal porta de entrada e centro de comunicação da Rede de Atenção à Saúde.",
     "explanation": "A PNAB caracteriza a Atenção Básica (ou Primária) como a ordenadora do cuidado e a base do sistema, sendo a porta de entrada preferencial do usuário na rede de saúde.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "FUNDATEC",
@@ -669,7 +669,7 @@
     ],
     "answer": "Oferecer mais a quem mais precisa, para diminuir as desigualdades.",
     "explanation": "Equidade é tratar os desiguais de forma desigual na medida de suas desigualdades. É um princípio de justiça social que busca reduzir as disparidades em saúde.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "IBFC",
@@ -683,7 +683,7 @@
     ],
     "answer": "Uma lista que orienta a oferta, prescrição e dispensação de medicamentos no SUS.",
     "explanation": "A RENAME é o instrumento que norteia a Assistência Farmacêutica no SUS, sendo atualizada periodicamente para definir quais medicamentos devem estar disponíveis no sistema para o tratamento das doenças prevalentes.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "VUNESP",
@@ -977,7 +977,7 @@
     ],
     "answer": "Uma estratégia prioritária para expansão e consolidação da Atenção Básica.",
     "explanation": "A PNAB estabelece a ESF como o modelo prioritário para organizar a Atenção Básica no Brasil, visando a reorientação do modelo assistencial com foco na família e no território.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "FUNDATEC",
@@ -991,7 +991,7 @@
     ],
     "answer": "Oferecer suporte técnico-pedagógico e assistencial compartilhado às equipes de referência.",
     "explanation": "O Apoio Matricial (ou matriciamento) visa dar retaguarda especializada (suporte técnico e pedagógico) às equipes da atenção básica, aumentando sua capacidade de resolver problemas e evitando encaminhamentos desnecessários, através de discussões de caso e atendimentos conjuntos.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "VUNESP",
@@ -1005,7 +1005,7 @@
     ],
     "answer": "Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC)",
     "explanation": "A CONITEC é o órgão responsável por assessorar o Ministério da Saúde na incorporação, exclusão ou alteração de tecnologias em saúde no SUS, incluindo medicamentos (que compõem a RENAME) e protocolos clínicos.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "FUNDATEC",
@@ -1061,7 +1061,7 @@
     ],
     "answer": "Um estudo que segue um grupo de indivíduos expostos e não expostos ao longo do tempo para comparar a incidência de uma doença.",
     "explanation": "A característica definidora de um estudo de coorte é o acompanhamento (follow-up) de grupos (coortes) definidos pela exposição a um fator de risco, para observar o desfecho (incidência da doença) ao longo do tempo.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "IBFC",
@@ -1103,7 +1103,7 @@
     ],
     "answer": "Programação Anual de Saúde (PAS)",
     "explanation": "O Plano de Saúde é válido por 4 anos. A Programação Anual de Saúde (PAS) é o instrumento que operacionaliza as intenções do Plano de Saúde para cada ano, definindo as ações, metas e recursos orçamentários.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "VUNESP",
@@ -1159,7 +1159,7 @@
     ],
     "answer": "Ser o centro de comunicação e a ordenadora do cuidado na rede.",
     "explanation": "Na concepção das RAS, a APS (ou Atenção Básica) não é apenas a porta de entrada, mas o centro coordenador do percurso do paciente pela rede, garantindo a longitudinalidade e a continuidade do cuidado em todos os pontos de atenção.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "IBFC",
@@ -1327,7 +1327,7 @@
     ],
     "answer": "O acompanhamento do paciente pela mesma equipe de saúde ao longo do tempo.",
     "explanation": "A longitudinalidade é um atributo essencial da APS e refere-se ao estabelecimento de um vínculo terapêutico duradouro entre a equipe de saúde e os pacientes/famílias ao longo de suas vidas, o que permite um cuidado mais integral e efetivo.",
-    "area": "Legislação do SUS"
+    "area": "Legislação do SUS/Ética Médica"
   },
   {
     "banca": "IBFC",
@@ -4102,7 +4102,7 @@
     ],
     "answer": "3 meses - 12 meses - a partir dos 8 anos",
     "explanation": "Nos protocolos atuais a queiloplastia é realizada por volta dos 3 meses de vida, a palatoplastia entre 12 e 18 meses e o enxerto alveolar entre 8 e 12 anos, antes da erupção do canino permanente.",
-    "area": "Laringologia/Faringologia"
+    "area": "Laringologia e Bucofaringe"
   },
   {
     "banca": "FUNDATEC",
@@ -4214,7 +4214,7 @@
     ],
     "answer": "Apenas I e III.",
     "explanation": "A SAOS está associada a diversas comorbidades cardiovasculares e metabólicas e cursa com sonolência diurna. A polissonografia é exame fundamental para o diagnóstico, contrariando a assertiva II.",
-    "area": "Laringologia/Faringologia"
+    "area": "Laringologia e Bucofaringe"
   },
   {
     "banca": "FUNDATEC",
@@ -4242,7 +4242,7 @@
     ],
     "answer": "Nódulos de pregas vocais",
     "explanation": "Nódulos vocais geram disfonia, mas não costumam causar obstrução laríngea ou estridor, ao contrário das demais opções listadas.",
-    "area": "Laringologia/Faringologia"
+    "area": "Laringologia e Bucofaringe"
   },
   {
     "banca": "FUNDATEC",
@@ -4270,7 +4270,7 @@
     ],
     "answer": "A traqueostomia é uma opção para os casos graves com falha em todos os outros tipos de tratamento.",
     "explanation": "A traqueostomia é considerada terapia de resgate para SAOS grave refratária às demais modalidades, sendo efetiva por desviar completamente a via aérea superior.",
-    "area": "Laringologia/Faringologia"
+    "area": "Laringologia e Bucofaringe"
   },
   {
     "banca": "FUNDATEC",
@@ -4326,7 +4326,7 @@
     ],
     "answer": "A presença de exsudato em amígdalas e linfonodomegalias tem alta sensibilidade e especificidade.",
     "explanation": "Os achados clínicos como exsudato e linfonodos têm baixa especificidade, sendo necessários testes confirmatórios para diagnosticar a faringotonsilite estreptocócica.",
-    "area": "Laringologia/Faringologia"
+    "area": "Laringologia e Bucofaringe"
   },
   {
     "banca": "FUNDATEC",
@@ -4368,7 +4368,7 @@
     ],
     "answer": "Síndrome da apneia obstrutiva do sono.",
     "explanation": "Adenotonsilectomia por SAOS é indicação absoluta. As demais condições são indicações relativas dependentes de gravidade e recorrência.",
-    "area": "Laringologia/Faringologia"
+    "area": "Laringologia e Bucofaringe"
   },
   {
     "banca": "FUNDATEC",
@@ -5726,7 +5726,7 @@
     ],
     "answer": "Síndrome PFAPA e prednisolona.",
     "explanation": "O quadro clínico com febre periódica, estomatite aftosa, faringite e adenite cervical é a descrição clássica da Síndrome PFAPA. O tratamento da crise aguda com uma dose de corticoide (prednisona/prednisolona) geralmente leva à resolução rápida dos sintomas.",
-    "area": "Laringologia/Faringologia"
+    "area": "Laringologia e Bucofaringe"
   },
   {
     "banca": "FUNDATEC",
@@ -5810,7 +5810,7 @@
     ],
     "answer": "Penicilina G ou Amoxicilina em altas doses.",
     "explanation": "O quadro é clássico de actinomicose cervicofacial. O tratamento requer antibioticoterapia prolongada (meses) para penetrar nas lesões fibróticas e nos abscessos. A Penicilina em altas doses é o tratamento de escolha, com a Amoxicilina sendo uma excelente alternativa oral.",
-    "area": "Laringologia/Faringologia"
+    "area": "Laringologia e Bucofaringe"
   },
   {
     "banca": "FUNDATEC",
@@ -5852,7 +5852,7 @@
     ],
     "answer": "5 a 10 eventos por hora.",
     "explanation": "Os critérios pediátricos para SAOS são diferentes dos de adultos. Um IAH entre 1 e 5 é considerado leve. Um IAH entre 5 e 10 é classificado como moderado, e um IAH acima de 10 é considerado grave.",
-    "area": "Laringologia/Faringologia"
+    "area": "Laringologia e Bucofaringe"
   },
   {
     "banca": "VUNESP",
@@ -7504,7 +7504,7 @@
     ],
     "answer": "rouquidão",
     "explanation": "Lesões nas pregas vocais, mesmo as iniciais, alteram a vibração e a regularidade da mucosa, causando disfonia (rouquidão). É o sintoma mais precoce e importante do câncer de laringe glótico e de suas lesões precursoras. Disfagia e odinofagia são sintomas de tumores mais avançados ou em outras localizações (supraglote).",
-    "area": "Laringologia/Faringologia"
+    "area": "Laringologia e Bucofaringe"
   },
   {
     "banca": "IBFC",
@@ -7770,7 +7770,7 @@
     ],
     "answer": "O fonotrauma leva à ruptura da microcirculação na camada superficial da lâmina própria, gerando hematoma e processo inflamatório local que pode ser substituído por fibrose e originar a formação nodular.",
     "explanation": "A fisiopatologia do nódulo vocal envolve microtraumas repetitivos no ponto de maior impacto das pregas vocais. Isso causa edema, hemorragia e inflamação na camada superficial da lâmina própria (espaço de Reinke). Com o tempo, essa inflamação crônica leva a um espessamento e fibrose, formando o nódulo.",
-    "area": "Laringologia/Faringologia"
+    "area": "Laringologia e Bucofaringe"
   },
   {
     "banca": "IBFC",
@@ -7798,6 +7798,6 @@
     ],
     "answer": "leucoplasia",
     "explanation": "Leucoplasia é um termo clínico para uma placa branca que não pode ser removida. Histologicamente, ela pode variar de uma simples hiperqueratose a uma displasia de alto grau ou carcinoma in situ. É a lesão pré-maligna mais comum da laringe.",
-    "area": "Laringologia/Faringologia"
+    "area": "Laringologia e Bucofaringe"
   }
 ]
