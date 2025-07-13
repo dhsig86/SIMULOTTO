@@ -210,7 +210,8 @@ function selectAnswer(e) {
     const selectedBtn = e.target;
     const question = currentQuestions[currentQuestionIndex];
     const correctAnswer = question.answer;
-    const isCorrect = selectedBtn.innerText === correctAnswer;
+    let isCorrect = selectedBtn.innerText === correctAnswer ||
+        flaggedQuestions.includes(question);
 
     if (isCorrect) {
         score++;
