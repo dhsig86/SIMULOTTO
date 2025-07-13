@@ -17,6 +17,7 @@ def main():
         print("questions.json should contain a list")
         sys.exit(1)
 
+    seen_questions = {}
     for idx, item in enumerate(data):
         if not isinstance(item, dict):
             print(f"Item {idx} is not an object")
@@ -25,6 +26,14 @@ def main():
         if missing:
             print(f"Item {idx} is missing keys: {', '.join(sorted(missing))}")
             sys.exit(1)
+        question = item.get("question")
+        if question in seen_questions:
+            first_idx = seen_questions[question]
+            print(
+                f"Duplicate question at index {idx} (previously defined at index {first_idx})"
+            )
+            sys.exit(1)
+        seen_questions[question] = idx
     print("Validation successful.")
 
 if __name__ == "__main__":
