@@ -2505,20 +2505,7 @@
     "explanation": "O rinofima é considerado o estágio final (tipo 3) da rosácea, resultante da hipertrofia crônica das glândulas sebáceas e do tecido conjuntivo do nariz. É muito mais comum em homens.",
     "area": "Sinais Clínicos e Radiológicos"
   },
-  {
-    "banca": "IBFC",
-    "question": "A 'tríade de Currarino', uma rara anomalia congênita, inclui um defeito ósseo sacral, uma massa pré-sacral e qual outra malformação?",
-    "options": [
-      "Malformação cardíaca",
-      "Fenda palatina",
-      "Malformação anorretal",
-      "Atresia de coanas",
-      "Hipoplasia de mandíbula"
-    ],
-    "answer": "Malformação anorretal",
-    "explanation": "A tríade de Currarino é um complexo de malformações caudais que consiste em: 1) agenesia ou hemisacro (defeito sacral em forma de cimitarra - 'scimitar sacrum'), 2) uma massa pré-sacral (geralmente meningocele anterior ou teratoma), e 3) uma malformação anorretal (ex: estenose anal).",
-    "area": "Sinais Clínicos e Radiológicos"
-  },
+  
   {
     "banca": "VUNESP",
     "question": "Na avaliação de um paciente com disfonia, o sinal do 'iceberg' refere-se a uma lesão que, na laringoscopia, parece pequena na superfície da prega vocal, mas que na palpação ou cirurgia se revela muito maior e mais profunda. Isso é típico de qual lesão?",
@@ -2645,20 +2632,7 @@
     "explanation": "O nível hidroaéreo é a interface entre o ar e o fluido (pus ou secreção) acumulado dentro de um seio paranasal. É um dos sinais radiológicos mais comuns de sinusite aguda.",
     "area": "Sinais Clínicos e Radiológicos"
   },
-  {
-    "banca": "VUNESP",
-    "question": "O sinal de 'Roger', um sopro holossistólico rude em borda esternal esquerda baixa, é o achado auscultatório clássico de qual cardiopatia congênita?",
-    "options": [
-      "Comunicação Interatrial (CIA)",
-      "Comunicação Interventricular (CIV) pequena",
-      "Persistência do Canal Arterial (PCA)",
-      "Coartação da Aorta",
-      "Tetralogia de Fallot"
-    ],
-    "answer": "Comunicação Interventricular (CIV) pequena",
-    "explanation": "Em uma CIV pequena e restritiva, há um grande gradiente de pressão entre os ventrículos esquerdo e direito, gerando um fluxo turbulento de alta velocidade durante toda a sístole, o que produz o sopro alto e holossistólico característico (sopro de Roger).",
-    "area": "Sinais Clínicos e Radiológicos"
-  },
+  
   {
     "banca": "FUNDATEC",
     "question": "O achado de uma 'membrana timpânica polimórfica', com áreas de atrofia, placas de timpanoesclerose e retrações, é um sinal otoscópico de:",
