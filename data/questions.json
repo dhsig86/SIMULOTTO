@@ -4398,7 +4398,6 @@
     "explanation": "Na síndrome otite-conjuntivite o patógeno predominante é o Haemophilus influenzae não tipável. Outras assertivas estão incorretas segundo diretrizes atuais.",
     "area": "Otologia"
   },
-  [
   {
     "banca": "FUNDATEC",
     "question": "De acordo com a Lei nº 8.080/90, a articulação das políticas e programas, a cargo das comissões intersetoriais, abrangerá em especial quais áreas?",
@@ -5029,7 +5028,6 @@
     "explanation": "O erro tipo II ocorre quando um estudo falha em detectar uma diferença ou efeito que realmente existe. O poder de um estudo (1 - beta) é a sua capacidade de evitar este tipo de erro. O erro tipo I (alfa) é encontrar uma diferença que não existe.",
     "area": "Legislação do SUS/Ética Médica"
   },
-[
   {
     "banca": "FUNDATEC",
     "question": "De acordo com a Lei nº 8.080/90, a saúde é um direito fundamental do ser humano, devendo o Estado prover as condições indispensáveis ao seu pleno exercício. Qual das seguintes ações NÃO se inclui no campo de atuação do Sistema Único de Saúde (SUS)?",
@@ -5856,7 +5854,6 @@
     "explanation": "Os critérios pediátricos para SAOS são diferentes dos de adultos. Um IAH entre 1 e 5 é considerado leve. Um IAH entre 5 e 10 é classificado como moderado, e um IAH acima de 10 é considerado grave.",
     "area": "Laringologia/Faringologia"
   },
-[
   {
     "banca": "VUNESP",
     "question": "A Taxa de Mortalidade Infantil é um dos indicadores mais sensíveis das condições de vida e saúde de uma população. Como ela é calculada?",
@@ -6571,7 +6568,6 @@
     "explanation": "A curva de Lorenz plota a porcentagem acumulada da população contra a porcentagem acumulada da renda (ou outra variável). Uma linha de 45 graus representa a igualdade perfeita. Quanto mais a curva de Lorenz se afasta desta linha, maior é a desigualdade na distribuição. O Índice de Gini é derivado da área entre a linha de igualdade e a curva de Lorenz.",
     "area": "Indicadores de Saúde/Epidemiologia"
   },
-[
   {
     "banca": "VUNESP",
     "question": "O primeiro arco faríngeo (ou branquial), também conhecido como arco mandibular, é responsável por originar quais das seguintes estruturas?",
@@ -7244,7 +7240,6 @@
     "explanation": "A anastomose de Galeno é uma conexão entre o ramo posterior do nervo laríngeo recorrente e o ramo interno do nervo laríngeo superior. Ela fornece inervação sensitiva cruzada para a mucosa laríngea e tem implicações na recuperação funcional após lesões nervosas.",
     "area": "Anatomia e Fisiologia"
   },
-[
   {
     "banca": "IBFC",
     "question": "De acordo com a Resolução 453/2012, do Conselho Nacional da Saúde, sobre a composição dos Conselhos de Saúde, é INCORRETO afirmar que:",
@@ -7805,14 +7800,4 @@
     "explanation": "Leucoplasia é um termo clínico para uma placa branca que não pode ser removida. Histologicamente, ela pode variar de uma simples hiperqueratose a uma displasia de alto grau ou carcinoma in situ. É a lesão pré-maligna mais comum da laringe.",
     "area": "Laringologia/Faringologia"
   }
-]
-
-]
-
-]
-
-]
-
-]
-
 ]
