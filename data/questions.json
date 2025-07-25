@@ -267,20 +267,6 @@
   },
   {
     "banca": "IBFC",
-    "question": "Qual o tratamento para um hematoma septal não tratado?",
-    "options": [
-      "Drenagem e tamponamento nasal",
-      "Antibioticoterapia isolada",
-      "Observação, pois a resolução é espontânea",
-      "Uso de vasoconstritores tópicos",
-      "Cauterização química"
-    ],
-    "answer": "Drenagem e tamponamento nasal",
-    "explanation": "Um hematoma septal deve ser drenado com urgência para evitar complicações como abscesso septal e necrose da cartilagem, que pode levar a uma deformidade em sela. A drenagem é seguida de tamponamento para evitar a recorrência.",
-    "area": "Rinologia"
-  },
-  {
-    "banca": "IBFC",
     "question": "Professora de 35 anos, não fumante, refere rouquidão que piora ao final do dia, sem outros sintomas. A videolaringoscopia revela lesões nodulares, bilaterais e simétricas no terço médio das pregas vocais. Qual a conduta inicial mais adequada?",
     "options": [
       "Exérese cirúrgica das lesões",
