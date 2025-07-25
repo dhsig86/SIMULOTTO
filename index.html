@@ -56,13 +56,15 @@
                 <p id="progress-info" class="text-sm text-gray-600"></p>
             </form>
 
-            <button id="start-btn" class="bg-[#004AAD] hover:bg-[#003B8A] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
-                Iniciar Simulado
-            </button>
+            <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
+                <button id="start-btn" class="bg-[#004AAD] hover:bg-[#003B8A] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
+                    Iniciar Simulado
+                </button>
 
-            <button id="clear-progress" class="ml-4 bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-3 px-6 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
-                Limpar Progresso
-            </button>
+                <button id="clear-progress" class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-3 px-6 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
+                    Limpar Progresso
+                </button>
+            </div>
 
             <p class="mt-6 text-sm text-gray-500">BY DR. DARIO HART – OTOSIG – Um aplicativo do Hart's Atlas</p>
 
@@ -105,24 +107,26 @@
             <p class="text-2xl text-gray-700 mb-2">Sua pontuação final foi:</p>
             <p id="final-score" class="text-6xl font-bold text-[#0094D1] my-4"></p>
             <p id="score-message" class="text-lg text-gray-600 mb-8"></p>
-            <button id="restart-btn" class="bg-[#004AAD] hover:bg-[#003B8A] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
-                Refazer Simulado
-            </button>
-            <button id="print-btn" class="mt-4 bg-[#0094D1] hover:bg-[#007EAF] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
-                Imprimir Resultado
-            </button>
-            <button id="show-flagged-btn" class="mt-4 bg-yellow-600 hover:bg-yellow-700 text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
-                Ver Questões Anuladas
-            </button>
-            <button id="export-log-btn" class="mt-4 bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
-                Exportar Log
-            </button>
-            <button id="home-btn" class="mt-4 bg-gray-600 hover:bg-gray-700 text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
-                Voltar ao Início
-            </button>
-            <button id="show-wrong-btn" class="mt-4 bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
-                Ver Questões Erradas
-            </button>
+            <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
+                <button id="restart-btn" class="bg-[#004AAD] hover:bg-[#003B8A] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
+                    Refazer Simulado
+                </button>
+                <button id="print-btn" class="mt-4 sm:mt-0 bg-[#0094D1] hover:bg-[#007EAF] text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
+                    Imprimir Resultado
+                </button>
+                <button id="show-flagged-btn" class="mt-4 sm:mt-0 bg-yellow-600 hover:bg-yellow-700 text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
+                    Ver Questões Anuladas
+                </button>
+                <button id="export-log-btn" class="mt-4 sm:mt-0 bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
+                    Exportar Log
+                </button>
+                <button id="home-btn" class="mt-4 sm:mt-0 bg-gray-600 hover:bg-gray-700 text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
+                    Voltar ao Início
+                </button>
+                <button id="show-wrong-btn" class="mt-4 sm:mt-0 bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-8 rounded-lg text-xl shadow-md transition-transform transform hover:scale-105">
+                    Ver Questões Erradas
+                </button>
+            </div>
             <div id="flagged-questions" class="mt-4 text-left hidden"></div>
             <div id="wrong-questions" class="mt-4 text-left hidden"></div>
         </div>
