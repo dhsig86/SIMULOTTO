@@ -2491,7 +2491,6 @@
     "explanation": "O rinofima é considerado o estágio final (tipo 3) da rosácea, resultante da hipertrofia crônica das glândulas sebáceas e do tecido conjuntivo do nariz. É muito mais comum em homens.",
     "area": "Sinais Clínicos e Radiológicos"
   },
-  
   {
     "banca": "VUNESP",
     "question": "Na avaliação de um paciente com disfonia, o sinal do 'iceberg' refere-se a uma lesão que, na laringoscopia, parece pequena na superfície da prega vocal, mas que na palpação ou cirurgia se revela muito maior e mais profunda. Isso é típico de qual lesão?",
@@ -2618,7 +2617,6 @@
     "explanation": "O nível hidroaéreo é a interface entre o ar e o fluido (pus ou secreção) acumulado dentro de um seio paranasal. É um dos sinais radiológicos mais comuns de sinusite aguda.",
     "area": "Sinais Clínicos e Radiológicos"
   },
-  
   {
     "banca": "FUNDATEC",
     "question": "O achado de uma 'membrana timpânica polimórfica', com áreas de atrofia, placas de timpanoesclerose e retrações, é um sinal otoscópico de:",
@@ -2647,7 +2645,6 @@
     "explanation": "A tríade de Hutchinson é o conjunto de manifestações tardias mais clássico da sífilis congênita, refletindo o dano causado pelo Treponema pallidum durante o desenvolvimento fetal.",
     "area": "Sinais Clínicos e Radiológicos"
   },
-  
   {
     "banca": "FUNDATEC",
     "question": "Na avaliação da paralisia facial, o 'sinal das lágrimas de crocodilo' (epífora durante a alimentação) é resultado de qual fenômeno?",
@@ -2662,7 +2659,6 @@
     "explanation": "Após uma lesão do nervo facial, as fibras que deveriam reinervar as glândulas salivares (submandibular/sublingual) podem se desviar e crescer em direção à glândula lacrimal. Assim, o estímulo para salivar (comer) acaba ativando a produção de lágrimas.",
     "area": "Sinais Clínicos e Radiológicos"
   },
-  
   {
     "banca": "VUNESP",
     "question": "Na audiometria tonal, qual padrão é mais classicamente associado à otosclerose em sua fase inicial?",
@@ -4020,9 +4016,8 @@
     "answer": "Perda auditiva condutiva, principalmente em baixas frequências, com reflexos estapedianos presentes.",
     "explanation": "A SCDS cria uma 'terceira janela' que melhora a audição por via óssea e dissipa a energia sonora da via aérea, criando um falso gap aéreo-ósseo (perda condutiva). A presença de reflexos estapedianos normais, que estariam ausentes em uma perda condutiva ossicular, é a chave para o diagnóstico diferencial.",
     "area": "Otoneurologia"
-  }
-,
-{
+  },
+  {
     "banca": "FUNDATEC",
     "question": "Em relação à otosclerose, é correto afirmar que:",
     "options": [
@@ -7758,6 +7753,426 @@
     ],
     "answer": "leucoplasia",
     "explanation": "Leucoplasia é um termo clínico para uma placa branca que não pode ser removida. Histologicamente, ela pode variar de uma simples hiperqueratose a uma displasia de alto grau ou carcinoma in situ. É a lesão pré-maligna mais comum da laringe.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Considerando as lesões benignas da laringe, qual das alternativas apresenta associação etiológica CORRETA?",
+    "options": [
+      "Sulcus vocalis – abuso vocal crônico",
+      "Pólipo vocal – tabagismo passivo",
+      "Edema de Reinke – tabagismo ativo",
+      "Nódulos vocais – refluxo faringolaríngeo isolado",
+      "Cisto laríngeo – infecção viral aguda"
+    ],
+    "answer": "Edema de Reinke – tabagismo ativo",
+    "explanation": "O edema de Reinke está fortemente associado ao tabagismo ativo.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Sobre a disfonia funcional, qual alternativa descreve de forma mais adequada sua fisiopatologia?",
+    "options": [
+      "Diminuição da tensão muscular intrínseca, resultando em fechamento glótico completo e simétrico",
+      "Hipertonia muscular laríngea, alterando a postura e o padrão vibratório das pregas vocais",
+      "Presença de lesões estruturais que reduzem a simetria da onda mucosa",
+      "Hipotonia crônica das pregas vocais associada a presbifonia",
+      "Alteração exclusiva da mucosa laríngea sem envolvimento muscular"
+    ],
+    "answer": "Hipertonia muscular laríngea, alterando a postura e o padrão vibratório das pregas vocais",
+    "explanation": "A disfonia funcional é caracterizada por hipertonia muscular laríngea, alterando postura e vibração.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Entre os fatores de risco para disfonia orgânica, qual é o menos provável?",
+    "options": [
+      "Laringite crônica",
+      "Lesões benignas",
+      "Traumas laríngeos",
+      "Alterações neurológicas",
+      "Hiperatividade muscular extrínseca"
+    ],
+    "answer": "Hiperatividade muscular extrínseca",
+    "explanation": "Hiperatividade muscular extrínseca é típica da disfonia funcional, não orgânica.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Uma criança de 3 anos apresenta febre alta, estridor inspiratório e postura em tripé. Ao exame, há sinais de obstrução de via aérea superior. Qual o diagnóstico mais provável?",
+    "options": [
+      "Crupe viral",
+      "Crupe espasmódico",
+      "Epiglotite",
+      "Papilomatose laríngea",
+      "Laringite crônica"
+    ],
+    "answer": "Epiglotite",
+    "explanation": "Epiglotite apresenta febre alta, estridor e postura em tripé; geralmente causada por H. influenzae tipo B.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "A identificação do “sinal da torre de igreja” na radiografia cervical está mais associada a qual condição?",
+    "options": [
+      "Crupe viral",
+      "Epiglotite",
+      "Laringite estridulosa",
+      "Tuberculose laríngea",
+      "Refluxo faringolaríngeo"
+    ],
+    "answer": "Crupe viral",
+    "explanation": "O “sinal da torre de igreja” é típico do crupe viral.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação ao refluxo faringolaríngeo, qual achado laríngeo é mais característico?",
+    "options": [
+      "Placas brancas aderentes na mucosa glótica",
+      "Pseudo-sulcus e granulomas em região posterior",
+      "Lesões moriformes na supraglote",
+      "Ulceração profunda em aritenoides",
+      "Lesões exofíticas bilaterais na prega vocal"
+    ],
+    "answer": "Pseudo-sulcus e granulomas em região posterior",
+    "explanation": "Pseudo-sulcus e granulomas posteriores são achados clássicos do RFL.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "IBFC",
+    "question": "No câncer de laringe, qual combinação de localização e sintoma é a mais frequentemente observada?",
+    "options": [
+      "Glote – rouquidão persistente",
+      "Subglote – disfagia",
+      "Supraglote – disfonia precoce",
+      "Glote – odinofagia inicial",
+      "Subglote – rouquidão precoce"
+    ],
+    "answer": "Glote – rouquidão persistente",
+    "explanation": "O câncer glótico manifesta-se precocemente com rouquidão persistente.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Na papilomatose laríngea recorrente, qual característica diferencia mais claramente a forma juvenil da forma adulta?",
+    "options": [
+      "Presença de HPV tipo 11",
+      "Recorrência frequente e maior agressividade",
+      "Necessidade de abordagem endoscópica",
+      "Comprometimento bilateral da glote",
+      "Risco de transformação maligna"
+    ],
+    "answer": "Recorrência frequente e maior agressividade",
+    "explanation": "A forma juvenil é mais agressiva e com recidivas mais frequentes.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Considerando a abordagem inicial das neoplasias laríngeas em estágio inicial (T1–T2), qual estratégia é mais adequada?",
+    "options": [
+      "Laringectomia total imediata",
+      "Radioterapia isolada ou cirurgia preservadora",
+      "Quimiorradioterapia de indução",
+      "Observação com seguimento trimestral",
+      "Laringectomia parcial seguida de quimioterapia exclusiva"
+    ],
+    "answer": "Radioterapia isolada ou cirurgia preservadora",
+    "explanation": "Em estágios iniciais, cirurgia preservadora ou radioterapia são opções equivalentes.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Entre as causas infecciosas de laringite crônica, qual combinação agente–doença está CORRETA?",
+    "options": [
+      "Treponema pallidum – sífilis laríngea",
+      "Haemophilus influenzae – laringite fúngica",
+      "Candida albicans – histoplasmose laríngea",
+      "Mycobacterium tuberculosis – hanseníase laríngea",
+      "Paracoccidioides brasiliensis – tuberculose laríngea"
+    ],
+    "answer": "Treponema pallidum – sífilis laríngea",
+    "explanation": "Treponema pallidum causa sífilis laríngea crônica.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Entre as lesões benignas, qual apresenta maior relação com trauma vocal agudo e ruptura vascular subepitelial?",
+    "options": [
+      "Nódulo vocal",
+      "Sulcus vocalis",
+      "Hemorragia de prega vocal",
+      "Cisto congênito",
+      "Edema de Reinke"
+    ],
+    "answer": "Hemorragia de prega vocal",
+    "explanation": "Hemorragia de prega vocal está associada a trauma vocal agudo e ruptura vascular.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação ao diagnóstico da disfonia, qual conduta é mais indicada em paciente com rouquidão há mais de 4 semanas, sem sinais de infecção aguda?",
+    "options": [
+      "Prescrever corticoide oral e reavaliar em 15 dias",
+      "Solicitar laringoscopia e estroboscopia laríngea",
+      "Iniciar fonoterapia empírica sem avaliação laríngea",
+      "Solicitar tomografia de laringe como exame inicial",
+      "Encaminhar para biópsia direta sem avaliação prévia"
+    ],
+    "answer": "Solicitar laringoscopia e estroboscopia laríngea",
+    "explanation": "Laringoscopia e estroboscopia são indicadas em disfonia >4 semanas sem sinais infecciosos.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual das seguintes apresentações clínicas é mais sugestiva de laringite crônica por tuberculose?",
+    "options": [
+      "Rouquidão progressiva associada a perda de peso e tosse produtiva",
+      "Tosse seca, febre baixa e estridor noturno",
+      "Piora súbita da disfonia após esforço vocal",
+      "Disfonia intermitente com pigarro frequente",
+      "Tosse metálica e hemoptise isolada"
+    ],
+    "answer": "Rouquidão progressiva associada a perda de peso e tosse produtiva",
+    "explanation": "Tuberculose laríngea cursa com rouquidão progressiva, sintomas sistêmicos e respiratórios.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "No contexto de crupe espasmódico, é correto afirmar:",
+    "options": [
+      "Apresenta febre alta e toxemia acentuada",
+      "Tem etiologia viral comprovada na maioria dos casos",
+      "Ocorre geralmente em adultos com refluxo grave",
+      "Pode ser precipitado por fatores alérgicos ou refluxo, com início súbito noturno",
+      "Sempre requer antibioticoterapia imediata"
+    ],
+    "answer": "Pode ser precipitado por fatores alérgicos ou refluxo, com início súbito noturno",
+    "explanation": "Crupe espasmódico pode ter gatilho alérgico ou refluxo, com início súbito noturno e sem febre alta.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Qual fator está mais associado à transformação maligna da papilomatose laríngea?",
+    "options": [
+      "Coinfecção por HPV de alto risco oncogênico",
+      "Idade de início precoce",
+      "Necessidade de múltiplas cirurgias",
+      "Obstrução grave de via aérea",
+      "Uso de laser de CO₂ nas ressecções"
+    ],
+    "answer": "Coinfecção por HPV de alto risco oncogênico",
+    "explanation": "Coinfecção por HPV de alto risco aumenta risco de malignização.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "IBFC",
+    "question": "No câncer de laringe, a maior incidência anatômica ocorre:",
+    "options": [
+      "Na glote, com rouquidão como sintoma inicial",
+      "Na supraglote, com disfonia precoce",
+      "Na subglote, com dispneia inicial",
+      "Na supraglote, com odinofagia como primeiro sintoma",
+      "Na glote, com disfagia como queixa principal"
+    ],
+    "answer": "Na glote, com rouquidão como sintoma inicial",
+    "explanation": "Glote é a localização mais frequente; rouquidão é sintoma precoce.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Em um paciente com refluxo faringolaríngeo, a estroboscopia pode revelar:",
+    "options": [
+      "Assimetria vibratória isolada sem lesão estrutural",
+      "Onda mucosa preservada e fechamento glótico completo",
+      "Paresia unilateral de prega vocal",
+      "Lesões ulceradas unilaterais",
+      "Presença de granulomas posteriores e pseudo-sulcus"
+    ],
+    "answer": "Presença de granulomas posteriores e pseudo-sulcus",
+    "explanation": "Granulomas posteriores e pseudo-sulcus são achados típicos no RFL.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A presença de estridor inspiratório, tosse metálica e evolução subaguda é mais compatível com:",
+    "options": [
+      "Crupe viral",
+      "Laringite crônica fúngica",
+      "Neoplasia glótica inicial",
+      "Disfonia funcional",
+      "Papilomatose laríngea adulta"
+    ],
+    "answer": "Crupe viral",
+    "explanation": "Crupe viral apresenta estridor, tosse metálica e evolução subaguda.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual associação agente–doença está CORRETA para infecções fúngicas laríngeas?",
+    "options": [
+      "Histoplasma capsulatum – histoplasmose",
+      "Cryptococcus neoformans – candidíase",
+      "Paracoccidioides brasiliensis – criptococose",
+      "Candida albicans – tuberculose",
+      "Blastomyces dermatitidis – hanseníase"
+    ],
+    "answer": "Histoplasma capsulatum – histoplasmose",
+    "explanation": "Histoplasma capsulatum causa histoplasmose laríngea.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Sobre a conduta cirúrgica nas neoplasias laríngeas avançadas, qual alternativa está correta?",
+    "options": [
+      "Radioterapia isolada é preferida para todos os casos",
+      "Laringectomia total é uma opção em tumores localmente avançados",
+      "Microlaringoscopia é o tratamento de escolha universal",
+      "Cirurgia não é indicada em nenhum cenário",
+      "Quimiorradioterapia não tem papel terapêutico"
+    ],
+    "answer": "Laringectomia total é uma opção em tumores localmente avançados",
+    "explanation": "Laringectomia total pode ser indicada em tumores laríngeos avançados.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Entre as lesões benignas da laringe, qual apresenta pior resposta à fonoterapia isolada, frequentemente necessitando abordagem cirúrgica?",
+    "options": [
+      "Nódulo vocal",
+      "Pólipo inflamatório recente",
+      "Cisto de prega vocal",
+      "Edema de Reinke inicial",
+      "Varizes subepiteliais"
+    ],
+    "answer": "Cisto de prega vocal",
+    "explanation": "Cistos de prega vocal não respondem à fonoterapia isolada e usualmente requerem excisão cirúrgica.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Paciente com disfonia de início insidioso, sem lesões aparentes na laringoscopia rígida, apresenta fadiga vocal, dor laríngea e tensão cervical. O achado mais provável na estroboscopia é:",
+    "options": [
+      "Lesão exofítica unilateral",
+      "Assimetria vibratória com fechamento glótico irregular por hiperatividade muscular",
+      "Redução da amplitude da onda mucosa por infiltração tumoral",
+      "Granuloma posterior de contato",
+      "Paresia unilateral de prega vocal"
+    ],
+    "answer": "Assimetria vibratória com fechamento glótico irregular por hiperatividade muscular",
+    "explanation": "Na disfonia funcional, a estroboscopia mostra assimetria vibratória e fechamento irregular por hiperatividade muscular.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Considerando a laringite crônica de origem infecciosa, qual dos seguintes sinais clínicos auxilia mais na diferenciação entre tuberculose e candidíase laríngea?",
+    "options": [
+      "Disfonia persistente",
+      "Tosse crônica",
+      "Placas brancas aderentes",
+      "Presença de pigarro frequente",
+      "História prévia de refluxo"
+    ],
+    "answer": "Placas brancas aderentes",
+    "explanation": "Placas brancas aderentes são típicas de candidíase, enquanto tuberculose cursa mais com sintomas sistêmicos e infiltrativos.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Em relação ao crupe viral, qual característica clínica o diferencia mais nitidamente do crupe espasmódico?",
+    "options": [
+      "Predominância noturna",
+      "Tosse em latido de cachorro",
+      "Presença de febre baixa",
+      "Estridor inspiratório",
+      "História familiar de alergia"
+    ],
+    "answer": "Presença de febre baixa",
+    "explanation": "O crupe viral costuma apresentar febre baixa, ausente no crupe espasmódico.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual das seguintes afirmações é CORRETA sobre o refluxo faringolaríngeo (RFL)?",
+    "options": [
+      "Está fortemente relacionado à formação de granulomas e pseudo-sulcus na laringe.",
+      "O diagnóstico é feito exclusivamente por pHmetria esofágica.",
+      "Apresenta sintomas idênticos ao refluxo gastroesofágico.",
+      "O tratamento de primeira linha é cirúrgico.",
+      "Não há relação entre RFL e disfonia crônica."
+    ],
+    "answer": "Está fortemente relacionado à formação de granulomas e pseudo-sulcus na laringe.",
+    "explanation": "O RFL está associado a granulomas e pseudo-sulcus; o diagnóstico é clínico, auxiliado por laringoscopia e pHmetria.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Sobre as neoplasias laríngeas, qual das seguintes combinações de localização e manifestação clínica está INCORRETA?",
+    "options": [
+      "Glote – rouquidão precoce",
+      "Supraglote – disfagia e odinofagia",
+      "Subglote – sintomas precoces de dispneia",
+      "Supraglote – linfonodomegalias cervicais frequentes",
+      "Glote – rouquidão como primeiro sintoma"
+    ],
+    "answer": "Subglote – sintomas precoces de dispneia",
+    "explanation": "Subglote geralmente apresenta sintomas tardios, não precoces.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "A papilomatose laríngea recorrente é considerada de evolução mais grave na forma juvenil devido a:",
+    "options": [
+      "Maior incidência de HPV tipo 6",
+      "Elevada taxa de transformação maligna imediata",
+      "Maior frequência de recidivas e risco de obstrução aérea",
+      "Progressão acelerada para carcinoma neuroendócrino",
+      "Inexistência de resposta à cirurgia endoscópica"
+    ],
+    "answer": "Maior frequência de recidivas e risco de obstrução aérea",
+    "explanation": "A forma juvenil é mais grave por recidivas frequentes e risco de obstrução aérea.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "IBFC",
+    "question": "Qual achado estroboscópico é mais sugestivo de carcinoma glótico inicial em comparação com lesão benigna?",
+    "options": [
+      "Redução simétrica da amplitude vibratória",
+      "Alteração focal da onda mucosa com área rígida localizada",
+      "Fechamento glótico completo em repouso",
+      "Hiperatividade muscular supraglótica",
+      "Presença de pseudo-sulcus posterior"
+    ],
+    "answer": "Alteração focal da onda mucosa com área rígida localizada",
+    "explanation": "Alteração focal da onda mucosa com área rígida localizada sugere carcinoma inicial.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "VUNESP",
+    "question": "Em relação às condutas terapêuticas, qual alternativa está correta?",
+    "options": [
+      "As disfonias funcionais nunca necessitam fonoterapia.",
+      "Nódulos vocais respondem melhor à cirurgia imediata do que ao tratamento conservador.",
+      "O tratamento de primeira linha dos pólipos vocais inclui fonoterapia exclusiva.",
+      "Lesões císticas de pregas vocais frequentemente requerem excisão microcirúrgica.",
+      "O edema de Reinke inicial deve sempre ser tratado com microcirurgia."
+    ],
+    "answer": "Lesões císticas de pregas vocais frequentemente requerem excisão microcirúrgica.",
+    "explanation": "Cistos de prega vocal são lesões estruturais que exigem microcirurgia.",
+    "area": "Laringologia e Bucofaringe"
+  },
+  {
+    "banca": "FUNDATEC",
+    "question": "Paciente adulto jovem, com história de disfonia progressiva e múltiplas ressecções laríngeas, apresenta nova recidiva de papilomatose extensa. Além da excisão endoscópica, qual abordagem adjuvante pode ser considerada?",
+    "options": [
+      "Quimioterapia sistêmica com cisplatina",
+      "Vacina contra HPV como prevenção secundária",
+      "Radioterapia laríngea isolada",
+      "Tiroplastia tipo I",
+      "Corticoide intralesional de longa duração"
+    ],
+    "answer": "Vacina contra HPV como prevenção secundária",
+    "explanation": "A vacina anti-HPV pode ser considerada como adjuvante para reduzir recidivas em papilomatose.",
     "area": "Laringologia e Bucofaringe"
   }
 ]
